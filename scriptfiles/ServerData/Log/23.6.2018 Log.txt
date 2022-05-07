@@ -1,0 +1,2145 @@
+0:4:57 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+0:5:12 | 
+0:5:12 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+0:40:13 | Sunucu kapatildi.
+0:40:19 | Sunucu kapatildi.
+0:40:47 | Sunucu kapatildi.
+0:41:0 | Sunucu kapatildi.
+0:41:33 | Sunucu kapatildi.
+0:41:59 | Sunucu kapatildi.
+0:42:14 | Sunucu calistirildi.
+0:42:54 | Xn[Can](6) oyuna girdi [IP: 176.88.9.56]
+0:43:12 | {FFCC00}Xn[Can](6) {FFFFFF}Kamyoncu olarak spawn oldu.
+0:43:18 | TeaMStar(7) oyuna girdi [IP: 78.190.250.195]
+0:43:34 | TeaMStar(7) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+0:57:9 | [ANTIHACK] Þüpheli Xn[Can](6) => Hiz-Hilesi
+0:57:9 | Xn[Can](6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+1:22:20 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+1:22:39 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:37:10 | Sunucu kapatildi.
+1:37:19 | Sunucu calistirildi.
+1:38:4 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+1:38:20 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+1:38:41 | [CMD] TeaMStar(6) => /spanelsifregir
+1:38:56 | TeaMStar SPanel'e giriþ yaptý.
+1:39:2 | [CMD] TeaMStar(6) => /setlevel
+1:39:6 | [CMD] TeaMStar(6) => /setlevel 6 7
+1:39:25 | [CMD] TeaMStar(6) => /admsifre
+1:39:38 | [CMD] TeaMStar(6) => /admsifre 6 hakansametbaba
+1:39:50 | [CMD] TeaMStar(6) => /veh
+1:40:19 | [CMD] TeaMStar(6) => /isyeriolustur
+1:40:25 | [CMD] TeaMStar(6) => /isyeriolustur
+1:40:31 | [CMD] TeaMStar(6) => /isyeriolustur
+1:40:44 | [CMD] TeaMStar(6) => /isyeriolustur
+1:40:55 | [CMD] TeaMStar(6) => /isyeriolustur
+1:41:0 | [CMD] TeaMStar(6) => /isyeriolustur
+1:41:8 | [CMD] TeaMStar(6) => /respawncars
+1:41:13 | [CMD] TeaMStar(6) => /komutlar
+1:41:15 | TeaMStar(6): .
+1:41:16 | [CMD] TeaMStar(6) => /komutlar
+1:41:55 | [CMD] TeaMStar(6) => /cleanupcars
+1:42:13 | [CMD] TeaMStar(6) => /sirketolustur
+1:42:27 | [CMD] TeaMStar(6) => /sirketolustur
+1:44:51 | [CMD] TeaMStar(6) => /sirketbaslat
+1:44:56 | [CMD] TeaMStar(6) => /sirketbaslat 0
+1:44:59 | [CMD] TeaMStar(6) => /sirketver
+1:45:5 | [CMD] TeaMStar(6) => /sirketver 6 0 3
+1:45:10 | Xn[Can](7) oyuna girdi [IP: 176.88.9.4]
+1:45:11 | [CMD] TeaMStar(6) => /sirketparaver
+1:45:15 | [CMD] TeaMStar(6) => /sirketparaver 0 500000000
+1:45:16 | [CMD] TeaMStar(6) => /sirket
+1:45:26 | {FFCC00}Xn[Can](7) Otobus Soforu olarak spawn oldu.
+1:45:28 | {FFCC00}Xn[Can](7) Otobus Soforu olarak spawn oldu.
+1:45:34 | [CMD] TeaMStar(6) => /sirket
+1:45:39 | [CMD] TeaMStar(6) => /sirket
+1:46:34 | [CMD] Xn[Can](7) => /mp4
+1:46:36 | [CMD] Xn[Can](7) => /mp3
+1:46:40 | [CMD] TeaMStar(6) => /sirketdavet
+1:46:43 | [CMD] TeaMStar(6) => /sirket
+1:46:47 | [CMD] TeaMStar(6) => /sirket
+1:46:51 | [CMD] TeaMStar(6) => /davetet
+1:46:53 | [CMD] TeaMStar(6) => /davet
+1:46:55 | [CMD] TeaMStar(6) => /sdavet
+1:47:1 | [CMD] TeaMStar(6) => /davetet
+1:47:4 | [CMD] TeaMStar(6) => /sirketdavet
+1:47:6 | [CMD] TeaMStar(6) => /sirketuye
+1:47:8 | [CMD] TeaMStar(6) => /uyeal
+1:47:10 | [CMD] TeaMStar(6) => /uyeal 7
+1:47:19 | Xn[Can](7) oyundan cIktI (Hata/Crash) (IP: 176.88.9.4)
+1:47:19 | [CMD] TeaMStar(6) => /fulltamir
+1:47:26 | [CMD] TeaMStar(6) => /respawncars
+1:47:39 | [CMD] TeaMStar(6) => /spar
+1:47:41 | [CMD] TeaMStar(6) => /spark
+1:47:45 | [CMD] TeaMStar(6) => /spark
+1:47:46 | [CMD] TeaMStar(6) => /cpark
+1:47:50 | [CMD] TeaMStar(6) => /npark
+1:47:50 | [CMD] TeaMStar(6) => /park
+1:47:53 | [CMD] TeaMStar(6) => /sirketpark
+1:47:56 | [CMD] TeaMStar(6) => /apar
+1:47:59 | [CMD] TeaMStar(6) => /apark
+1:48:1 | [CMD] TeaMStar(6) => /sparkk
+1:48:3 | [CMD] TeaMStar(6) => /spark
+1:48:4 | [CMD] TeaMStar(6) => /spark
+1:48:6 | [CMD] TeaMStar(6) => /komutlar
+1:48:29 | [CMD] TeaMStar(6) => /komutlar
+1:48:57 | [CMD] TeaMStar(6) => /sapark
+1:49:3 | [CMD] TeaMStar(6) => /sirket
+1:49:46 | [CMD] TeaMStar(6) => /sapark
+1:50:24 | [CMD] TeaMStar(6) => /sapark
+1:50:29 | [CMD] TeaMStar(6) => /sirket
+1:51:0 | [CMD] TeaMStar(6) => /sapark
+1:51:8 | [CMD] TeaMStar(6) => /sarespawncars
+1:51:11 | [CMD] TeaMStar(6) => /srespawncars
+1:51:16 | [CMD] TeaMStar(6) => /sirket
+1:51:31 | [CMD] TeaMStar(6) => /srespawncars
+1:51:52 | [CMD] TeaMStar(6) => /tamir
+1:51:54 | [CMD] TeaMStar(6) => /sapark
+1:51:56 | [CMD] TeaMStar(6) => /apara 10000000
+1:52:4 | [CMD] TeaMStar(6) => /srespawncars
+1:52:28 | [CMD] TeaMStar(6) => /sapark
+1:52:32 | [CMD] TeaMStar(6) => /sapark
+1:52:35 | AnnaNicole(7) oyuna girdi [IP: 78.190.179.165]
+1:52:37 | [CMD] TeaMStar(6) => /sirket
+1:52:47 | {FFCC00}AnnaNicole(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:52:50 | [CMD] TeaMStar(6) => /srespawncars
+1:52:52 | AnnaNicole(7): sa
+1:52:58 | [CMD] TeaMStar(6) => /srespawncars
+1:53:6 | [CMD] TeaMStar(6) => /sapark
+1:53:8 | [CMD] TeaMStar(6) => /as
+1:53:21 | AnnaNicole(7): nezaman açýldý
+1:53:28 | TeaMStar(6): Dayený freeroamdýk
+1:53:31 | TeaMStar(6): meslege geçtik
+1:53:45 | AnnaNicole(7): anladým kardeþ baþarýlarýnýn devamýný dilerim
+1:53:45 | TeaMStar(6): gecen sene de vardýk
+1:53:50 | TeaMStar(6): Teþþekürler
+1:53:57 | [CMD] TeaMStar(6) => /sapark
+1:54:10 | AnnaNicole(7): ilk oyuncusu ben miyim :D
+1:54:14 | TeaMStar(6): Evet
+1:54:15 | [CMD] TeaMStar(6) => /vipver
+1:54:18 | [CMD] TeaMStar(6) => /vipyap
+1:54:21 | [CMD] TeaMStar(6) => /setvip
+1:54:23 | AnnaNicole, 1 gün VIP Oldu
+1:54:23 | [CMD] TeaMStar(6) => /setvip 7 1
+1:54:30 | AnnaNicole, 3 gün VIP Oldu
+1:54:30 | [CMD] TeaMStar(6) => /setvip 7 3
+1:54:30 | AnnaNicole(7): hadee :D
+1:54:37 | AnnaNicole(7): eyvallah adamsýn
+1:54:38 | [CMD] TeaMStar(6) => /sapark
+1:54:43 | AnnaNicole(7): ne gibi yararlarý var výp ýn
+1:54:50 | TeaMStar(6): yarýn aksam gelenlere kadar veririm 3 gün acýlýsa özel
+1:54:51 | TeaMStar(6): :/vipbilgi
+1:54:55 | [CMD] TeaMStar(6) => /srespawncars
+1:54:56 | [CMD] AnnaNicole(7) => /vipbilgi
+1:55:1 | [CMD] AnnaNicole(7) => /vipbilgi
+1:55:5 | [CMD] TeaMStar(6) => /setscore
+1:55:8 | [CMD] TeaMStar(6) => /setscore 6 100000
+1:55:12 | TeaMStar(6): :/kurallar yaz kabul et
+1:55:23 | [CMD] AnnaNicole(7) => /kurallar
+1:55:27 | AnnaNicole(7): heh
+1:55:29 | AnnaNicole(7): para geldi
+1:55:33 | [CMD] AnnaNicole(7) => /balon
+1:55:51 | [CMD] TeaMStar(6) => /sapark
+1:55:54 | [CMD] TeaMStar(6) => /srespawncars
+1:55:56 | AnnaNicole(7): ben hep farklý serverlarda oynadým
+1:56:1 | [CMD] AnnaNicole(7) => /balýn
+1:56:5 | [CMD] AnnaNicole(7) => /balon
+1:56:28 | [CMD] TeaMStar(6) => /sac
+1:56:34 | [CMD] TeaMStar(6) => /sapark
+1:56:35 | AnnaNicole(7): balon sistemide güzel olmuþ
+1:56:44 | [CMD] TeaMStar(6) => /sirket
+1:57:1 | AnnaNicole(7): fakat bu hileyle de açabilmesini saðlamazmý jetpack ý
+1:57:11 | TeaMStar(6): Nasýl yani
+1:57:16 | [CMD] TeaMStar(6) => /sapark
+1:57:23 | [CMD] TeaMStar(6) => /sirket
+1:57:24 | AnnaNicole(7):  /balon yapýyosun jetpack geliyor ya balonla beraber
+1:57:31 | TeaMStar(6): evet
+1:57:38 | AnnaNicole(7): iþte buda sistemi yanýltmazmý
+1:57:42 | AnnaNicole(7): hile korumasýný
+1:57:49 | TeaMStar(6): no fark edilir merak etme
+1:57:49 | AnnaNicole(7): hileyle sobeitle açsalar mesela 
+1:57:50 | [CMD] TeaMStar(6) => /sapark
+1:57:57 | TeaMStar(6): sistem report lar biz bakýnca
+1:57:59 | TeaMStar(6): anlýyoruz zaten
+1:58:2 | [CMD] TeaMStar(6) => /sirket
+1:58:8 | [CMD] TeaMStar(6) => /odualll
+1:58:8 | AnnaNicole(7): iyi güzelmiþ
+1:58:10 | [CMD] TeaMStar(6) => /odul
+1:58:11 | AnnaNicole(7): elinize saðlýk
+1:58:11 | [CMD] TeaMStar(6) => /odul 7
+1:58:28 | AnnaNicole(7): kardeþ þimdi yalan konuþmayacam bende hile yüklü caným sýkýldýkça farklý sw lerde açýyorum geziyorum
+1:58:31 | AnnaNicole(7): airbreakle falan
+1:58:31 | [CMD] TeaMStar(6) => /sapark
+1:58:34 | AnnaNicole(7): açabilirmiyim izninle
+1:58:36 | AnnaNicole(7): kicklemezse
+1:58:39 | TeaMStar(6): dene bakalým 
+1:58:41 | [CMD] TeaMStar(6) => /sarki
+1:58:43 | [CMD] TeaMStar(6) => /sirket
+1:58:43 | AnnaNicole(7): hayýr dersen normal gezicem
+1:58:51 | TeaMStar(6): yok bi dene bakayým bende sistem
+1:58:54 | TeaMStar(6): birþey yapýyormu
+1:58:57 | TeaMStar(6): ama normalde açma
+1:58:58 | AnnaNicole(7): bkle gelicem yanýna
+1:58:59 | [CMD] TeaMStar(6) => /sirket
+1:59:18 | TeaMStar(6): report geliyor
+1:59:24 | AnnaNicole(7): kicklemiyor
+1:59:25 | AnnaNicole(7): yani
+1:59:29 | TeaMStar(6): bize geliyor report
+1:59:37 | AnnaNicole(7): anladým kardeþ
+1:59:40 | [CMD] TeaMStar(6) => /spark
+1:59:44 | TeaMStar(6): kicklerse jetpack de kickler
+1:59:47 | TeaMStar(6): onun için böyle ayarlandý
+1:59:48 | AnnaNicole(7): iyi güzel ya ben caným sýkýldýkça gelirim buraya oynarým týr falan sürerim
+1:59:49 | [CMD] TeaMStar(6) => /sapark
+1:59:54 | TeaMStar(6): okey
+1:59:58 | AnnaNicole(7): silah hilesi kicklermi
+1:59:59 | [CMD] TeaMStar(6) => /onban
+2:0:3 | TeaMStar(6): evet 
+2:0:12 | AnnaNicole(7): atýyor burasý :D
+2:0:18 | TeaMStar(6): sirketden olman lazým
+2:0:23 | [CMD] TeaMStar(6) => /sapark
+2:0:29 | [CMD] TeaMStar(6) => /sirket
+2:0:33 | AnnaNicole(7): gel bak namaz kýlýyom :QWE
+2:0:49 | TeaMStar(6): Tamam daha açma airbreak
+2:0:52 | TeaMStar(6): sayfa doldu :D
+2:1:0 | AnnaNicole(7): tamamdýr
+2:1:2 | AnnaNicole(7): :D
+2:1:12 | AnnaNicole(7): mapleri kendinmi yaptýn
+2:1:16 | AnnaNicole(7): yada ortaðýn varmý
+2:1:17 | [CMD] TeaMStar(6) => /sapark
+2:1:19 | TeaMStar(6): no baþkasý 
+2:1:22 | [CMD] TeaMStar(6) => /yonetim
+2:1:29 | [CMD] TeaMStar(6) => /credits
+2:1:29 | AnnaNicole(7): anladým
+2:1:41 | AnnaNicole(7): bu tren 
+2:1:41 | TeaMStar(6): bu aslýnda normalde romania modu 
+2:1:44 | AnnaNicole(7): sfls ne
+2:1:47 | TeaMStar(6): türkce cevirilmesi
+2:1:53 | TeaMStar(6): sf - ls gidebilrisn trenle
+2:1:55 | TeaMStar(6): bilet aalarak
+2:2:1 | [CMD] TeaMStar(6) => /cevir
+2:2:3 | AnnaNicole(7): baya iyi düþünülmüþ ha
+2:2:14 | [CMD] TeaMStar(6) => /sapark
+2:2:25 | AnnaNicole(7): bankaya gideyim 2 dakka fly açýcam
+2:2:28 | [CMD] TeaMStar(6) => /setvip
+2:2:31 | TeaMStar, 31 gün VIP Oldu
+2:2:31 | [CMD] TeaMStar(6) => /setvip 6 31
+2:2:51 | TeaMStar(6): www.canakkalefr.com alýmlar orda katýlmak istersen
+2:2:55 | [CMD] TeaMStar(6) => /sapark
+2:2:55 | AnnaNicole(7): banka hastanenin binasý mý
+2:3:3 | TeaMStar(6): Hangi banka bekle geliyom
+2:3:4 | [CMD] TeaMStar(6) => /goto
+2:3:6 | [CMD] TeaMStar(6) => /goto 7
+2:3:17 | AnnaNicole(7): california yý silin isterseniz
+2:3:17 | TeaMStar(6): yok be banka bura :D
+2:3:30 | [CMD] TeaMStar(6) => /isyeriolustur
+2:3:39 | [CMD] TeaMStar(6) => /vskin
+2:3:40 | [CMD] TeaMStar(6) => /vskin 12
+2:3:41 | AnnaNicole(7): california yý silin bence kanka bi sw nin þeyi zannederler
+2:3:42 | [CMD] TeaMStar(6) => /myskin 12
+2:3:46 | [CMD] TeaMStar(6) => /myskin 15
+2:3:48 | [CMD] TeaMStar(6) => /myskin 19
+2:3:51 | TeaMStar(6): okey
+2:3:57 | [CMD] TeaMStar(6) => /sirket
+2:4:2 | [CMD] TeaMStar(6) => /rescue
+2:4:8 | [CMD] TeaMStar(6) => /sirket
+2:4:8 | AnnaNicole(7): týrcýlar mekaný diye bi sw vardý
+2:4:11 | AnnaNicole(7): o kapandý heralde
+2:4:17 | AnnaNicole(7): ordakiler buyraya gelir
+2:4:21 | AnnaNicole(7): oyuncu sayýn artar
+2:4:23 | TeaMStar(6): yok suan var hosted yok
+2:4:29 | TeaMStar(6): orda kurucuydum eskiden
+2:4:32 | TeaMStar(6): Dha dogrusu tiger
+2:4:35 | TeaMStar(6): kurucuydu
+2:4:39 | TeaMStar(6): :/credits
+2:4:53 | [CMD] AnnaNicole(7) => /credits
+2:5:0 | [CMD] TeaMStar(6) => /sapark
+2:5:5 | AnnaNicole(7): burasý osw mila
+2:5:12 | AnnaNicole(7): burasý o sw mi la
+2:5:21 | TeaMStar(6): no o nun vds var sadece
+2:5:27 | AnnaNicole(7): hee
+2:5:28 | TeaMStar(6): oda giden vvarmý bilmiyrum
+2:5:29 | AnnaNicole(7): makina
+2:5:46 | [CMD] TeaMStar(6) => /sapark
+2:6:11 | AnnaNicole(7): para hilesi olmaz dimi burda vds ye falan baðlýdýr
+2:6:18 | TeaMStar(6): no 
+2:6:19 | TeaMStar(6): .
+2:7:17 | [CMD] TeaMStar(6) => /evolustur
+2:7:24 | [CMD] TeaMStar(6) => /komutlar
+2:8:13 | [CMD] TeaMStar(6) => /evolustur
+2:8:14 | [CMD] TeaMStar(6) => /evolustur.
+2:8:22 | [CMD] TeaMStar(6) => /evyap
+2:8:23 | [CMD] TeaMStar(6) => /evsil
+2:8:26 | [CMD] TeaMStar(6) => /evolustur
+2:8:26 | [CMD] AnnaNicole(7) => //bot_connect deliii
+2:8:29 | [CMD] TeaMStar(6) => /givehome
+2:8:32 | [CMD] TeaMStar(6) => /givehouse
+2:8:34 | [CMD] TeaMStar(6) => /house
+2:8:36 | [CMD] TeaMStar(6) => /home
+2:8:37 | [CMD] TeaMStar(6) => /ev
+2:8:40 | [CMD] TeaMStar(6) => /evegit
+2:8:44 | [CMD] TeaMStar(6) => /asilah
+2:8:49 | [CMD] TeaMStar(6) => /asilah
+2:9:13 | AnnaNicole(7): hiç beklemiyo
+2:9:18 | AnnaNicole(7): para hilesi direk azalýyo
+2:9:36 | TeaMStar(6): Zaetn almazda
+2:9:53 | [ANTIHACK] Þüpheli AnnaNicole(7) => Jetpack-Hilesi
+2:10:7 | TeaMStar(6): jetpack hlilesi ?
+2:10:10 | TeaMStar(6): :D
+2:10:13 | AnnaNicole(7): geliyo
+2:10:16 | AnnaNicole(7): 2 saniye duruyo
+2:10:19 | AnnaNicole(7): gidiyo sonra :D
+2:10:31 | TeaMStar(6): hileleri deneme D:
+2:10:33 | [CMD] TeaMStar(6) => /respawncars
+2:10:43 | AnnaNicole(7): tamam denemem
+2:10:46 | [CMD] TeaMStar(6) => /cantazele
+2:10:50 | TeaMStar(6): git týr felan sür
+2:10:54 | [CMD] TeaMStar(6) => /vehicle
+2:10:54 | AnnaNicole(7): :QWE
+2:10:58 | AnnaNicole(7): þu trene bakcam
+2:11:11 | AnnaNicole(7): bilet nerdenalýyoz
+2:11:15 | TeaMStar(6): gel
+2:11:27 | [CMD] TeaMStar(6) => /bilet
+2:11:31 | [CMD] TeaMStar(6) => /bilet sf ls
+2:11:35 | [CMD] TeaMStar(6) => /bilet sf-ls
+2:11:39 | TeaMStar(6):    /bilet sf-ls
+2:11:47 | AnnaNicole(7): nasýl kapanýyo la telefon
+2:11:52 | TeaMStar(6): atla gel
+2:11:55 | TeaMStar(6): kalkýyor
+2:12:8 | [CMD] AnnaNicole(7) => /bilet sf-ls
+2:12:13 | TeaMStar(6): cabuk 
+2:12:20 | TeaMStar(6): o hile kullanma
+2:12:22 | TeaMStar(6): son uyarým
+2:12:26 | AnnaNicole(7): ulaþam
+2:12:27 | AnnaNicole(7): aniden
+2:12:28 | AnnaNicole(7): diye
+2:12:33 | AnnaNicole(7): kaçýyo diyon napam :QWE
+2:12:34 | TeaMStar(6): Tamam daha görmiyim 
+2:12:49 | TeaMStar(6): Normalde hile yok diye düþün 
+2:12:59 | TeaMStar(6): nromaldede dikkat et adminler felan asla acýmaz bizimkiler söyliym
+2:13:0 | AnnaNicole(7): yapmýcam dediydim zaten
+2:13:2 | AnnaNicole(7): fakat
+2:13:5 | AnnaNicole(7): kaçýyo dedin
+2:13:7 | [66]RagnaraGG(8) oyuna girdi [IP: 88.230.25.206]
+2:13:7 | AnnaNicole(7): yetiþem diye
+2:13:16 | TeaMStar(6): yetiþrisin merak etme
+2:13:18 | TeaMStar(6): treni durduruuz
+2:13:49 | [CMD] TeaMStar(6) => /setlevel
+2:13:52 | [CMD] TeaMStar(6) => /setlevel 8 7
+2:13:57 | [CMD] TeaMStar(6) => /admsifre
+2:14:1 | [CMD] TeaMStar(6) => /admsifre 8 445566
+2:14:7 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:14:14 | [CMD] TeaMStar(6) => /setscore
+2:14:17 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:14:18 | [CMD] TeaMStar(6) => /setscore 8 60000
+2:14:19 | [CMD] TeaMStar(6) => /setscore 8 600000
+2:14:24 | TeaMStar(6): Rotasiz
+2:14:33 | TeaMStar(6): Forumda freeeroam yazýyr meslek yap onu
+2:14:37 | [CMD] [66]RagnaraGG(8) => /admsifre 8 sk010416+
+2:14:42 | TeaMStar(6): sifrenide wtp den attým 
+2:14:42 | [66]RagnaraGG(8): evet
+2:14:45 | [CMD] TeaMStar(6) => /a admin
+2:14:48 | [CMD] TeaMStar(6) => /admins
+2:14:51 | [66]RagnaraGG(8): deðiþtirdim bile
+2:14:54 | TeaMStar(6): tamamdýr
+2:15:2 | AnnaNicole(7) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+2:15:10 | [CMD] [66]RagnaraGG(8) => /setscore 8 1000
+2:15:13 | [CMD] TeaMStar(6) => /uyeal
+2:15:17 | [CMD] TeaMStar(6) => /uyeal 8
+2:15:22 | [CMD] TeaMStar(6) => /sirket
+2:15:23 | [CMD] [66]RagnaraGG(8) => /rescue
+2:15:39 | TeaMStar(6): Eski günlerdeki gibi
+2:15:42 | TeaMStar(6): :Dç
+2:15:43 | [66]RagnaraGG(8): aynen :D 
+2:15:52 | [66]RagnaraGG(8): ama ben komutlarý unuttum :D 
+2:15:56 | TeaMStar(6): :/komutlar
+2:16:4 | [66]RagnaraGG(8): admin komutlarýný la :D 
+2:16:9 | TeaMStar(6): bende su ev olusturma komut deiþmiþ
+2:16:12 | TeaMStar(6): bakam ne olmuþ
+2:16:27 | [66]RagnaraGG(8): bide iþ yeri ve ev açma komutu neydi diyecektim tam :D 
+2:16:49 | [CMD] [66]RagnaraGG(8) => /meslek
+2:16:51 | {FFCC00}[66]RagnaraGG(8) Otobus Soforu olarak spawn oldu.
+2:16:54 | [CMD] [66]RagnaraGG(8) => /rescue
+2:17:19 | [CMD] [66]RagnaraGG(8) => /meslek
+2:17:22 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Pilot olarak spawn oldu.
+2:17:26 | [CMD] [66]RagnaraGG(8) => /rescue
+2:17:52 | [CMD] [66]RagnaraGG(8) => /rescue
+2:17:56 | [CMD] [66]RagnaraGG(8) => /meslek
+2:18:8 | [CMD] [66]RagnaraGG(8) => /setscore 8 6000
+2:18:20 | [CMD] [66]RagnaraGG(8) => /meslek
+2:18:23 | [66]RagnaraGG(8) Mafya olarak spawn oldu.
+2:18:28 | [CMD] [66]RagnaraGG(8) => /rescue
+2:18:48 | [CMD] [66]RagnaraGG(8) => /meslek
+2:18:52 | [66]RagnaraGG(8) Gemici olarak spawn oldu.
+2:18:55 | [CMD] [66]RagnaraGG(8) => /rescue
+2:19:23 | [CMD] [66]RagnaraGG(8) => /aracgetir
+2:19:27 | [CMD] [66]RagnaraGG(8) => /agetir
+2:19:29 | [CMD] [66]RagnaraGG(8) => /getcar
+2:19:35 | [CMD] [66]RagnaraGG(8) => /arac
+2:19:40 | [CMD] [66]RagnaraGG(8) => /araba
+2:19:58 | [CMD] [66]RagnaraGG(8) => /meslek
+2:19:58 | Kamran_AKT(7) oyuna girdi [IP: 194.135.167.79]
+2:20:4 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Dolmuþ Soforu olarak spawn oldu.
+2:20:7 | [CMD] [66]RagnaraGG(8) => /rescue
+2:20:13 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:20:15 | TeaMStar(6): Tamam buldum
+2:20:19 | Kamran_AKT(7): vaay
+2:20:23 | TeaMStar(6): knk evi nereye oluþturak d.
+2:20:23 | [66]RagnaraGG(8): neymiþ
+2:20:24 | Kamran_AKT(7): hakanim hayirli olsunn
+2:20:28 | TeaMStar(6): sagol
+2:20:30 | [CMD] TeaMStar(6) => /a eviolustur
+2:20:35 | [CMD] [66]RagnaraGG(8) => /komutlar
+2:20:39 | [CMD] Kamran_AKT(7) => /admins
+2:20:41 | TeaMStar(6): Kim korkar bu sarkiya bayýlýyom la
+2:20:50 | TeaMStar(6): Eski günümüzdeki gibi yarýn convoy yapak
+2:20:57 | [CMD] TeaMStar(6) => /fly
+2:20:59 | [CMD] Kamran_AKT(7) => /aracgetir
+2:21:1 | [CMD] Kamran_AKT(7) => /adcmds
+2:21:5 | [CMD] Kamran_AKT(7) => /tir
+2:21:19 | [CMD] [66]RagnaraGG(8) => /car
+2:21:28 | [CMD] [66]RagnaraGG(8) => /car chee 0 0
+2:21:40 | TeaMStar(6): kamran
+2:21:42 | TeaMStar(6): :/kurallar de kabul et
+2:21:44 | [CMD] TeaMStar(6) => /setvip
+2:21:47 | Kamran_AKT, 3 gün VIP Oldu
+2:21:47 | [CMD] TeaMStar(6) => /setvip 7 3
+2:22:1 | [66]RagnaraGG(8): vip verme komutu neydi :D 
+2:22:4 | [66]RagnaraGG(8): kendime vercem :D 
+2:22:5 | TeaMStar(6): :/setvip
+2:22:14 | [66]RagnaraGG, 365 gün VIP Oldu
+2:22:14 | [CMD] [66]RagnaraGG(8) => /setvip 8 365
+2:22:18 | TeaMStar(6): :D
+2:22:19 | [CMD] Kamran_AKT(7) => /setvip
+2:22:22 | Kamran_AKT(7): yee
+2:22:25 | Kamran_AKT(7): beleþþ vip
+2:22:35 | Kamran_AKT(7): layiklik elden gidiyeah
+2:22:41 | Kamran_AKT(7): týrcýlýk elden gidiyeah 
+2:22:41 | TeaMStar(6): ragnar
+2:22:44 | [66]RagnaraGG(8): evet
+2:22:44 | [CMD] Kamran_AKT(7) => /vipcmds
+2:22:45 | Logasdo(9) oyuna girdi [IP: 78.190.116.142]
+2:22:46 | [CMD] Kamran_AKT(7) => /yardim
+2:22:48 | TeaMStar(6): ev ve isyerleri olustursana
+2:22:54 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:22:57 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:22:59 | [CMD] TeaMStar(6) => /eviolustur
+2:23:1 | {FFCC00}Logasdo(9) Otobus Soforu olarak spawn oldu.
+2:23:2 | [66]RagnaraGG(8): bak þimdiden söylüyorum buraya benim dýþýmda ev açmýyacaksýnýz
+2:23:7 | TeaMStar(6): :D
+2:23:9 | [CMD] TeaMStar(6) => /eviolsutur
+2:23:10 | [CMD] [66]RagnaraGG(8) => /eviolustur
+2:23:12 | Logasdo(9): Selamlar.
+2:23:18 | Logasdo(9): Mod Tester alýmý var mý
+2:23:22 | [66]RagnaraGG(8): bu komut için yetkiniz yok diyor hakan
+2:23:24 | [CMD] Kamran_AKT(7) => /ceteler
+2:23:25 | [66]RagnaraGG(8): açamýyom
+2:23:25 | [CMD] Kamran_AKT(7) => /birlik
+2:23:27 | [CMD] Kamran_AKT(7) => /birlikler
+2:23:29 | [CMD] [66]RagnaraGG(8) => /panel
+2:23:33 | [CMD] [66]RagnaraGG(8) => /cpanel
+2:23:39 | TeaMStar(6): Forumda alýmlar
+2:23:41 | [CMD] TeaMStar(6) => /setlevel
+2:23:42 | [66]RagnaraGG(8): hakan
+2:23:43 | [CMD] TeaMStar(6) => /setlevel 6 6
+2:23:45 | [CMD] TeaMStar(6) => /eviolustur
+2:23:47 | TeaMStar(6): efendim
+2:23:49 | [CMD] TeaMStar(6) => /setlevel
+2:23:54 | [CMD] Kamran_AKT(7) => /work
+2:23:54 | [CMD] TeaMStar(6) => /setlevel 6 7
+2:23:56 | TeaMStar(6): .
+2:23:56 | [66]RagnaraGG(8): ev açamýyom
+2:24:0 | [66]RagnaraGG(8): yetki yok diyor
+2:24:2 | TeaMStar(6): biliyom ona bakýyom :d
+2:24:3 | [CMD] Kamran_AKT(7) => /evmenu
+2:24:5 | [CMD] TeaMStar(6) => /eviolustur
+2:24:7 | [CMD] Kamran_AKT(7) => /paraver
+2:24:12 | Kamran_AKT(7): hakan
+2:24:12 | Logasdo(9): Coder alýmýnýz var mý daha dogrusu
+2:24:12 | [66]RagnaraGG(8): sen bana wp den bi rcon at bakim
+2:24:16 | Logasdo(9): C++ ile C# biliyorumç.
+2:24:18 | Logasdo(9): C++ ile C# biliyorum.
+2:24:28 | [CMD] [66]RagnaraGG(8) => /evmenu
+2:24:31 | [CMD] [66]RagnaraGG(8) => /evler
+2:24:35 | [CMD] [66]RagnaraGG(8) => /myhýuse
+2:24:37 | [CMD] [66]RagnaraGG(8) => /myhouse
+2:24:39 | [CMD] [66]RagnaraGG(8) => /myhouses
+2:24:42 | Logasdo(9): Ýyi oyunlar
+2:24:45 | Kamran_AKT(7): sanada
+2:24:46 | TeaMStar(6): neyse tamam onu gece yaparým knk
+2:24:47 | [CMD] [66]RagnaraGG(8) => /gohome
+2:24:50 | TeaMStar(6): Anladým nedneini
+2:24:50 | Logasdo(9) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:24:52 | TeaMStar(6): gece halledem onu 
+2:24:58 | TeaMStar(6): suan yoruldum :D
+2:24:59 | [66]RagnaraGG(8): tamam sen rcon at bana 
+2:25:1 | TeaMStar(6): mysql sýfýrdan yaptým
+2:25:2 | [66]RagnaraGG(8): wp den
+2:25:6 | TeaMStar(6): rconu naacan ?
+2:25:6 | TeaMStar(6): :d
+2:25:9 | [66]RagnaraGG(8): ev açcam
+2:25:10 | [66]RagnaraGG(8): :D
+2:25:13 | [66]RagnaraGG(8): kendime
+2:25:14 | TeaMStar(6): rconla ev açýlmýyor bebegim
+2:25:16 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:25:19 | [CMD] Kamran_AKT(7) => /evolustur
+2:25:22 | [66]RagnaraGG(8): gel sen aç o zaman buraya
+2:25:22 | TeaMStar(6): Ayarlýycam gece
+2:25:25 | [CMD] [66]RagnaraGG(8) => /get 6
+2:25:25 | [CMD] Kamran_AKT(7) => /evac
+2:25:26 | [CMD] TeaMStar(6) => /eviolustur
+2:25:29 | [LOCAL]TeaMStar(6): bende acamýyom
+2:25:29 | [CMD] TeaMStar(6) => /l bende acamýyom
+2:25:30 | [LOCAL]TeaMStar(6): diyom
+2:25:30 | [CMD] TeaMStar(6) => /l diyom
+2:25:31 | TeaMStar(6): d
+2:25:35 | Kamran_AKT(7): hakan yenilere vipmi veriyon
+2:25:39 | TeaMStar(6): he
+2:25:39 | Kamran_AKT(7): shake beatamý
+2:25:39 | [66]RagnaraGG(8): hay sokacam
+2:25:41 | TeaMStar(6): 3 günlük
+2:25:45 | [CMD] [66]RagnaraGG(8) => /isyeriolustur
+2:25:47 | TeaMStar(6): yarýn geceye kadar
+2:25:50 | TeaMStar(6): verecem sadece
+2:25:51 | [CMD] Kamran_AKT(7) => /work
+2:25:55 | [CMD] Kamran_AKT(7) => /goreviptal
+2:25:56 | [CMD] TeaMStar(6) => /eviolustur
+2:25:58 | [CMD] [66]RagnaraGG(8) => /isyeriolustur
+2:26:0 | [CMD] TeaMStar(6) => /setlevle
+2:26:2 | [CMD] TeaMStar(6) => /setlevel
+2:26:5 | [CMD] TeaMStar(6) => /setlevel 6 8
+2:26:6 | [CMD] TeaMStar(6) => /setlevel 6 7
+2:26:12 | [CMD] TeaMStar(6) => /cpanel
+2:26:15 | [CMD] TeaMStar(6) => /cpanelgiris
+2:26:19 | [CMD] [66]RagnaraGG(8) => /isyeriolustur
+2:26:21 | [CMD] TeaMStar(6) => /spanelsifregir
+2:26:24 | Kamran_AKT(7): Týrcý serverinde oynamadým hiç ama güzel
+2:26:28 | [CMD] [66]RagnaraGG(8) => /gobus
+2:26:32 | [CMD] TeaMStar(6) => /eviolustur
+2:26:36 | [CMD] [66]RagnaraGG(8) => /fly
+2:26:39 | Kamran_AKT(7): benimki hp
+2:26:43 | Kamran_AKT(7): .gorev
+2:26:43 | [CMD] TeaMStar(6) => /odul 7
+2:26:44 | [CMD] TeaMStar(6) => /odul 8
+2:26:47 | Kamran_AKT(7): oy oy
+2:26:49 | TeaMStar(6): güzel
+2:26:51 | Kamran_AKT(7): beleþþþ
+2:26:51 | [CMD] TeaMStar(6) => /odulall
+2:26:53 | [CMD] TeaMStar(6) => /odulall
+2:26:54 | [CMD] TeaMStar(6) => /odulall
+2:26:54 | [CMD] TeaMStar(6) => /odulall
+2:26:54 | [CMD] TeaMStar(6) => /odulall
+2:26:55 | [CMD] TeaMStar(6) => /odulall
+2:26:59 | Kamran_AKT(7): para para
+2:27:1 | Kamran_AKT(7): give give beleþ
+2:27:9 | TeaMStar(6): Tamam dur ev sistemi yapam þimdi afk
+2:27:13 | TeaMStar(6): knk sen isyeri
+2:27:14 | TeaMStar(6): olustur
+2:27:17 | Kamran_AKT(7): ev yokmu sat;l;k
+2:27:21 | Kamran_AKT(7): ev yokmu evf
+2:27:23 | TeaMStar(6): bende evi yapam gidem sistemi
+2:27:23 | Kamran_AKT(7): .cek
+2:27:30 | [CMD] Kamran_AKT(7) => /gorev
+2:27:34 | [CMD] Kamran_AKT(7) => /gorevbasla
+2:27:35 | [CMD] Kamran_AKT(7) => /dorse
+2:27:43 | [CMD] [66]RagnaraGG(8) => /isyeriolustur
+2:27:46 | [CMD] TeaMStar(6) => /kar
+2:27:48 | [CMD] Kamran_AKT(7) => /kar
+2:27:49 | TeaMStar(6): :/kar
+2:27:51 | [CMD] Kamran_AKT(7) => /kar
+2:27:52 | Kamran_AKT(7): kasdi
+2:27:56 | TeaMStar(6): yok bende kasmýyor
+2:27:57 | Kamran_AKT(7): kar yazan maldýr
+2:27:59 | [CMD] [66]RagnaraGG(8) => /setcash 8 1000000000
+2:28:1 | Kamran_AKT(7): pc gg
+2:28:3 | [CMD] TeaMStar(6) => /uyar
+2:28:6 | [CMD] Kamran_AKT(7) => /sustur
+2:28:8 | TeaMStar(6): ilýk uyar D:
+2:28:9 | [CMD] Kamran_AKT(7) => /mute
+2:28:9 | [66]RagnaraGG(8): para ayarlama komutu neydi
+2:28:11 | [66]RagnaraGG(8): :D 
+2:28:11 | Kamran_AKT(7): h.o
+2:28:11 | TeaMStar(6): ilk uyarý kamran kazandý :d
+2:28:14 | TeaMStar(6): :/apara ile
+2:28:15 | [CMD] TeaMStar(6) => /kar
+2:28:16 | Kamran_AKT(7): oda biþe
+2:28:21 | Kamran_AKT(7): çete varmý burda
+2:28:23 | [CMD] [66]RagnaraGG(8) => /apara 1000000000
+2:28:25 | [CMD] [66]RagnaraGG(8) => /apara 100000000
+2:28:25 | TeaMStar(6): no sirket var
+2:28:30 | TeaMStar(6): Kara ambar kamyoncular dernegi
+2:28:31 | [CMD] TeaMStar(6) => /uyeal
+2:28:32 | Kamran_AKT(7): NASI ACÝYORU
+2:28:33 | [CMD] TeaMStar(6) => /uyeal 7
+2:28:35 | [CMD] [66]RagnaraGG(8) => /buybus
+2:28:36 | TeaMStar(6): parayla
+2:28:38 | Kamran_AKT(7): GELMÝYORUM ÞD
+2:28:39 | [CMD] [66]RagnaraGG(8) => /icerigir
+2:28:42 | TeaMStar(6): okey sen bilisn
+2:28:42 | Kamran_AKT(7): GERCEK PARAYLAMI
+2:28:45 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:28:45 | TeaMStar(6): evet
+2:28:48 | Kamran_AKT(7): hoyda
+2:28:48 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:28:50 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:28:51 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:28:51 | TeaMStar(6): her pazar 1m veriyom :d sirketimde
+2:28:54 | TeaMStar(6): sende kaybettin :d
+2:28:54 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:28:59 | TeaMStar(6): normalde almam :D
+2:29:2 | [CMD] TeaMStar(6) => /cantazele
+2:29:3 | [CMD] [66]RagnaraGG(8) => /ayril
+2:29:4 | Kamran_AKT(7): beleþe geldik biz þhake beat olarak
+2:29:6 | [CMD] [66]RagnaraGG(8) => /cik
+2:29:9 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:29:10 | [CMD] TeaMStar(6) => /ann2
+2:29:11 | [CMD] TeaMStar(6) => /ann
+2:29:14 | [CMD] TeaMStar(6) => /duyuru
+2:29:15 | Kamran_AKT(7): beleþ yoksa gideriz
+2:29:18 | [CMD] TeaMStar(6) => /duyuru hep senin icin
+2:29:19 | Kamran_AKT(7): bize çete aç bi tane 
+2:29:22 | Kamran_AKT(7): Shake beat
+2:29:23 | [CMD] TeaMStar(6) => /duyuru2
+2:29:25 | [CMD] TeaMStar(6) => /duyuru
+2:29:27 | TeaMStar(6): cete yok
+2:29:31 | Kamran_AKT(7): þirket iþte
+2:29:31 | [CMD] TeaMStar(6) => /duyuru senin icin <3
+2:29:40 | TeaMStar(6): no gercek parayla acýlýyor sirket öyle
+2:29:40 | Kamran_AKT(7): Sunucuda gay var amk
+2:29:41 | TeaMStar(6): açamýyorum
+2:29:49 | Kamran_AKT(7): senin için galp falan geliyo
+2:29:50 | [CMD] [66]RagnaraGG(8) => /buybus
+2:29:52 | Kamran_AKT(7): gay kesinn
+2:29:53 | Kamran_AKT(7): .vtamir
+2:29:53 | [CMD] [66]RagnaraGG(8) => /icerigir
+2:29:55 | [CMD] Kamran_AKT(7) => /vtmair
+2:29:56 | TeaMStar(6): Kamran normal de böyle konusursan D:
+2:29:56 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:29:56 | [CMD] Kamran_AKT(7) => /vtamir
+2:29:58 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:29:59 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:0 | TeaMStar(6): adminler gg eder :D
+2:30:0 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:2 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:8 | TeaMStar(6): karýsmam :D uyarýýmda
+2:30:9 | Kamran_AKT(7): sahipi kim buranin gercek sahibi
+2:30:12 | [CMD] [66]RagnaraGG(8) => /buybus
+2:30:14 | TeaMStar(6): :/credits
+2:30:15 | [CMD] TeaMStar(6) => /credits
+2:30:16 | [CMD] Kamran_AKT(7) => /credits
+2:30:19 | [CMD] Kamran_AKT(7) => /credits
+2:30:20 | TeaMStar(6): Tiger
+2:30:21 | Kamran_AKT(7): tiger
+2:30:24 | Kamran_AKT(7): mi senmi >?
+2:30:25 | [CMD] [66]RagnaraGG(8) => /apara 10000000
+2:30:26 | TeaMStar(6): Tiger
+2:30:29 | [CMD] [66]RagnaraGG(8) => /buybus
+2:30:29 | TeaMStar(6): ben emir kulu
+2:30:32 | Kamran_AKT(7): yalanýný
+2:30:32 | [CMD] [66]RagnaraGG(8) => /icerigir
+2:30:33 | [CMD] TeaMStar(6) => /car,
+2:30:33 | Kamran_AKT(7): sikem
+2:30:35 | [CMD] [66]RagnaraGG(8) => /apara 100000000
+2:30:37 | TeaMStar(6): Sor
+2:30:39 | TeaMStar(6): ragnara
+2:30:39 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:42 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:42 | [CMD] TeaMStar(6) => /Car elegy
+2:30:43 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:44 | [CMD] TeaMStar(6) => /Car elegy 0 6
+2:30:45 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:30:45 | Kamran_AKT(7): -/a chattan
+2:30:50 | Kamran_AKT(7): yazmadýðýn ne malum
+2:30:54 | TeaMStar(6): yo ciddiyim sor
+2:31:0 | TeaMStar(6): tiger gelsin ayda yarýn
+2:31:0 | Kamran_AKT(7): yarram kurucsun iþte
+2:31:7 | Kamran_AKT(7): banlarsa aðlarým vp de
+2:31:7 | [66]RagnaraGG(8): tiger
+2:31:8 | Kamran_AKT(7): açarsýn
+2:31:15 | TeaMStar(6): :D karýþamam knk kurallara 
+2:31:17 | [CMD] TeaMStar(6) => /modifiye
+2:31:22 | Kamran_AKT(7): küfür ettim
+2:31:23 | [CMD] TeaMStar(6) => /goto 7
+2:31:24 | Kamran_AKT(7): yasah dedi
+2:31:25 | [66]RagnaraGG(8): vps + hosted ý vedo aldý
+2:31:26 | TeaMStar(6): atla
+2:31:28 | [LOCAL]Kamran_AKT(7): oha
+2:31:28 | [CMD] Kamran_AKT(7) => /l oha
+2:31:32 | [CMD] TeaMStar(6) => /vtamir
+2:31:32 | [LOCAL]Kamran_AKT(7): elegy le gezinti
+2:31:32 | [CMD] Kamran_AKT(7) => /l elegy le gezinti
+2:31:35 | [CMD] Kamran_AKT(7) => /deagle
+2:31:37 | Kamran_AKT(7): sawn nasi aliyoz
+2:31:39 | [CMD] TeaMStar(6) => /vtamir
+2:31:40 | Kamran_AKT(7): dm yokmu burda
+2:31:42 | [CMD] [66]RagnaraGG(8) => /apara -68290000
+2:31:42 | TeaMStar(6): no
+2:31:47 | TeaMStar(6): no
+2:31:49 | [CMD] TeaMStar(6) => /vtamir
+2:31:49 | [CMD] [66]RagnaraGG(8) => /isyerimenu
+2:31:50 | Kamran_AKT(7): yarram vs atmýcaksan ne amac var
+2:31:52 | Kamran_AKT(7): role play daha iyi
+2:31:57 | Kamran_AKT(7): ona benziyo bir az
+2:32:4 | Kamran_AKT(7): gidin demo ets 2 indirin oynayýn
+2:32:4 | TeaMStar(6): s.g yaapbilrisn D:
+2:32:7 | TeaMStar(6): beni konuþtruam D:
+2:32:11 | Kamran_AKT(7): birisi 
+2:32:14 | [CMD] TeaMStar(6) => /gisesahip
+2:32:14 | [CMD] [66]RagnaraGG(8) => /cleanupcars
+2:32:16 | Kamran_AKT(7): internette paylaþmýþ
+2:32:17 | [CMD] TeaMStar(6) => /gisesahip TeaMStar
+2:32:24 | [CMD] TeaMStar(6) => /cleanupcars
+2:32:26 | [CMD] [66]RagnaraGG(8) => /setcore 8 15
+2:32:26 | Kamran_AKT(7): 900 Tl ye Týrcý modu alýp paylaþmýþ
+2:32:27 | [CMD] TeaMStar(6) => /car
+2:32:32 | Kamran_AKT(7): gördünmü
+2:32:32 | [CMD] TeaMStar(6) => /car elegy 0 6
+2:32:34 | [CMD] [66]RagnaraGG(8) => /setscore 8 15
+2:32:36 | TeaMStar(6): Matite o
+2:32:38 | Kamran_AKT(7): para ev falan ver
+2:32:43 | Kamran_AKT(7): ara ber bare
+2:32:44 | [CMD] TeaMStar(6) => /modifiye
+2:32:45 | Kamran_AKT(7): araba
+2:32:48 | [66]RagnaraGG(8): scorum þekil önümden çekil ulen :D 
+2:32:49 | Kamran_AKT(7): infernus
+2:32:52 | [CMD] Kamran_AKT(7) => /m4
+2:32:54 | [CMD] [66]RagnaraGG(8) => /plane
+2:32:56 | TeaMStar(6): sýc
+2:33:0 | [CMD] Kamran_AKT(7) => /motor
+2:33:6 | [CMD] Kamran_AKT(7) => /m1
+2:33:6 | TeaMStar(6): o aracý nerden aldýn
+2:33:7 | [CMD] Kamran_AKT(7) => /m2
+2:33:9 | [CMD] Kamran_AKT(7) => /m1
+2:33:10 | [CMD] [66]RagnaraGG(8) => /tamir
+2:33:10 | [CMD] TeaMStar(6) => /m4
+2:33:13 | [CMD] Kamran_AKT(7) => /m3
+2:33:13 | [CMD] [66]RagnaraGG(8) => /ctamir
+2:33:16 | [CMD] [66]RagnaraGG(8) => /vtamir
+2:33:18 | [CMD] TeaMStar(6) => /m2
+2:33:20 | [CMD] Kamran_AKT(7) => /m5
+2:33:22 | [CMD] TeaMStar(6) => /m3
+2:33:24 | [CMD] TeaMStar(6) => /m4
+2:33:24 | Kamran_AKT(7): bana özel
+2:33:26 | [CMD] TeaMStar(6) => /m5
+2:33:27 | Kamran_AKT(7): jwadjwada
+2:33:28 | TeaMStar(6): ha seyden
+2:33:35 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Dolmuþ Soforu olarak spawn oldu.
+2:33:35 | [66]RagnaraGG(8): :D 
+2:33:38 | [CMD] [66]RagnaraGG(8) => /cleanupcars
+2:33:39 | [CMD] TeaMStar(6) => /cleanupcars
+2:33:40 | Kamran_AKT(7): vip olunca ala biliyozmu m4 falan
+2:33:42 | Kamran_AKT(7): vip olmayýnca
+2:33:46 | [CMD] Kamran_AKT(7) => /m7
+2:33:48 | [CMD] Kamran_AKT(7) => /m5
+2:33:49 | Kamran_AKT, 0 gün VIP Oldu
+2:33:49 | [CMD] TeaMStar(6) => /setvip 7 0
+2:33:49 | TeaMStar(6): dene
+2:33:50 | [CMD] Kamran_AKT(7) => /m3
+2:33:51 | [CMD] Kamran_AKT(7) => /m1
+2:33:54 | [CMD] TeaMStar(6) => /respawncars
+2:33:55 | [CMD] Kamran_AKT(7) => /m4
+2:33:56 | [CMD] [66]RagnaraGG(8) => /m6
+2:33:57 | [CMD] Kamran_AKT(7) => /m6
+2:33:57 | [CMD] TeaMStar(6) => /respawncars
+2:33:59 | Kamran_AKT(7): hayýrr
+2:34:1 | [CMD] TeaMStar(6) => /cleanupcars
+2:34:2 | [CMD] [66]RagnaraGG(8) => /cleanupcars
+2:34:3 | Kamran_AKT(7): yarram sýnýrsýz verin vip
+2:34:4 | Kamran_AKT, 3 gün VIP Oldu
+2:34:4 | [CMD] TeaMStar(6) => /setvip 7 3
+2:34:6 | Kamran_AKT(7): ne 3 w
+2:34:10 | [CMD] [66]RagnaraGG(8) => /plane
+2:34:10 | Kamran_AKT(7): alfada banlicam seni
+2:34:12 | TeaMStar(6): :/fiyatlar
+2:34:14 | [CMD] Kamran_AKT(7) => /fiyatlar
+2:34:15 | TeaMStar(6): Yiyorsa dene :d
+2:34:24 | Kamran_AKT(7): hesabinin þifresi bende var
+2:34:29 | TeaMStar(6): ney sifrem ?
+2:34:31 | Kamran_AKT(7): bekirde var burdada aynýysa server gg
+2:34:40 | Kamran_AKT(7): dün gümüþ vipini aldýk üajdüaj
+2:34:45 | [CMD] Kamran_AKT(7) => /m4
+2:34:45 | [ANTIHACK] Þüpheli Kamran_AKT(7) => Airbreak-hack
+2:34:46 | TeaMStar(6): Kim aldý
+2:34:50 | Kamran_AKT(7): hellboy
+2:34:53 | TeaMStar(6): neden
+2:34:53 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Dolmuþ Soforu olarak spawn oldu.
+2:34:53 | [66]RagnaraGG(8): lan :D 
+2:34:58 | Kamran_AKT(7): bilmem git kendine sor
+2:35:3 | TeaMStar(6): üff napam gumus vipi
+2:35:13 | TeaMStar(6): valla biradha hesabýma girerseniz siker.
+2:35:14 | Kamran_AKT(7): sg et
+2:35:14 | [CMD] [66]RagnaraGG(8) => /plane
+2:35:17 | Kamran_AKT(7): git sifreni degis
+2:35:22 | Kamran_AKT(7): girerler hesabina falan
+2:35:23 | [CMD] TeaMStar(6) => /vtamir
+2:35:25 | Kamran_AKT(7): soverim sana
+2:35:27 | Kamran_AKT(7): server iyi
+2:35:30 | Kamran_AKT(7): baþarýlar
+2:35:35 | Kamran_AKT(7): tutar bu sunucu
+2:35:36 | [CMD] [66]RagnaraGG(8) => /ann4 iyi geceler
+2:35:40 | TeaMStar(6): ben bi girem bakam sif degiþem
+2:35:40 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:35:44 | [CMD] [66]RagnaraGG(8) => /ann iyi geceler
+2:35:50 | Kamran_AKT(7): ragnar naber
+2:35:51 | [CMD] [66]RagnaraGG(8) => /asay2 iyi geceler
+2:35:56 | [CMD] [66]RagnaraGG(8) => /asay iyi geceler
+2:36:0 | Kamran_AKT(7): niye uyuyonmu
+2:36:2 | [CMD] [66]RagnaraGG(8) => /asay3 iyi geceler
+2:36:4 | [66]RagnaraGG(8): evet
+2:36:5 | Kamran_AKT(7): .v sa
+2:36:7 | [CMD] Kamran_AKT(7) => /v sa
+2:36:8 | [CMD] [66]RagnaraGG(8) => /as
+2:36:11 | Kamran_AKT(7): as
+2:36:14 | [66]RagnaraGG(8): ve bye
+2:36:17 | Kamran_AKT(7): bye
+2:36:20 | Kamran_AKT(7): sg
+2:36:22 | Kamran_AKT(7): jkwadjawdw
+2:36:23 | [66]RagnaraGG(8): gitmeden son bir puþtluk yapacam
+2:36:29 | Kamran_AKT(7): yarram para falan ver
+2:36:56 | [CMD] Kamran_AKT(7) => /kill
+2:37:1 | Kamran_AKT(7): orosbu
+2:37:4 | Kamran_AKT(7): piçç
+2:37:6 | [CMD] Kamran_AKT(7) => /m1
+2:37:27 | [CMD] Kamran_AKT(7) => /vdondur
+2:37:37 | Kamran_AKT(7): givemoney
+2:37:41 | [66]RagnaraGG(8): :D 
+2:37:41 | Kamran_AKT(7): orrrr
+2:37:42 | {FFCC00}[66]RagnaraGG(8) {FFFFFF}Dolmuþ Soforu olarak spawn oldu.
+2:37:42 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:37:44 | [66]RagnaraGG(8): :ASD:SAD:SA
+2:37:49 | [66]RagnaraGG(8): hadi kaçtým ben
+2:37:52 | [66]RagnaraGG(8) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:38:3 | [CMD] Kamran_AKT(7) => /aracres
+2:38:8 | [CMD] Kamran_AKT(7) => /kill
+2:38:9 | [CMD] Kamran_AKT(7) => /kill
+2:38:11 | [CMD] Kamran_AKT(7) => /meslek
+2:38:13 | {FFCC00}Kamran_AKT(7) Otobus Soforu olarak spawn oldu.
+2:38:16 | [CMD] Kamran_AKT(7) => /meslek
+2:38:22 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:38:34 | [CMD] Kamran_AKT(7) => /modifiye
+2:39:9 | [CMD] Kamran_AKT(7) => /motor
+2:40:2 | [CMD] Kamran_AKT(7) => /donator
+2:40:21 | [CMD] Kamran_AKT(7) => /goddonator
+2:40:24 | [CMD] Kamran_AKT(7) => /goddonator
+2:40:28 | [CMD] Kamran_AKT(7) => /donator
+2:40:37 | [CMD] Kamran_AKT(7) => /market
+2:41:2 | [CMD] Kamran_AKT(7) => /gorev
+2:41:5 | [CMD] Kamran_AKT(7) => /gorevbasla
+2:41:7 | [CMD] Kamran_AKT(7) => /yardim
+2:41:21 | [CMD] Kamran_AKT(7) => /dorse
+2:41:24 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:41:35 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+2:41:37 | [CMD] Kamran_AKT(7) => /balon
+2:41:39 | [CMD] Kamran_AKT(7) => /balon
+2:41:43 | 
+2:41:47 | Kamran_AKT(7): jawdjaw
+2:41:48 | {FFCC00}TeaMStar(6) {FFFFFF}Dolmuþ Soforu olarak spawn oldu.
+2:41:52 | Kamran_AKT(7): balon u sevdim
+2:41:53 | [CMD] TeaMStar(6) => /sirketduyuru
+2:41:57 | Kamran_AKT(7): ucuyorum lan
+2:41:59 | [CMD] TeaMStar(6) => /yedekgir
+2:42:3 | TeaMStar Yedek þifresini yanlýþ girdiði için tekmelendi
+2:42:3 | Kamran_AKT(7): uçuyorum þahitlerim var
+2:42:3 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+2:42:40 | [CMD] Kamran_AKT(7) => /balon
+2:42:49 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+2:42:51 | [ANTIHACK] Þüpheli Kamran_AKT(7) => Jetpack-Hilesi
+2:42:53 | [CMD] Kamran_AKT(7) => /balon
+2:42:58 | 
+2:43:0 | {FFCC00}TeaMStar(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+2:43:1 | Kamran_AKT(7): hakan
+2:43:4 | [CMD] TeaMStar(6) => /yedekgir
+2:43:5 | Kamran_AKT(7): bulamadýnmý rconu ajdüjadaü
+2:43:7 | TeaMStar Yedek'e giriþ yaptý.
+2:43:13 | Kamran_AKT(7): -/rcon login benorosbucocuyum
+2:43:16 | [CMD] TeaMStar(6) => /spanelsifregir
+2:43:18 | [CMD] Kamran_AKT(7) => /kill
+2:43:20 | [CMD] Kamran_AKT(7) => /meslek
+2:43:23 | TeaMStar SPanel'e giriþ yaptý.
+2:43:25 | {FFCC00}Kamran_AKT(7) Otobus Soforu olarak spawn oldu.
+2:43:28 | TeaMStar(6): öyle bi komut yok burda
+2:43:31 | [CMD] TeaMStar(6) => /eviolustur
+2:43:31 | Kamran_AKT(7): nasi
+2:43:34 | TeaMStar(6): farklý
+2:43:37 | Kamran_AKT(7): iyi 
+2:43:39 | Kamran_AKT(7): banane amk
+2:43:43 | Kamran_AKT(7): sýnýrsýz vip ver hadi
+2:43:46 | Kamran_AKT(7): beleþþ
+2:43:48 | [CMD] TeaMStar(6) => /eviolustur
+2:43:52 | TeaMStar(6): öyle birþey yok
+2:43:58 | [CMD] TeaMStar(6) => /setlevel 6 6
+2:44:0 | Kamran_AKT(7): versen ne olacak amk
+2:44:2 | [CMD] TeaMStar(6) => /eviolustur
+2:44:7 | [CMD] TeaMStar(6) => /admgiris
+2:44:9 | Kamran_AKT(7): 2 aylik yolla
+2:44:10 | [CMD] TeaMStar(6) => /setlevel 6 7
+2:44:12 | Kamran_AKT(7): dwjadwja
+2:44:14 | TeaMStar(6): öyle birþey yok diyom
+2:44:16 | Kamran_AKT(7): a8 yap
+2:44:17 | [CMD] TeaMStar(6) => /eviolustur
+2:44:20 | [CMD] TeaMStar(6) => /fsetlevel 7 7
+2:44:21 | Kamran_AKT(7): verme isteyen mi var
+2:44:32 | [CMD] TeaMStar(6) => /admins
+2:44:33 | Kamran_AKT(7): skerim yapacan isi
+2:44:35 | Kamran_AKT(7): server bok gibi
+2:44:39 | Kamran_AKT(7): bantest
+2:44:42 | Kamran_AKT(7): jawdjaw
+2:44:47 | Kamran_AKT(7): nasi goreve basliyoz
+2:44:49 | TeaMStar(6): :/ban 7 bb
+2:44:51 | [CMD] Kamran_AKT(7) => /meslek
+2:44:55 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:44:58 | TeaMStar(6): KAMRAN ciddi diyoum bak 
+2:44:58 | Kamran_AKT(7): Ben orosbu cocuyum
+2:45:2 | Kamran_AKT(7): jwadjwa
+2:45:4 | TeaMStar(6): normalde böyle dersen valla banlarým
+2:45:6 | TeaMStar(6): hiç þakam yok
+2:45:10 | Kamran_AKT(7): kim varki amk
+2:45:12 | TeaMStar(6): sinirlerim kaç haftadýr üzerimde hala
+2:45:16 | TeaMStar(6): yarýn sakýn böyle olma
+2:45:18 | Kamran_AKT(7): normal de bole demiyorum tarrak geciyom
+2:45:23 | TeaMStar(6): suan kimse yok diye birþey demiyom
+2:45:34 | TeaMStar(6): Tama sen yine yapma ben þimdi moda sinirlerinim
+2:45:35 | TeaMStar(6): felan
+2:45:36 | Kamran_AKT(7): bu gece sonn gecemizz
+2:45:38 | TeaMStar(6): senden cýkarmýyým
+2:45:49 | Kamran_AKT(7): vipler nasi dorse getiriyor
+2:45:52 | Kamran_AKT(7): skor dagit bari
+2:45:58 | [CMD] Kamran_AKT(7) => /vdorse
+2:46:0 | TeaMStar(6): :/getdorse
+2:46:4 | TeaMStar(6): yarýn oyunda ol dagýtýrz
+2:46:5 | TeaMStar(6): :/work
+2:46:6 | Kamran_AKT(7):  /beleþdorse deniyom sabahtan
+2:46:7 | TeaMStar(6): :/komutlar
+2:46:10 | [CMD] Kamran_AKT(7) => /work
+2:46:14 | [CMD] Kamran_AKT(7) => /getdorse
+2:46:17 | [CMD] Kamran_AKT(7) => /getdorse
+2:46:19 | qanun.(8) oyuna girdi [IP: 62.248.84.219]
+2:46:23 | [CMD] Kamran_AKT(7) => /getdorse
+2:46:24 | [CMD] Kamran_AKT(7) => /getdorse
+2:46:26 | [CMD] Kamran_AKT(7) => /getdorse
+2:46:28 | Kamran_AKT(7): calismiyor
+2:46:29 | Kamran_AKT(7): -/getdorse
+2:46:37 | Kamran_AKT(7): azwdjwadwja
+2:46:40 | {FFCC00}qanun.(8) Otobus Soforu olarak spawn oldu.
+2:46:44 | Kamran_AKT(7): qanuna geldi wajdjwa
+2:46:59 | qanun.(8): ben geldým noldu la
+2:47:3 | Kamran_AKT(7): banlayin
+2:47:6 | qanun., 3 gün VIP Oldu
+2:47:6 | [CMD] TeaMStar(6) => /setvip 8 3
+2:47:7 | Kamran_AKT(7): bak harbi diyorum banla bunu hakan
+2:47:13 | Kamran_AKT(7): cs ye adam çekicek
+2:47:14 | [CMD] TeaMStar(6) => /fsetlevel 8 7
+2:47:16 | qanun.(8): ya ben kýyafetýný secte kaldým
+2:47:23 | qanun.(8): bundan nasýýl cýkyýz
+2:47:26 | Kamran_AKT(7): -/q
+2:47:30 | Kamran_AKT(7): adminmi qanun
+2:47:30 | TeaMStar(6): sec birtanesini
+2:47:30 | qanun.(8): ya bos yapma
+2:47:33 | qanun.(8): nasýl cýkyaz
+2:47:37 | Kamran_AKT(7): birisini seç
+2:47:42 | [CMD] Kamran_AKT(7) => /work
+2:47:43 | qanun.(8): nasýl seccem ýste .d
+2:47:44 | [CMD] TeaMStar(6) => /git 7
+2:47:45 | {FFCC00}qanun.(8) Otobus Soforu olarak spawn oldu.
+2:47:47 | TeaMStar(6): basarak
+2:47:47 | qanun.(8): hee tamam
+2:47:48 | [CMD] TeaMStar(6) => /goto 7
+2:47:49 | qanun.(8): buldum
+2:47:52 | [LOCAL]TeaMStar(6): gel
+2:47:52 | [CMD] TeaMStar(6) => /l gel
+2:47:57 | [LOCAL]Kamran_AKT(7): nereye
+2:47:57 | [CMD] Kamran_AKT(7) => /l nereye
+2:47:58 | [LOCAL]TeaMStar(6): komik birþey yapacam qanuna iyi izle
+2:47:58 | [CMD] TeaMStar(6) => /l komik birþey yapacam qanuna iyi izle
+2:48:1 | [LOCAL]Kamran_AKT(7): izliyorum
+2:48:1 | [CMD] Kamran_AKT(7) => /l izliyorum
+2:48:1 | [CMD] TeaMStar(6) => /get
+2:48:6 | [LOCAL]Kamran_AKT(7): bvanla
+2:48:6 | [CMD] Kamran_AKT(7) => /l bvanla
+2:48:6 | qanun.(8): kamran
+2:48:7 | [LOCAL]TeaMStar(6): bak ss alacan
+2:48:7 | [CMD] TeaMStar(6) => /l bak ss alacan
+2:48:8 | Kamran_AKT(7): he
+2:48:10 | [LOCAL]TeaMStar(6): yok daha güðzel gel
+2:48:10 | [CMD] TeaMStar(6) => /l yok daha güðzel gel
+2:48:13 | [LOCAL]TeaMStar(6): bekle burda
+2:48:13 | [CMD] TeaMStar(6) => /l bekle burda
+2:48:13 | [LOCAL]Kamran_AKT(7): tam
+2:48:13 | [CMD] Kamran_AKT(7) => /l tam
+2:48:15 | [CMD] TeaMStar(6) => /get 8
+2:48:15 | [ANTIHACK] Þüpheli qanun.(8) => Airbreak-hack
+2:48:16 | qanun.(8): sen alfada admýn degýlmsýn
+2:48:16 | [LOCAL]Kamran_AKT(7): ok
+2:48:16 | [CMD] Kamran_AKT(7) => /l ok
+2:48:20 | TeaMStar(6): qanun bi gel
+2:48:23 | qanun.(8): geldim
+2:48:24 | [CMD] TeaMStar(6) => /ahir 8
+2:48:26 | [CMD] TeaMStar(6) => /ahir 8
+2:48:28 | [LOCAL]Kamran_AKT(7): wajdwajd
+2:48:28 | [CMD] Kamran_AKT(7) => /l wajdwajd
+2:48:28 | [CMD] TeaMStar(6) => /ahir 8
+2:48:32 | [CMD] TeaMStar(6) => /ahirjob 8
+2:48:33 | [CMD] TeaMStar(6) => /ahirjob 8
+2:48:34 | qanun.(8): naptýn la bana
+2:48:35 | [CMD] TeaMStar(6) => /ahirjob 8
+2:48:36 | [CMD] TeaMStar(6) => /ahirjob 8
+2:48:38 | Kamran_AKT(7): qanun ss aldim
+2:48:43 | TeaMStar(6): demek forumumu çökertirsin ha ?
+2:48:46 | qanun.(8): .d
+2:48:51 | TeaMStar(6): Demek ortalýgý karýþtýrýsýn
+2:48:54 | qanun.(8): .d
+2:48:58 | Kamran_AKT(7): qanun ss aldim 
+2:49:0 | Kamran_AKT(7): sen bekle lan
+2:49:2 | TeaMStar(6): Ben bu sistemi senin üðzerinde denerim 
+2:49:2 | qanun.(8): q atarýmda boþver .d
+2:49:8 | Kamran_AKT(7): Cs de herkese yollicam
+2:49:10 | qanun.(8): ama iyiymiþ
+2:49:13 | qanun.(8): sistem
+2:49:18 | qanun.(8): ya bu telefonu
+2:49:21 | qanun.(8): nasýl kapýyoz hakan
+2:49:25 | TeaMStar(6): y ye bas
+2:49:25 | qanun.(8): acýldýda sagda
+2:49:26 | Kamran_AKT(7): troll hack yasakmi
+2:49:30 | Kamran_AKT(7): .d
+2:49:31 | TheEminem.(9) oyuna girdi [IP: 78.190.188.165]
+2:49:34 | TeaMStar(6): evet
+2:49:35 | qanun.(8): yok degýl
+2:49:37 | [CMD] TeaMStar(6) => /ahir
+2:49:38 | [CMD] TeaMStar(6) => /ahir8
+2:49:39 | Kamran_AKT(7): o zaman iyi
+2:49:40 | [CMD] TeaMStar(6) => /ahir 8
+2:49:40 | qanun.(8): hakan salsana .d
+2:49:42 | Kamran_AKT(7): sevdim
+2:49:43 | [CMD] TeaMStar(6) => /spawn
+2:49:44 | [CMD] TeaMStar(6) => /spawn 8
+2:49:44 | {FFCC00}qanun.(8) Otobus Soforu olarak spawn oldu.
+2:49:47 | [CMD] TeaMStar(6) => /unfreeze
+2:49:48 | [CMD] TeaMStar(6) => /unfreeze 8
+2:49:49 | [CMD] TeaMStar(6) => /coz
+2:49:49 | Kamran_AKT(7): yakan yavass Cigerimi soktun
+2:49:50 | [CMD] TeaMStar(6) => /coz 8
+2:49:55 | qanun.(8): eminemm
+2:49:55 | Kamran_AKT(7): huseyn adjwada
+2:49:56 | [CMD] TeaMStar(6) => /spawn 6
+2:49:56 | {FFCC00}TeaMStar(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+2:49:59 | {FFCC00}TheEminem.(9) Otobus Soforu olarak spawn oldu.
+2:50:1 | qanun.(8): kamranw
+2:50:3 | qanun.(8): karýmdýr
+2:50:3 | Kamran_AKT(7): he
+2:50:5 | [CMD] TeaMStar(6) => /goto 8
+2:50:7 | Kamran_AKT(7): hakli 
+2:50:11 | TeaMStar(6): :/convoy da yaapbirlisniz
+2:50:11 | qanun.(8): karýma karýþmayýn
+2:50:12 | TheEminem.(9): Ben otobüscüyüm
+2:50:14 | [CMD] TeaMStar(6) => /setskin
+2:50:15 | qanun.(8): bende kanka
+2:50:15 | [CMD] TeaMStar(6) => /setskin 8 12
+2:50:17 | Kamran_AKT(7): ben tirci
+2:50:18 | [CMD] TeaMStar(6) => /setskin 8 15
+2:50:31 | Kamran_AKT(7): olm bize ozel
+2:50:34 | Kamran_AKT(7): sirket acilsin=
+2:50:34 | [CMD] TeaMStar(6) => /setvip
+2:50:37 | TheEminem., 3 gün VIP Oldu
+2:50:37 | [CMD] TeaMStar(6) => /setvip 9 3
+2:50:39 | qanun.(8): lan sýrket
+2:50:41 | qanun.(8): pahalý
+2:50:42 | TheEminem.(9): ahahaa
+2:50:43 | [CMD] Kamran_AKT(7) => /vtamir
+2:50:46 | [CMD] Kamran_AKT(7) => /vtamir
+2:50:48 | [CMD] Kamran_AKT(7) => /vrenk
+2:50:49 | [CMD] TeaMStar(6) => /fiyatlar
+2:50:49 | qanun.(8): ya bu telefon
+2:50:49 | TheEminem.(9): Burda vip ne iþe yarýyor
+2:50:50 | qanun.(8): kapanmýyor
+2:50:52 | [CMD] TeaMStar(6) => /market
+2:50:53 | TheEminem.(9):  /vzirh falan
+2:50:56 | [CMD] Kamran_AKT(7) => /vzzirh
+2:50:57 | TeaMStar(6): :/vipbilg,i
+2:50:59 | TeaMStar(6): :/vipbilgi
+2:51:0 | Kamran_AKT(7): -/vsilah varmi
+2:51:0 | [CMD] TeaMStar(6) => /market
+2:51:2 | [CMD] qanun.(8) => /work
+2:51:4 | TheEminem.(9): Lan napcam fare çýktý arabada napýyoz
+2:51:6 | [CMD] qanun.(8) => /work
+2:51:7 | Kamran_AKT(7): vs atacak varmi
+2:51:12 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:51:13 | TheEminem.(9): Arabada kaldým böyle napýyoz
+2:51:23 | qanun.(8): el frenýmý var
+2:51:23 | Kamran_AKT(7): -/wpork
+2:51:26 | Kamran_AKT(7): -/work dene 
+2:51:26 | qanun.(8): arac gýrmýyor
+2:51:27 | Kamran_AKT(7): dorse al
+2:51:30 | Kamran_AKT(7): n bas
+2:51:31 | qanun.(8): la arac gýtmoyrrr
+2:51:33 | Kamran_AKT(7): n bas
+2:51:35 | Kamran_AKT(7): motor calissin
+2:51:41 | Kamran_AKT(7): hiçmi oynaamadýnýz amk
+2:51:42 | qanun.(8): heh saol aþkim
+2:51:43 | [CMD] TheEminem.(9) => /wpork
+2:51:44 | qanun.(8): karýcým
+2:51:45 | [CMD] TheEminem.(9) => /work
+2:51:47 | Kamran_AKT(7): rica ederim 
+2:51:56 | Kamran_AKT(7): qanun seni þapur þupur
+2:52:1 | qanun.(8): ayýp oluyor
+2:52:2 | TheEminem.(9): Saðda telefon gibi biþey çýktý
+2:52:4 | qanun.(8): abarttýn
+2:52:4 | Kamran_AKT(7): ne ayibi
+2:52:6 | TheEminem.(9): O nasýl kapanýyor kaldým böyle
+2:52:8 | qanun.(8): emýnem esc bas kanka
+2:52:13 | Kamran_AKT(7): telefon nasi aciyoruz
+2:52:15 | TheEminem.(9): Heh sonunda
+2:52:16 | [CMD] Kamran_AKT(7) => /telefon
+2:52:16 | qanun.(8): y bas
+2:52:18 | [CMD] TheEminem.(9) => /work
+2:52:28 | Kamran_AKT(7): bu telefon
+2:52:30 | Kamran_AKT(7): hangi marka
+2:52:34 | qanun.(8): bilmem
+2:52:41 | qanun.(8): sararsa ben oynarým bu modu
+2:52:44 | Kamran_AKT(7): benim tel bundan iyi
+2:52:45 | qanun.(8): ama anlamýyom
+2:52:46 | qanun.(8): bi sik
+2:52:51 | Kamran_AKT(7): ben dorsemi aldim
+2:52:56 | qanun.(8): biz otobz
+2:52:56 | Kamran_AKT(7): gidiyom koptum
+2:52:57 | qanun.(8): cuyz
+2:53:4 | Kamran_AKT(7): dorsem gitti yardim
+2:53:5 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:9 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:10 | [CMD] TheEminem.(9) => /kurallar
+2:53:15 | TheEminem.(9): Hakan
+2:53:16 | Kamran_AKT(7): -/getdorse var .d
+2:53:17 | TeaMStar(6): dorsemi gtiit
+2:53:19 | TeaMStar(6): :/getdorse
+2:53:20 | TheEminem.(9): Bu giþeleri
+2:53:26 | [CMD] TeaMStar(6) => /odul 7
+2:53:28 | [CMD] TeaMStar(6) => /odul 6
+2:53:29 | Kamran_AKT(7): -/getdorse var .d
+2:53:29 | [CMD] TeaMStar(6) => /odul 8
+2:53:30 | TheEminem.(9): Nasýl alýyoruz
+2:53:32 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:32 | [CMD] TeaMStar(6) => /odul 9
+2:53:33 | qanun.(8): ben nereye gýtcem
+2:53:34 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:34 | [CMD] TeaMStar(6) => /odul 10
+2:53:36 | [CMD] TheEminem.(9) => /motor
+2:53:36 | TeaMStar(6): Parayla
+2:53:38 | TeaMStar(6): alýyorusunuz
+2:53:38 | qanun.(8): olm nereye gýtcem yok
+2:53:39 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:40 | TheEminem.(9): Lan bugta kaldým
+2:53:43 | TheEminem.(9): Nasýla lýyoruz komut ne
+2:53:44 | [CMD] TeaMStar(6) => /goto 9
+2:53:45 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:50 | TheEminem.(9): Bugta kaldýmraba gitmiyor
+2:53:50 | TeaMStar(6): komut yok gercek parayla alýyon
+2:53:53 | TeaMStar(6): :/kurallar kabul et
+2:53:57 | TheEminem.(9): La araç kýmýldamýyo
+2:53:58 | [CMD] Kamran_AKT(7) => /getdorse
+2:53:59 | TeaMStar(6): laglýsýn
+2:54:0 | TheEminem.(9): Çek 
+2:54:2 | qanun.(8): banamý vuruyorlar
+2:54:4 | TheEminem.(9): 69 ms var
+2:54:5 | [CMD] TeaMStar(6) => /get 9
+2:54:5 | [ANTIHACK] Þüpheli TheEminem.(9) => Airbreak-hack
+2:54:8 | qanun.(8): tsded
+2:54:9 | TeaMStar(6): n ye bas
+2:54:10 | qanun.(8): 60000 pýng
+2:54:12 | qanun.(8): var
+2:54:14 | TeaMStar(6): engie kapatmýssýn
+2:54:18 | Kamran_AKT(7): dorse elden gidiyeah
+2:54:23 | [CMD] Kamran_AKT(7) => /vtamir
+2:54:24 | qanun.(8): hakan
+2:54:25 | TeaMStar(6): n bas engine kapatma
+2:54:26 | TeaMStar(6): motoru
+2:54:27 | TeaMStar(6): efendim
+2:54:31 | qanun.(8): ben nereye gýtcemý býlmýyom
+2:54:36 | TheEminem.(9): Gitmiyor
+2:54:37 | qanun.(8): kýrmýzý þeyemý gýtcem
+2:54:39 | Kamran_AKT(7): haritada aynen
+2:54:40 | TheEminem.(9): Napýcam olm araç gitmiyor
+2:54:42 | [CMD] TheEminem.(9) => /motor
+2:54:43 | Kamran_AKT(7): jawdjawd
+2:54:45 | Kamran_AKT(7): w bas
+2:54:45 | TeaMStar(6): n ye bas diom
+2:54:45 | TheEminem.(9): KAldm böyle
+2:54:48 | TheEminem.(9): Basýyorum
+2:54:48 | TeaMStar(6): n nnnn
+2:54:53 | Kamran_AKT(7): -/motor yaz
+2:54:54 | TeaMStar(6): kapatma 
+2:54:55 | TeaMStar(6): bsefer
+2:54:56 | Kamran_AKT(7): orosbu motor yaz
+2:54:59 | TheEminem.(9): Anasýný
+2:55:0 | TheEminem.(9): Skeyim
+2:55:1 | Kamran_AKT(7): jawdjawd
+2:55:4 | TheEminem.(9): b ye basýyomuþum
+2:55:5 | qanun.(8): ya ben yapamýyoma
+2:55:6 | TeaMStar(6): Bak yarýn böyle olursanýz
+2:55:7 | qanun.(8): mal gýbý oldus
+2:55:11 | TeaMStar(6): kökünüz ban yersiniz
+2:55:12 | TeaMStar(6): ciddiyim
+2:55:13 | Kamran_AKT(7): jawdjwa
+2:55:14 | qanun.(8): .d
+2:55:18 | TheEminem.(9): Tamam tamaam
+2:55:19 | TeaMStar(6): karýþamam da 
+2:55:22 | TheEminem.(9): Alýþamadýk olm
+2:55:22 | TeaMStar(6): tiger de yarýn olacak
+2:55:22 | qanun.(8): tarik polisi
+2:55:23 | qanun.(8): olursa
+2:55:24 | TheEminem.(9): Napalým
+2:55:25 | Kamran_AKT(7): vururuz servere
+2:55:28 | Kamran_AKT(7): ddos atari
+2:55:29 | TeaMStar(6): Bok vurursun
+2:55:29 | qanun.(8): yanlýz trafik polisi varsa
+2:55:31 | TheEminem.(9): Araba istop ediyor
+2:55:33 | Kamran_AKT(7): gerci ddos ne bilmiyorum ama
+2:55:33 | qanun.(8): ben çok
+2:55:34 | TheEminem.(9): Bune laan
+2:55:35 | TeaMStar(6): ayda 300 tl veriyom
+2:55:35 | qanun.(8): ceza yiyecem
+2:55:46 | TheEminem.(9): Araba istop etti
+2:55:46 | [CMD] TeaMStar(6) => /eviolustur
+2:55:48 | TheEminem.(9): Hadi eyv
+2:55:50 | TeaMStar(6): ben afk þu modu yapacam
+2:55:53 | qanun.(8): ya nerden gýttýgýme bak
+2:55:54 | [CMD] TeaMStar(6) => /fulltamir
+2:55:55 | [CMD] TeaMStar(6) => /tamir
+2:55:57 | [CMD] TeaMStar(6) => /atamir
+2:55:59 | [CMD] TeaMStar(6) => /ftamir
+2:56:2 | [CMD] TeaMStar(6) => /tamirfull
+2:56:4 | Kamran_AKT(7): para verin
+2:56:4 | [CMD] TeaMStar(6) => /komutlar
+2:56:13 | TheEminem.(9): Araç kullanýlmaz halde diyo
+2:56:13 | qanun.(8): fakir kamran
+2:56:16 | TheEminem.(9): Napýcaz
+2:56:18 | Kamran_AKT(7): -/vtamir
+2:56:20 | [CMD] TheEminem.(9) => /vtamir
+2:56:21 | qanun.(8): öldün kanka
+2:56:22 | qanun.(8): wasted
+2:56:23 | TheEminem.(9): Ajhahahaa
+2:56:26 | Kamran_AKT(7): wasted
+2:56:28 | [CMD] TeaMStar(6) => /object
+2:56:29 | TheEminem.(9): Tamir yokken
+2:56:29 | [CMD] TeaMStar(6) => /object 1237
+2:56:30 | qanun.(8): kamran
+2:56:31 | TheEminem.(9): Napýcaz
+2:56:33 | [CMD] TeaMStar(6) => /object 1237 2 2 2
+2:56:37 | qanun.(8): uyumadýnmý hala
+2:56:37 | Kamran_AKT(7): he ben bitirdim gorevimi
+2:56:38 | [CMD] Kamran_AKT(7) => /vdondur
+2:56:41 | Kamran_AKT(7): aracin asi dondurecem
+2:56:42 | [CMD] TeaMStar(6) => /odulall
+2:56:42 | qanun.(8): bende býtýyorm
+2:56:42 | [CMD] TeaMStar(6) => /odulall
+2:56:42 | Kamran_AKT(7): yaniyor acill
+2:56:43 | [CMD] TeaMStar(6) => /odulall
+2:56:43 | [CMD] TeaMStar(6) => /odulall
+2:56:43 | [CMD] TeaMStar(6) => /odulall
+2:56:45 | [CMD] TeaMStar(6) => /cc
+2:56:47 | TheEminem.(9): Hll
+2:56:51 | qanun.(8): amdýn reis
+2:56:52 | qanun.(8): adam
+2:56:57 | [CMD] Kamran_AKT(7) => /aracgetir
+2:57:0 | Kamran_AKT(7): araac lazim
+2:57:3 | Kamran_AKT(7): bana acil 
+2:57:5 | [CMD] Kamran_AKT(7) => /vcan
+2:57:5 | TheEminem.(9): sa
+2:57:6 | [CMD] Kamran_AKT(7) => /zirh
+2:57:7 | qanun.(8): as
+2:57:8 | [CMD] Kamran_AKT(7) => /vzirh
+2:57:8 | TheEminem.(9): Kg mal 
+2:57:8 | [CMD] Kamran_AKT(7) => /m2
+2:57:11 | Kamran_AKT(7): ole degil dorse
+2:57:12 | TheEminem.(9): POha araba 
+2:57:12 | [CMD] Kamran_AKT(7) => /git
+2:57:13 | [CMD] Kamran_AKT(7) => /goto
+2:57:14 | TheEminem.(9): çaðýrdý
+2:57:19 | qanun.(8): hakan
+2:57:20 | Kamran_AKT(7): tir lazim 
+2:57:21 | TheEminem.(9): Nasýl aldýn araba
+2:57:22 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:57:22 | qanun.(8): fly koruma varmý
+2:57:24 | TheEminem.(9): Kamran
+2:57:26 | Kamran_AKT(7): ne
+2:57:30 | Kamran_AKT(7): -/m1 falan var
+2:57:31 | TheEminem.(9): O sultaný nasýl and
+2:57:33 | TheEminem.(9): Haa
+2:57:33 | Kamran_AKT(7): vip ala biliyor sadece
+2:57:37 | [CMD] Kamran_AKT(7) => /vipbilgi
+2:57:40 | TheEminem.(9): Vip kalsn sürekli o zaman
+2:57:43 | [CMD] Kamran_AKT(7) => /vskin 268
+2:57:45 | TheEminem.(9): Vip olmasak boku yedik
+2:57:47 | Kamran_AKT(7): sinirsiz ver
+2:57:49 | qanun.(8): ya yok arkadaþ
+2:57:52 | Kamran_AKT(7): sinirsiz ver
+2:57:53 | qanun.(8): ben yolu kaybettim
+2:57:57 | Kamran_AKT(7): amk gorev basarisiz
+2:57:59 | [CMD] Kamran_AKT(7) => /meslek
+2:58:0 | qanun.(8): ya 
+2:58:4 | qanun.(8): benim beynim yandi
+2:58:6 | {FFCC00}Kamran_AKT(7) Otobus Soforu olarak spawn oldu.
+2:58:10 | Kamran_AKT(7): yarram skor ver
+2:58:11 | qanun.(8): nasýl spawn olcam
+2:58:12 | Kamran_AKT(7): farkli meslek olak
+2:58:15 | Kamran_AKT(7): -/meslek
+2:58:15 | [CMD] qanun.(8) => /goreviptal
+2:58:16 | TheEminem.(9): Aynen ha
+2:58:17 | [CMD] qanun.(8) => /meslek
+2:58:23 | {FFCC00}qanun.(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:58:24 | TheEminem.(9): hakan az skor versene
+2:58:24 | Kamran_AKT(7): vip vermiyon bise vermiyon skor ver
+2:58:31 | Kamran_AKT(7): 1kver yeter
+2:58:35 | [CMD] qanun.(8) => /kurallar
+2:58:36 | TheEminem.(9): Bana 2500 ver
+2:58:39 | qanun.(8):  /kurallar
+2:58:40 | Kamran_AKT(7): 2500 ver yeter
+2:58:41 | qanun.(8): yazýn
+2:58:43 | qanun.(8): kabul edýn
+2:58:43 | [CMD] Kamran_AKT(7) => /kurallar
+2:58:48 | TheEminem.(9): ettim
+2:58:48 | Kamran_AKT(7): beless
+2:58:55 | Kamran_AKT(7): 26 skorum var aglayin
+2:58:55 | [CMD] qanun.(8) => /work
+2:59:2 | [CMD] Kamran_AKT(7) => /work
+2:59:2 | TheEminem.(9): Baska para neren alýrýz
+2:59:11 | Kamran_AKT(7): gorev yapiyoruz
+2:59:17 | Kamran_AKT(7): iþ yerleri var galiba
+2:59:24 | TheEminem.(9): Kýrmýzý noktaya gidiyorm
+2:59:24 | Kamran_AKT(7): nitro var her aracta
+2:59:27 | TheEminem.(9): Yok aq
+2:59:29 | [CMD] TeaMStar(6) => /duyuru Alýmlar www.canakkalefr.com da
+2:59:30 | Kamran_AKT(7): var
+2:59:32 | Kamran_AKT(7): basili tut
+2:59:39 | TheEminem.(9): Kýrmýzý noktaya gidiyorm
+2:59:43 | TheEminem.(9): Kýrmýzý nokta yok aq
+2:59:46 | TheEminem.(9): Full gidiyo haritada
+2:59:50 | Kamran_AKT(7): ben daha iþe gidecem
+2:59:51 | qanun.(8): dorse nasýl alýyoz
+2:59:55 | Kamran_AKT(7): -/getdorse
+2:59:58 | qanun.(8): ya telefona sovucem sýmdý
+3:0:0 | [CMD] qanun.(8) => /getdorse
+3:0:9 | [CMD] qanun.(8) => /getdorse
+3:0:20 | qanun.(8): kamran
+3:0:23 | Kamran_AKT(7): he
+3:0:24 | qanun.(8): oyunda arama seyý vamrý
+3:0:28 | Kamran_AKT(7): nasil
+3:0:35 | qanun.(8): telefonum var
+3:0:37 | qanun.(8): arýyamýyom
+3:0:40 | [CMD] TeaMStar(6) => /sac
+3:0:41 | TheEminem.(9): Sanfierro otogar nerde
+3:0:43 | TheEminem.(9): Hay ananý
+3:0:48 | (BANKA) qanun.(8) 2340 nolu banka hesabi olusturdu.
+3:0:58 | (BANKA) Kamran_AKT(7) 2341 nolu banka hesabi olusturdu.
+3:0:59 | TeaMStar(6): siz sabah akþam oynayýn ezverlerisniz :D
+3:1:4 | qanun.(8): banka hesabýmýn þifresi kesinlikle qanun deðil
+3:1:6 | TeaMStar(6): ben buraya 3 yýlýmý verdim
+3:1:12 | [CMD] TeaMStar(6) => /setlevel
+3:1:13 | TheEminem.(9): Olm harbi garip
+3:1:19 | Kamran_AKT(7): skor ver hakan
+3:1:22 | Kamran_AKT(7): 2500 falan hepimize
+3:1:23 | [CMD] qanun.(8) => /work
+3:1:24 | [ANTIHACK] Þüpheli Kamran_AKT(7) => Can-Hilesi
+3:1:27 | TeaMStar(6): Knk kendiniz kasýn 
+3:1:29 | TeaMStar(6): kamran can hilesi
+3:1:31 | {FFCC00}Kamran_AKT(7) Otobus Soforu olarak spawn oldu.
+3:1:32 | TeaMStar(6): yapma.
+3:1:39 | [CMD] Kamran_AKT(7) => /meslek
+3:1:44 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:1:46 | TeaMStar(6): hilleri görüyom haberiniz olsun D:
+3:1:48 | Kamran_AKT(7): yapmiyorum buga giriyorum
+3:1:49 | qanun.(8): hileler çaliþiyromu
+3:1:51 | Kamran_AKT(7): yeminle bise yok
+3:1:52 | qanun.(8): deniyimi
+3:1:55 | [CMD] Kamran_AKT(7) => /pm
+3:1:56 | TeaMStar(6): Kamran kemerini tak
+3:1:56 | qanun.(8): god test
+3:2:1 | [CMD] qanun.(8) => /kemer
+3:2:2 | Kamran_AKT(7): bekleyin bi dakika
+3:2:4 | Kamran_AKT(7): gelccem
+3:2:4 | TeaMStar(6): yoksa ölürsün
+3:2:6 | TeaMStar(6): öyle
+3:2:9 | Kamran_AKT(7): 10 dakika geliyom
+3:2:9 | Kamran_AKT(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:2:27 | qanun.(8): sarýyorda
+3:2:29 | qanun.(8): yanlýþ birþey
+3:2:31 | qanun.(8): yapýcan
+3:2:33 | qanun.(8): ban yýyon
+3:2:34 | qanun.(8): dýmý
+3:2:34 | TheEminem.(9) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:4:38 | qanun.(8): la sað þeritten girdim
+3:4:41 | qanun.(8): sol þerite
+3:4:43 | qanun.(8): para ödedi
+3:4:49 | qanun.(8): saçma
+3:5:7 | TeaMStar(6): hassas onlar
+3:5:14 | TeaMStar(6): degme dikkatli geç
+3:5:30 | [CMD] TeaMStar(6) => /goto 8
+3:5:33 | [CMD] TeaMStar(6) => /goto 8
+3:5:40 | [CMD] TeaMStar(6) => /kemer
+3:5:42 | [CMD] TeaMStar(6) => /modifiyer
+3:5:43 | [CMD] TeaMStar(6) => /modifiye
+3:5:49 | Kamran_AKT(7) oyuna girdi [IP: 194.135.167.79]
+3:5:57 | 
+3:5:57 | [CMD] TeaMStar(6) => /tamir
+3:6:1 | Cenoupix(9) oyuna girdi [IP: 78.190.109.79]
+3:6:2 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:6:11 | Kamran_AKT(7): benim nete
+3:6:14 | Kamran_AKT(7): birisi vuruyor bak
+3:6:20 | TeaMStar(6): :d
+3:6:22 | Kamran_AKT(7): bulursam
+3:6:24 | TeaMStar(6): can dýr :DÇ
+3:6:25 | Kamran_AKT(7): anasini inlete inlete
+3:6:28 | {FFCC00}Cenoupix(9) Otobus Soforu olarak spawn oldu.
+3:6:29 | Kamran_AKT(7): ne alaka
+3:6:36 | [CMD] TeaMStar(6) => /pm 7 adam geldi dikkat et az :d
+3:6:36 | Kamran_AKT(7): komþu kesin
+3:6:40 | [CMD] Kamran_AKT(7) => /pm 6 ok
+3:6:42 | TeaMStar(6): id 9 hoþgeldin,
+3:6:46 | [CMD] TeaMStar(6) => /setvip
+3:6:49 | Cenoupix, 3 gün VIP Oldu
+3:6:49 | [CMD] TeaMStar(6) => /setvip 9 3
+3:6:52 | Cenoupix(9): skor nasýl kazanýyoz
+3:6:57 | TeaMStar(6): görev yaparak
+3:6:57 | [CMD] Cenoupix(9) => /vip
+3:7:0 | Kamran_AKT(7): gorev y aparak
+3:7:3 | TeaMStar(6): týrcý yada otobuscu ol :/work
+3:7:4 | TeaMStar(6): ile baþla
+3:7:6 | [CMD] TeaMStar(6) => /djyap
+3:7:6 | [CMD] Kamran_AKT(7) => /meslek
+3:7:8 | [CMD] qanun.(8) => /getdorse
+3:7:8 | [CMD] TeaMStar(6) => /setdonator
+3:7:10 | {FFCC00}Kamran_AKT(7) Otobus Soforu olarak spawn oldu.
+3:7:13 | [CMD] TeaMStar(6) => /setleveldonator
+3:7:14 | Kamran_AKT(7): ailevi yasak demi
+3:7:14 | [CMD] Cenoupix(9) => /balon
+3:7:17 | [ANTIHACK] Þüpheli Cenoupix(9) => Jetpack-Hilesi
+3:7:18 | [CMD] TeaMStar(6) => /setleveldonator 6 1
+3:7:19 | TeaMStar(6): sence
+3:7:23 | Kamran_AKT(7): degil ve
+3:7:26 | Kamran_AKT(7): patlatiyorum bi tane
+3:7:28 | [CMD] Cenoupix(9) => /vip
+3:7:29 | TeaMStar(6): :/nban
+3:7:29 | Kamran_AKT(7): ooo
+3:7:31 | [CMD] Cenoupix(9) => /vip
+3:7:32 | Kamran_AKT(7): hoyda
+3:7:33 | [CMD] Kamran_AKT(7) => /nban
+3:7:34 | TeaMStar(6): :/ssban
+3:7:36 | [CMD] TeaMStar(6) => /ssban
+3:7:37 | TeaMStar(6): serial
+3:7:38 | Kamran_AKT(7): serial atma
+3:7:40 | Kamran_AKT(7): jawdjwa
+3:7:42 | [CMD] Cenoupix(9) => /ssban
+3:7:42 | [CMD] Cenoupix(9) => /otorenk
+3:7:44 | Cenoupix(9): s
+3:7:47 | [CMD] Cenoupix(9) => /yardim
+3:7:48 | TeaMStar(6): :/sa :/as
+3:7:50 | [CMD] Kamran_AKT(7) => /kemer
+3:7:51 | TeaMStar(6): :/komutlar
+3:7:53 | [CMD] Kamran_AKT(7) => /sa
+3:7:55 | [CMD] Kamran_AKT(7) => /as
+3:7:55 | [CMD] TeaMStar(6) => /as
+3:7:56 | [CMD] Kamran_AKT(7) => /sa
+3:7:56 | [CMD] Kamran_AKT(7) => /sa
+3:7:57 | [CMD] Kamran_AKT(7) => /sa
+3:7:57 | [CMD] Kamran_AKT(7) => /sa
+3:7:59 | [CMD] TeaMStar(6) => /uyar
+3:7:59 | Kamran_AKT(7): spam atiliyor
+3:8:1 | [CMD] TeaMStar(6) => /uyar 7 flood
+3:8:1 | Kamran_AKT(7): dakika koy
+3:8:2 | [CMD] Cenoupix(9) => /vip
+3:8:6 | TeaMStar(6): koyuyom bak
+3:8:6 | Kamran_AKT(7): test ediyorum lan
+3:8:15 | Kamran_AKT(7): 3 uyarida ne olur
+3:8:18 | qanun.(8): kamran
+3:8:18 | Kamran_AKT(7): ban yemem demi
+3:8:18 | TeaMStar(6): koyuyom bak
+3:8:19 | [CMD] Cenoupix(9) => /balon
+3:8:20 | qanun.(8): senýn yzüden
+3:8:20 | Kamran_AKT(7): he
+3:8:20 | [CMD] TeaMStar(6) => /uyar 7 flood
+3:8:21 | [CMD] TeaMStar(6) => /uyar 7 flood
+3:8:21 | Kamran_AKT(7) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:8:22 | qanun.(8): yanlýþ yol giridm
+3:8:30 | [CMD] TeaMStar(6) => /c
+3:8:32 | [CMD] TeaMStar(6) => /ctemizle
+3:8:34 | [CMD] Cenoupix(9) => /kemer
+3:8:38 | TeaMStar(6): kendi sordu D:
+3:8:39 | [CMD] Cenoupix(9) => /motor
+3:8:52 | [CMD] TeaMStar(6) => /tamir
+3:8:54 | Kamran_AKT(7) oyuna girdi [IP: 194.135.167.79]
+3:9:0 | [CMD] Cenoupix(9) => /tamir
+3:9:4 | 
+3:9:6 | [LOCAL]TeaMStar(6): geliyom
+3:9:6 | [CMD] TeaMStar(6) => /l geliyom
+3:9:6 | {FFCC00}Kamran_AKT(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:9:9 | [CMD] qanun.(8) => /kemer
+3:9:10 | Kamran_AKT(7): bu serverin ismi ne
+3:9:13 | Kamran_AKT(7): canakkalemi
+3:9:14 | qanun.(8): çanakkale
+3:9:22 | Kamran_AKT(7): iyi
+3:9:35 | [CMD] Cenoupix(9) => /balon
+3:9:38 | [CMD] TeaMStar(6) => /pm 9 :/kurallar yaz kabul et
+3:9:41 | [CMD] TeaMStar(6) => /odul 9
+3:9:45 | Kamran_AKT(7): peki biz
+3:9:49 | qanun.(8): biz aldýk zaten
+3:9:51 | [CMD] Cenoupix(9) => /meslek
+3:9:52 | TeaMStar(6): verdim size
+3:9:54 | Kamran_AKT(7): almadik
+3:9:57 | Kamran_AKT(7): yalann
+3:9:58 | {FFCC00}Cenoupix(9) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:9:58 | [CMD] Kamran_AKT(7) => /work
+3:10:9 | TeaMStar(6): ben geliyom ev sistemini yaptým
+3:10:12 | [CMD] Cenoupix(9) => /motor
+3:10:14 | [CMD] Kamran_AKT(7) => /getdorse
+3:10:18 | TeaMStar(6): atam sisteme sonra bi res atayým
+3:10:19 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:10:20 | [CMD] Cenoupix(9) => /kemer
+3:10:29 | Cenoupix(9): kamar
+3:10:34 | [CMD] Kamran_AKT(7) => /getdorse
+3:10:37 | Cenoupix(9): kamar
+3:10:39 | [CMD] Cenoupix(9) => /warp
+3:10:40 | pkl(6) oyuna girdi [IP: 177.192.38.119]
+3:10:40 | [CMD] Cenoupix(9) => /kick
+3:10:43 | [CMD] Cenoupix(9) => /yardim
+3:10:43 | Kamran_AKT(7): dorse me biseler oluyo
+3:10:46 | [CMD] Kamran_AKT(7) => /getdorse
+3:10:55 | Kamran_AKT(7): dorsemi hacklediler
+3:11:5 | [CMD] Kamran_AKT(7) => /getdorse
+3:11:17 | [CMD] Cenoupix(9) => /kemer
+3:11:17 | Kamran_AKT(7): internetime vuruyolar bak
+3:11:19 | [CMD] qanun.(8) => /goreviptal
+3:11:23 | [CMD] Kamran_AKT(7) => /kemer
+3:11:26 | 
+3:11:30 | pkl(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:11:36 | qanun.(8): s
+3:11:40 | [CMD] qanun.(8) => /vipcmds
+3:11:42 | [CMD] qanun.(8) => /yardim
+3:11:49 | [CMD] Cenoupix(9) => /tamir
+3:11:56 | [CMD] Cenoupix(9) => /para
+3:11:58 | [CMD] Cenoupix(9) => /hesoyamwa
+3:12:22 | Kamran_AKT(7): meslek degisecem bu tirci da dorse gidiyeah
+3:12:33 | [CMD] Kamran_AKT(7) => /vtamir
+3:12:33 | qanun.(8): kamran
+3:12:35 | [CMD] Cenoupix(9) => /meslek
+3:12:38 | qanun.(8): sen yetkýlý degýlmsýn
+3:12:39 | Kamran_AKT(7): he
+3:12:39 | qanun.(8): olm
+3:12:40 | [CMD] Cenoupix(9) => /meslek
+3:12:41 | [ANTIHACK] Þüpheli Kamran_AKT(7) => Airbreak-hack
+3:12:41 | Kamran_AKT(7) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:12:46 | [ANTIHACK] Þüpheli qanun.(8) => Can-Hilesi
+3:12:46 | qanun.(8) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:12:48 | {FFCC00}Cenoupix(9) Otobus Soforu olarak spawn oldu.
+3:12:58 | [CMD] Cenoupix(9) => /skor
+3:13:0 | [CMD] Cenoupix(9) => /yardim
+3:13:14 | Kamran_AKT(6) oyuna girdi [IP: 194.135.167.79]
+3:13:17 | [CMD] Cenoupix(9) => /kemer
+3:13:32 | 
+3:13:34 | {FFCC00}Kamran_AKT(6) Otobus Soforu olarak spawn oldu.
+3:13:36 | [CMD] Cenoupix(9) => /ban
+3:13:38 | [CMD] Cenoupix(9) => /kick
+3:13:39 | Kamran_AKT(6): bak ya
+3:13:40 | [CMD] Cenoupix(9) => /mute
+3:13:42 | [CMD] Cenoupix(9) => /warp
+3:13:47 | Kamran_AKT(6): internetime vuruyolar
+3:14:10 | [CMD] Kamran_AKT(6) => /work
+3:14:10 | [CMD] Kamran_AKT(6) => /kemer
+3:14:22 | [CMD] Kamran_AKT(6) => /work
+3:14:30 | [CMD] Kamran_AKT(6) => /goreviptal
+3:14:37 | [CMD] Kamran_AKT(6) => /gorev
+3:14:38 | [CMD] Kamran_AKT(6) => /work
+3:14:40 | [CMD] Cenoupix(9) => /kemerw
+3:14:42 | [CMD] Cenoupix(9) => /kemer
+3:14:56 | [ANTIHACK] Þüpheli Kamran_AKT(6) => Airbreak-hack
+3:14:56 | Kamran_AKT(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:15:36 | Kamran_AKT(6) oyuna girdi [IP: 194.135.167.79]
+3:15:49 | Cenoupix(9): beyler gorev nasýl baþlatacam
+3:15:59 | 
+3:16:3 | TeaMStar(7) oyuna girdi [IP: 78.190.250.195]
+3:16:5 | {FFCC00}Kamran_AKT(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:16:7 | Kamran_AKT(6): -/work
+3:16:11 | 
+3:16:13 | TeaMStar(7) Cöpcü olarak spawn oldu.
+3:16:16 | TeaMStar(7): þimdi
+3:16:20 | Kamran_AKT(6): evet
+3:16:22 | Cenoupix(9): team star
+3:16:25 | TeaMStar(7): bi res atam
+3:16:27 | Kamran_AKT(6): hayir
+3:16:33 | TeaMStar(7): ne hayýr
+3:16:35 | [CMD] TeaMStar(7) => /odul 6
+3:16:38 | [CMD] TeaMStar(7) => /admgiris
+3:16:38 | Kamran_AKT(6): gorevyapiyorum
+3:16:39 | [CMD] Kamran_AKT(6) => /work
+3:16:48 | [ANTIHACK] Þüpheli Kamran_AKT(6) => Airbreak-hack
+3:16:49 | Kamran_AKT(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:16:50 | Cenoupix(9): gorev nasýl baþlatýlýyoa
+3:16:53 | TeaMStar(7): :/work
+3:16:56 | [CMD] Cenoupix(9) => /work
+3:16:56 | [CMD] TeaMStar(7) => /admgiris
+3:17:3 | [CMD] Cenoupix(9) => /tamir
+3:17:4 | [CMD] TeaMStar(7) => /spanelsifregir
+3:17:11 | TeaMStar SPanel'e giriþ yaptý.
+3:17:16 | TeaMStar(7): .
+3:17:25 | [CMD] TeaMStar(7) => /admins
+3:17:29 | [CMD] TeaMStar(7) => /setlevel 7 7
+3:17:33 | [CMD] TeaMStar(7) => /admsifre
+3:17:36 | [CMD] TeaMStar(7) => /admsifre 7 hakanbaba
+3:17:40 | TeaMStar(7): .
+3:17:41 | [CMD] TeaMStar(7) => /res
+3:17:43 | [CMD] TeaMStar(7) => /res
+3:17:44 | [CMD] TeaMStar(7) => /resat
+3:17:46 | [CMD] TeaMStar(7) => /komutlar
+3:17:53 | Kamran_AKT(6) oyuna girdi [IP: 194.135.167.79]
+3:18:9 | 
+3:18:13 | {FFCC00}Kamran_AKT(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:18:15 | [CMD] Kamran_AKT(6) => /sac
+3:18:17 | [CMD] Kamran_AKT(6) => /sac
+3:18:18 | [CMD] TeaMStar(7) => /restart
+3:18:20 | [CMD] Kamran_AKT(6) => /mkapat
+3:18:20 | [CMD] TeaMStar(7) => /restart 1
+3:18:22 | [CMD] Kamran_AKT(6) => /mdurdur
+3:18:24 | Kamran_AKT(6): hay
+3:18:30 | Kamran_AKT(6): geldiginde para dagit
+3:18:32 | [CMD] TeaMStar(7) => /kick
+3:18:32 | Kamran_AKT(6): soverim
+3:18:34 | [KICK] TeaMStar(7), Kamran_AKT(6)'i sunucudan attý. Sebep: .
+3:18:34 | [CMD] TeaMStar(7) => /kick 6 .
+3:18:34 | Kamran_AKT(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:18:38 | [KICK] TeaMStar(7), Cenoupix(9)'i sunucudan attý. Sebep: res
+3:18:38 | [CMD] TeaMStar(7) => /kick 9 res
+3:18:38 | Cenoupix(9) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:18:39 | TeaMStar(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:19:41 | Kamran_AKT(0) oyuna girdi [IP: 194.135.167.79]
+3:19:41 | Kamran_AKT(0) oyundan cIktI (KendI IstegIyle) (IP: 194.135.167.79)
+3:19:41 | Sunucu kapatildi.
+3:19:54 | Sunucu calistirildi.
+3:19:54 | Kamran_AKT(0) oyuna girdi [IP: 194.135.167.79]
+3:19:58 | TeaMStar(7) oyuna girdi [IP: 78.190.250.195]
+3:20:8 | 
+3:20:10 | {FFCC00}TeaMStar(7) Otobus Soforu olarak spawn oldu.
+3:20:15 | [CMD] TeaMStar(7) => /eviolustur
+3:20:18 | [CMD] TeaMStar(7) => /admgiris
+3:20:23 | [CMD] TeaMStar(7) => /eviolustur
+3:20:25 | Kamran_AKT(0) oyundan cIktI (Hata/Crash) (IP: 194.135.167.79)
+3:20:29 | TeaMStar(7): oh be ev sistemi olmus
+3:21:3 | [CMD] TeaMStar(7) => /car
+3:21:4 | [CMD] TeaMStar(7) => /car elegy
+3:21:4 | Kamran_AKT(0) oyuna girdi [IP: 194.135.167.79]
+3:21:6 | [CMD] TeaMStar(7) => /car elegy 0 6
+3:21:9 | [CMD] TeaMStar(7) => /modifiye
+3:21:14 | [CMD] TeaMStar(7) => /modifiye
+3:21:15 | 
+3:21:17 | {FFCC00}Kamran_AKT(0) Otobus Soforu olarak spawn oldu.
+3:21:19 | Kamran_AKT(0): hakan
+3:21:21 | TeaMStar(7): ?
+3:21:23 | Kamran_AKT(0): senden bise rica edicem
+3:21:25 | Kamran_AKT(0): alfayi biraktinmi
+3:21:29 | TeaMStar(7): no
+3:21:33 | Kamran_AKT(0): oynicanmi
+3:21:33 | TeaMStar(7): niye býrakam
+3:21:35 | TeaMStar(7): evet
+3:21:36 | [CMD] TeaMStar(7) => /vtamir
+3:21:39 | Kamran_AKT(0): benim 10 seviye ev var
+3:21:43 | Kamran_AKT(0): senin 11 le degisekmi
+3:21:47 | TeaMStar(7): Hayýr
+3:21:52 | Kamran_AKT(0): bekirle komþu olacaz 
+3:21:54 | TeaMStar(7): 11 level ev mapi benim
+3:21:57 | Kamran_AKT(0): tamsorun yok
+3:22:1 | Kamran_AKT(0): açtýrrým
+3:22:5 | TeaMStar(7): Hayýr
+3:22:9 | Kamran_AKT(0): ne hayýrý
+3:22:9 | [CMD] TeaMStar(7) => /gisedegis
+3:22:10 | [CMD] TeaMStar(7) => /gisedegis
+3:22:13 | [CMD] TeaMStar(7) => /gidesahip
+3:22:15 | Kamran_AKT(0): açtýrýcam orda
+3:22:18 | [CMD] TeaMStar(7) => /gisesahip
+3:22:22 | [CMD] TeaMStar(7) => /gisesahip TeaMStar
+3:22:22 | Kamran_AKT(0): ahada merakli verdi
+3:22:24 | TeaMStar(7): Orda derken
+3:22:25 | Kamran_AKT(0): beleþþ
+3:22:28 | Kamran_AKT(0): senin yaninda 
+3:22:29 | [CMD] TeaMStar(7) => /sifredegis
+3:22:30 | Kamran_AKT(0): evinin orda
+3:22:37 | TeaMStar(7): Ha acýorsan ac yanýma
+3:22:39 | TeaMStar(7): beni baglamaz
+3:22:41 | TeaMStar(7): benimkine karýþma
+3:22:41 | Kamran_AKT(0): ayn
+3:22:45 | Kamran_AKT(0): ok sorun yok
+3:22:45 | [CMD] TeaMStar(7) => /gisesahip
+3:22:49 | [CMD] TeaMStar(7) => /gisesahip TeaMStar
+3:22:54 | Kamran_AKT(0): teleport hack le iþýnlanýyorum ben
+3:22:59 | Kamran_AKT(0): o bugu kapat
+3:23:5 | TeaMStar(7): report geliyor yarýn farkederlerse
+3:23:7 | TeaMStar(7): gg olursn
+3:23:9 | TeaMStar(7): karýsmýyorum
+3:23:12 | Kamran_AKT(0): ok
+3:23:12 | Swindlerr(8) oyuna girdi [IP: 88.230.171.91]
+3:23:17 | [CMD] TeaMStar(7) => /cleanupcars
+3:23:20 | Kamran_AKT(0): yarram zaten tirci oynamiyorum ben
+3:23:23 | [CMD] TeaMStar(7) => /eviolustur
+3:23:27 | [CMD] TeaMStar(7) => /eviolustur 1 11
+3:23:29 | [CMD] TeaMStar(7) => /satinal
+3:23:30 | Kamran_AKT(0): senin hatrina ho suna geldim
+3:23:31 | [CMD] TeaMStar(7) => /evial
+3:23:33 | [CMD] TeaMStar(7) => /eval
+3:23:35 | Kamran_AKT(0): serial atsan en yazar þd
+3:23:37 | 
+3:23:39 | [CMD] Kamran_AKT(0) => /work
+3:23:44 | TeaMStar(7): evide aldým
+3:23:44 | [CMD] Kamran_AKT(0) => /meslek
+3:23:45 | TeaMStar(7): tamamdýr
+3:23:47 | [CMD] TeaMStar(7) => /evmenu
+3:23:49 | {FFCC00}Kamran_AKT(0) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:23:49 | [CMD] TeaMStar(7) => /ev
+3:23:50 | {FFCC00}Swindlerr(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:23:59 | Swindlerr(8): selamun aleyküm
+3:24:1 | Kamran_AKT(0): as
+3:24:4 | [CMD] Kamran_AKT(0) => /as
+3:24:7 | Swindlerr(8): alým varmý 
+3:24:11 | Kamran_AKT(0): alimlar forumdan
+3:24:12 | [CMD] TeaMStar(7) => /as
+3:24:15 | TeaMStar(7): Forumda var
+3:24:20 | [CMD] Kamran_AKT(0) => /work
+3:24:22 | [CMD] TeaMStar(7) => /setlevel
+3:24:24 | [CMD] TeaMStar(7) => /setvip
+3:24:26 | Swindlerr(8): forum adresi ne
+3:24:27 | Swindlerr, 3 gün VIP Oldu
+3:24:27 | [CMD] TeaMStar(7) => /setvip 8 3
+3:24:52 | Kamran_AKT(0): benim vipi al tekrar ver
+3:24:54 | Kamran_AKT(0): bugda
+3:24:56 | TeaMStar(7): canakkalefr.com
+3:25:0 | [CMD] TeaMStar(7) => /setvip
+3:25:1 | Swindlerr, 3 gün VIP Oldu
+3:25:1 | [CMD] TeaMStar(7) => /setvip 8 3
+3:25:4 | Swindlerr, 0 gün VIP Oldu
+3:25:4 | [CMD] TeaMStar(7) => /setvip 8 0
+3:25:5 | Swindlerr, 3 gün VIP Oldu
+3:25:5 | [CMD] TeaMStar(7) => /setvip 8 3
+3:25:7 | [CMD] TeaMStar(7) => /vipler
+3:25:7 | Kamran_AKT(0): beni diyorum
+3:25:17 | TeaMStar(7): bugda degil
+3:25:22 | TeaMStar(7): seninki
+3:25:23 | Kamran_AKT(0): caktirmasana
+3:25:23 | [CMD] TeaMStar(7) => /vipal
+3:25:26 | TeaMStar(7): D:
+3:25:26 | Kamran_AKT(0): 3 gun yapicam
+3:25:32 | Kamran_AKT(0): uzatsana 4 gun yap beni
+3:25:38 | TeaMStar(7): id 8 :(kurallar kabul et
+3:25:39 | Kamran_AKT(0): oynamiyom zaten sinirsiz yap istersen
+3:25:40 | TeaMStar(7): yazýp
+3:25:43 | [CMD] Kamran_AKT(0) => /kurallar
+3:25:44 | Swindlerr(8): nasýl ediyoz
+3:25:45 | [CMD] TeaMStar(7) => /odul 8
+3:25:46 | [CMD] Kamran_AKT(0) => /kurallar
+3:25:50 | TeaMStar(7): :/kurallar
+3:25:51 | Kamran_AKT(0): skor ver
+3:25:54 | [CMD] Swindlerr(8) => /kurallar
+3:25:55 | TeaMStar(7): skor geliyor ordan
+3:26:1 | Kamran_AKT(0): baska nerden geliyo
+3:26:1 | TeaMStar(7): tammdýr
+3:26:6 | Swindlerr(8): forum neydi giricemde
+3:26:8 | TeaMStar(7): baska yer yok ben afk forumu yapam
+3:26:12 | TeaMStar(7): www.canakkalefr.com
+3:26:21 | Kamran_AKT(0): bide
+3:26:25 | Kamran_AKT(0): hakan
+3:26:28 | Kamran_AKT(0): benim ismimi degistir 
+3:26:32 | Kamran_AKT(0): bunla oynamasam olurmu
+3:26:44 | Kamran_AKT(0): Russell yap
+3:27:15 | [CMD] Kamran_AKT(0) => /getdorse
+3:27:22 | [CMD] Kamran_AKT(0) => /meslek
+3:27:25 | [CMD] Kamran_AKT(0) => /meslek
+3:27:27 | [CMD] Kamran_AKT(0) => /goreviptal
+3:27:28 | [CMD] Kamran_AKT(0) => /meslek
+3:27:31 | {FFCC00}Kamran_AKT(0) Otobus Soforu olarak spawn oldu.
+3:27:48 | [CMD] Kamran_AKT(0) => /kemer
+3:27:51 | [CMD] Kamran_AKT(0) => /work
+3:27:52 | [CMD] Kamran_AKT(0) => /kemer
+3:28:4 | [ANTIHACK] Þüpheli Kamran_AKT(0) => Airbreak-hack
+3:28:10 | Swindlerr(8): foruma girdim alýmlara nereden bakýyoz
+3:28:12 | Swindlerr(8): foruma girdim alýmlara nereden bakýyoz
+3:28:14 | [CMD] Kamran_AKT(0) => /motor
+3:28:29 | Kamran_AKT(0): hakan efsane server
+3:28:33 | Kamran_AKT(0): sevdim tum hileleri acip oynicam
+3:28:35 | [CMD] Swindlerr(8) => /vip
+3:28:43 | [CMD] Kamran_AKT(0) => /VTAMIR
+3:29:21 | Swindlerr(8): foruma girdim alýmlara nereden bakýyoz
+3:29:23 | Swindlerr(8): foruma girdim alýmlara nereden bakýyoz
+3:29:27 | [ANTIHACK] Þüpheli Kamran_AKT(0) => Airbreak-hack
+3:29:36 | Kamran_AKT(0): TAKTIK BULDUM
+3:29:54 | [CMD] Kamran_AKT(0) => /vtamir
+3:29:57 | Kamran_AKT(0): hgakan
+3:30:3 | TeaMStar(7): Tamam yaptým
+3:30:5 | Kamran_AKT(0): hakan
+3:30:11 | Kamran_AKT(0): nasi araci duzeltecez
+3:30:12 | TeaMStar(7): duyurular kýsmýnda
+3:30:14 | TeaMStar(7): :/cevir
+3:30:16 | Kamran_AKT(0): cevrildiyse
+3:30:17 | [CMD] Kamran_AKT(0) => /cevir
+3:30:18 | Swindlerr(8): tamam
+3:30:28 | TeaMStar(7): azýcýk :/komutlar okusan
+3:30:32 | TeaMStar(7): valla býktým
+3:30:37 | Kamran_AKT(0): yokla salla sen varsin
+3:30:39 | [CMD] Kamran_AKT(0) => /komutlar
+3:30:45 | [ANTIHACK] Þüpheli Kamran_AKT(0) => Airbreak-hack
+3:30:48 | TeaMStar(7): Kamran
+3:30:51 | [CMD] TeaMStar(7) => /spec
+3:30:52 | [CMD] TeaMStar(7) => /spec 0
+3:30:53 | Kamran_AKT(0): otovitesmi iyi otomatikvitesmi
+3:30:58 | [LOCAL]TeaMStar(7): sövemmi illa
+3:30:58 | [CMD] TeaMStar(7) => /l sövemmi illa
+3:31:4 | [LOCAL]TeaMStar(7): hile report geliyor ba kaç kere
+3:31:4 | [CMD] TeaMStar(7) => /l  hile report geliyor ba kaç kere
+3:31:13 | [LOCAL]TeaMStar(7): bura emkatu gdiiyor
+3:31:13 | [CMD] TeaMStar(7) => /l bura emkatu gdiiyor
+3:31:17 | [LOCAL]TeaMStar(7): sen nereye gidiy
+3:31:17 | [CMD] TeaMStar(7) => /l sen nereye gidiy
+3:31:40 | [CMD] TeaMStar(7) => /labelekle
+3:31:43 | [CMD] TeaMStar(7) => /labelolustur
+3:31:50 | [LOCAL]Kamran_AKT(0): ev versene
+3:31:50 | [CMD] Kamran_AKT(0) => /l ev versene
+3:31:50 | [CMD] TeaMStar(7) => /labelolustur varsa sekliniz tünele bekleriz
+3:31:56 | [CMD] TeaMStar(7) => /labelsil
+3:31:57 | [CMD] TeaMStar(7) => /labelsil 2
+3:32:0 | [CMD] TeaMStar(7) => /specoff
+3:32:0 | {FFCC00}TeaMStar(7) Otobus Soforu olarak spawn oldu.
+3:32:2 | [CMD] TeaMStar(7) => /goto 2
+3:32:8 | [CMD] TeaMStar(7) => /goto 0
+3:32:13 | [CMD] Kamran_AKT(0) => /cevir
+3:32:13 | [CMD] TeaMStar(7) => /goto 0
+3:32:18 | TeaMStar(7): amac ?
+3:32:23 | Kamran_AKT(0): amac derken
+3:32:29 | [CMD] Kamran_AKT(0) => /vtamir
+3:32:32 | [CMD] TeaMStar(7) => /get 0
+3:32:33 | Kamran_AKT(0): ev versene bi tane
+3:32:34 | TeaMStar(7): yol burdada
+3:32:41 | [LOCAL]Kamran_AKT(0): nerden
+3:32:41 | [CMD] Kamran_AKT(0) => /l nerden
+3:32:41 | TeaMStar(7): kendin kasabilrisn
+3:32:44 | Kamran_AKT(0): ev nasil alacaz
+3:32:46 | Kamran_AKT(0): onu soyle nerde evler
+3:32:48 | TeaMStar(7): otogar burdan
+3:32:52 | TeaMStar(7): ev yarýn olusturulacak
+3:32:57 | TeaMStar(7): otogar burdna
+3:32:58 | TeaMStar(7): diyom
+3:32:58 | Kamran_AKT(0): olustursana
+3:33:2 | TeaMStar(7): surayý gel oku
+3:33:4 | Kamran_AKT(0): ben burdan girecem
+3:33:11 | TeaMStar(7): iyi giris varda sanki ordan
+3:33:17 | [CMD] TeaMStar(7) => /veh
+3:33:19 | Kamran_AKT(0): banane
+3:33:23 | [CMD] TeaMStar(7) => /arenk
+3:33:24 | [CMD] TeaMStar(7) => /arenk 0 6
+3:33:25 | [CMD] TeaMStar(7) => /renk
+3:33:28 | [CMD] TeaMStar(7) => /arenk
+3:33:31 | [CMD] TeaMStar(7) => /arenk1
+3:33:32 | [CMD] TeaMStar(7) => /arenk1 0 6
+3:33:36 | Kamran_AKT(0): yardim et
+3:33:42 | TeaMStar(7): Beni baglamaz
+3:33:45 | TeaMStar(7): o yolu seçtin
+3:33:47 | Kamran_AKT(0): buraya girmiyor
+3:34:6 | [CMD] Kamran_AKT(0) => /komutlar
+3:34:12 | [CMD] TeaMStar(7) => /get 0
+3:34:15 | Kamran_AKT(0): lan
+3:34:18 | Kamran_AKT(0): aracim kaldi
+3:34:20 | [CMD] Kamran_AKT(0) => /balon
+3:34:25 | TeaMStar(7): hem cek diyon :D
+3:34:32 | Kamran_AKT(0): aracimi ver
+3:34:33 | TeaMStar(7): :/db den id bak
+3:34:34 | Kamran_AKT(0): 38 saniye bak
+3:34:35 | TeaMStar(7): birdahakine
+3:34:35 | [CMD] Kamran_AKT(0) => /db
+3:34:37 | TeaMStar(7): o gitti 
+3:34:42 | Kamran_AKT(0): nasi giderr
+3:34:43 | [CMD] TeaMStar(7) => /odul 
+3:34:44 | Kamran_AKT(0): bana para ver
+3:34:45 | [CMD] TeaMStar(7) => /odul 0
+3:34:48 | Kamran_AKT(0): sana cek diyenmi oldu
+3:34:51 | Kamran_AKT(0): hayir yetmez
+3:34:52 | TeaMStar(7): evet
+3:34:54 | Kamran_AKT(0): seni sikayet edicem sahibe
+3:34:58 | Kamran_AKT(0): sen degilsin ya sahip
+3:35:2 | Kamran_AKT(0): sahipe sikayet edicem
+3:35:3 | TeaMStar(7): ok yarýn geliyor et
+3:35:12 | Kamran_AKT(0): gitti lan dorse
+3:35:13 | TeaMStar(7): kamran
+3:35:15 | Kamran_AKT(0): teleport hackle gelmistim amk
+3:35:18 | [CMD] Kamran_AKT(0) => /balon
+3:35:18 | TeaMStar(7): ahira girmek istermisn
+3:35:22 | Kamran_AKT(0): isterim
+3:35:23 | [CMD] TeaMStar(7) => /cleanupcars
+3:35:25 | [CMD] TeaMStar(7) => /ahir
+3:35:26 | [CMD] TeaMStar(7) => /ahir 0
+3:35:26 | Kamran_AKT(0): para varmi orda
+3:35:30 | [CMD] TeaMStar(7) => /ahir 0
+3:35:31 | Kamran_AKT(0): yapma
+3:35:33 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:33 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:34 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:36 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:37 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:38 | Kamran_AKT(0): yapma orosbu
+3:35:41 | Kamran_AKT(0): ibine yapma
+3:35:41 | [CMD] TeaMStar(7) => /ahir 0
+3:35:43 | [CMD] TeaMStar(7) => /ahir 0
+3:35:44 | [CMD] TeaMStar(7) => /ahir 0
+3:35:45 | [CMD] TeaMStar(7) => /ahir 0
+3:35:48 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:48 | Kamran_AKT(0): yardim edin
+3:35:48 | [CMD] TeaMStar(7) => /ahirjob 0
+3:35:55 | Kamran_AKT(0): senin sunucuna gelende kahbahat
+3:35:57 | [CMD] TeaMStar(7) => /odul 0
+3:35:58 | [CMD] TeaMStar(7) => /odul 0
+3:35:58 | [LOCAL]Kamran_AKT(0): pic 
+3:35:58 | [CMD] Kamran_AKT(0) => /l pic 
+3:35:59 | [CMD] TeaMStar(7) => /odul 0
+3:36:1 | [LOCAL]Kamran_AKT(0): istemiyorum
+3:36:1 | [CMD] Kamran_AKT(0) => /l istemiyorum
+3:36:3 | [CMD] TeaMStar(7) => /spawn 0
+3:36:3 | {FFCC00}Kamran_AKT(0) Otobus Soforu olarak spawn oldu.
+3:36:4 | [LOCAL]Kamran_AKT(0): hayirr
+3:36:4 | [CMD] Kamran_AKT(0) => /l hayirr
+3:36:5 | [CMD] TeaMStar(7) => /setski
+3:36:6 | [CMD] TeaMStar(7) => /setskin
+3:36:8 | [CMD] TeaMStar(7) => /setskin 0 15
+3:36:11 | [LOCAL]Kamran_AKT(0): hakan
+3:36:11 | [CMD] Kamran_AKT(0) => /l hakan
+3:36:12 | [CMD] TeaMStar(7) => /spawn 7
+3:36:12 | {FFCC00}TeaMStar(7) Otobus Soforu olarak spawn oldu.
+3:36:15 | [CMD] TeaMStar(7) => /goto 0
+3:36:16 | [LOCAL]Kamran_AKT(0): hakan
+3:36:16 | [CMD] Kamran_AKT(0) => /l hakan
+3:36:19 | [CMD] Kamran_AKT(0) => /helpop
+3:36:20 | [CMD] TeaMStar(7) => /goto 0
+3:36:25 | [LOCAL]Kamran_AKT(0): bana skor versene 200 yap
+3:36:25 | [CMD] Kamran_AKT(0) => /l bana skor versene 200 yap
+3:36:33 | Swindlerr(8): forumu doldurdum
+3:36:33 | [LOCAL]TeaMStar(7): buakdar yeterli
+3:36:33 | [CMD] TeaMStar(7) => /l buakdar yeterli
+3:36:36 | [LOCAL]Kamran_AKT(0): ozaman
+3:36:36 | [CMD] Kamran_AKT(0) => /l ozaman
+3:36:38 | [LOCAL]Kamran_AKT(0): ismimi degis
+3:36:38 | [CMD] Kamran_AKT(0) => /l ismimi degis
+3:36:39 | [LOCAL]Kamran_AKT(0): ismimi degis
+3:36:39 | [CMD] Kamran_AKT(0) => /l ismimi degis
+3:36:40 | [CMD] TeaMStar(7) => /adminol
+3:36:41 | Swindlerr(8): ne zaman dönerler
+3:36:45 | [LOCAL]Kamran_AKT(0): ismimi degis
+3:36:45 | [CMD] Kamran_AKT(0) => /l ismimi degis
+3:36:47 | [LOCAL]Kamran_AKT(0): bari amk
+3:36:47 | [CMD] Kamran_AKT(0) => /l bari amk
+3:36:49 | TeaMStar(7): 2 güne açýklanýr orda
+3:36:50 | [LOCAL]Kamran_AKT(0): Russell
+3:36:50 | [CMD] Kamran_AKT(0) => /l Russell
+3:36:51 | [LOCAL]Kamran_AKT(0): Russell
+3:36:51 | [CMD] Kamran_AKT(0) => /l Russell
+3:36:52 | [LOCAL]TeaMStar(7): degiþmiyor o
+3:36:52 | [CMD] TeaMStar(7) => /l degiþmiyor o
+3:36:55 | [LOCAL]TeaMStar(7): ne yazýký
+3:36:55 | [CMD] TeaMStar(7) => /l ne yazýký
+3:36:56 | [LOCAL]Kamran_AKT(0): amk senin
+3:36:56 | [CMD] Kamran_AKT(0) => /l amk senin
+3:36:56 | TeaMStar(7): 7isimdegis
+3:36:58 | [CMD] TeaMStar(7) => /isimdegis
+3:37:0 | [CMD] Kamran_AKT(0) => /isimdegis
+3:37:1 | [LOCAL]TeaMStar(7): yok öyle bi komut
+3:37:1 | [CMD] TeaMStar(7) => /l yok öyle bi komut
+3:37:2 | [CMD] Kamran_AKT(0) => /isimdegistir
+3:37:2 | [CMD] TeaMStar(7) => /cc
+3:37:5 | [CMD] Kamran_AKT(0) => /isimdegistir
+3:37:11 | [CMD] TeaMStar(7) => /adminol
+3:37:12 | [LOCAL]Kamran_AKT(0): teleport hackle giderim ben
+3:37:12 | [CMD] Kamran_AKT(0) => /l teleport hackle giderim ben
+3:37:16 | TeaMStar(7): Hadi herkese ii oyunlar
+3:37:17 | [CMD] Kamran_AKT(0) => /work
+3:37:19 | TeaMStar(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:37:19 | [LOCAL]Kamran_AKT(0): izle
+3:37:19 | [CMD] Kamran_AKT(0) => /l izle
+3:37:24 | Kamran_AKT(0) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:37:43 | {FFCC00}Swindlerr(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:37:58 | [ANTIHACK] Þüpheli Swindlerr(8) => Airbreak-hack
+3:37:58 | Swindlerr(8) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:39:48 | haso(0) oyuna girdi [IP: 88.230.198.48]
+3:40:59 | xqHost(7) oyuna girdi [IP: 176.234.17.235]
+3:41:11 | {FFCC00}xqHost(7) Otobus Soforu olarak spawn oldu.
+3:41:12 | haso(0) oyundan cIktI (Hata/Crash) (IP: 88.230.198.48)
+3:41:27 | xqHost(7): lan
+3:42:13 | [CMD] xqHost(7) => /ban
+3:42:15 | xqHost(7): orrrospu
+3:42:18 | xqHost(7): HHHHHHHT
+3:42:19 | xqHost(7): H
+3:42:20 | xqHost(7): H
+3:42:31 | xqHost(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:44:59 | Kaptan(0) oyuna girdi [IP: 213.74.49.172]
+3:45:26 | {FFCC00}Kaptan(0) Otobus Soforu olarak spawn oldu.
+3:45:43 | [CMD] Kaptan(0) => /work
+3:46:8 | [CMD] Kaptan(0) => /modifiye
+3:46:28 | [CMD] Kaptan(0) => /modifiye
+3:47:10 | [CMD] Kaptan(0) => /work
+3:49:32 | Apo31(7) oyuna girdi [IP: 31.206.192.33]
+3:49:54 | Apo31(7) Yol Iscisi olarak spawn oldu.
+3:50:5 | Kaptan(0): Hoþgeldin kardeþ
+3:50:30 | Apo31(7): hb
+3:50:31 | [CMD] Kaptan(0) => /goreviptal
+3:50:32 | Johny(8) oyuna girdi [IP: 85.102.251.169]
+3:50:35 | [CMD] Apo31(7) => /kemer
+3:50:36 | [CMD] Kaptan(0) => /work
+3:50:38 | [CMD] Kaptan(0) => /kill
+3:50:48 | [CMD] Kaptan(0) => /meslek
+3:50:52 | {FFCC00}Johny(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:51:8 | [CMD] Kaptan(0) => /kill
+3:51:20 | Johny(8): Selam
+3:51:24 | Johny(8) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:51:27 | Kaptan(0): As, hoþgeldin
+3:51:37 | [CMD] Apo31(7) => /job
+3:51:43 | [CMD] Apo31(7) => /yardim
+3:51:45 | [CMD] Kaptan(0) => /meslek
+3:51:50 | {FFCC00}Kaptan(0) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:52:4 | [CMD] Apo31(7) => /work
+3:52:15 | [CMD] Kaptan(0) => /work
+3:52:22 | Johny(8) oyuna girdi [IP: 85.102.251.169]
+3:52:32 | Kaptan(0) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+3:52:34 | 
+3:52:39 | {FFCC00}Johny(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+3:53:6 | [CMD] Johny(8) => /kemer
+3:53:8 | [CMD] Johny(8) => /motor
+3:53:16 | [CMD] Johny(8) => /work
+3:53:34 | [ANTIHACK] Þüpheli Johny(8) => Airbreak-hack
+3:53:34 | Johny(8) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:54:23 | Johny(0) oyuna girdi [IP: 85.102.251.169]
+3:54:32 | 
+3:54:33 | [CMD] Apo31(7) => /göreviptal
+3:54:37 | [CMD] Apo31(7) => /göreviptal
+3:54:37 | {FFCC00}Johny(0) Otobus Soforu olarak spawn oldu.
+3:54:40 | [CMD] Apo31(7) => /göreviptal
+3:54:47 | [CMD] Apo31(7) => /goreviptal
+3:54:50 | [CMD] Johny(0) => /kemer
+3:54:52 | [CMD] Johny(0) => /kemer
+3:54:52 | [CMD] Apo31(7) => /yardim
+3:54:55 | [CMD] Johny(0) => /motor
+3:54:57 | [CMD] Johny(0) => /work
+3:55:3 | [CMD] Apo31(7) => /kill
+3:55:9 | [CMD] Apo31(7) => /meslek
+3:55:13 | [CMD] Apo31(7) => /meslek
+3:55:16 | {FFCC00}Apo31(7) Otobus Soforu olarak spawn oldu.
+3:55:38 | [CMD] Apo31(7) => /kemer
+3:55:44 | [CMD] Apo31(7) => /work
+3:56:9 | [CMD] Johny(0) => /motor
+3:56:37 | [ANTIHACK] Þüpheli Johny(0) => Airbreak-hack
+3:56:37 | Johny(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+3:56:50 | [CMD] Apo31(7) => /sac
+3:56:54 | [CMD] Apo31(7) => /mp3
+4:1:20 | [CMD] Apo31(7) => /meslek
+4:1:26 | [CMD] Apo31(7) => /meslek
+4:1:31 | {FFCC00}Apo31(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+4:1:47 | [CMD] Apo31(7) => /kemer
+4:2:17 | [CMD] Apo31(7) => /kemer
+4:2:36 | [CMD] Apo31(7) => /work
+4:3:31 | [CMD] Apo31(7) => /kemer
+4:4:49 | Apo31(7): ücretli giþeden nasýl geçicem ya
+4:5:0 | [CMD] Apo31(7) => /meslek
+4:5:2 | [CMD] Apo31(7) => /meslek
+4:5:4 | [CMD] Apo31(7) => /meslek
+4:5:12 | Apo31(7) Yol Iscisi olarak spawn oldu.
+4:5:26 | [CMD] Apo31(7) => /kemer
+4:5:29 | [CMD] Apo31(7) => /work
+4:11:23 | [CMD] Apo31(7) => /donator
+4:11:30 | [CMD] Apo31(7) => /market
+4:11:47 | [CMD] Apo31(7) => /komutlar
+4:12:6 | [CMD] Apo31(7) => /komutlar
+4:13:7 | [CMD] Apo31(7) => /komutlar
+4:13:27 | [CMD] Apo31(7) => /komutlar
+4:14:42 | [CMD] Apo31(7) => /fps
+4:14:50 | [CMD] Apo31(7) => /fps
+4:14:56 | [CMD] Apo31(7) => /fps
+4:14:58 | [CMD] Apo31(7) => /fps
+4:15:0 | [CMD] Apo31(7) => /fps
+4:15:4 | [CMD] Apo31(7) => /fps
+4:15:12 | [CMD] Apo31(7) => /oldspedo
+4:15:14 | [CMD] Apo31(7) => /oldspeedo
+4:15:19 | [CMD] Apo31(7) => /komutlar
+4:15:29 | [CMD] Apo31(7) => /oldspeedo
+4:15:32 | [CMD] Apo31(7) => /komutlar
+4:15:43 | [CMD] Apo31(7) => /manuelvites
+4:15:49 | [CMD] Apo31(7) => /manuelvites
+4:16:7 | [CMD] Apo31(7) => /manuelvites
+4:16:12 | [CMD] Apo31(7) => /otovites
+4:18:18 | Apo31(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+7:8:24 | Hyuga(0) oyuna girdi [IP: 88.230.225.27]
+7:8:40 | {FFCC00}Hyuga(0) {FFFFFF}Kamyoncu olarak spawn oldu.
+7:9:23 | [CMD] Hyuga(0) => /kadro
+7:10:18 | [CMD] Hyuga(0) => /galeri
+7:11:2 | [CMD] Hyuga(0) => /sac
+7:13:21 | [CMD] Hyuga(0) => /work
+7:13:47 | Hyuga(0): sa
+7:22:34 | [CMD] Hyuga(0) => /hg
+7:22:45 | [CMD] Hyuga(0) => /mp3
+7:23:35 | MassiStrok.(7) oyuna girdi [IP: 88.228.221.69]
+7:23:51 | {FFCC00}MassiStrok.(7) Otobus Soforu olarak spawn oldu.
+7:23:57 | MassiStrok.(7) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+7:24:12 | [CMD] Hyuga(0) => /saat 5
+7:24:34 | [CMD] Hyuga(0) => /meslek
+7:24:38 | [CMD] Hyuga(0) => /goreviptal
+7:24:43 | [CMD] Hyuga(0) => /rescue
+7:24:51 | [CMD] Hyuga(0) => /karakol
+7:24:55 | [CMD] Hyuga(0) => /cezaode
+7:25:3 | Hyuga(0) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+7:25:30 | Hyuga(0) oyuna girdi [IP: 88.230.225.27]
+7:25:41 | 
+7:25:48 | {FFCC00}Hyuga(0) Otobus Soforu olarak spawn oldu.
+7:26:3 | [CMD] Hyuga(0) => /work
+7:26:11 | [CMD] Hyuga(0) => /kemer
+7:26:28 | [CMD] Hyuga(0) => /saat 5
+7:27:16 | [CMD] Hyuga(0) => /basarimlar
+7:34:9 | [CMD] Hyuga(0) => /kurallar
+7:38:5 | [OTOBUSCU] Hyuga, San Fierro Otogar'den Longway Otogar'e Yolcu tasidi. Kazanc: 34750$ ve 3 Skor Sure: 584 Saniye
+7:38:15 | [CMD] Hyuga(0) => /work
+7:39:16 | Hyuga(0) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+7:59:33 | edwin(0) oyuna girdi [IP: 79.178.27.13]
+8:0:3 | 
+8:1:49 | edwin(0) Yol Iscisi olarak spawn oldu.
+8:10:5 | edwin(0) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+8:14:38 | TeaMStar(0) oyuna girdi [IP: 78.190.250.195]
+8:14:53 | 
+8:14:56 | {FFCC00}TeaMStar(0) Otobus Soforu olarak spawn oldu.
+8:16:18 | [CMD] TeaMStar(0) => /sirket
+8:16:25 | [CMD] TeaMStar(0) => /setsirketsahib
+8:16:26 | [CMD] TeaMStar(0) => /setsirketsahip
+8:16:27 | [CMD] TeaMStar(0) => /setsirketsahipver
+8:16:30 | [CMD] TeaMStar(0) => /sirketsahipver
+8:16:33 | [CMD] TeaMStar(0) => /sirketver
+8:16:36 | [CMD] TeaMStar(0) => /sahipver
+8:16:38 | TeaMStar(0): .
+8:16:40 | [CMD] TeaMStar(0) => /admgiris
+8:16:46 | [CMD] TeaMStar(0) => /sirketsahipver
+8:16:52 | [CMD] TeaMStar(0) => /sirketsahipyap
+8:18:14 | Sunucu calistirildi.
+8:18:23 | TeaMStar(0) oyundan cIktI (Hata/Crash) (IP: 78.190.250.195)
+8:19:1 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+8:19:13 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+8:20:15 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+8:22:23 | Sunucu calistirildi.
+8:22:49 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+8:23:3 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+8:23:7 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+8:23:17 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+8:28:37 | Sunucu calistirildi.
+10:8:9 | Sunucu calistirildi.
+10:8:10 | Sunucu kapatildi.
+10:8:12 | Sunucu calistirildi.
+10:8:15 | Sunucu kapatildi.
+10:27:53 | Sunucu calistirildi.
+10:28:0 | Sunucu kapatildi.
+10:28:4 | Sunucu calistirildi.
+10:31:13 | Tahir_Can_Bozkurt(6) oyuna girdi [IP: 88.224.118.147]
+10:31:28 | Tahir_Can_Bozkurt(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+10:32:1 | [TR]Karabela27(6) oyuna girdi [IP: 88.224.118.147]
+10:32:13 | {FFCC00}[TR]Karabela27(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+10:32:26 | [TR]Karabela27(6): a
+10:32:28 | [CMD] [TR]Karabela27(6) => /sa
+10:32:30 | [CMD] [TR]Karabela27(6) => /as
+10:32:31 | [CMD] [TR]Karabela27(6) => /ah
+10:32:35 | [CMD] [TR]Karabela27(6) => /tel
+10:32:37 | [CMD] [TR]Karabela27(6) => /telefon
+10:32:44 | [CMD] [TR]Karabela27(6) => /credits
+10:34:36 | [TR]Karabela27(6): a
+10:34:36 | [TR]Karabela27(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+10:36:33 | Sasha_Zugrav(6) oyuna girdi [IP: 178.168.124.72]
+10:37:2 | 
+10:37:4 | Sasha_Zugrav(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)

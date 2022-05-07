@@ -1,0 +1,387 @@
+0:33:59 | Sunucu calistirildi.
+0:35:4 | TeaMStar(6) oyuna girdi [IP: 88.241.90.77]
+0:35:18 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+0:35:30 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+0:36:32 | [CMD] TeaMStar(6) => /spanel
+0:36:34 | [CMD] TeaMStar(6) => /cpanel
+0:36:36 | [CMD] TeaMStar(6) => /spanel
+0:36:54 | [CMD] TeaMStar(6) => /spanelsifregir
+0:36:55 | TeaMStar SPanel'e giriþ yaptý.
+0:36:59 | [CMD] TeaMStar(6) => /setlevel
+0:37:3 | [CMD] TeaMStar(6) => /setlevel 6 7
+0:37:9 | [CMD] TeaMStar(6) => /admsifre
+0:37:16 | [CMD] TeaMStar(6) => /admsifre 6 hakanbaba
+0:37:21 | [CMD] TeaMStar(6) => /setscore
+0:37:27 | [CMD] TeaMStar(6) => /setscore 6 600000
+0:37:29 | Swenzy(7) oyuna girdi [IP: 217.131.92.110]
+0:37:31 | [CMD] TeaMStar(6) => /setcash
+0:37:35 | [CMD] TeaMStar(6) => /givefullscore
+0:37:38 | [CMD] TeaMStar(6) => /apara
+0:37:40 | [CMD] TeaMStar(6) => /apara 10000000000
+0:37:42 | [CMD] TeaMStar(6) => /apara 100000000
+0:37:44 | {FFCC00}Swenzy(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+0:37:56 | {FFCC00}Swenzy(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+0:37:59 | [CMD] TeaMStar(6) => /get
+0:38:0 | [CMD] TeaMStar(6) => /get 7
+0:38:5 | TeaMStar(6): Napýyon la dombili
+0:38:11 | TeaMStar(6): bekle relog atam bi
+0:38:12 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+0:38:13 | Swenzy(7): Telefonu yapamamýþsýn
+0:39:27 | TeaMStar(6) oyuna girdi [IP: 88.241.90.77]
+0:39:34 | [CMD] Swenzy(7) => /yenilikler
+0:39:39 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+0:39:48 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+0:39:48 | Swenzy(7): Açýk buldum
+0:39:49 | TeaMStar(6): knk
+0:39:52 | TeaMStar(6): mysql kaldý
+0:39:58 | TeaMStar(6): ne acýgý
+0:40:3 | Swenzy(7): Y ye bas telefonda tmmobile yazýyor
+0:40:43 | TeaMStar(6): mysql nasýl yapacagýz þimdi o var
+0:40:44 | TeaMStar(6): dur afk
+0:40:57 | Swenzy(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:8:55 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:12:13 | Sunucu calistirildi.
+1:12:59 | TeaMStar(6) oyuna girdi [IP: 88.241.90.77]
+1:13:12 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+1:13:28 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:13:54 | TeaMStar(6) oyuna girdi [IP: 88.241.90.77]
+1:14:8 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+1:18:45 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+10:38:12 | xFireClaw(6) oyuna girdi [IP: 88.238.2.137]
+10:38:29 | {FFCC00}xFireClaw(6) Otobus Soforu olarak spawn oldu.
+10:38:43 | {FFCC00}xFireClaw(6) Otobus Soforu olarak spawn oldu.
+10:40:30 | [CMD] xFireClaw(6) => /komutlar
+10:40:48 | [CMD] xFireClaw(6) => /meslek
+10:41:5 | [CMD] xFireClaw(6) => /komutlar
+10:41:48 | [CMD] xFireClaw(6) => /Work
+10:43:20 | [CMD] xFireClaw(6) => /mp3
+10:45:55 | [CMD] xFireClaw(6) => /Yonetim
+10:45:59 | [CMD] xFireClaw(6) => /Yonetim
+10:47:50 | [CMD] xFireClaw(6) => /kurallar
+10:48:47 | [CMD] xFireClaw(6) => /work
+10:48:53 | [CMD] xFireClaw(6) => /Goreviptal
+10:48:57 | [CMD] xFireClaw(6) => /goreviptal
+10:48:59 | [CMD] xFireClaw(6) => /work
+10:49:1 | [CMD] xFireClaw(6) => /kill
+10:49:5 | [CMD] xFireClaw(6) => /meslek
+10:49:9 | {FFCC00}xFireClaw(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+10:49:40 | [CMD] xFireClaw(6) => /Work
+10:50:1 | [CMD] xFireClaw(6) => /Ehliyet
+10:50:32 | [CMD] xFireClaw(6) => /kemer
+10:50:56 | [CMD] xFireClaw(6) => /work
+10:52:40 | [CMD] xFireClaw(6) => /work
+10:52:48 | [CMD] xFireClaw(6) => /work
+10:55:6 | xFireClaw(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+11:33:2 | kara(6) oyuna girdi [IP: 88.241.93.145]
+11:33:16 | 
+11:33:16 | kara(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:33:48 | kara(6) oyuna girdi [IP: 88.241.93.145]
+11:34:58 | 
+11:34:58 | kara(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:35:9 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:35:28 | kara(6) oyuna girdi [IP: 88.241.93.145]
+11:36:26 | 
+11:36:27 | kara(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:36:51 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:36:58 | kara(6) oyuna girdi [IP: 88.241.93.145]
+11:37:18 | [CMD] kara(6) => /credits
+11:38:1 | 
+11:38:2 | kara(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:39:8 | kara(6) oyuna girdi [IP: 88.241.93.145]
+11:39:21 | kara(6) oyundan cIktI (Hata/Crash) (IP: 88.241.93.145)
+11:39:59 | PisliqMage(0) oyuna girdi [IP: 85.96.54.217]
+11:40:22 | 
+11:40:22 | PisliqMage(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:40:36 | hayat(0) oyuna girdi [IP: 88.241.93.145]
+11:41:14 | PisliqMage(6) oyuna girdi [IP: 85.96.54.217]
+11:41:17 | hayat(0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:41:17 | hayat(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:41:27 | 
+11:41:27 | PisliqMage(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:42:5 | malatya(0) oyuna girdi [IP: 88.241.93.145]
+11:42:7 | PisliqMage(6) oyuna girdi [IP: 85.96.54.217]
+11:42:48 | PisliqMage(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:43:23 | malatya(0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:23 | malatya(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:43:26 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:41 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:44 | (0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:53 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:54 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:54 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:54 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:54 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:43:55 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:44:3 | malatya(0) oyuna girdi [IP: 88.241.93.145]
+11:45:23 | malatya(0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:45:23 | malatya(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+11:45:45 | (0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:45:55 | (0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:46:4 | (0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:47:43 | malatya(0) oyuna girdi [IP: 88.241.93.145]
+11:49:4 | malatya(0) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+11:49:4 | malatya(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+12:21:49 | TeaMStar(0) oyuna girdi [IP: 78.175.131.185]
+12:23:7 | 
+12:23:7 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+12:29:41 | SinglePower(0) oyuna girdi [IP: 85.96.54.217]
+12:30:16 | 
+12:30:16 | SinglePower(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+12:34:4 | Revenge..(0) oyuna girdi [IP: 78.170.177.67]
+12:34:16 | 
+12:34:16 | Revenge..(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+12:34:50 | Revenge..(0) oyuna girdi [IP: 78.170.177.67]
+12:35:18 | 
+12:35:19 | Revenge..(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+12:35:57 | TeaMStar(0) oyuna girdi [IP: 78.170.177.67]
+12:36:19 | 
+12:36:19 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+20:10:30 | Sunucu calistirildi.
+20:11:16 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+20:11:30 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+20:13:1 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+20:51:39 | malatya(6) oyuna girdi [IP: 88.241.93.78]
+20:51:53 | {FFCC00}malatya(6) Otobus Soforu olarak spawn oldu.
+20:52:4 | [CMD] malatya(6) => /credits
+20:52:26 | [CMD] malatya(6) => /spanel
+20:52:33 | [CMD] malatya(6) => /adcmd
+20:52:39 | [CMD] malatya(6) => /adcmds
+20:52:53 | [CMD] malatya(6) => /yardim
+20:53:1 | malatya(6): t
+20:53:22 | [ANTIHACK] Þüpheli malatya(6) => Airbreak-hack
+20:53:22 | malatya(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+21:9:30 | Sunucu calistirildi.
+21:23:13 | Sunucu calistirildi.
+22:24:16 | MaWixXx(6) oyuna girdi [IP: 88.241.93.78]
+22:24:24 | MaWixXx(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:24:18 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+23:24:36 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+23:24:43 | [CMD] TeaMStar(6) => /cpangiris
+23:24:46 | [CMD] TeaMStar(6) => /spanelgiris
+23:24:52 | [CMD] TeaMStar(6) => /spanelsifregiris
+23:24:55 | [CMD] TeaMStar(6) => /spanelegiris
+23:25:0 | [CMD] TeaMStar(6) => /girisspanel
+23:25:54 | [CMD] TeaMStar(6) => /spanelsifregir
+23:25:55 | TeaMStar SPanel'e giriþ yaptý.
+23:26:2 | [CMD] TeaMStar(6) => /setlevel
+23:26:6 | [CMD] TeaMStar(6) => /setlevel 6 7
+23:26:10 | [CMD] TeaMStar(6) => /komutlar
+23:27:11 | [CMD] TeaMStar(6) => /ehliyetver
+23:27:30 | [CMD] TeaMStar(6) => /ehliyetver 6 1
+23:27:37 | [CMD] TeaMStar(6) => /ehliyetver 6 otobusçü 1
+23:27:39 | TeaMStar(6): .
+23:27:53 | [CMD] TeaMStar(6) => /jetpack
+23:27:54 | [CMD] TeaMStar(6) => /fly
+23:28:2 | [CMD] TeaMStar(6) => /kemer
+23:28:10 | [CMD] TeaMStar(6) => /ehliyetver 6 1 1 
+23:28:14 | [CMD] TeaMStar(6) => /work
+23:28:25 | [CMD] TeaMStar(6) => /vipver
+23:28:27 | [CMD] TeaMStar(6) => /setvip
+23:28:31 | TeaMStar, 31 gün VIP Oldu
+23:28:31 | [CMD] TeaMStar(6) => /setvip 6 31
+23:28:39 | [CMD] TeaMStar(6) => /apara 1000000000
+23:28:42 | [CMD] TeaMStar(6) => /apara 1000000
+23:28:49 | [CMD] TeaMStar(6) => /gise
+23:28:52 | [CMD] TeaMStar(6) => /gisesahip
+23:29:33 | [CMD] TeaMStar(6) => /tamir
+23:29:44 | [CMD] TeaMStar(6) => /sirket
+23:30:30 | [CMD] TeaMStar(6) => /setscore
+23:30:32 | [CMD] TeaMStar(6) => /setscore 6 1000
+23:30:41 | [CMD] TeaMStar(6) => /evolustur
+23:30:47 | [CMD] TeaMStar(6) => /gohome
+23:30:53 | [CMD] TeaMStar(6) => /gethome
+23:30:56 | [CMD] TeaMStar(6) => /givehome
+23:30:59 | [CMD] TeaMStar(6) => /komutlar
+23:31:2 | [CMD] TeaMStar(6) => /komutlar
+23:31:6 | [CMD] TeaMStar(6) => /komutlar
+23:31:15 | [CMD] TeaMStar(6) => /komutlar
+23:31:18 | [CMD] TeaMStar(6) => /komutlar
+23:32:18 | [CMD] TeaMStar(6) => /setlevelvip
+23:32:40 | [CMD] TeaMStar(6) => /sarki
+23:32:42 | [CMD] TeaMStar(6) => /mp3
+23:33:31 | [CMD] TeaMStar(6) => /ftamir
+23:33:33 | [CMD] TeaMStar(6) => /vtamir
+23:33:41 | [CMD] TeaMStar(6) => /vtamir
+23:33:49 | [CMD] TeaMStar(6) => /vtamir
+23:34:10 | [CMD] TeaMStar(6) => /komutlar
+23:34:58 | [CMD] TeaMStar(6) => /labelsil
+23:35:3 | [CMD] TeaMStar(6) => /labelsil
+23:35:6 | [CMD] TeaMStar(6) => /labelsil 38
+23:35:16 | [CMD] TeaMStar(6) => /labelsil 13
+23:35:17 | [CMD] TeaMStar(6) => /labelsil 39
+23:35:19 | [CMD] TeaMStar(6) => /labelsil 14
+23:35:21 | [CMD] TeaMStar(6) => /labelsil 37
+23:35:25 | [CMD] TeaMStar(6) => /labelsil 1
+23:35:26 | [CMD] TeaMStar(6) => /labelsil 0
+23:35:28 | [CMD] TeaMStar(6) => /labelsil 0
+23:35:29 | [CMD] TeaMStar(6) => /labelsil 2
+23:35:30 | [CMD] TeaMStar(6) => /labelsil 3
+23:35:31 | [CMD] TeaMStar(6) => /labelsil 4
+23:35:33 | [CMD] TeaMStar(6) => /labelsil 5
+23:35:34 | [CMD] TeaMStar(6) => /labelsil 6
+23:35:36 | [CMD] TeaMStar(6) => /labelsil 
+23:35:38 | [CMD] TeaMStar(6) => /labelsil 7
+23:35:40 | [CMD] TeaMStar(6) => /labelsil 8
+23:35:41 | [CMD] TeaMStar(6) => /labelsil 9
+23:35:42 | [CMD] TeaMStar(6) => /labelsil 10
+23:35:44 | [CMD] TeaMStar(6) => /labelsil 11
+23:35:45 | [CMD] TeaMStar(6) => /labelsil 12
+23:35:47 | [CMD] TeaMStar(6) => /labelsil 13
+23:35:48 | [CMD] TeaMStar(6) => /labelsil 14
+23:35:49 | [CMD] TeaMStar(6) => /labelsil 15
+23:35:51 | [CMD] TeaMStar(6) => /labelsil 16
+23:35:52 | [CMD] TeaMStar(6) => /labelsil 17
+23:35:53 | [CMD] TeaMStar(6) => /labelsil 18
+23:35:54 | [CMD] TeaMStar(6) => /labelsil 19
+23:35:56 | [CMD] TeaMStar(6) => /labelsil 20
+23:35:57 | [CMD] TeaMStar(6) => /labelsil 21
+23:35:58 | [CMD] TeaMStar(6) => /labelsil 22
+23:35:59 | [CMD] TeaMStar(6) => /labelsil 23
+23:36:0 | [CMD] TeaMStar(6) => /labelsil 24
+23:36:1 | [CMD] TeaMStar(6) => /labelsil 25
+23:36:3 | [CMD] TeaMStar(6) => /labelsil 26
+23:36:4 | [CMD] TeaMStar(6) => /labelsil 27
+23:36:5 | [CMD] TeaMStar(6) => /labelsil 28
+23:36:6 | [CMD] TeaMStar(6) => /labelsil 29
+23:36:8 | [CMD] TeaMStar(6) => /labelsil 30
+23:36:10 | [CMD] TeaMStar(6) => /labelsil 31
+23:36:12 | [CMD] TeaMStar(6) => /labelsil 32
+23:36:14 | [CMD] TeaMStar(6) => /labelsil 33
+23:36:15 | [CMD] TeaMStar(6) => /labelsil 34
+23:36:16 | [CMD] TeaMStar(6) => /labelsil 35
+23:36:18 | [CMD] TeaMStar(6) => /labelsil 36
+23:36:19 | [CMD] TeaMStar(6) => /labelsil 37
+23:36:20 | [CMD] TeaMStar(6) => /labelsil 38
+23:36:21 | [CMD] TeaMStar(6) => /labelsil 39
+23:36:23 | [CMD] TeaMStar(6) => /labelsil 40
+23:36:24 | [CMD] TeaMStar(6) => /labelsil 41
+23:36:25 | [CMD] TeaMStar(6) => /labelsil 42
+23:36:26 | [CMD] TeaMStar(6) => /labelsil 43
+23:36:28 | [CMD] TeaMStar(6) => /labelsil 44
+23:36:29 | [CMD] TeaMStar(6) => /labelsil 45
+23:36:30 | [CMD] TeaMStar(6) => /labelsil 46
+23:36:31 | [CMD] TeaMStar(6) => /labelsil 47
+23:36:38 | [CMD] TeaMStar(6) => /labelsil 48
+23:36:39 | [CMD] TeaMStar(6) => /labelsil 49
+23:36:43 | [CMD] TeaMStar(6) => /labelsil 50
+23:36:44 | [CMD] TeaMStar(6) => /labelsil 51
+23:36:47 | [CMD] TeaMStar(6) => /labelsil 52
+23:36:53 | [CMD] TeaMStar(6) => /labelsil 53
+23:36:54 | [CMD] TeaMStar(6) => /labelsil 54
+23:36:56 | [CMD] TeaMStar(6) => /labelsil 55
+23:36:57 | [CMD] TeaMStar(6) => /labelsil 56
+23:36:59 | [CMD] TeaMStar(6) => /labelsil 57
+23:37:0 | [CMD] TeaMStar(6) => /labelsil 58
+23:37:2 | [CMD] TeaMStar(6) => /labelsil 59
+23:37:4 | [CMD] TeaMStar(6) => /labelsil 60
+23:37:6 | [CMD] TeaMStar(6) => /labelsil 61
+23:37:7 | [CMD] TeaMStar(6) => /labelsil 62
+23:37:9 | [CMD] TeaMStar(6) => /labelsil 63
+23:37:10 | [CMD] TeaMStar(6) => /labelsil 64
+23:37:12 | [CMD] TeaMStar(6) => /labelsil 65
+23:37:13 | [CMD] TeaMStar(6) => /labelsil 66
+23:37:14 | [CMD] TeaMStar(6) => /labelsil 67
+23:37:16 | [CMD] TeaMStar(6) => /labelsil 68
+23:37:18 | [CMD] TeaMStar(6) => /labelsil 69
+23:37:22 | [CMD] TeaMStar(6) => /labelsil 70
+23:37:24 | [CMD] TeaMStar(6) => /labelsil 71
+23:37:25 | [CMD] TeaMStar(6) => /labelsil 72
+23:37:27 | [CMD] TeaMStar(6) => /labelsil 73
+23:37:30 | [CMD] TeaMStar(6) => /labelsil 74
+23:38:1 | [CMD] TeaMStar(6) => /labelsil 75
+23:38:3 | [CMD] TeaMStar(6) => /labelsil 76
+23:38:6 | [CMD] TeaMStar(6) => /labelsil 77
+23:38:9 | [CMD] TeaMStar(6) => /labelsil 78
+23:38:11 | [CMD] TeaMStar(6) => /labelsil 79
+23:38:13 | [CMD] TeaMStar(6) => /labelsil 80
+23:38:15 | [CMD] TeaMStar(6) => /labelsil 81
+23:38:16 | [CMD] TeaMStar(6) => /labelsil 82
+23:38:17 | [CMD] TeaMStar(6) => /labelsil 83
+23:38:18 | [CMD] TeaMStar(6) => /labelsil 84
+23:38:20 | [CMD] TeaMStar(6) => /labelsil 85
+23:38:21 | [CMD] TeaMStar(6) => /labelsil 86
+23:38:23 | [CMD] TeaMStar(6) => /labelsil 87
+23:38:24 | [CMD] TeaMStar(6) => /labelsil 88
+23:38:25 | [CMD] TeaMStar(6) => /labelsil 89
+23:38:28 | [CMD] TeaMStar(6) => /labelsil 90
+23:38:30 | [CMD] TeaMStar(6) => /labelsil 91
+23:38:32 | [CMD] TeaMStar(6) => /labelsil 92
+23:38:40 | [CMD] TeaMStar(6) => /labelsil 93
+23:38:41 | [CMD] TeaMStar(6) => /labelsil 94
+23:38:42 | [CMD] TeaMStar(6) => /labelsil 95
+23:38:45 | [CMD] TeaMStar(6) => /labelsil 96
+23:38:46 | [CMD] TeaMStar(6) => /labelsil 97
+23:38:51 | [CMD] TeaMStar(6) => /labelsil 98
+23:38:53 | [CMD] TeaMStar(6) => /labelsil 99
+23:38:57 | [CMD] TeaMStar(6) => /labelsil 100
+23:38:59 | [CMD] TeaMStar(6) => /labelsil 101
+23:39:0 | [CMD] TeaMStar(6) => /labelsil 102
+23:39:1 | [CMD] TeaMStar(6) => /labelsil 103
+23:39:7 | [CMD] TeaMStar(6) => /labelsil 105
+23:39:10 | [CMD] TeaMStar(6) => /labelsil 104
+23:39:12 | [CMD] TeaMStar(6) => /labelsil 106
+23:39:13 | [CMD] TeaMStar(6) => /labelsil 107
+23:39:15 | [CMD] TeaMStar(6) => /labelsil 108
+23:39:16 | [CMD] TeaMStar(6) => /labelsil 109
+23:39:19 | [CMD] TeaMStar(6) => /labelsil 110
+23:39:28 | [CMD] TeaMStar(6) => /labelsil 111
+23:39:29 | [CMD] TeaMStar(6) => /labelsil 112
+23:39:34 | [CMD] TeaMStar(6) => /labelsil 112
+23:39:38 | [CMD] TeaMStar(6) => /labelsil 113
+23:39:39 | [CMD] TeaMStar(6) => /labelsil 114
+23:39:42 | [CMD] TeaMStar(6) => /labelsil 115
+23:39:43 | [CMD] TeaMStar(6) => /labelsil 116
+23:39:44 | [CMD] TeaMStar(6) => /labelsil 117
+23:39:46 | [CMD] TeaMStar(6) => /labelsil 118
+23:39:47 | [CMD] TeaMStar(6) => /labelsil 119
+23:39:49 | [CMD] TeaMStar(6) => /labelsil 120
+23:39:51 | [CMD] TeaMStar(6) => /labelsil 121
+23:39:52 | [CMD] TeaMStar(6) => /labelsil 122
+23:39:54 | [CMD] TeaMStar(6) => /labelsil 123
+23:39:55 | [CMD] TeaMStar(6) => /labelsil 124
+23:39:56 | [CMD] TeaMStar(6) => /labelsil 125
+23:39:58 | [CMD] TeaMStar(6) => /labelsil 126
+23:39:59 | [CMD] TeaMStar(6) => /labelsil 127
+23:40:0 | [CMD] TeaMStar(6) => /labelsil 128
+23:40:2 | [CMD] TeaMStar(6) => /labelsil 129
+23:40:5 | [CMD] TeaMStar(6) => /labelsil 130
+23:40:6 | [CMD] TeaMStar(6) => /labelsil 131
+23:40:7 | [CMD] TeaMStar(6) => /labelsil 132
+23:40:8 | [CMD] TeaMStar(6) => /labelsil 133
+23:40:10 | [CMD] TeaMStar(6) => /labelsil 134
+23:40:11 | [CMD] TeaMStar(6) => /labelsil 135
+23:40:12 | [CMD] TeaMStar(6) => /labelsil 136
+23:40:13 | [CMD] TeaMStar(6) => /labelsil 137
+23:40:15 | [CMD] TeaMStar(6) => /labelsil 138
+23:40:16 | [CMD] TeaMStar(6) => /labelsil 139
+23:40:22 | [CMD] TeaMStar(6) => /labelsil 140
+23:42:4 | [CMD] TeaMStar(6) => /labelekle
+23:42:8 | [CMD] TeaMStar(6) => /labelolustur
+23:42:15 | [CMD] TeaMStar(6) => /labelolustur TeaMStar <3
+23:42:30 | [CMD] TeaMStar(6) => /labelolustur Kara Ambar Kamyoncular Dernegi Gardaþþ
+23:42:37 | TeaMStar(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:43:6 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+23:44:20 | TeaMStar(6) oyundan cIktI (Hata/Crash) (IP: 78.190.250.195)
+23:44:44 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+23:45:4 | {FFCC00}TeaMStar(6) Otobus Soforu olarak spawn oldu.
+23:45:6 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:51:17 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+23:51:38 | Revenge..(7) oyuna girdi [IP: 78.167.48.10]
+23:51:58 | {FFCC00}Revenge..(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:52:30 | [CMD] Revenge..(7) => /work
+23:52:33 | TeaMStar(6) oyundan cIktI (Hata/Crash) (IP: 78.190.250.195)
+23:52:46 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+23:53:0 | [CMD] Revenge..(7) => /motor
+23:53:11 | 
+23:53:11 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:53:15 | [CMD] Revenge..(7) => /motor
+23:53:16 | [CMD] Revenge..(7) => /motor
+23:53:18 | [CMD] Revenge..(7) => /work
+23:53:30 | [CMD] Revenge..(7) => /work
+23:53:44 | TeaMStar(6) oyuna girdi [IP: 78.190.250.195]
+23:54:4 | 
+23:54:4 | TeaMStar(6) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:55:33 | Revenge..(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:56:48 | FelleR(6) oyuna girdi [IP: 78.190.231.169]
+23:57:21 | FelleR(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:58:9 | (6) 60 saniye içinde giriþ yapmadýðý için tekmelendi

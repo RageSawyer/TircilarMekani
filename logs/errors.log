@@ -1,0 +1,126 @@
+[06/23/18 10:28:04] [plugins/mysql] mysql_format: invalid connection handle '1'
+[06/23/18 10:28:04] [plugins/mysql] mysql_query: invalid connection handle '1'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_get_field_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)'
+[06/23/18 10:28:04] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)'
+[06/23/18 10:28:04] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)'
+[06/23/18 10:28:04] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #2002 'Can't connect to local MySQL server through socket '/tmp/mysql.sock' (2)'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:04] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:28:04] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:28:10] [plugins/mysql] mysql_format: can't escape string 'LVLS'
+[06/23/18 10:28:10] [plugins/mysql] mysql_format: can't escape string 'LSSF'
+[06/23/18 10:28:10] [plugins/mysql] mysql_format: can't escape string 'LSLV'
+[06/23/18 10:28:10] [plugins/mysql] mysql_format: can't escape string 'SFLS'
+[06/23/18 10:28:10] [plugins/mysql] mysql_format: can't escape string 'LVSF'
+[06/23/18 10:28:10] [plugins/mysql] mysql_format: can't escape string 'SFLV'
+[06/23/18 10:31:13] [plugins/mysql] mysql_format: can't escape string 'Tahir_Can_Bozkurt'
+[06/23/18 10:31:13] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:31:13] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:31:13] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:31:13] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:31:24] [plugins/mysql] mysql_format: can't escape string 'Tahir_Can_Bozkurt'
+[06/23/18 10:31:24] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:31:24] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:32:01] [plugins/mysql] mysql_format: can't escape string '[TR]Karabela27'
+[06/23/18 10:32:01] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:32:01] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:32:01] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:32:01] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:32:06] [plugins/mysql] mysql_format: can't escape string '[TR]Karabela27'
+[06/23/18 10:32:06] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:32:06] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:08] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:13] [plugins/mysql] mysql_format: can't escape string '[TR]Karabela27'
+[06/23/18 10:32:24] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:32:26] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:32:26] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:10] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:10] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:10] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:10] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:10] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:10] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:34:36] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:33] [plugins/mysql] mysql_format: can't escape string 'Sasha_Zugrav'
+[06/23/18 10:36:33] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:36:33] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:36:33] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:36:33] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:36:37] [plugins/mysql] mysql_format: can't escape string 'Sasha_Zugrav'
+[06/23/18 10:36:37] [plugins/mysql] cache_get_row_count: no active cache
+[06/23/18 10:36:37] [plugins/mysql] cache_delete: invalid cache id '0'
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:36:48] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:37:02] [plugins/mysql] mysql_format: can't escape string 'Sasha_Zugrav'
+[06/23/18 10:37:04] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:37:04] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:37:04] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:37:04] [plugins/mysql] mysql_escape_string: can't escape string ''
+[06/23/18 10:37:04] [plugins/mysql] mysql_escape_string: can't escape string ''

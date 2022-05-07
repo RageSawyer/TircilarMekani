@@ -1,0 +1,1779 @@
+0:0:23 | [CMD] iYasinBey(14) => /goto 10
+0:0:50 | [CMD] iYasinBey(14) => /otur
+0:1:12 | [CMD] huso608(10) => /myskin 249
+0:1:33 | [CMD] iYasinBey(14) => /animkapat
+0:1:35 | [CMD] iYasinBey(14) => /sirket
+0:3:10 | [CMD] iYasinBey(14) => /rescue
+0:3:19 | [CMD] iYasinBey(14) => /srespawncars
+0:4:0 | [LOCAL]HeRquL(12): bize çay yokmu 
+0:4:0 | [CMD] HeRquL(12) => /l bize çay yokmu 
+0:4:51 | [CMD] iYasinBey(14) => /sirket
+0:5:8 | [CMD] iYasinBey(14) => /fly
+0:6:18 | [CMD] iYasinBey(14) => /cleanupcars
+0:6:28 | [CMD] iYasinBey(14) => /goto 18
+0:6:37 | [CMD] iYasinBey(14) => /kemer
+0:6:43 | [CMD] iYasinBey(14) => /meslek
+0:6:47 | iYasinBey(14) Mafya olarak spawn oldu.
+0:6:51 | [CMD] iYasinBey(14) => /goto 18
+0:7:5 | [CMD] iYasinBey(14) => /slap 18
+0:7:27 | [CMD] iYasinBey(14) => /meslek
+0:7:35 | {FFCC00}iYasinBey(14) {FFFFFF}Kamyoncu olarak spawn oldu.
+0:8:26 | [CMD] iYasinBey(14) => /atamir
+0:9:17 | [CMD] iYasinBey(14) => /atamir
+0:9:27 | [CMD] iYasinBey(14) => /atamir
+0:9:31 | [CMD] iYasinBey(14) => /srespawncars
+0:9:38 | [CMD] iYasinBey(14) => /araba
+0:9:46 | [CMD] iYasinBey(14) => /araba
+0:9:54 | [CMD] iYasinBey(14) => /kemer
+0:10:37 | [CMD] iYasinBey(14) => /atamir
+0:11:43 | [CMD] iYasinBey(14) => /atamir
+0:12:53 | [CMD] iYasinBey(14) => /atamir
+0:13:4 | [CMD] iYasinBey(14) => /cevir
+0:14:12 | [CMD] Umut(18) => /ban2
+0:14:34 | [CMD] Umut(18) => /ban2 [eN]Overlord 2 Þahsa Hakaret [ForumSikayet]
+0:14:40 | [CMD] Umut(18) => /bangor [eN]Overlord
+0:14:51 | [CMD] Umut(18) => /unban [eN]Overlord
+0:14:53 | [OBAN] Umut(18) [eN]Overlord'i 2 gün offline banladi. Sebep: Þahsa Hakaret [ForumSikayet]
+0:14:53 | [CMD] Umut(18) => /ban2 [eN]Overlord 2 Þahsa Hakaret [ForumSikayet]
+0:14:59 | [CMD] Umut(18) => /unfreezeall
+0:15:5 | [CMD] iYasinBey(14) => /a umujt abi
+0:15:13 | [CMD] iYasinBey(14) => /atamir
+0:15:19 | [CMD] Umut(18) => /asay Forumda paylaþtýðým duyuruyaa bakýnýz
+0:15:23 | [CMD] Umut(18) => /car nrg 1 1
+0:15:27 | [CMD] Umut(18) => /chatengelle
+0:16:7 | [CMD] Umut(18) => /asay Forumda paylaþtýðým duyuruyaa bakýnýz
+0:16:7 | [CMD] Umut(18) => /asay Forumda paylaþtýðým duyuruyaa bakýnýz
+0:16:7 | [CMD] Umut(18) => /asay Forumda paylaþtýðým duyuruyaa bakýnýz
+0:16:8 | [CMD] Umut(18) => /asay Forumda paylaþtýðým duyuruyaa bakýnýz
+0:16:11 | iYasinBey(14): tamam
+0:16:39 | iYasinBey(14): yanlýz ayýn 5 i su anda
+0:17:47 | iYasinBey(14): aga
+0:17:52 | [CMD] iYasinBey(14) => /unmute 14
+0:17:56 | iYasinBey(14): tc abartýlmamýs mi
+0:18:1 | iYasinBey(14): numara
+0:18:50 | [CMD] iYasinBey(14) => /cevir
+0:18:50 | [CMD] iYasinBey(14) => /atamir
+0:19:21 | HeRquL(12): yasal yollar mantýklý
+0:19:25 | HeRquL(12): oyun hesabý çalmak
+0:19:29 | HeRquL(12): siber suç
+0:19:33 | HeRquL(12): destekliyorum umut
+0:19:46 | iYasinBey(14): bende destekliyorumda
+0:19:49 | iYasinBey(14): yani ne bileyim
+0:20:13 | HeRquL(12): adamlarýn kimliði belli dolandýrýcý deðil hýrsýz dðeil
+0:20:23 | iYasinBey(14): ne yapýcaz simdi
+0:20:29 | iYasinBey(14): bizim biþey yapmamýz gerek mi
+0:20:36 | HeRquL(12): ne olarak
+0:20:43 | iYasinBey(14): sifre
+0:20:45 | iYasinBey(14): yenileme
+0:20:47 | iYasinBey(14): dedi ya
+0:20:48 | HeRquL(12): yenile
+0:20:55 | iYasinBey(14): mail le yenilicem ben
+0:20:57 | [CMD] iYasinBey(14) => /atamir
+0:21:4 | iYasinBey(14): tc vermem gerekmiyor demi
+0:21:9 | iYasinBey(14): mail le yenileyince
+0:21:49 | [CMD] iYasinBey(14) => /pcc
+0:23:37 | [CMD] iYasinBey(14) => /atamir
+0:24:12 | iYasinBey(14): benim maille kayýtlý
+0:24:14 | iYasinBey(14): hesabým
+0:25:1 | [CMD] iYasinBey(14) => /atamir
+0:25:19 | iYasinBey(14): bu
+0:25:20 | iYasinBey(14): mail
+0:25:22 | iYasinBey(14): meselesý
+0:25:27 | iYasinBey(14): forumdami yoksa oyundami
+0:25:29 | iYasinBey(14): sýfýrlandý
+0:25:40 | [CMD] iYasinBey(14) => /kemer
+0:25:40 | [CMD] iYasinBey(14) => /atamir
+0:25:41 | [CMD] iYasinBey(14) => /cantazele
+0:25:45 | [CMD] iYasinBey(14) => /fuel
+0:26:1 | [CMD] iYasinBey(14) => /atamir
+0:26:6 | huso608(10): forum : sw 
+0:26:18 | iYasinBey(14): ikiside
+0:26:23 | huso608(10): forumdaki bilgilerle zaten giris yapýyorsun
+0:26:25 | iYasinBey(14): ikisindede maille kayýt oldum
+0:26:36 | [CMD] iYasinBey(14) => /atamir
+0:26:43 | huso608(10): orada guncel tutuluyor
+0:26:54 | huso608(10): yoksa hesaplardaki para skor isleri siliniyor
+0:27:0 | huso608(10): bu yuzden sorunlar  artýyor
+0:27:3 | huso608(10): amac o
+0:27:11 | HeRquL(12): database sorunuydu fixlendi galiba
+0:27:34 | huso608(10): butun sorunlarý cozucekler vericiler burada
+0:28:6 | huso608(10): gelistirme ekibi bulunmus olan adminler
+0:28:20 | [CMD] iYasinBey(14) => /atamir
+0:28:28 | huso608(10): sýrf bu kodlama uzerinde seri calýsma yapýyorlar
+0:28:41 | huso608(10): gerektiginde kurs becerilerini arttýrýyorlar
+0:28:53 | huso608(10):  o yuzden sana dedim ya dun aksam
+0:28:56 | HeRquL(12): huso dayý döktürdü gene
+0:29:4 | [CMD] iYasinBey(14) => /atamir
+0:29:13 | huso608(10): teknik bilgin nerede geliyor diyerek
+0:33:2 | [CMD] iYasinBey(14) => /atamir
+0:33:30 | [CMD] iYasinBey(14) => /atamir
+0:34:15 | [CMD] iYasinBey(14) => /atamir
+0:34:37 | [CMD] iYasinBey(14) => /fly
+0:36:40 | [CMD] iYasinBey(14) => /train
+0:36:44 | [CMD] iYasinBey(14) => /veh
+0:37:18 | [CMD] iYasinBey(14) => /car tramvay 3 1
+0:37:58 | [CMD] iYasinBey(14) => /car train 3 1
+0:38:3 | [CMD] iYasinBey(14) => /car train
+0:38:5 | [CMD] iYasinBey(14) => /car tren
+0:38:32 | [CMD] iYasinBey(14) => /fly
+0:39:29 | [CMD] iYasinBey(14) => /slap sflv
+0:39:53 | [CMD] iYasinBey(14) => /bilet sflv
+0:40:4 | [CMD] iYasinBey(14) => /bilet
+0:40:9 | [CMD] iYasinBey(14) => /bilet sf-lv
+0:40:14 | [CMD] iYasinBey(14) => /fly
+0:40:31 | [CMD] iYasinBey(14) => /bilet sf-lv
+0:41:9 | [LOCAL]huso608(10): amac
+0:41:9 | [CMD] huso608(10) => /l amac
+0:41:15 | [LOCAL]HeRquL(12): afk kontrolü 
+0:41:15 | [CMD] HeRquL(12) => /l afk kontrolü 
+0:41:25 | [LOCAL]HeRquL(12): bune kýlýk böyl 
+0:41:25 | [CMD] HeRquL(12) => /l bune kýlýk böyl 
+0:41:30 | [LOCAL]huso608(10): selcujk forumdayým
+0:41:30 | [CMD] huso608(10) => /l selcujk forumdayým
+0:42:22 | [CMD] iYasinBey(14) => /fly
+0:43:2 | [CMD] iYasinBey(14) => /goto LVLS
+0:43:12 | [CMD] iYasinBey(14) => /slap 14
+0:43:16 | [CMD] iYasinBey(14) => /fly
+0:43:27 | [CMD] HeRquL(12) => /meslek
+0:43:30 | {FFCC00}HeRquL(12) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+0:43:36 | [CMD] HeRquL(12) => /goto huso 
+0:43:50 | [CMD] HeRquL(12) => /weapon 12 minigun 9999
+0:44:0 | [CMD] HeRquL(12) => /weapons 12 minigun 9999
+0:44:8 | [CMD] HeRquL(12) => /siah 12 minigun 9999
+0:44:11 | [CMD] HeRquL(12) => /silah 12 minigun 9999
+0:44:14 | [CMD] HeRquL(12) => /komutlar
+0:44:17 | [CMD] HeRquL(12) => /komutlar
+0:45:18 | [CMD] HeRquL(12) => /giveweapon 12 minigun 9999
+0:45:32 | [CMD] iYasinBey(14) => /bilet
+0:45:39 | [CMD] iYasinBey(14) => /bilet ls-sf
+0:45:45 | [CMD] iYasinBey(14) => /bilet
+0:45:48 | [CMD] iYasinBey(14) => /bilet ls-sf
+0:47:47 | iYasinBey(14): eee
+0:47:50 | iYasinBey(14): nabýyonuz
+0:48:2 | [CMD] iYasinBey(14) => /cantazele
+0:48:5 | [CMD] iYasinBey(14) => /komutlar
+0:48:17 | [CMD] iYasinBey(14) => /sarkiac 1050
+0:48:24 | [CMD] iYasinBey(14) => /sarkiac 1050
+0:48:33 | [CMD] iYasinBey(14) => /komutlar
+0:48:57 | [CMD] HeRquL(12) => /yenilikler 
+0:50:20 | [CMD] iYasinBey(14) => /bilet sf-lv
+0:50:44 | [CMD] iYasinBey(14) => /atamir
+0:51:12 | iYasinBey(14): eeeeee
+0:51:16 | iYasinBey(14): ne yapýyorsunuz.
+0:51:34 | [CMD] iYasinBey(14) => /biletlerim
+0:51:37 | [CMD] iYasinBey(14) => /bilet
+0:53:16 | [CMD] iYasinBey(14) => /car 13 1 1
+0:54:54 | [CMD] iYasinBey(14) => /bilet lv-ls
+0:55:1 | [CMD] iYasinBey(14) => /bilet lv-ls
+0:55:50 | [CMD] iYasinBey(14) => /fly
+0:56:11 | [CMD] iYasinBey(14) => /otur
+0:58:27 | [CMD] iYasinBey(14) => /animkapat
+0:58:34 | [CMD] iYasinBey(14) => /goto 10
+0:58:42 | [CMD] iYasinBey(14) => /rescue
+0:59:20 | [CMD] iYasinBey(14) => /kemer
+0:59:54 | [CMD] iYasinBey(14) => /convoy
+0:59:57 | [CMD] iYasinBey(14) => /convoy
+0:59:59 | [CMD] iYasinBey(14) => /convoy
+1:0:15 | [CMD] iYasinBey(14) => /convoyayril
+1:0:17 | [CMD] iYasinBey(14) => /convoy
+1:0:21 | [CMD] iYasinBey(14) => /atamir
+1:0:22 | [CMD] huso608(10) => /mezar
+1:0:39 | [CMD] iYasinBey(14) => /atamir
+1:0:50 | [CMD] huso608(10) => /rescue
+1:1:11 | [CMD] iYasinBey(14) => /atamir
+1:1:14 | [CMD] iYasinBey(14) => /atamir
+1:1:42 | [CMD] iYasinBey(14) => /cevir
+1:2:1 | [CMD] iYasinBey(14) => /atamir
+1:2:8 | [CMD] HeRquL(12) => /convoy
+1:2:11 | [CMD] huso608(10) => /goto 14
+1:2:34 | iYasinBey(14): huso
+1:2:36 | iYasinBey(14): baskan
+1:2:40 | [CMD] iYasinBey(14) => /fly
+1:2:49 | [CMD] iYasinBey(14) => /spec 10
+1:2:53 | [CMD] iYasinBey(14) => /specoff
+1:2:54 | {FFCC00}iYasinBey(14) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:3:0 | [CMD] iYasinBey(14) => /goto 10
+1:3:2 | {FFCC00}iYasinBey(14) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:3:3 | [CMD] iYasinBey(14) => /goto 10
+1:3:5 | [CMD] huso608(10) => /goto 12
+1:3:19 | [CMD] iYasinBey(14) => /fly
+1:3:22 | [CMD] iYasinBey(14) => /spec 14
+1:3:25 | [CMD] iYasinBey(14) => /specoff
+1:3:27 | {FFCC00}iYasinBey(14) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:3:30 | [CMD] iYasinBey(14) => /slap 14
+1:3:31 | [CMD] iYasinBey(14) => /slap 14
+1:3:36 | [CMD] iYasinBey(14) => /fly
+1:3:41 | [CMD] iYasinBey(14) => /get 10
+1:3:44 | [CMD] iYasinBey(14) => /get 10
+1:3:58 | [CMD] iYasinBey(14) => /car infernus 6 6
+1:4:7 | [CMD] iYasinBey(14) => /kemer
+1:4:20 | [CMD] iYasinBey(14) => /atamir
+1:4:38 | [CMD] iYasinBey(14) => /atamir
+1:4:47 | [CMD] iYasinBey(14) => /atamir
+1:4:52 | [CMD] iYasinBey(14) => /goto 18
+1:5:12 | [CMD] iYasinBey(14) => /meslek
+1:5:14 | [CMD] iYasinBey(14) => /meslek
+1:5:25 | iYasinBey(14) Balikci olarak spawn oldu.
+1:5:42 | [CMD] iYasinBey(14) => /fly
+1:5:50 | [CMD] iYasinBey(14) => /dorseget 431
+1:6:0 | [CMD] iYasinBey(14) => /work
+1:6:28 | [CMD] iYasinBey(14) => /fly
+1:6:34 | [CMD] iYasinBey(14) => /dorseget 431
+1:6:47 | [CMD] iYasinBey(14) => /atamir
+1:8:17 | [CMD] iYasinBey(14) => /work
+1:9:10 | [CMD] iYasinBey(14) => /goreviptal
+1:9:45 | [CMD] iYasinBey(14) => /baliksat
+1:9:49 | [CMD] iYasinBey(14) => /meslek
+1:9:52 | iYasinBey(14) Pizzaci olarak spawn oldu.
+1:10:2 | [CMD] iYasinBey(14) => /kemer
+1:10:6 | [CMD] iYasinBey(14) => /kemer
+1:10:8 | [CMD] iYasinBey(14) => /kemer
+1:10:14 | [CMD] iYasinBey(14) => /atamir
+1:10:14 | [CMD] iYasinBey(14) => /cantazele
+1:10:18 | [CMD] huso608(10) => /meslek
+1:10:18 | [CMD] iYasinBey(14) => /respawncars
+1:10:19 | [CMD] iYasinBey(14) => /cantazele
+1:10:31 | [CMD] iYasinBey(14) => /gobus
+1:11:0 | [CMD] iYasinBey(14) => /atamir
+1:11:32 | [CMD] iYasinBey(14) => /work
+1:12:25 | [CMD] Umut(18) => /bakim
+1:12:30 | [CMD] Umut(18) => /bkapat
+1:12:33 | [CMD] iYasinBey(14) => /work
+1:12:35 | [CMD] Umut(18) => /sunucukilitac
+1:12:39 | iYasinBey(14): acýldý
+1:12:45 | HeRquL(12): vay canýna :)
+1:12:51 | [CMD] Umut(18) => /car maver
+1:13:0 | [KICK] Umut(18), huso608(10)'i sunucudan attý. Sebep: RELOG
+1:13:0 | [CMD] Umut(18) => /kick 10 RELOG
+1:13:0 | huso608(10) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:13:2 | [KICK] Umut(18), HeRquL(12)'i sunucudan attý. Sebep: RELOG
+1:13:2 | [CMD] Umut(18) => /kick 12 RELOG
+1:13:2 | HeRquL(12) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:13:4 | [KICK] Umut(18), iYasinBey(14)'i sunucudan attý. Sebep: RELOG
+1:13:4 | [CMD] Umut(18) => /kick 14 RELOG
+1:13:4 | iYasinBey(14) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:13:11 | [CMD] Umut(18) => /car maver
+1:13:12 | [CMD] Umut(18) => /car maver 1 1
+1:13:24 | [CMD] Umut(18) => /cleanupcars
+1:13:31 | [CMD] Umut(18) => /cantazele
+1:13:32 | {FFCC00}Umut(18) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:13:36 | [CMD] Umut(18) => /cantazele
+1:13:38 | huso608(0) oyuna girdi [IP: 178.245.151.249]
+1:13:42 | [CMD] Umut(18) => /slap 18
+1:13:47 | [CMD] Umut(18) => /car maver 1 1
+1:13:49 | HeRquL(7) oyuna girdi [IP: 176.33.250.112]
+1:13:53 | 
+1:13:58 | {FFCC00}huso608(0) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:13:59 | 
+1:14:1 | {FFCC00}HeRquL(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:14:2 | [CMD] HeRquL(7) => /sac
+1:14:3 | [CMD] huso608(0) => /admgiris
+1:14:9 | [CMD] HeRquL(7) => /sa
+1:14:11 | [CMD] HeRquL(7) => /hg
+1:14:14 | [CMD] HeRquL(7) => /admgiris
+1:14:22 | [CMD] huso608(0) => /yenilikler
+1:14:25 | iYasinBey(8) oyuna girdi [IP: 85.97.165.133]
+1:14:36 | 
+1:14:40 | iYasinBey(8) Pizzaci olarak spawn oldu.
+1:14:50 | [CMD] iYasinBey(8) => /admgiris
+1:14:53 | [CMD] iYasinBey(8) => /sa
+1:14:57 | [CMD] iYasinBey(8) => /rescue
+1:15:1 | [CMD] iYasinBey(8) => /rescue
+1:15:12 | [CMD] iYasinBey(8) => /fly
+1:15:48 | ahmut(9) oyuna girdi [IP: 78.175.178.103]
+1:15:58 | 
+1:16:11 | [CMD] iYasinBey(8) => /kemer
+1:16:12 | [CMD] iYasinBey(8) => /work
+1:16:32 | [CMD] iYasinBey(8) => /work
+1:16:55 | {FFCC00}ahmut(9) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:17:3 | [CMD] ahmut(9) => /karakol
+1:17:7 | [CMD] ahmut(9) => /cezaode
+1:17:13 | [CMD] iYasinBey(8) => /work
+1:17:46 | ahmut(9): rescue
+1:17:51 | iYasinBey(8):  /rescue
+1:17:55 | ahmut(9): :D
+1:17:57 | [CMD] ahmut(9) => /rescue
+1:18:10 | [CMD] iYasinBey(8) => /work
+1:18:12 | [CMD] ahmut(9) => /saat 5
+1:18:14 | Moskova_Kurdu(10) oyuna girdi [IP: 212.252.68.122]
+1:18:27 | 
+1:18:29 | {FFCC00}Moskova_Kurdu(10) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:18:31 | [CMD] Moskova_Kurdu(10) => /admgiris
+1:18:36 | [CMD] Moskova_Kurdu(10) => /yenilikler
+1:18:48 | [CMD] Moskova_Kurdu(10) => /a Noldi þimdi 
+1:18:48 | [CMD] ahmut(9) => /buybus
+1:18:51 | [CMD] ahmut(9) => /icerigir
+1:18:51 | [CMD] iYasinBey(8) => /work
+1:18:56 | [CMD] iYasinBey(8) => /a bende anlamadým
+1:18:57 | [CMD] ahmut(9) => /isyerimenu
+1:19:6 | [CMD] iYasinBey(8) => /a mailsiz kayýt olanlar tc vermek zorunda
+1:19:8 | [CMD] iYasinBey(8) => /a numara
+1:19:8 | [CMD] ahmut(9) => /isyerimenu
+1:19:14 | [CMD] ahmut(9) => /isyerimenu
+1:19:15 | [CMD] ahmut(9) => /isyerimenu
+1:19:17 | [CMD] ahmut(9) => /isyerimenu
+1:19:18 | [CMD] ahmut(9) => /isyerimenu
+1:19:29 | [CMD] ahmut(9) => /isyerimenu
+1:19:36 | [CMD] Moskova_Kurdu(10) => /a Ben mail yerini sallamýþtým ::D 
+1:19:45 | [CMD] iYasinBey(8) => /a :D
+1:19:48 | [CMD] iYasinBey(8) => /work
+1:20:10 | [CMD] HeRquL(7) => /a yasin sen neden hiç ts girmiyosun
+1:20:27 | [CMD] iYasinBey(8) => /a habire sorun cýkýyor benim ts de
+1:20:31 | [CMD] HeRquL(7) => /a ne sorunu
+1:20:34 | [CMD] iYasinBey(8) => /work
+1:20:42 | [CMD] iYasinBey(8) => /a durduk yere yanýt vermiyor
+1:20:46 | [CMD] iYasinBey(8) => /dtemizle
+1:21:39 | [CMD] iYasinBey(8) => /a sebebide söylemiyor
+1:21:56 | [CMD] HeRquL(7) => /a nette çözüm aradýnmý
+1:22:8 | [CMD] iYasinBey(8) => /a aradým ama biþey bulamadým
+1:22:11 | [CMD] iYasinBey(8) => /work
+1:22:38 | [CMD] iYasinBey(8) => /work
+1:22:39 | Spanky09(11) oyuna girdi [IP: 88.241.71.92]
+1:22:50 | [CMD] Moskova_Kurdu(10) => /araba
+1:22:51 | ahmut(9): binanýn üstünde at-400 var 
+1:22:52 | 
+1:22:58 | iYasinBey(8): olabülür
+1:22:58 | [CMD] Moskova_Kurdu(10) => /goto 9 
+1:23:3 | {FFCC00}Spanky09(11) Otobus Soforu olarak spawn oldu.
+1:23:4 | [CMD] Moskova_Kurdu(10) => /cleanupcars
+1:23:4 | iYasinBey(8): olabilir
+1:23:6 | [CMD] Spanky09(11) => /sa
+1:23:8 | Moskova_Kurdu(10): Gitmiyo
+1:23:9 | [CMD] iYasinBey(8) => /asw
+1:23:9 | [CMD] ahmut(9) => /as
+1:23:9 | [CMD] HeRquL(7) => /as
+1:23:11 | [CMD] Moskova_Kurdu(10) => /fly
+1:23:13 | [CMD] iYasinBey(8) => /as
+1:23:22 | [CMD] Spanky09(11) => /meslek
+1:23:26 | {FFCC00}Spanky09(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:23:30 | [CMD] Spanky09(11) => /rescue
+1:23:31 | Moskova_Kurdu(10): Ha bura buglu olan yer 
+1:23:33 | [CMD] iYasinBey(8) => /work
+1:23:39 | [CMD] Moskova_Kurdu(10) => /respawn 701 
+1:23:41 | ahmut(9): :DD
+1:23:46 | [CMD] iYasinBey(8) => /adminol
+1:23:46 | [CMD] iYasinBey(8) => /adminol
+1:23:52 | [CMD] Spanky09(11) => /bb
+1:23:56 | iYasinBey(8) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:24:0 | G_Man(8) oyuna girdi [IP: 88.230.129.121]
+1:24:6 | [CMD] Spanky09(11) => /kemer
+1:24:8 | 
+1:24:11 | {FFCC00}G_Man(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:24:14 | [CMD] G_Man(8) => /admgiris
+1:24:16 | [CMD] G_Man(8) => /sa
+1:24:18 | [CMD] ahmut(9) => /as
+1:24:19 | [CMD] Spanky09(11) => /as
+1:24:19 | [CMD] Moskova_Kurdu(10) => /bangor ErayOgullarYT
+1:24:21 | [CMD] G_Man(8) => /gobus
+1:24:23 | [CMD] Moskova_Kurdu(10) => /a Furkan 
+1:24:27 | [CMD] G_Man(8) => /a efm canm
+1:24:36 | [CMD] Moskova_Kurdu(10) => /a Git modemine res at öyle gel 
+1:24:39 | [CMD] G_Man(8) => /goto 10 
+1:24:41 | [CMD] G_Man(8) => /a tm 
+1:24:42 | Matite(12) oyuna girdi [IP: 78.171.168.164]
+1:24:42 | [CMD] Moskova_Kurdu(10) => /a /aka 8 yaz bakem 
+1:24:49 | 
+1:24:51 | [CMD] G_Man(8) => /aka 8 
+1:24:52 | {FFCC00}Matite(12) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:24:53 | [CMD] Umut(18) => /aka 8
+1:24:54 | [CMD] ahmut(9) => /buybus
+1:24:57 | [CMD] ahmut(9) => /icerigir
+1:24:57 | [CMD] HeRquL(7) => /skapat
+1:25:1 | [CMD] Matite(12) => /sifredegistir
+1:25:1 | [CMD] G_Man(8) => /a haaa eray sabah girmiþti 
+1:25:1 | [CMD] ahmut(9) => /isyerimenu
+1:25:3 | [CMD] G_Man(8) => /a sorun yok 
+1:25:13 | [CMD] ahmut(9) => /isyerimenu
+1:25:14 | [CMD] Moskova_Kurdu(10) => /a Resle yinede sen 
+1:25:15 | [CMD] ahmut(9) => /isyerimenu
+1:25:16 | [CMD] G_Man(8) => /a yani kendi hesabýna 
+1:25:16 | [CMD] ahmut(9) => /isyerimenu
+1:25:18 | [CMD] ahmut(9) => /isyerimenu
+1:25:18 | [CMD] G_Man(8) => /a tmm 
+1:25:19 | [CMD] ahmut(9) => /isyerimenu
+1:25:20 | [CMD] ahmut(9) => /isyerimenu
+1:25:22 | [CMD] G_Man(8) => /a relog atammý 
+1:25:25 | [CMD] Spanky09(11) => /convoy
+1:25:31 | [CMD] G_Man(8) => /cleanupcars 
+1:25:40 | [CMD] huso608(0) => /a okan bey var mý bizlik bi problem
+1:25:46 | [CMD] G_Man(8) => /a acil goto olurmusunuz 
+1:26:0 | [CMD] G_Man(8) => /a clean çalýþmýyor acil 
+1:26:1 | [CMD] G_Man(8) => /fly 
+1:26:3 | G_Man(8): t
+1:26:5 | [CMD] HeRquL(7) => /goto 8
+1:26:7 | Matite(12) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:26:17 | [CMD] HeRquL(7) => /cantazele
+1:26:20 | [CMD] G_Man(8) => /god 
+1:26:22 | [CMD] Moskova_Kurdu(10) => /araba
+1:26:24 | [CMD] HeRquL(7) => /cleanupcars
+1:26:26 | [CMD] Moskova_Kurdu(10) => /goto 8 
+1:26:27 | [CMD] ahmut(9) => /buybus
+1:26:28 | [CMD] ahmut(9) => /buybus
+1:26:30 | [CMD] Moskova_Kurdu(10) => /a La bilioz burayý 
+1:26:31 | [CMD] ahmut(9) => /buybus
+1:26:33 | [CMD] Umut(18) => /giveallscore
+1:26:33 | [CMD] Moskova_Kurdu(10) => /a Ne acil acil 
+1:26:33 | ahmut(9): s
+1:26:34 | [CMD] Moskova_Kurdu(10) => /a .d 
+1:26:36 | [CMD] Umut(18) => /odulall
+1:26:37 | [CMD] Umut(18) => /odulall
+1:26:37 | [CMD] Umut(18) => /odulall
+1:26:38 | [CMD] Umut(18) => /odulall
+1:26:42 | [CMD] Umut(18) => /odulall
+1:26:42 | ahmut(9): kumarhane buldum oda buglu þansa bak
+1:26:42 | [CMD] G_Man(8) => /a nolmþ buraya clean çektim olmadý 
+1:26:43 | [CMD] Moskova_Kurdu(10) => /fly
+1:26:47 | [CMD] Umut(18) => /goto 9
+1:26:48 | [CMD] HeRquL(7) => /dcar
+1:26:48 | [CMD] ahmut(9) => /buybus
+1:26:48 | [CMD] Moskova_Kurdu(10) => /a Bozuk bura 
+1:26:50 | [CMD] Umut(18) => /goto 9
+1:26:51 | [CMD] Umut(18) => /goto 9
+1:26:53 | [CMD] Umut(18) => /atamir
+1:26:54 | [CMD] HeRquL(7) => /dcar
+1:26:56 | nik0tin(12) oyuna girdi [IP: 88.251.99.120]
+1:26:58 | {FFCC00}HeRquL(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:26:59 | [CMD] ahmut(9) => /buybus
+1:27:0 | [CMD] HeRquL(7) => /goto 8
+1:27:2 | ahmut(9): :DD þans 
+1:27:3 | [CMD] Moskova_Kurdu(10) => /a Sen nie öldün lo herqul .d 
+1:27:4 | [CMD] G_Man(8) => /a püüü :D 
+1:27:8 | [CMD] G_Man(8) => /goto 10 
+1:27:8 | 
+1:27:10 | [CMD] HeRquL(7) => /dcar
+1:27:11 | {FFCC00}nik0tin(12) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:27:12 | Umut(18): Bugu ne
+1:27:12 | [CMD] G_Man(8) => /goto 10 
+1:27:13 | [CMD] ahmut(9) => /buybus
+1:27:14 | {FFCC00}HeRquL(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:27:17 | [CMD] Moskova_Kurdu(10) => /meslek
+1:27:17 | [CMD] G_Man(8) => /car
+1:27:19 | {FFCC00}Moskova_Kurdu(10) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+1:27:19 | [CMD] Umut(18) => /gohome
+1:27:20 | ahmut(9): buybus yazdýgým zaman almýyor aib
+1:27:22 | [CMD] HeRquL(7) => /a umut /dcar da bug var
+1:27:22 | [CMD] G_Man(8) => /goto 10 
+1:27:23 | [CMD] nik0tin(12) => /admgiris 
+1:27:24 | [CMD] Moskova_Kurdu(10) => /goto G
+1:27:25 | ahmut(9): buybus yazdýgým zaman almýyor abi*
+1:27:26 | [CMD] G_Man(8) => /dcar
+1:27:27 | [CMD] Moskova_Kurdu(10) => /goto 7 
+1:27:28 | [CMD] HeRquL(7) => /a araç silinyo sonra sende ölüyon
+1:27:31 | [CMD] ahmut(9) => /kobus
+1:27:34 | [CMD] G_Man(8) => /goto 10 
+1:27:35 | [CMD] Umut(18) => /buybus
+1:27:36 | [CMD] ahmut(9) => /konus
+1:27:37 | nik0tin(12):  
+1:27:39 | [CMD] Umut(18) => /isyerisil
+1:27:40 | [CMD] G_Man(8) => /a u5 ne 
+1:27:41 | [CMD] Moskova_Kurdu(10) => /a Öyle biþey var ama canýn full ise ölmüyon 
+1:27:43 | [CMD] Umut(18) => /isyeriolusur
+1:27:44 | [CMD] HeRquL(7) => /a update 5
+1:27:44 | [CMD] ahmut(9) => /animkapat
+1:27:45 | [CMD] Umut(18) => /isyeriolustur
+1:27:45 | [CMD] Moskova_Kurdu(10) => /a Az biþey kalýyo can 
+1:27:46 | [CMD] Moskova_Kurdu(10) => /Fly
+1:27:55 | [CMD] G_Man(8) => /a v6 mý ne oluyo o 
+1:27:55 | [CMD] ahmut(9) => /buybus
+1:27:59 | [CMD] ahmut(9) => /buybus
+1:27:59 | [CMD] HeRquL(7) => /a hayýr
+1:28:1 | ahmut(9): :(
+1:28:4 | [CMD] Moskova_Kurdu(10) => /a V6 farklý 
+1:28:8 | [CMD] ahmut(9) => /buybus
+1:28:9 | [CMD] ahmut(9) => /buybus
+1:28:10 | [CMD] Moskova_Kurdu(10) => /a Ne cahilsin yaw Furki 
+1:28:10 | [CMD] ahmut(9) => /buybus
+1:28:11 | [CMD] Umut(18) => /buybus
+1:28:11 | [CMD] ahmut(9) => /buybus
+1:28:15 | [CMD] G_Man(8) => /a valla ya :D 
+1:28:17 | [CMD] ahmut(9) => /emrah
+1:28:19 | [CMD] ahmut(9) => /emrah
+1:28:19 | [CMD] Umut(18) => /buybus
+1:28:20 | [CMD] Umut(18) => /buybus
+1:28:22 | [CMD] Umut(18) => /buybus
+1:28:23 | [CMD] Umut(18) => /buybus
+1:28:24 | [CMD] ahmut(9) => /animkapat
+1:28:24 | [SirketCHT] huso608(0): ! moskova
+1:28:27 | [SirketCHT] Moskova_Kurdu(10): ! Evet 
+1:28:29 | [CMD] ahmut(9) => /buybus
+1:28:30 | Umut(18): Bilmiyorum :D
+1:28:31 | [SirketCHT] huso608(0): ! telefon pls
+1:28:32 | ahmut(9): :DD
+1:28:40 | [CMD] G_Man(8) => /a bugün bizim sýnýftan birisi belge aldý wp grubundan 1 level atladýk becerileri geliþtirin dio :D 
+1:28:41 | [CMD] Spanky09(11) => /pm 9 Knk Biþey Ýstiyebilir miyim Ya
+1:28:48 | [CMD] G_Man(8) => /goto 10 
+1:28:49 | [CMD] ahmut(9) => /pm 11 buyur
+1:29:4 | [CMD] G_Man(8) => /a dio 
+1:29:5 | [CMD] G_Man(8) => /araba
+1:29:10 | [CMD] G_Man(8) => /gobus
+1:29:10 | [CMD] Spanky09(11) => /pm 9 Ya Bana Skor Lazým da Ýþin Yoksa Eðer Çöpçü Olsak Olur mu
+1:29:11 | [CMD] huso608(0) => /komutlar
+1:29:13 | [CMD] G_Man(8) => /icerigir
+1:29:16 | [CMD] Umut(18) => /atamir
+1:29:17 | [CMD] G_Man(8) => /isyerimenu
+1:29:21 | nik0tin(12) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:29:22 | [CMD] G_Man(8) => /gobus
+1:29:28 | [CMD] G_Man(8) => /icerigir
+1:29:30 | [CMD] G_Man(8) => /isyerimenu
+1:29:33 | [CMD] ahmut(9) => /pm 11 olur tabi þu 3.iþyerini alayým hemen
+1:29:39 | [CMD] G_Man(8) => /goto Umut 
+1:29:47 | [CMD] Spanky09(11) => /pm 9 Ya Çok Teþekkür Ederim Ya
+1:29:57 | [CMD] Spanky09(11) => /meslek
+1:30:1 | [CMD] G_Man(8) => /a A7 varmý ben giþe eklettiricektim parasýný ödedim 
+1:30:3 | [CMD] G_Man(8) => /araba
+1:30:6 | [CMD] ahmut(9) => /pm 11 nedemek ya <33
+1:30:6 | Spanky09(11) Cöpcü olarak spawn oldu.
+1:30:7 | [CMD] G_Man(8) => /meslek 
+1:30:8 | ahmut(9): fail
+1:30:8 | [CMD] Moskova_Kurdu(10) => /giveweapon 10 rocket 55555
+1:30:10 | {FFCC00}G_Man(8) Otobus Soforu olarak spawn oldu.
+1:30:18 | [CMD] Spanky09(11) => /pm 9 <3
+1:30:22 | sezzer(12) oyuna girdi [IP: 85.107.179.210]
+1:30:23 | [CMD] huso608(0) => /meslek
+1:30:25 | [CMD] Umut(18) => /duyuru yapma kalbim var
+1:30:25 | [CMD] G_Man(8) => /a aa eklenmiþ tmm tmm 
+1:30:27 | [CMD] Moskova_Kurdu(10) => /cleanupcars
+1:30:29 | ahmut(9): :(
+1:30:29 | [CMD] G_Man(8) => /giseparacek 
+1:30:32 | {FFCC00}huso608(0) Otobus Soforu olarak spawn oldu.
+1:30:33 | [CMD] G_Man(8) => /giseparacek 
+1:30:34 | [CMD] Moskova_Kurdu(10) => /Respawn 701 
+1:30:35 | 
+1:30:36 | [CMD] G_Man(8) => /rescue 
+1:30:38 | {FFCC00}sezzer(12) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:30:44 | [CMD] sezzer(12) => /sa
+1:30:44 | [CMD] huso608(0) => /rescue
+1:30:44 | [CMD] Moskova_Kurdu(10) => /fly
+1:30:47 | [CMD] G_Man(8) => /giseparacek 
+1:30:47 | [CMD] Spanky09(11) => /as
+1:30:47 | [CMD] ahmut(9) => /as
+1:30:50 | [CMD] Umut(18) => /duyuru aglama yaar aaaaaaaaa aglama yar aaaa a a aaa
+1:30:56 | [CMD] Umut(18) => /duyuru buda gelir buda gecer
+1:31:0 | [CMD] Moskova_Kurdu(10) => /dorseget 699
+1:31:2 | [CMD] huso608(0) => /a helal sana
+1:31:4 | [CMD] Moskova_Kurdu(10) => /dorseget 700
+1:31:5 | [CMD] Spanky09(11) => /rescue
+1:31:5 | [CMD] Moskova_Kurdu(10) => /dorseget 701
+1:31:6 | [CMD] Umut(18) => /duyuru saglam gecer
+1:31:8 | [CMD] huso608(0) => /a adanalý celal baba
+1:31:17 | [CMD] G_Man(8) => /pm 10 kim yazýyor .d 
+1:31:17 | sezzer(12): yenilikler neler beyler
+1:31:22 | [CMD] G_Man(8) => /goto 10 
+1:31:24 | huso608(0):   /yenilikler
+1:31:24 | [CMD] ahmut(9) => /tamir
+1:31:25 | [CMD] Spanky09(11) => /work
+1:31:26 | [CMD] Moskova_Kurdu(10) => /admins
+1:31:28 | sezzer(12): yenilik geldi mi daha doðruu
+1:31:32 | [CMD] sezzer(12) => /yenilikler
+1:31:34 | [CMD] G_Man(8) => /kemer 
+1:31:34 | [CMD] Spanky09(11) => /kemer
+1:31:35 | [CMD] Moskova_Kurdu(10) => /pm 8 huso yazýo büyük ihtimal 
+1:31:36 | [CMD] G_Man(8) => /goto 10 
+1:31:37 | HeRquL(7):  /yenilikler
+1:31:42 | [CMD] Moskova_Kurdu(10) => /pm 8 cmd de göremediðimize göre 
+1:31:48 | sezzer(12): yeni biþey yazmýyo knk
+1:31:49 | [CMD] G_Man(8) => /goto 10 
+1:31:49 | [ANTIHACK] Þüpheli G_Man(8) => Airbreak-hack
+1:31:54 | [CMD] G_Man(8) => /a püü 
+1:31:55 | [CMD] ahmut(9) => /meslek
+1:31:56 | huso608(0): hadi zenginiz bugun kaptýk lotoyu
+1:31:57 | [CMD] G_Man(8) => /atamir 
+1:31:57 | [CMD] Moskova_Kurdu(10) => /A Napýyon deðiþk
+1:32:0 | Spanky09(11): Lotto Nasýl Oynuyoruz
+1:32:4 | HeRquL(7): otomatik
+1:32:4 | G_Man Moskova_Kurdu'i öldürdü. Oldurme Sekli: 38
+1:32:8 | [CMD] Moskova_Kurdu(10) => /a Bak ya 
+1:32:8 | [CMD] G_Man(8) => /a :D 
+1:32:8 | {FFCC00}Moskova_Kurdu(10) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+1:32:10 | [CMD] Moskova_Kurdu(10) => /slap 8 
+1:32:10 | HeRquL(7): kendisi sistem veriyo ödül
+1:32:10 | [CMD] Moskova_Kurdu(10) => /slap 8 
+1:32:10 | [CMD] Moskova_Kurdu(10) => /slap 8 
+1:32:11 | [CMD] Moskova_Kurdu(10) => /slap 8 
+1:32:11 | [CMD] G_Man(8) => /atamir 
+1:32:12 | [CMD] sezzer(12) => /meslek
+1:32:13 | [CMD] Moskova_Kurdu(10) => /god
+1:32:13 | [CMD] G_Man(8) => /goto 10 
+1:32:14 | [CMD] Moskova_Kurdu(10) => /araba
+1:32:16 | {FFCC00}sezzer(12) {FFFFFF}Pilot olarak spawn oldu.
+1:32:19 | [CMD] ahmut(9) => /buybus
+1:32:22 | [CMD] sezzer(12) => /rescue
+1:32:22 | [CMD] G_Man(8) => /a sen kimi tokatlýyon :D 
+1:32:22 | [CMD] ahmut(9) => /icerigir
+1:32:26 | [CMD] ahmut(9) => /isyerimenu
+1:32:27 | huso608(0): @11 lotto otomatik sistem oyuncuya kendi saatinde ve dakikasinda aktarýmýný yapar
+1:32:29 | [CMD] sezzer(12) => /rescue
+1:32:32 | [CMD] G_Man(8) => /goto 10 
+1:32:36 | [CMD] G_Man(8) => /goto 10 
+1:32:38 | [CMD] G_Man(8) => /goto 10 
+1:32:39 | [CMD] G_Man(8) => /goto 10 
+1:32:40 | [CMD] G_Man(8) => /goto 10 
+1:32:41 | [CMD] G_Man(8) => /goto 10 
+1:32:42 | [CMD] ahmut(9) => /isyerimenu
+1:32:42 | [CMD] G_Man(8) => /goto 10 
+1:32:43 | [CMD] G_Man(8) => /goto 10 
+1:32:43 | [CMD] G_Man(8) => /goto 10 
+1:32:44 | [CMD] ahmut(9) => /isyerimenu
+1:32:44 | [CMD] G_Man(8) => /goto 10 
+1:32:45 | [CMD] G_Man(8) => /goto 10 
+1:32:45 | [CMD] ahmut(9) => /isyerimenu
+1:32:46 | [CMD] ahmut(9) => /isyerimenu
+1:32:46 | [CMD] G_Man(8) => /goto 10 
+1:32:46 | Spanky09(11): Hmm Anladým Teþekkürler
+1:32:48 | [CMD] G_Man(8) => /goto 10 
+1:32:50 | [CMD] ahmut(9) => /meslek
+1:32:50 | [CMD] G_Man(8) => /goto 10 
+1:32:51 | [CMD] G_Man(8) => /goto 10 
+1:32:52 | [CMD] G_Man(8) => /goto 10 
+1:32:53 | [CMD] G_Man(8) => /goto 10 
+1:32:54 | huso608(0): Ýyi Oyunlar Dilerim
+1:32:58 | ahmut(9) Cöpcü olarak spawn oldu.
+1:32:59 | [CMD] G_Man(8) => /araba
+1:33:2 | [CMD] G_Man(8) => /goto 10 
+1:33:2 | [CMD] ahmut(9) => /rescue
+1:33:2 | [CMD] Moskova_Kurdu(10) => /fly
+1:33:5 | [CMD] G_Man(8) => /fly 
+1:33:17 | [CMD] G_Man(8) => /a yanlýz o heliyi alýrlar 
+1:33:18 | Spanky09(11): Sen Sür
+1:33:25 | [ANTIHACK] Þüpheli Moskova_Kurdu(10) => Airbreak-hack
+1:33:25 | [CMD] Moskova_Kurdu(10) => /a Denize atýcam 
+1:33:32 | [CMD] huso608(0) => /a airbocekler
+1:33:35 | [CMD] Moskova_Kurdu(10) => /Atamir
+1:33:36 | [CMD] huso608(0) => /a yavas biraz
+1:33:40 | [CMD] Spanky09(11) => /work
+1:33:44 | [CMD] huso608(0) => /sac
+1:33:46 | [CMD] Spanky09(11) => /work
+1:33:51 | [CMD] Spanky09(11) => /work
+1:33:52 | [CMD] G_Man(8) => /a bende bu kamyonu alam :D 
+1:33:58 | Spanky09(11): Görev Baþlamýyo
+1:33:59 | [CMD] G_Man(8) => /kemer
+1:34:2 | [CMD] Spanky09(11) => /work
+1:34:6 | [CMD] G_Man(8) => /myskin 286
+1:34:8 | [CMD] G_Man(8) => /myskin 287
+1:34:12 | [CMD] Moskova_Kurdu(10) => /fly
+1:34:19 | [CMD] Umut(18) => /bkapat
+1:34:23 | [CMD] huso608(0) => /goto 11
+1:34:26 | Umut(18): Hata veriyor mu
+1:34:39 | [CMD] G_Man(8) => /araba
+1:34:42 | [CMD] Spanky09(11) => /work
+1:34:42 | [CMD] Umut(18) => /restart 1
+1:34:46 | HeRquL(7): umut
+1:34:46 | sezzer(12): hoydaa
+1:34:49 | HeRquL(7): 2 hata çýktý
+1:34:50 | [CMD] G_Man(8) => /kemer 
+1:35:10 | [CMD] Moskova_Kurdu(10) => /dorseget 701
+1:35:10 | [CMD] huso608(0) => /a ahmut afk oldugu icin almams olabilirmi
+1:35:16 | [CMD] Spanky09(11) => /work
+1:35:16 | [CMD] Moskova_Kurdu(10) => /A Furkan 
+1:35:19 | [CMD] G_Man(8) => /a map mý ekleniyor yoksa texpack mý 
+1:35:22 | [CMD] G_Man(8) => /a efm 
+1:35:29 | [CMD] sezzer(12) => /araba
+1:35:32 | [CMD] huso608(0) => /skapat
+1:35:32 | [CMD] Moskova_Kurdu(10) => /A Furkan ordaki helinin idsini ver
+1:35:37 | [CMD] Umut(18) => /duyuru normal res geliyor yenilik yoktur!
+1:35:39 | [CMD] G_Man(8) => /a hangisi 
+1:35:44 | [CMD] Spanky09(11) => /work
+1:35:45 | [CMD] Moskova_Kurdu(10) => /a Silahlý olan 
+1:35:50 | ahmut(9): s
+1:35:51 | [CMD] G_Man(8) => /a bilmem 
+1:35:55 | [CMD] Moskova_Kurdu(10) => /a Baksana olm 
+1:35:56 | [CMD] Moskova_Kurdu(10) => /a /dl den 
+1:35:58 | huso608(0) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:58 | HeRquL(7) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:59 | G_Man(8) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:59 | ahmut(9) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:59 | Moskova_Kurdu(10) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:59 | Spanky09(11) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:59 | sezzer(12) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:35:59 | Umut(18) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:36:4 | Sunucu kapatildi.
+1:36:17 | Sunucu calistirildi.
+1:36:25 | Moskova_Kurdu(6) oyuna girdi [IP: 212.252.68.122]
+1:36:27 | G_Man(7) oyuna girdi [IP: 88.230.129.121]
+1:36:33 | 
+1:36:35 | {FFCC00}G_Man(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:36:37 | [CMD] G_Man(7) => /admgiris
+1:36:39 | [CMD] G_Man(7) => /sa 
+1:36:40 | sezzer(8) oyuna girdi [IP: 85.107.179.210]
+1:36:44 | [CMD] G_Man(7) => /gobus
+1:36:45 | 
+1:36:47 | {FFCC00}Moskova_Kurdu(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:36:50 | 
+1:36:52 | [CMD] Moskova_Kurdu(6) => /fly
+1:36:52 | {FFCC00}sezzer(8) {FFFFFF}Pilot olarak spawn oldu.
+1:36:53 | ahmut(9) oyuna girdi [IP: 78.175.178.103]
+1:36:56 | [CMD] sezzer(8) => /rescue
+1:36:57 | [CMD] Moskova_Kurdu(6) => /admgiris
+1:37:0 | [CMD] Moskova_Kurdu(6) => /fly
+1:37:1 | [CMD] G_Man(7) => /araba 
+1:37:1 | sezzer(8): ahmut
+1:37:3 | 
+1:37:7 | [CMD] G_Man(7) => /stats 
+1:37:8 | ahmut(9) Cöpcü olarak spawn oldu.
+1:37:11 | sezzer(8): ahmut
+1:37:14 | [CMD] G_Man(7) => /basarimlar
+1:37:17 | ahmut(9): efendim
+1:37:21 | sezzer(8): vip almýþýn h.o
+1:37:22 | [CMD] G_Man(7) => /goto 6 
+1:37:25 | [CMD] G_Man(7) => /goto 6 
+1:37:27 | [CMD] G_Man(7) => /goto 6 
+1:37:27 | ahmut(9): almadým kazandým :D 
+1:37:28 | [CMD] G_Man(7) => /god 
+1:37:31 | [CMD] G_Man(7) => /goto 6 
+1:37:31 | [CMD] Moskova_Kurdu(6) => /vipler
+1:37:33 | [CMD] G_Man(7) => /goto 6 
+1:37:34 | [CMD] Moskova_Kurdu(6) => /vipler
+1:37:35 | ahmut(9): Umut abi verdi D: 
+1:37:36 | Spanky09(10) oyuna girdi [IP: 88.241.71.92]
+1:37:40 | [CMD] Moskova_Kurdu(6) => /god
+1:37:41 | huso608(11) oyuna girdi [IP: 178.245.151.249]
+1:37:42 | [CMD] G_Man(7) => /a 1M atsana bana la 
+1:37:46 | [CMD] Moskova_Kurdu(6) => /a Atam 
+1:37:47 | 
+1:37:51 | Moskova_Kurdu(6) G_Man(7)'a 1000000$ para gönderdi
+1:37:51 | [CMD] Moskova_Kurdu(6) => /paragonder 7 1000000
+1:37:51 | sezzer(8): yinede h.o
+1:37:52 | Spanky09(10) Cöpcü olarak spawn oldu.
+1:37:52 | [CMD] G_Man(7) => /araba 
+1:37:57 | [CMD] Moskova_Kurdu(6) => /araba
+1:37:58 | 
+1:38:0 | [CMD] Spanky09(10) => /rescue
+1:38:1 | [CMD] ahmut(9) => /saat 5
+1:38:1 | [CMD] G_Man(7) => /gobus
+1:38:5 | [CMD] G_Man(7) => /rescue
+1:38:5 | {FFCC00}huso608(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:38:14 | [CMD] huso608(11) => /admgiris
+1:38:14 | [CMD] ahmut(9) => /kemer
+1:38:18 | [CMD] G_Man(7) => /a harbur yenilencekmi 
+1:38:18 | [CMD] ahmut(9) => /work
+1:38:18 | [CMD] Spanky09(10) => /kemer
+1:38:20 | [CMD] G_Man(7) => /fly 
+1:38:22 | [CMD] G_Man(7) => /fly 
+1:38:26 | [CMD] Moskova_Kurdu(6) => /a Harbur deðildir o Habur dur 
+1:38:26 | [CMD] ahmut(9) => /t mesai baþlasýn
+1:38:37 | [CMD] G_Man(7) => /a aynn 
+1:38:39 | [CMD] Spanky09(10) => /t Hadi Bakalým 
+1:38:41 | [CMD] huso608(11) => /kurallar
+1:38:44 | [CMD] Moskova_Kurdu(6) => /a Furkan 
+1:38:49 | [CMD] Spanky09(10) => /t Bu Arada Tekrardan Çok Teþekkür Ederim <3
+1:38:50 | [CMD] Moskova_Kurdu(6) => /a Habur neresi .p 
+1:38:51 | [CMD] G_Man(7) => /a la benim giþeler gitmi þ
+1:38:58 | [CMD] ahmut(9) => /t lafý olmaz ya <33
+1:38:59 | sezzer(8): lagtes
+1:39:1 | [CMD] G_Man(7) => /a higwaydaki 
+1:39:13 | [CMD] Moskova_Kurdu(6) => /Fly
+1:39:18 | [CMD] sezzer(8) => /araba
+1:39:21 | HeRquL(12) oyuna girdi [IP: 176.33.250.112]
+1:39:26 | [CMD] sezzer(8) => /modifiye
+1:39:30 | [CMD] Moskova_Kurdu(6) => /Goto 7 
+1:39:33 | HeRquL(12) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+1:39:36 | [CMD] Moskova_Kurdu(6) => /sirket
+1:39:45 | [CMD] G_Man(7) => /a acaba otogardakileri aldýðým içinmi 
+1:39:45 | [CMD] huso608(11) => /kemer
+1:39:52 | [CMD] Moskova_Kurdu(6) => /A Alakasý yok 
+1:39:59 | [CMD] Moskova_Kurdu(6) => /a Eski save mi yüklendi acaba? 
+1:40:11 | [CMD] Moskova_Kurdu(6) => /sirket
+1:40:12 | [CMD] huso608(11) => /sirketdorse
+1:40:16 | [CMD] G_Man(7) => /a quarydekilere bakam 
+1:40:18 | [CMD] G_Man(7) => /rescue 
+1:40:23 | [CMD] huso608(11) => /work
+1:40:35 | [CMD] G_Man(7) => /a ss aldým onlarý 
+1:40:37 | [CMD] Moskova_Kurdu(6) => /a Yok eski save de deðil 
+1:40:37 | [CMD] G_Man(7) => /fly
+1:40:41 | [CMD] Moskova_Kurdu(6) => /goto 7 
+1:40:48 | [CMD] Moskova_Kurdu(6) => /spec 7 
+1:40:58 | [CMD] G_Man(7) => /a bak burasýda satýlýk 
+1:41:6 | [CMD] Moskova_Kurdu(6) => /a Hüso nun giþeye bakak 
+1:41:8 | [CMD] Moskova_Kurdu(6) => /specoff
+1:41:8 | {FFCC00}Moskova_Kurdu(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:41:9 | [CMD] Moskova_Kurdu(6) => /rescue
+1:41:16 | [CMD] huso608(11) => /a benim gisem yok
+1:41:18 | [CMD] G_Man(7) => /meslek
+1:41:21 | {FFCC00}G_Man(7) Otobus Soforu olarak spawn oldu.
+1:41:22 | [CMD] Moskova_Kurdu(6) => /a sen deel diyeri .d 
+1:41:24 | [CMD] Moskova_Kurdu(6) => /fly
+1:41:31 | [CMD] Moskova_Kurdu(6) => /a diðeri*
+1:41:36 | [CMD] G_Man(7) => /a lv deki giþeleri duruyor 
+1:41:41 | [CMD] Moskova_Kurdu(6) => /a hüso nun duruyo 
+1:41:42 | [CMD] G_Man(7) => /rescue
+1:41:55 | [CMD] G_Man(7) => /giseparacek 
+1:42:2 | [CMD] G_Man(7) => /rescue
+1:42:12 | [CMD] G_Man(7) => /gobus
+1:42:17 | [CMD] G_Man(7) => /icerigir
+1:42:20 | [CMD] G_Man(7) => /isyerimenu
+1:42:25 | [CMD] G_Man(7) => /gobus
+1:42:29 | [CMD] G_Man(7) => /icerigir
+1:42:31 | [CMD] G_Man(7) => /isyerimenu
+1:42:40 | sezzer(8): ne bu sessizlik arkadaþ
+1:42:41 | [CMD] G_Man(7) => /a 300k atcak varmý 
+1:42:43 | sezzer(8): ölü evi gibi
+1:42:44 | [CMD] G_Man(7) => /goto 10 
+1:42:50 | ahmut(9): bizde mesai var kardeþ
+1:42:50 | [CMD] G_Man(7) => /sac
+1:42:54 | [CMD] G_Man(7) => /goto 6 
+1:43:0 | [CMD] huso608(11) => /asiriyuk
+1:43:0 | sezzer(8): ne mesaisi kanka
+1:43:7 | ahmut(9): çöp topluyoruz
+1:43:18 | sezzer(8): ee diðerleri
+1:43:19 | [CMD] G_Man(7) => /sac
+1:43:24 | ahmut(9): bu kadar
+1:43:42 | G_Man(7): ben bi giþeleri sancaða atcam 
+1:43:49 | [CMD] G_Man(7) => /car patriot 1 1 
+1:44:4 | [CMD] G_Man(7) => /myskin 287
+1:44:14 | [CMD] huso608(11) => /a giselerle ilgili problem nedir furkan
+1:44:16 | DarkFlow(12) oyuna girdi [IP: 78.165.37.249]
+1:44:19 | [CMD] ahmut(9) => /vtamir
+1:44:21 | TestUser(13) oyuna girdi [IP: 88.251.99.120]
+1:44:22 | [CMD] Spanky09(10) => /t Almýyo
+1:44:30 | 
+1:44:30 | [CMD] ahmut(9) => /t :)
+1:44:33 | [CMD] G_Man(7) => /a quary ve higwaydaki giþeler satýlýk dior silindimi acaba 
+1:44:35 | [CMD] G_Man(7) => /afk
+1:44:35 | {FFCC00}DarkFlow(12) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:44:37 | {FFCC00}TestUser(13) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:44:37 | [CMD] G_Man(7) => /musait
+1:44:38 | Moskova_Kurdu(6): TestUser nedir :D 
+1:44:40 | [CMD] Spanky09(10) => /t :D <3
+1:44:47 | sezzer(8): test etcek bizi kanka
+1:44:47 | [CMD] DarkFlow(12) => /duyurukapat
+1:44:48 | [ANTIHACK] Þüpheli sezzer(8) => Airbreak-hack
+1:44:52 | [CMD] DarkFlow(12) => /saat 0
+1:44:53 | [CMD] ahmut(9) => /t <3
+1:45:1 | [CMD] Moskova_Kurdu(6) => /goto TestUser
+1:45:4 | [CMD] DarkFlow(12) => /sirket
+1:45:10 | [SirketCHT] sezzer(8): ! kanka bana bi tokat patlatsana senin tokatýn iyi oluyo
+1:45:17 | [SirketCHT] Moskova_Kurdu(6): ! En sevdiðimden 
+1:45:19 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:45:21 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:45:21 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:45:22 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:45:22 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:45:22 | [CMD] huso608(11) => /a niko
+1:45:22 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:45:22 | [CMD] Moskova_Kurdu(6) => /slap 8 t
+1:45:23 | sezzer(8): ohh
+1:45:24 | sezzer(8): lan
+1:45:26 | sezzer(8): yapma
+1:45:27 | Moskova_Kurdu(6): :D
+1:45:29 | {FFCC00}sezzer(8) {FFFFFF}Pilot olarak spawn oldu.
+1:45:34 | [CMD] DarkFlow(12) => /meslek
+1:45:35 | [CMD] Moskova_Kurdu(6) => /spec 8 
+1:45:40 | sezzer(8): kanka etk mapindeydim öldüm lan 
+1:45:40 | [SirketCHT] Moskova_Kurdu(6): ! Bi öldün mü ne ya 
+1:45:44 | DarkFlow(12) Gemici olarak spawn oldu.
+1:45:45 | sezzer(8): þimdi bidaha gitcem falan
+1:45:47 | [SirketCHT] Moskova_Kurdu(6): ! Bi þey olmaz
+1:45:51 | [CMD] Moskova_Kurdu(6) => /specoff
+1:45:51 | {FFCC00}Moskova_Kurdu(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:45:51 | [CMD] sezzer(8) => /rescue
+1:45:53 | [CMD] Moskova_Kurdu(6) => /goetk
+1:45:55 | [CMD] Moskova_Kurdu(6) => /goetk 1
+1:45:58 | [CMD] DarkFlow(12) => /saat 7
+1:45:59 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:46:2 | TestUser(13) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:46:3 | [CMD] ahmut(9) => /t of ya yol uzadý
+1:46:8 | [LOCAL]sezzer(8): eyv
+1:46:8 | [CMD] sezzer(8) => /l eyv
+1:46:14 | [LOCAL]Moskova_Kurdu(6): Napcan burda :D 
+1:46:14 | [CMD] Moskova_Kurdu(6) => /l Napcan burda :D 
+1:46:19 | [CMD] DarkFlow(12) => /saat 8
+1:46:19 | [LOCAL]sezzer(8): bura deðildi la
+1:46:19 | [CMD] sezzer(8) => /l bura deðildi la
+1:46:21 | [CMD] sezzer(8) => /araba
+1:46:22 | [LOCAL]Moskova_Kurdu(6): Nere 
+1:46:22 | [CMD] Moskova_Kurdu(6) => /l Nere 
+1:46:27 | [LOCAL]sezzer(8): etla
+1:46:27 | [CMD] sezzer(8) => /l etla
+1:46:38 | [CMD] G_Man(7) => /geldim
+1:46:40 | [CMD] G_Man(7) => /musait
+1:46:41 | sezzer(8): laaa
+1:46:44 | {FFCC00}Moskova_Kurdu(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:46:45 | Matite(13) oyuna girdi [IP: 78.171.168.164]
+1:46:49 | [CMD] G_Man(7) => /sac
+1:46:51 | [CMD] DarkFlow(12) => /saat 80
+1:46:55 | [CMD] DarkFlow(12) => /saat -
+1:46:55 | 
+1:46:57 | {FFCC00}Matite(13) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:46:58 | [CMD] DarkFlow(12) => /saat -0
+1:47:0 | [CMD] G_Man(7) => /a matiteye soram
+1:47:1 | [CMD] Matite(13) => /sifredegistir
+1:47:4 | [CMD] DarkFlow(12) => /saat 0
+1:47:5 | [CMD] G_Man(7) => /goto 13 
+1:47:7 | sezzer(8): buraydý kanka yanlýyom burda arda gelip
+1:47:12 | [CMD] Moskova_Kurdu(6) => /goto 8 
+1:47:16 | [CMD] Moskova_Kurdu(6) => /goetk 
+1:47:21 | [CMD] Spanky09(10) => /t :D
+1:47:25 | Moskova_Kurdu(6): Go Kart yarýþ mapi bura
+1:47:25 | [CMD] ahmut(9) => /t d :
+1:47:26 | [CMD] Moskova_Kurdu(6) => /araba
+1:47:26 | Matite(13) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+1:47:28 | [CMD] DarkFlow(12) => /meslek
+1:47:31 | DarkFlow(12) Pizzaci olarak spawn oldu.
+1:47:32 | [CMD] G_Man(7) => /a reiz acil bakabilirmisin 
+1:47:35 | [CMD] Moskova_Kurdu(6) => /car elegy 0 0
+1:47:36 | sezzer(8): niye hiç go kart yarýþý yapmýyonuz kanka
+1:47:42 | [CMD] G_Man(7) => /a benm giþeler silinmiþ quary ve higway
+1:47:43 | [CMD] G_Man(7) => /rescue
+1:47:55 | [CMD] Moskova_Kurdu(6) => /a Furkan adamýn iþi var. Emirhan veya huseyin halleder 
+1:47:59 | [CMD] ahmut(9) => /t tehlikeli olay deniyem
+1:48:3 | [CMD] G_Man(7) => /a tmm 
+1:48:9 | [CMD] ahmut(9) => /cevir
+1:48:12 | [CMD] Spanky09(10) => /t :D
+1:48:13 | [CMD] G_Man(7) => /goto 6 
+1:48:16 | [CMD] Spanky09(10) => /t Çýlgýn Ya :D
+1:48:18 | [CMD] ahmut(9) => /t :DDD
+1:48:18 | [CMD] huso608(11) => /a zaten fazla durmadý girdi cýktý
+1:48:19 | [CMD] G_Man(7) => /kart 1 1
+1:48:23 | [CMD] G_Man(7) => /car kart 1 1
+1:48:24 | [CMD] DarkFlow(12) => /work
+1:48:26 | [CMD] ahmut(9) => /tamir
+1:48:27 | [CMD] G_Man(7) => /a :D 
+1:48:29 | [CMD] G_Man(7) => /kemer 
+1:48:29 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:48:30 | [CMD] ahmut(9) => /t devama
+1:48:32 | [CMD] ahmut(9) => /work
+1:48:33 | sezzer(8): bak bak
+1:48:37 | sezzer(8): püüüð
+1:48:52 | [CMD] Moskova_Kurdu(6) => /atamir
+1:48:57 | [CMD] Spanky09(10) => /t 10 Skor Vermiyo muydu
+1:48:57 | [CMD] DarkFlow(12) => /work
+1:49:0 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:49:7 | [CMD] G_Man(7) => /atamir 
+1:49:10 | sezzer(8): bunlar hep kýskançlýkdan :D
+1:49:12 | [CMD] ahmut(9) => /t viplere ozel
+1:49:12 | [CMD] G_Man(7) => /atamir 
+1:49:24 | G_Man(7): ben bunlardan davacýyým hakim bey :D 
+1:49:30 | [CMD] DarkFlow(12) => /work
+1:49:33 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:49:33 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:49:37 | G_Man(7): noliyir 
+1:49:42 | sezzer(8): böyle þey olma
+1:49:43 | sezzer(8): z
+1:49:44 | Moskova_Kurdu(6): sezzer hackledi serveri
+1:49:47 | [CMD] sezzer(8) => /tamir
+1:49:49 | G_Man(7): hmm 
+1:49:52 | [CMD] DarkFlow(12) => /work
+1:49:58 | [CMD] Moskova_Kurdu(6) => /car Kart 1 1
+1:50:2 | G_Man(7): -_- 
+1:50:3 | [CMD] huso608(11) => /a beyler dikkat edelim yeni userlerde var
+1:50:7 | [CMD] G_Man(7) => /slap 6 
+1:50:8 | [CMD] G_Man(7) => /slap 6 
+1:50:8 | [CMD] G_Man(7) => /slap 6 
+1:50:9 | [CMD] G_Man(7) => /slap 6 
+1:50:9 | [CMD] G_Man(7) => /slap 6 
+1:50:10 | [CMD] G_Man(7) => /slap 6 
+1:50:10 | [CMD] Moskova_Kurdu(6) => /god
+1:50:11 | [CMD] G_Man(7) => /slap 6 
+1:50:11 | [CMD] Moskova_Kurdu(6) => /god
+1:50:12 | [CMD] G_Man(7) => /get 6 
+1:50:12 | [CMD] huso608(11) => /a ýd 10 gibi
+1:50:16 | [LOCAL]G_Man(7): :D 
+1:50:16 | [CMD] G_Man(7) => /l :D 
+1:50:20 | sezzer(8): aha kavga çýktý
+1:50:25 | ahmut(9): s
+1:50:35 | [CMD] DarkFlow(12) => /work
+1:50:43 | [CMD] G_Man(7) => /atamir 
+1:50:54 | [CMD] G_Man(7) => /atamir 
+1:50:56 | [CMD] G_Man(7) => /sirket
+1:51:3 | [CMD] DarkFlow(12) => /work
+1:51:8 | G_Man(7) oyundan cIktI (Hata/Crash) (IP: 88.230.129.121)
+1:51:11 | Moskova_Kurdu(6): Gözlerim aðrýdý bilgisayara baka baka lo
+1:51:20 | G_Man(7) oyuna girdi [IP: 88.230.129.121]
+1:51:24 | sezzer(8): biraz da bana bak bebeðim
+1:51:26 | 
+1:51:29 | G_Man(7) Bankaci olarak spawn oldu.
+1:51:31 | Moskova_Kurdu(6): Demek öyle 
+1:51:32 | [CMD] G_Man(7) => /admgiris
+1:51:34 | [CMD] G_Man(7) => /sa 
+1:51:35 | [CMD] DarkFlow(12) => /work
+1:51:35 | [CMD] Moskova_Kurdu(6) => /gopos 10 10 10
+1:51:37 | sezzer(8): bak banaaað
+1:51:37 | [CMD] Spanky09(10) => /as
+1:51:42 | G_Man(7): sirket dedik crash dedi yaw 
+1:51:43 | [CMD] Moskova_Kurdu(6) => /fly
+1:51:45 | [CMD] ahmut(9) => /as
+1:51:46 | [CMD] G_Man(7) => /goto 6 
+1:51:49 | [CMD] G_Man(7) => /god 
+1:51:54 | [CMD] G_Man(7) => /goto 6 
+1:51:56 | [CMD] Moskova_Kurdu(6) => /slap 8 
+1:51:58 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:52:0 | [CMD] Moskova_Kurdu(6) => /etk dondur
+1:52:4 | [CMD] Moskova_Kurdu(6) => /dondur 7 1 1
+1:52:6 | [CMD] DarkFlow(12) => /work
+1:52:7 | sezzer(8): iþte þimdi ... yedim
+1:52:9 | [CMD] G_Man(7) => /dondur 6 1 1 
+1:52:11 | Moskova_Kurdu(6): Furkan uzaklaþ
+1:52:20 | G_Man(7): dur þunlarý okuyom :D 
+1:52:20 | Moskova_Kurdu(6): La uzaklaþ
+1:52:21 | [CMD] DarkFlow(12) => /work
+1:52:28 | [CMD] Moskova_Kurdu(6) => /etk skin 178 
+1:52:31 | sezzer(8): asjghdjhagsjdghas
+1:52:32 | Moskova_Kurdu(6): Al sana da geldi
+1:52:33 | G_Man(7): la noliyi
+1:52:36 | [CMD] G_Man(7) => /myskin 299 
+1:52:37 | Moskova_Kurdu(6): Dedim uzaklaþ die 
+1:52:38 | sezzer(8): sana uzaklaþ dedikdi
+1:52:39 | sezzer(8): asdgjhgad
+1:52:45 | [CMD] Moskova_Kurdu(6) => /etk hizala
+1:52:48 | [CMD] Moskova_Kurdu(6) => /etk sirala
+1:52:51 | [CMD] DarkFlow(12) => /work
+1:52:52 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:52:53 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:52:53 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:52:54 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:52:54 | [CMD] Moskova_Kurdu(6) => /slap 7 
+1:52:57 | Moskova_Kurdu(6): Kaybol bi
+1:53:0 | G_Man(7): dur bi :D 
+1:53:1 | Moskova_Kurdu(6): Özelimize karýþma 
+1:53:11 | sezzer(8): ayýp ayýp baþka tarafa bak kanka
+1:53:12 | [CMD] Moskova_Kurdu(6) => /etk can 100
+1:53:15 | [CMD] DarkFlow(12) => /work
+1:53:15 | Matite(13) oyuna girdi [IP: 78.171.168.164]
+1:53:17 | [CMD] Moskova_Kurdu(6) => /spawn 7 
+1:53:17 | G_Man(7) Bankaci olarak spawn oldu.
+1:53:22 | [CMD] G_Man(7) => /spec 6 
+1:53:23 | 
+1:53:25 | {FFCC00}Matite(13) {FFFFFF}Kamyoncu olarak spawn oldu.
+1:53:31 | [CMD] Moskova_Kurdu(6) => /ahirjob 8
+1:53:32 | [CMD] Matite(13) => /sifredegistir
+1:53:32 | [LOCAL]huso608(11): gel gel gel
+1:53:32 | [CMD] huso608(11) => /l gel gel gel
+1:53:33 | [CMD] Moskova_Kurdu(6) => /31 
+1:53:36 | [CMD] Moskova_Kurdu(6) => /ise
+1:53:37 | [CMD] Moskova_Kurdu(6) => /31 
+1:53:38 | ahmut(9): gizli çöp var
+1:53:38 | [CMD] DarkFlow(12) => /work
+1:53:39 | [LOCAL]sezzer(8): haydaa
+1:53:39 | [CMD] sezzer(8) => /l haydaa
+1:53:42 | [CMD] Matite(13) => /admgiris
+1:53:44 | [LOCAL]sezzer(8): yalatmýcak mýsýn
+1:53:44 | [CMD] sezzer(8) => /l yalatmýcak mýsýn
+1:53:48 | [CMD] G_Man(7) => /etk 
+1:53:49 | [CMD] Matite(13) => /goto 11
+1:53:50 | [CMD] huso608(11) => /sifredegistir
+1:53:51 | Spanky09(10): Aynen
+1:53:52 | [LOCAL]Moskova_Kurdu(6): Yetkim yok bizde böyle :( 
+1:53:52 | [CMD] Moskova_Kurdu(6) => /l Yetkim yok bizde böyle :( 
+1:53:55 | [CMD] G_Man(7) => /etk skin 178 
+1:53:56 | [CMD] Moskova_Kurdu(6) => /animkapat
+1:53:59 | [CMD] Matite(13) => /giseucret
+1:53:59 | [LOCAL]sezzer(8): sen /dus yap knk ben duskalk yapcam
+1:53:59 | [CMD] sezzer(8) => /l sen /dus yap knk ben duskalk yapcam
+1:53:59 | Moskova_Kurdu(6): Bak ya 
+1:54:0 | [CMD] DarkFlow(12) => /sirket
+1:54:5 | [CMD] G_Man(7) => /etk 
+1:54:5 | [CMD] Matite(13) => /giseucret 200
+1:54:10 | [CMD] G_Man(7) => /etk dondur 
+1:54:15 | [CMD] Moskova_Kurdu(6) => /dondur 6 1 .
+1:54:16 | [CMD] Matite(13) => /giseucret 200
+1:54:16 | [CMD] G_Man(7) => /etk coz
+1:54:17 | [CMD] DarkFlow(12) => /work
+1:54:21 | [LOCAL]G_Man(7): :D 
+1:54:21 | [CMD] G_Man(7) => /l :D 
+1:54:22 | Matite(13): baþka
+1:54:24 | [CMD] Moskova_Kurdu(6) => /etk dondur
+1:54:25 | [CMD] G_Man(7) => /specoff 
+1:54:25 | G_Man(7) Bankaci olarak spawn oldu.
+1:54:27 | [CMD] Moskova_Kurdu(6) => /meslek
+1:54:28 | [LOCAL]sezzer(8): sen /dus yap knk ben duskalk yapcam
+1:54:28 | [CMD] sezzer(8) => /l sen /dus yap knk ben duskalk yapcam
+1:54:28 | {FFCC00}Moskova_Kurdu(6) {FFFFFF}Pilot olarak spawn oldu.
+1:54:30 | [CMD] Moskova_Kurdu(6) => /goto 8 
+1:54:36 | G_Man(7): abi benm giþeler silindi
+1:54:36 | [CMD] Moskova_Kurdu(6) => /dus
+1:54:37 | [LOCAL]sezzer(8): moski
+1:54:37 | [CMD] sezzer(8) => /l moski
+1:54:40 | [CMD] sezzer(8) => /duskalk
+1:54:43 | [CMD] DarkFlow(12) => /gobus
+1:54:45 | [LOCAL]sezzer(8): glok glok glok glok
+1:54:45 | [CMD] sezzer(8) => /l glok glok glok glok
+1:54:46 | [CMD] Moskova_Kurdu(6) => /dtemizle
+1:54:50 | [CMD] DarkFlow(12) => /gohome
+1:54:54 | sezzer(8): cork cork cork
+1:54:55 | [CMD] DarkFlow(12) => /work
+1:54:58 | [CMD] G_Man(7) => /goto 13 
+1:55:1 | sezzer(8): korolom çok yoþo
+1:55:6 | Moskova_Kurdu(6): Ýyi Bayramlar G_Man
+1:55:8 | G_Man(7): aha bunlar 
+1:55:11 | G_Man(7): saol sanada 
+1:55:16 | [CMD] DarkFlow(12) => /work
+1:55:21 | Moskova_Kurdu(6): Ýyi Bayramlar Dark
+1:55:23 | Matite(13): Eski Hesaplarýna Eriþmek için Foruma Kayýt olsun eski nick Panelde var yenileme
+1:55:40 | G_Man(7): quary deki silindi birde 
+1:55:41 | [CMD] Matite(13) => /giseucret 250
+1:55:44 | [LOCAL]Moskova_Kurdu(6): Tmm yorulmuþsundur kalk 
+1:55:44 | [CMD] Moskova_Kurdu(6) => /l Tmm yorulmuþsundur kalk 
+1:55:46 | [CMD] Moskova_Kurdu(6) => /animkapat
+1:55:47 | [CMD] Matite(13) => /giseucret 250
+1:55:48 | [CMD] sezzer(8) => /animkapat
+1:55:50 | [CMD] Matite(13) => /giseucret 250
+1:55:50 | [CMD] Moskova_Kurdu(6) => /etk sirala
+1:55:50 | DarkFlow(12): iyi bayramlar mosko
+1:55:52 | [CMD] Moskova_Kurdu(6) => /etk sirala
+1:55:53 | [LOCAL]sezzer(8): çok güzeldi aþkým
+1:55:53 | [CMD] sezzer(8) => /l çok güzeldi aþkým
+1:55:55 | [CMD] Moskova_Kurdu(6) => /etk sirala 
+1:55:57 | [CMD] Moskova_Kurdu(6) => /etk sirala 
+1:56:2 | [CMD] DarkFlow(12) => /work
+1:56:2 | [CMD] Moskova_Kurdu(6) => /etk sirala 
+1:56:2 | [CMD] Matite(13) => /duyuruekle
+1:56:12 | G_Man(7): 4 giþe birden gitti la .D 
+1:56:13 | Moskova_Kurdu(6): Sezzer gezdiricem seni böyle :D 
+1:56:16 | [CMD] Moskova_Kurdu(6) => /etk sirala 
+1:56:17 | sezzer(8): sajdgjagsjdgh
+1:56:19 | [CMD] Moskova_Kurdu(6) => /etk sirala 
+1:56:20 | sezzer(8): gezdir knka
+1:56:20 | [CMD] huso608(11) => /goreviptal
+1:56:21 | [CMD] DarkFlow(12) => /work
+1:56:23 | [CMD] Moskova_Kurdu(6) => /etk sirala 
+1:56:26 | [CMD] huso608(11) => /rescue
+1:56:28 | [CMD] Moskova_Kurdu(6) => /fly
+1:56:32 | [CMD] ahmut(9) => /t sen sürermisin
+1:56:34 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:56:41 | G_Man(7): eski hesaplar ney anlamadým 
+1:56:41 | [CMD] ahmut(9) => /t bir wc m0olasý
+1:56:42 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:56:47 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:56:49 | [CMD] Spanky09(10) => /t Tmm :D
+1:56:51 | [CMD] huso608(11) => /fly
+1:56:53 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:56:55 | [CMD] Matite(13) => /duyuruekle
+1:56:58 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:57:4 | Moskova_Kurdu(6): Höçkýr sezzer :D 
+1:57:8 | [CMD] DarkFlow(12) => /work
+1:57:13 | sezzer(8): gökelere çýkar beni yakýþýklý pilotum
+1:57:15 | [CMD] G_Man(7) => /a 300k yollucak varmý 
+1:57:21 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:57:27 | [CMD] G_Man(7) => /sac 
+1:57:30 | Moskova_Kurdu(6) G_Man(7)'a 500000$ para gönderdi
+1:57:30 | [CMD] Moskova_Kurdu(6) => /paragonder 7 500000
+1:57:36 | [CMD] DarkFlow(12) => /work
+1:57:37 | [CMD] G_Man(7) => /a saol 
+1:57:39 | sezzer(8): adýmýz höçkere çýktý
+1:57:40 | [CMD] G_Man(7) => /rescue
+1:57:42 | [CMD] Moskova_Kurdu(6) => /a np 
+1:57:42 | [CMD] Matite(13) => /duyurular
+1:57:47 | [CMD] G_Man(7) => /a þimdi kumarhane alcam :D 
+1:57:50 | [CMD] G_Man(7) => /goto 6 
+1:57:52 | [CMD] G_Man(7) => /goto 6 
+1:57:55 | [CMD] huso608(11) => /a alandayým 
+1:57:55 | sezzer(8): darkflow kadar usta olmadýðýmýzdan yakalandýk hemen
+1:57:56 | [CMD] G_Man(7) => /boat
+1:58:2 | [CMD] Matite(13) => /duyurular
+1:58:2 | [CMD] DarkFlow(12) => /work
+1:58:5 | Moskova_Kurdu(6): O da yakalanýyo :d 
+1:58:14 | sezzer(8): knk o daha geç yakalanýyo  :D
+1:58:15 | [CMD] Matite(13) => /m2
+1:58:22 | [CMD] Matite(13) => /vbenzin
+1:58:29 | G_Man(7): matite abi galeriye askeri jip eklense olurmu :D 
+1:58:31 | [CMD] G_Man(7) => /araba
+1:58:33 | [CMD] Matite(13) => /dcar
+1:58:37 | Matite(13): hyr
+1:58:37 | [CMD] G_Man(7) => /car patriot 0 00
+1:58:38 | [CMD] Spanky09(10) => /work
+1:58:41 | sezzer(8): patriot mu
+1:58:45 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:58:46 | [CMD] G_Man(7) => /kemer 
+1:58:46 | [CMD] DarkFlow(12) => /work
+1:58:48 | G_Man(7): ayn :D 
+1:58:56 | sezzer(8): aslýnda güzel olur
+1:59:1 | Matite(13): client birlikte yeni araç üstüne yapýlcak onun olmaz o
+1:59:2 | [CMD] huso608(11) => /pm 13 cekeyim mi 
+1:59:6 | [CMD] Moskova_Kurdu(6) => /get 8 
+1:59:9 | [CMD] Matite(13) => /goto 11
+1:59:11 | [CMD] Moskova_Kurdu(6) => /etk coz
+1:59:15 | [CMD] DarkFlow(12) => /work
+1:59:18 | G_Man(7): aha bunlarda silindi
+1:59:20 | [CMD] Moskova_Kurdu(6) => /etk coz 
+1:59:20 | [CMD] Matite(13) => /a 1000 iyid egilmi
+1:59:23 | sezzer(8): aaaa
+1:59:25 | Moskova_Kurdu(6): Cumbur lop .d 
+1:59:28 | [CMD] G_Man(7) => /a aynn 1000 di 
+1:59:30 | sezzer(8): boðguglðyyom
+1:59:31 | [CMD] huso608(11) => /a aynen
+1:59:33 | [CMD] Matite(13) => /admins
+1:59:37 | sezzer(8): iimdaak gluk gluk
+1:59:42 | sezzer(8): boðguglðyyom
+1:59:43 | [CMD] ahmut(9) => /t geldim
+1:59:47 | [CMD] Moskova_Kurdu(6) => /goto 7 
+1:59:48 | [CMD] G_Man(7) => /a millet bunun altýndan geçiyo :D 
+1:59:50 | [CMD] Moskova_Kurdu(6) => /spawn 8 
+1:59:50 | {FFCC00}sezzer(8) {FFFFFF}Pilot olarak spawn oldu.
+1:59:50 | [CMD] Spanky09(10) => /t Hg
+1:59:53 | Moskova_Kurdu(6): Kurtuldun artýk
+1:59:54 | [CMD] ahmut(9) => /t hb 
+1:59:56 | [CMD] DarkFlow(12) => /work
+2:0:2 | sezzer(8): kurtardýn beni kahramanýýým
+2:0:3 | [CMD] Moskova_Kurdu(6) => /car Bullet 0 0
+2:0:3 | [CMD] huso608(11) => /meslek
+2:0:4 | sezzer(8): my hero
+2:0:7 | [CMD] huso608(11) => /karakol
+2:0:13 | [CMD] huso608(11) => /cezaode
+2:0:15 | [CMD] G_Man(7) => /kemer 
+2:0:15 | [CMD] huso608(11) => /meslek
+2:0:18 | {FFCC00}huso608(11) Otobus Soforu olarak spawn oldu.
+2:0:20 | [CMD] DarkFlow(12) => /work
+2:0:21 | [CMD] Spanky09(10) => /t Sen Týrcý Falan Olcaksan Ol Ýstersen Ben 10 Veriyo Diye Biliyodum Ondan Demiþtim
+2:0:22 | [CMD] huso608(11) => /rescue
+2:0:24 | [CMD] Moskova_Kurdu(6) => /a Matite atla bi biþey göstercem 
+2:0:29 | sezzer(8): napýyoz biz gece gece ya allah aþkýna
+2:0:30 | [CMD] G_Man(7) => /a ne yapabiliriz bununla ilgili 
+2:0:35 | [CMD] G_Man(7) => /a giþeleri 
+2:0:43 | [CMD] sezzer(8) => /araba
+2:0:48 | [CMD] Matite(13) => /a huso palý giþeleri bul
+2:0:52 | [CMD] DarkFlow(12) => /work
+2:0:55 | [CMD] Moskova_Kurdu(6) => /a bak 
+2:0:58 | [CMD] huso608(11) => /pm 13 gel reis
+2:0:59 | [CMD] G_Man(7) => /atamir 
+2:1:0 | sezzer(8): aha saat 2 olmuþ
+2:1:2 | [CMD] Moskova_Kurdu(6) => /a Altýndan para kesilmeden geçilio
+2:1:5 | sezzer(8): ben kaçýyorum
+2:1:8 | [CMD] G_Man(7) => /a beyto satmýþtý bana bunlarý 
+2:1:9 | [CMD] Matite(13) => /a geçsin boþver :D
+2:1:12 | [CMD] Moskova_Kurdu(6) => /a :D 
+2:1:13 | [CMD] ahmut(9) => /t yoo farketmez ama önerim odouncu blalýkcý ol 1 balýk 1 skor 10 balýk 10 skor
+2:1:19 | [CMD] G_Man(7) => /a beyto satmýþtý bana bunlarý geri nasý alcam 
+2:1:22 | [CMD] sezzer(8) => /adminol
+2:1:22 | [CMD] Matite(13) => /goto 11
+2:1:23 | sezzer(8) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:1:25 | [CMD] ahmut(9) => /as
+2:1:27 | [CMD] ahmut(9) => /bb
+2:1:29 | [CMD] DarkFlow(12) => /work
+2:1:33 | [CMD] Moskova_Kurdu(6) => /A Neyi geri alýcan 
+2:1:36 | G_Man(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:1:36 | [LOCAL]Matite(13): burda giþenin ne iþi var
+2:1:36 | [CMD] Matite(13) => /l burda giþenin ne iþi var
+2:1:41 | [CMD] Spanky09(10) => /t Balýkçý Olabiliyorum Sanýrým Dimi
+2:1:44 | [CMD] Moskova_Kurdu(6) => /goto 7 
+2:1:47 | [LOCAL]Matite(13): burasý görev alaný
+2:1:47 | [CMD] Matite(13) => /l burasý görev alaný
+2:1:49 | [LOCAL]huso608(11): sancak yaparsa olur o o kadar
+2:1:49 | [CMD] huso608(11) => /l sancak yaparsa olur o o kadar
+2:1:49 | [CMD] ahmut(9) => /t aynen 
+2:1:50 | [CMD] DarkFlow(12) => /work
+2:1:51 | [CMD] Moskova_Kurdu(6) => /goto 11 
+2:2:2 | [CMD] huso608(11) => /rescue
+2:2:10 | [CMD] huso608(11) => /pm 13 sonra gelirsin
+2:2:15 | [CMD] Matite(13) => /a g_man giþeni siliyorum
+2:2:20 | [CMD] Matite(13) => /gisesil
+2:2:21 | [CMD] Moskova_Kurdu(6) => /a Oyundan çýktý o
+2:2:23 | [CMD] Spanky09(10) => /t Tamam Öyle Yapalým Ýstersen Hem Ben Seni Tutmiyim Kb Ýþinden de Oldun
+2:2:23 | [CMD] DarkFlow(12) => /work
+2:2:24 | [CMD] Matite(13) => /gisesil
+2:2:32 | [CMD] Matite(13) => /objesil
+2:2:36 | [CMD] ahmut(9) => /t ya ne olcak ya devammý 
+2:2:43 | [CMD] DarkFlow(12) => /work
+2:2:47 | [CMD] Spanky09(10) => /t Yok Yok Ýptal Edelim
+2:2:48 | [CMD] huso608(11) => /a giseleri silmesen bile miktarýný azalt reis
+2:2:54 | [CMD] ahmut(9) => /t tamamdýr
+2:2:54 | [CMD] Spanky09(10) => /t Uygun mu
+2:3:0 | [CMD] ahmut(9) => /t uygun
+2:3:2 | [CMD] Spanky09(10) => /t Tekrardan Çok Teþekkür Ederim
+2:3:5 | [CMD] Moskova_Kurdu(6) => /a Sildi
+2:3:5 | [CMD] Spanky09(10) => /goreviptal
+2:3:8 | [CMD] Spanky09(10) => /goreviptal
+2:3:8 | [CMD] ahmut(9) => /t rica ederim herzaman
+2:3:9 | [CMD] huso608(11) => /a userler sikayetci konu bile acmýslar
+2:3:15 | [CMD] ahmut(9) => /meslek
+2:3:16 | [CMD] DarkFlow(12) => /work
+2:3:16 | [CMD] Spanky09(10) => /meslek
+2:3:19 | {FFCC00}ahmut(9) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:3:26 | [CMD] ahmut(9) => /gbus
+2:3:26 | Spanky09(10) Balikci olarak spawn oldu.
+2:3:31 | [CMD] ahmut(9) => /gobus
+2:3:36 | [CMD] Moskova_Kurdu(6) => /meslek
+2:3:41 | [CMD] DarkFlow(12) => /work
+2:3:43 | [CMD] ahmut(9) => /araba
+2:3:46 | [CMD] ahmut(9) => /rescue
+2:3:48 | [CMD] Matite(13) => /goto 11
+2:3:48 | [CMD] ahmut(9) => /rescue
+2:3:50 | [CMD] Spanky09(10) => /work
+2:3:52 | [CMD] ahmut(9) => /goohme
+2:3:56 | [CMD] ahmut(9) => /gohme
+2:3:56 | [CMD] Matite(13) => /gisesil
+2:3:58 | [CMD] huso608(11) => /a bi de su olgu var bu userler basladýgýnda nasýl skorla baslýyacak bu giselere para verirse 30 k yetmez ki
+2:3:59 | [CMD] ahmut(9) => /gohome
+2:4:16 | [CMD] DarkFlow(12) => /work
+2:4:22 | [CMD] Matite(13) => /a görev yerlerinde giþe olmasý saçma
+2:4:22 | [CMD] Moskova_Kurdu(6) => /a /kurallar da 30k + 5 skor verio 
+2:4:29 | [CMD] huso608(11) => /a yetmez
+2:4:36 | [LOCAL]Matite(13): baþka
+2:4:36 | [CMD] Matite(13) => /l baþka
+2:4:41 | [CMD] huso608(11) => /a giseler 7 k 10 k oluyormu
+2:4:41 | [CMD] DarkFlow(12) => /work
+2:4:56 | [LOCAL]Matite(13): palý giþeleri bulun bana
+2:4:56 | [CMD] Matite(13) => /l palý giþeleri bulun bana
+2:4:59 | [LOCAL]huso608(11): baska var mý bi dusunce
+2:4:59 | [CMD] huso608(11) => /l baska var mý bi dusunce
+2:5:1 | [CMD] Matite(13) => /a palý giþeleri bulun bana
+2:5:2 | [CMD] ahmut(9) => /galeri
+2:5:2 | [LOCAL]huso608(11): gel
+2:5:2 | [CMD] huso608(11) => /l gel
+2:5:2 | [CMD] Matite(13) => /a palý giþeleri bulun bana
+2:5:3 | [CMD] Matite(13) => /a palý giþeleri bulun bana
+2:5:3 | [CMD] Matite(13) => /a palý giþeleri bulun bana
+2:5:6 | [CMD] huso608(11) => /rescue
+2:5:7 | [CMD] Moskova_Kurdu(6) => /rescue
+2:5:9 | [CMD] Moskova_Kurdu(6) => /meslek
+2:5:10 | {FFCC00}Moskova_Kurdu(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:5:11 | [CMD] Matite(13) => /resquem
+2:5:12 | [CMD] Moskova_Kurdu(6) => /rescue
+2:5:16 | [ARAC] ahmut(9), 340 ID'li Manana model araci 10000000$'a satin aldi.
+2:5:17 | [CMD] Matite(13) => /a nedi bu /resquem
+2:5:19 | [CMD] ahmut(9) => /galeri
+2:5:24 | [CMD] Moskova_Kurdu(6) => /a :QWEQ /rescue
+2:5:28 | [CMD] huso608(11) => /a gel
+2:5:29 | [CMD] Moskova_Kurdu(6) => /fly
+2:5:29 | [CMD] DarkFlow(12) => /work
+2:5:37 | [ARAC] ahmut(9), 554 ID'li ÀMoonbeam model araci 15000000$'a satin aldi.
+2:5:39 | [CMD] ahmut(9) => /galeri
+2:5:42 | [CMD] Moskova_Kurdu(6) => /a huseyin in giþesi var 
+2:5:44 | [CMD] Moskova_Kurdu(6) => /a 10k 
+2:5:45 | [ARAC] ahmut(9), 602 ID'li 
+2:5:46 | [CMD] huso608(11) => /a aynen
+2:5:47 | [CMD] ahmut(9) => /galeri
+2:5:54 | [ARAC] ahmut(9), 609 ID'li ÀBlade model araci 11000000$'a satin aldi.
+2:5:55 | [CMD] huso608(11) => /a ben de de 7.5 luk var
+2:5:56 | [CMD] ahmut(9) => /galeri
+2:5:57 | [CMD] Matite(13) => /a oha 10k çok nerde
+2:6:2 | [CMD] Moskova_Kurdu(6) => /a Harbour giriþinde Emirhan ýn var 7.5K lýk
+2:6:3 | [CMD] DarkFlow(12) => /work
+2:6:6 | [CMD] Moskova_Kurdu(6) => /get 13 
+2:6:20 | [CMD] huso608(11) => /a ama o gisede soyle miktar da cok kazanc yapýyor
+2:6:22 | [CMD] ahmut(9) => /galeri
+2:6:26 | [ARAC] ahmut(9), 614 ID'li ÀFaggio model araci 3000000$'a satin aldi.
+2:6:27 | [CMD] ahmut(9) => /galeri
+2:6:30 | [CMD] huso608(11) => /a otobuslerde az
+2:6:34 | [CMD] Spanky09(10) => /work
+2:6:36 | [CMD] DarkFlow(12) => /work
+2:6:36 | [CMD] Matite(13) => /giseucret 3500
+2:6:44 | [CMD] ahmut(9) => /araba
+2:6:46 | [CMD] Matite(13) => /giseucret 3500
+2:6:49 | [CMD] huso608(11) => /a sadece higway giseleri azaltmak lazým miktarý
+2:6:54 | [CMD] ahmut(9) => /gobus
+2:7:1 | Matite(13): baþka
+2:7:2 | [CMD] DarkFlow(12) => /work
+2:7:4 | [CMD] ahmut(9) => /araba
+2:7:5 | [LOCAL]huso608(11): gel
+2:7:5 | [CMD] huso608(11) => /l gel
+2:7:7 | [CMD] Matite(13) => /modcontrol
+2:7:7 | [CMD] huso608(11) => /a gel
+2:7:21 | [CMD] Matite(13) => /goto 11
+2:7:32 | [CMD] Matite(13) => /gisesil
+2:7:35 | [CMD] DarkFlow(12) => /work
+2:7:36 | [CMD] Moskova_Kurdu(6) => /goto 11 
+2:7:37 | [CMD] ahmut(9) => /araba
+2:7:44 | [CMD] Matite(13) => /gisesil
+2:7:46 | [CMD] Matite(13) => /gisesil
+2:7:48 | [CMD] Matite(13) => /gisesil
+2:7:52 | [CMD] Moskova_Kurdu(6) => /fly
+2:7:55 | [CMD] ahmut(9) => /cevir
+2:7:56 | [CMD] huso608(11) => /meslek
+2:8:10 | [CMD] DarkFlow(12) => /work
+2:8:12 | [CMD] ahmut(9) => /vtamir
+2:8:15 | [CMD] Spanky09(10) => /work
+2:8:17 | [CMD] ahmut(9) => /araba
+2:8:22 | [CMD] Matite(13) => /goto 11
+2:8:25 | [LOCAL]Matite(13): baka
+2:8:25 | [CMD] Matite(13) => /l baka
+2:8:27 | [CMD] ahmut(9) => /araba
+2:8:28 | [LOCAL]Matite(13): baþka
+2:8:28 | [CMD] Matite(13) => /l baþka
+2:8:31 | [LOCAL]huso608(11): higwaya baktýnmý
+2:8:31 | [CMD] huso608(11) => /l higwaya baktýnmý
+2:8:34 | [CMD] huso608(11) => /rescue
+2:8:40 | [CMD] huso608(11) => /fly
+2:8:43 | [CMD] DarkFlow(12) => /work
+2:8:49 | [CMD] Moskova_Kurdu(6) => /rescue
+2:8:54 | [CMD] Moskova_Kurdu(6) => /araba
+2:8:54 | [CMD] huso608(11) => /meslek
+2:8:58 | [CMD] ahmut(9) => /arabba
+2:8:58 | [CMD] Matite(13) => /mezar
+2:8:58 | {FFCC00}huso608(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:8:59 | [CMD] ahmut(9) => /araba
+2:9:0 | [CMD] huso608(11) => /fly
+2:9:4 | [CMD] huso608(11) => /fly
+2:9:7 | [CMD] DarkFlow(12) => /work
+2:9:10 | [CMD] Matite(13) => /goto 11
+2:9:21 | [CMD] DarkFlow(12) => /work
+2:9:33 | [CMD] ahmut(9) => /ARABA
+2:9:38 | [CMD] Matite(13) => /goto 11
+2:9:40 | [CMD] Matite(13) => /goto 11
+2:9:42 | [CMD] Matite(13) => /god
+2:9:43 | [CMD] ahmut(9) => /araba
+2:9:44 | [CMD] Moskova_Kurdu(6) => /A matite gel 
+2:9:45 | {FFCC00}Matite(13) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:9:47 | [CMD] Matite(13) => /god
+2:9:49 | [CMD] Matite(13) => /god
+2:9:51 | [CMD] huso608(11) => /goto 6
+2:9:53 | [CMD] Matite(13) => /goto 11
+2:9:54 | [CMD] ahmut(9) => /araba
+2:9:56 | [CMD] Matite(13) => /goto 6
+2:10:7 | [CMD] DarkFlow(12) => /work
+2:10:12 | [CMD] huso608(11) => /rescue
+2:10:15 | [CMD] Matite(13) => /giseucret 4000
+2:10:21 | [CMD] Spanky09(10) => /work
+2:10:23 | [CMD] Matite(13) => /giseucret 4000
+2:10:28 | [CMD] ahmut(9) => /ARABA
+2:10:28 | [CMD] Matite(13) => /goto 6
+2:10:29 | [CMD] DarkFlow(12) => /work
+2:10:30 | [CMD] huso608(11) => /rescue
+2:10:32 | Matite(13): baþka
+2:10:38 | [CMD] Matite(13) => /radarlimit
+2:10:39 | [CMD] huso608(11) => /a bekletecem biraz
+2:10:40 | [CMD] ahmut(9) => /araba
+2:10:42 | [CMD] Matite(13) => /radarhiz
+2:10:48 | [CMD] huso608(11) => /meslek
+2:10:50 | [CMD] ahmut(9) => /araba
+2:10:51 | {FFCC00}huso608(11) Otobus Soforu olarak spawn oldu.
+2:10:54 | [CMD] huso608(11) => /rescue
+2:10:56 | [CMD] Matite(13) => /a saçmalýk görev yerinde giþemi olur
+2:11:5 | [CMD] DarkFlow(12) => /work
+2:11:6 | [CMD] huso608(11) => /fly
+2:11:13 | [CMD] Matite(13) => /gohome
+2:11:15 | [CMD] ahmut(9) => /araba
+2:11:17 | [CMD] Matite(13) => /gobus
+2:11:26 | Matite(13): iþyerim silinmiþ :D
+2:11:27 | [CMD] Moskova_Kurdu(6) => /a 5k çok mu? 
+2:11:28 | Moskova_Kurdu(6): :D
+2:11:29 | [CMD] Matite(13) => /gohome
+2:11:31 | ahmut(9): :D
+2:11:32 | [CMD] DarkFlow(12) => /work
+2:11:34 | [CMD] ahmut(9) => /araba
+2:11:44 | [CMD] Moskova_Kurdu(6) => /a 5k lýk çoksa eðer burda var bi tane 
+2:11:53 | [CMD] Matite(13) => /goto 6
+2:11:54 | [CMD] Moskova_Kurdu(6) => /a 2 tane daha doðrusu
+2:11:55 | [CMD] ahmut(9) => /ARABA
+2:12:4 | [CMD] DarkFlow(12) => /meslek
+2:12:4 | [CMD] Matite(13) => /a 5 iyi
+2:12:10 | [CMD] Moskova_Kurdu(6) => /rescue
+2:12:18 | 
+2:12:27 | [CMD] Moskova_Kurdu(6) => /fly
+2:12:29 | [CMD] Matite(13) => /giseucret 4300
+2:12:29 | [CMD] DarkFlow(12) => /work
+2:12:31 | [CMD] Matite(13) => /giseucret 4300
+2:12:37 | [CMD] Matite(13) => /giseucret 4300
+2:12:38 | [CMD] Spanky09(10) => /work
+2:12:39 | [CMD] Matite(13) => /giseucret 4300
+2:12:45 | [CMD] Matite(13) => /goto 6
+2:12:57 | [CMD] Matite(13) => /giseucret 1200
+2:13:3 | [CMD] Matite(13) => /giseucret 1200
+2:13:10 | [CMD] huso608(11) => /a gel
+2:13:14 | [CMD] Matite(13) => /goto 11
+2:13:16 | [CMD] Matite(13) => /goto 11
+2:13:25 | [CMD] Moskova_Kurdu(6) => /a Userler valla baya sevincek he .d 
+2:13:30 | [CMD] Moskova_Kurdu(6) => /goto 11 
+2:13:31 | [CMD] huso608(11) => /a bu miktarlar nedir boyle reis
+2:13:34 | [CMD] Matite(13) => /giseucret 6700
+2:13:41 | [CMD] Matite(13) => /giseucret 5300
+2:13:44 | [CMD] Moskova_Kurdu(6) => /A Burasý pek kullanýlmýyo zaten 
+2:13:48 | [CMD] Matite(13) => /giseucret 5300
+2:13:57 | [CMD] Matite(13) => /a baþka
+2:14:3 | [LOCAL]huso608(11): baska yok su anlýk
+2:14:3 | [CMD] huso608(11) => /l baska yok su anlýk
+2:14:7 | [CMD] Matite(13) => /a komut nedir regues midi nedi
+2:14:9 | [LOCAL]huso608(11): olursa irtibatlasýrýz
+2:14:9 | [CMD] huso608(11) => /l olursa irtibatlasýrýz
+2:14:12 | [CMD] Spanky09(10) => /work
+2:14:23 | [CMD] Moskova_Kurdu(6) => /A /rescue 
+2:14:26 | [CMD] huso608(11) => /a regues mi o ne
+2:14:43 | [CMD] Moskova_Kurdu(6) => /a Sahip bile komutlarý bilmiyo pü pü .D 
+2:14:50 | ahmut(9) oyundan cIktI (Hata/Crash) (IP: 78.175.178.103)
+2:14:56 | [CMD] Moskova_Kurdu(6) => /rescue
+2:15:6 | [CMD] huso608(11) => /a dogrudur sw bi taraftan ekiple ilgilenmek bi taraftan
+2:15:10 | [CMD] huso608(11) => /a bi taraftan ben
+2:15:13 | ahmut(7) oyuna girdi [IP: 78.175.178.103]
+2:15:16 | [CMD] Moskova_Kurdu(6) => /a :D 
+2:15:24 | [CMD] Moskova_Kurdu(6) => /a Sf-Lv köprüsündeki fiyatlar nasýlsý acaba
+2:15:26 | 
+2:15:27 | [CMD] Moskova_Kurdu(6) => /a Bakayým bi 
+2:15:29 | {FFCC00}ahmut(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:15:30 | [CMD] Moskova_Kurdu(6) => /araba
+2:15:34 | [CMD] ahmut(7) => /saat 5
+2:15:37 | [CMD] ahmut(7) => /rescue
+2:15:38 | [CMD] huso608(11) => /a 3000 k
+2:15:39 | [CMD] ahmut(7) => /gobus
+2:15:50 | [CMD] ahmut(7) => /gobus
+2:16:3 | [CMD] ahmut(7) => /rescue
+2:16:10 | [CMD] Spanky09(10) => /work
+2:16:23 | ahmut(7): a/araba
+2:16:26 | [CMD] ahmut(7) => /araba
+2:16:28 | [CMD] huso608(11) => /meslek
+2:16:28 | [CMD] Moskova_Kurdu(6) => /goto Matite 
+2:16:33 | {FFCC00}huso608(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:16:42 | [CMD] ahmut(7) => /kemer
+2:16:43 | [CMD] Moskova_Kurdu(6) => /a Neyse ben çýkýyorum gözlerim aðrýdý 
+2:16:46 | [CMD] Moskova_Kurdu(6) => /a Ýyi geceler 
+2:16:50 | [CMD] huso608(11) => /a tmm
+2:16:52 | [CMD] Moskova_Kurdu(6) => /adminol
+2:16:54 | ahmut(7): ßß
+2:16:55 | [CMD] Moskova_Kurdu(6) => /bb
+2:16:56 | Moskova_Kurdu(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:17:8 | [CMD] DarkFlow(12) => /meslek
+2:17:14 | {FFCC00}DarkFlow(12) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:17:17 | [CMD] huso608(11) => /a okan
+2:18:21 | [CMD] huso608(11) => /rescue
+2:18:26 | [CMD] ahmut(7) => /vtamir
+2:18:29 | [CMD] DarkFlow(12) => /rescue
+2:18:29 | [CMD] ahmut(7) => /vtamir
+2:18:32 | [CMD] huso608(11) => /meslek
+2:18:32 | [CMD] Spanky09(10) => /baliksat
+2:18:34 | [CMD] Matite(13) => /goto 11
+2:18:37 | 
+2:18:42 | [CMD] Matite(13) => /fly
+2:18:43 | [CMD] huso608(11) => /car bullet 4 4
+2:18:44 | [CMD] DarkFlow(12) => /kemer
+2:18:55 | [CMD] Spanky09(10) => /work
+2:18:57 | [CMD] ahmut(7) => /vtamir
+2:19:0 | [CMD] DarkFlow(12) => /sirketdorse
+2:19:16 | [CMD] ahmut(7) => /vtamir
+2:19:17 | [CMD] DarkFlow(12) => /tamir
+2:19:20 | [CMD] huso608(11) => /a tugaya gidiyom
+2:19:58 | [CMD] DarkFlow(12) => /work
+2:20:13 | [CMD] DarkFlow(12) => /asiriyuk
+2:20:21 | [CMD] ahmut(7) => /ev
+2:20:39 | [CMD] ahmut(7) => /ev
+2:21:5 | [CMD] Spanky09(10) => /work
+2:21:7 | [CMD] ahmut(7) => /vtamir
+2:21:21 | [CMD] ahmut(7) => /gohome
+2:21:57 | [CMD] ahmut(7) => /rescue
+2:22:16 | [CMD] huso608(11) => /a okan baska yok baba hepsi zaten 5 bin zaten
+2:22:24 | [CMD] ahmut(7) => /kemer
+2:22:36 | [CMD] ahmut(7) => /work
+2:22:39 | [CMD] Spanky09(10) => /work
+2:23:1 | ahmut(7): .
+2:23:4 | [CMD] huso608(11) => /a okan biraz bilgi alabilirmiyim degisiklikler hakkýnda
+2:23:15 | [CMD] huso608(11) => /a yani duzenlemeler
+2:23:50 | [CMD] huso608(11) => /vtamir
+2:24:14 | [CMD] huso608(11) => /cleanupcars
+2:24:15 | [KAMYONCU] DarkFlow, Veardant Port'den Harbour Island Warehouse'e Silah tasidi. Kazanc: 69409$, 1 Skor ve 5 EXP Sure: 190 Saniye
+2:24:18 | [CMD] huso608(11) => /rescue
+2:24:25 | [CMD] DarkFlow(12) => /work
+2:24:31 | [CMD] Spanky09(10) => /work
+2:24:32 | [CMD] huso608(11) => /car infernus 5 5
+2:24:37 | [CMD] DarkFlow(12) => /asiriyuk
+2:24:39 | [CMD] DarkFlow(12) => /asiriyuk
+2:25:5 | [CMD] huso608(11) => /a bu texast gisesini ne yaparýz
+2:25:26 | [CMD] huso608(11) => /vtamir
+2:26:0 | [CMD] ahmut(7) => /vipler
+2:26:10 | [CMD] Spanky09(10) => /work
+2:26:32 | [CMD] ahmut(7) => /asiriyuk
+2:27:49 | [CMD] huso608(11) => /dtemizle
+2:27:56 | [CMD] huso608(11) => /odul7
+2:28:0 | [CMD] huso608(11) => /odul 7
+2:28:4 | [CMD] huso608(11) => /odul 10
+2:28:8 | [CMD] huso608(11) => /odul 12
+2:28:21 | huso608(11): caktýrmayýn matite ye yok
+2:28:22 | huso608(11): :D
+2:28:25 | ahmut(7): :DDD
+2:28:28 | Spanky09(10): :D
+2:28:31 | [CMD] huso608(11) => /cantazele
+2:28:32 | [CMD] Spanky09(10) => /work
+2:29:3 | [CMD] ahmut(7) => /vtamir
+2:30:13 | huso608(11): Ancak Matite'nin Kalbinden Bir Yer Kaptýk Galiba Seside Cýkmýyor
+2:30:34 | ahmut(7): maplara bakýyordur abi bug varmý diye
+2:30:46 | [CMD] Spanky09(10) => /work
+2:32:6 | [CMD] ahmut(7) => /vtamir
+2:33:13 | [CMD] Spanky09(10) => /baliksat
+2:33:15 | [CMD] Spanky09(10) => /baliksat
+2:33:36 | [CMD] Spanky09(10) => /work
+2:34:5 | ahmut(7): a/raba
+2:34:6 | [CMD] ahmut(7) => /araba
+2:34:23 | huso608(11):   /araba
+2:34:26 | ahmut(7): :D
+2:35:4 | [KAMYONCU] DarkFlow, Harbour Island Warehouse'den Longway Warehouse'e Degerli Esyalar tasidi. Kazanc: 179939$, 1 Skor ve 5 EXP Sure: 511 Saniye
+2:35:11 | [CMD] DarkFlow(12) => /sirket
+2:35:24 | [CMD] DarkFlow(12) => /karakol
+2:35:25 | [CMD] Spanky09(10) => /work
+2:35:27 | [CMD] DarkFlow(12) => /cezaode
+2:35:30 | [CMD] Spanky09(10) => /work
+2:35:32 | [CMD] DarkFlow(12) => /srespawncars
+2:35:37 | [CMD] DarkFlow(12) => /gobus
+2:35:43 | [CMD] DarkFlow(12) => /adminol
+2:35:45 | DarkFlow(12) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:35:49 | ahmut(7): ßß
+2:35:59 | [CMD] huso608(11) => /bb 
+2:36:2 | huso608(11): diyemeden gitti
+2:36:5 | [CMD] Spanky09(10) => /bb
+2:36:9 | ahmut(7): aynen
+2:36:18 | [KAMYONCU] ahmut, Longway Docks'den Harbour Island Warehouse'e Silah tasidi. Kazanc: 844056$, 1 Skor ve 5 EXP Sure: 472 Saniye
+2:36:43 | ahmut(7): bende kaçayým 
+2:36:47 | [CMD] ahmut(7) => /adminol
+2:36:50 | [CMD] ahmut(7) => /bb
+2:36:52 | [CMD] huso608(11) => /bb
+2:36:53 | ahmut(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:36:56 | [CMD] Spanky09(10) => /bb
+2:37:0 | [CMD] Spanky09(10) => /work
+2:37:11 | huso608(11): o da gitti kaldý 3 kisi ne guzel bi 4 lu okey yapardýk
+2:37:22 | Matite(13): ben kaçar iþ malum
+2:37:25 | Spanky09(10): Gecenin Bu Saatinde Tek Skor Kasmaya Çalýþýyorum Ya :D
+2:37:28 | Matite(13): yedekleri aldým
+2:37:28 | [CMD] huso608(11) => /a tmm
+2:37:39 | [CMD] huso608(11) => /a benim isi dusuncenmi
+2:37:50 | Matite(13): website yedek ve sunucu yedek alýnýyor þuan sql alýndý
+2:38:17 | Matite(13) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+2:38:30 | [CMD] huso608(11) => /meslek
+2:38:33 | Spanky09(10): Huso Kaldýk Baþ Baþa
+2:38:34 | Spanky09(10): :D
+2:38:35 | {FFCC00}huso608(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:38:37 | [CMD] Spanky09(10) => /work
+2:38:41 | huso608(11): gel bi 52 cevirek
+2:38:46 | huso608(11): :D
+2:38:48 | Spanky09(10): :D
+2:38:55 | Spanky09(10): Skor Kasýlmýyor Ya :D
+2:39:1 | huso608(11): ehliyet var mý
+2:39:13 | Spanky09(10): Hangisinin
+2:39:28 | huso608(11): balýkcýsýn sen galiba
+2:39:40 | huso608(11): tamam ben seni gemici zannettim
+2:39:52 | Spanky09(10): Aynen Balýkçýyým
+2:40:12 | [CMD] huso608(11) => /sirketdorse
+2:40:26 | [CMD] Spanky09(10) => /work
+2:41:52 | [CMD] Spanky09(10) => /work
+2:43:1 | [CMD] huso608(11) => /work
+2:43:17 | [CMD] huso608(11) => /asiriyuk
+2:43:40 | Spanky09(10): Biþey Dicem Ama Yasak mý Deðil mi Bilmiyorum
+2:43:44 | Spanky09(10): Söyleyemiyorum :D
+2:43:46 | [CMD] Spanky09(10) => /work
+2:43:47 | huso608(11): buyur
+2:43:54 | huso608(11): sw su an musait
+2:43:58 | huso608(11): yardýmcý olayým
+2:44:8 | Spanky09(10): Az Yardýmcý Olabilir misin
+2:44:26 | huso608(11): konunu acarsan yardým edeyim ne gibi yardým
+2:44:35 | Spanky09(10): Skor :D
+2:44:44 | huso608(11): hýmm guzel yerden soyledin
+2:44:51 | huso608(11): bu sw de o problem
+2:45:1 | Spanky09(10): Valla Çok Zor Kasýyorm Þuan Ya
+2:45:4 | Spanky09(10): Yasak mý
+2:45:16 | huso608(11): adminlerden skor para exp istemek yasak burada aynen sizler gibi bizlerde o yollardan gectik
+2:45:29 | [CMD] Spanky09(10) => /work
+2:45:31 | huso608(11): ben 9 aydýr oynuyorum
+2:45:42 | Spanky09(10): He Tamam O Zaman Etme Yasaksa
+2:45:56 | Spanky09(10): Sorun Yok Kascaz Artýk Yapcak Biþey Yok :D
+2:46:1 | huso608(11): yok sana acýklama yapayým da aklýnda takýlan olursa sw bosta iken sor
+2:46:35 | Spanky09(10): Tamam Teþekkür Ederim
+2:46:50 | [CMD] Spanky09(10) => /work
+2:46:55 | huso608(11): ancak bu skor olayýný a7 ler bakýyor o da hesaplarýnda skor kaybý gibi olaylar yasýyor
+2:47:22 | huso608(11): onlarý ss ya da chat incelemesi yaparak dokumanlarýný cýkararak bakýp sonuclarý a7 ler yapýyor
+2:48:18 | Spanky09(10): Hmm Anladým
+2:48:31 | UgurBey(6) oyuna girdi [IP: 46.1.244.100]
+2:48:52 | 
+2:48:55 | huso608(11): bu sw olayýný tasarlayan arkadasýmýz guzel calýsmýs
+2:48:59 | [CMD] UgurBey(6) => /admgiris
+2:49:4 | {FFCC00}UgurBey(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:49:5 | [CMD] Spanky09(10) => /baliksat
+2:49:6 | [CMD] UgurBey(6) => /sa
+2:49:9 | Spanky09(10): Bence de
+2:49:10 | huso608(11): o yuzden meslek sunumlarý guzel
+2:49:11 | [CMD] Spanky09(10) => /as
+2:49:11 | [CMD] huso608(11) => /as
+2:49:13 | [CMD] huso608(11) => /hg
+2:49:15 | [CMD] UgurBey(6) => /yenilikler
+2:49:37 | [CMD] UgurBey(6) => /bb
+2:49:37 | huso608(11): bi de emek sarf edip zaten gerekli adminlerimizin yardýmýyla da gelisiyoruz
+2:49:37 | [CMD] Spanky09(10) => /work
+2:49:41 | UgurBey(6): vay bee :D
+2:49:46 | [CMD] UgurBey(6) => /mezar
+2:49:49 | [CMD] UgurBey(6) => /mezar
+2:49:52 | huso608(11): oyunda /rehber ve /djlerimiz mevcut
+2:49:57 | [CMD] UgurBey(6) => /m1
+2:50:3 | huso608(11): ugurbabam nasýlsýn
+2:50:3 | [CMD] UgurBey(6) => /m2
+2:50:14 | [CMD] UgurBey(6) => /m3
+2:50:15 | Spanky09(10): Aynen Sw de Ortam da Var
+2:50:20 | [CMD] UgurBey(6) => /m4
+2:50:21 | Spanky09(10): En Güzel Sw Bana Göre
+2:50:29 | UgurBey(6): iyiyim abi sizler nasýlsýnýz
+2:50:33 | huso608(11): fazla degiliz ama kardes ortamý mevcut dost kalabilmek sonucta
+2:50:35 | [CMD] UgurBey(6) => /m5
+2:50:41 | [CMD] UgurBey(6) => /m7
+2:50:44 | [CMD] UgurBey(6) => /m8
+2:50:47 | [CMD] UgurBey(6) => /m9
+2:50:48 | huso608(11): tesekkur ederiz seni gorupte iyi olmayan var mý bu alemde
+2:50:59 | huso608(11): kral gibi degerli bi dostumuzsun
+2:51:8 | UgurBey(6): saolasýn abim
+2:51:11 | UgurBey(6): hayýrlý geceler
+2:51:16 | huso608(11): sanada
+2:51:17 | [CMD] UgurBey(6) => /odul 10
+2:51:19 | [CMD] UgurBey(6) => /odul 10
+2:51:20 | [CMD] UgurBey(6) => /odul 10
+2:51:21 | [CMD] UgurBey(6) => /odul 10
+2:51:25 | [CMD] UgurBey(6) => /odul 11
+2:51:26 | [CMD] UgurBey(6) => /odul 113
+2:51:28 | [CMD] UgurBey(6) => /odul 11
+2:51:30 | [CMD] UgurBey(6) => /odul 11
+2:51:31 | huso608(11): yapma babam yeter
+2:51:31 | [CMD] UgurBey(6) => /odul 11
+2:51:36 | huso608(11): sen bana lazým sýn
+2:51:44 | Spanky09(10): Çok Teþekkür Ederim
+2:51:48 | [CMD] Spanky09(10) => /work
+2:51:50 | [CMD] UgurBey(6) => /yenilikler
+2:51:52 | huso608(11): Rica Ederiz
+2:51:58 | [CMD] UgurBey(6) => /car inf 0 0  
+2:52:6 | [CMD] UgurBey(6) => /otorenkon
+2:52:13 | [CMD] UgurBey(6) => /otorenkoff
+2:52:15 | huso608(11): Eli Bol Gonlu Zengin Bi Ýcimizden Biri Bu Admin Kardesim
+2:52:27 | [CMD] UgurBey(6) => /a /otorenkon da sýkýntý var
+2:52:30 | [CMD] UgurBey(6) => /a kapanmýyo
+2:52:34 | [CMD] UgurBey(6) => /otorenkon
+2:52:37 | [CMD] UgurBey(6) => /otorenkon
+2:52:44 | [CMD] huso608(11) => /a aynen ayarlýcak evoturk musait zamanda
+2:52:44 | [CMD] UgurBey(6) => /otorenkon
+2:52:51 | [CMD] UgurBey(6) => /yenilikler
+2:53:9 | [CMD] huso608(11) => /a giseleri kes cogunun miktarý dustu gavatlarýn
+2:53:22 | [CMD] huso608(11) => /a bak gorursun suratlar nasýl asýk oldugunu
+2:53:33 | [CMD] UgurBey(6) => /a nasýl yani abim
+2:53:43 | Spanky09(10): Admin Gibi Admin Yani
+2:53:46 | [CMD] Spanky09(10) => /work
+2:53:48 | [CMD] huso608(11) => /a matite kaldýrdý masaya vurdu mala
+2:53:51 | [CMD] UgurBey(6) => /geldim
+2:53:56 | [CMD] UgurBey(6) => /a :D
+2:53:57 | [CMD] huso608(11) => /a giselerin miktarlarý dustu
+2:54:9 | [CMD] huso608(11) => /a bi de bu gavat g man var ya furkan olan
+2:54:13 | [CMD] UgurBey(6) => /a fiyatlarý mý düþtü yoksa adetleri mi
+2:54:20 | Spanky09(10): Vip Fiyatlarý Ýndirime Giriyor mu Arada
+2:54:27 | [CMD] huso608(11) => /a gitmis san fierro ile ls otogardan gise yaptýrmýs
+2:54:35 | huso608(11): arada ve bayramlarda giriyor
+2:54:40 | [CMD] UgurBey(6) => /fly
+2:54:52 | [CMD] huso608(11) => /a matite attý fýrca kaldýrdý bazý yerlerde
+2:54:52 | Spanky09(10): Yakýnlarda Giricek mi Bi Bilgin Var mý
+2:55:6 | [CMD] UgurBey(6) => /a otogarlarda gereksiz zaten
+2:55:8 | huso608(11): su an standart forumdaki fiyatlara devam
+2:55:24 | [CMD] huso608(11) => /a higwayda huseyin gisesi 10 k dý ya simdi 3500 oldu
+2:55:39 | Spanky09(10): Hmm Bi Süre Daha Alamýcam Yani
+2:55:42 | [CMD] UgurBey(6) => /a aynen aga 10.000$ ne demek
+2:55:45 | Spanky09(10): Bayramda Giriyo Dimi
+2:55:47 | [CMD] huso608(11) => /a amk gavatý gitmis 
+2:55:56 | huso608(11): belli olmuyor bizler zaten sunum yapýyoruz
+2:55:56 | [CMD] UgurBey(6) => /a zaten bi görev geliri 18.000
+2:56:7 | Spanky09(10): Peki Süresi
+2:56:9 | huso608(11): gerekirse forumu da arada takip ederseniz seviniriz
+2:56:14 | huso608(11): belirtiyoruz
+2:56:14 | [CMD] Spanky09(10) => /baliksat
+2:56:25 | [CMD] huso608(11) => /a aynen otobus meslegi sýkýntýlý
+2:56:28 | [CMD] UgurBey(6) => /a bak mesela garajlardaki giþeler kaldýrýlmýþ
+2:56:34 | [CMD] huso608(11) => /a o yuzden fýrca attým ya admin sayfasýnda
+2:56:41 | [CMD] huso608(11) => /a sence 
+2:56:47 | [CMD] Spanky09(10) => /meslek
+2:56:55 | [CMD] UgurBey(6) => /a bence bu þekli süper
+2:57:6 | [CMD] UgurBey(6) => /a sw de para birikimi vs olur bu þekilde
+2:57:18 | Spanky09(10): Balýkçý mý Daha Hýzlý Kasarým Otobüs mü
+2:57:22 | [CMD] huso608(11) => /a reis sana bi soru soracam sakýn alýnmaný veya gucenmeni istemem
+2:57:25 | huso608(11): otobus
+2:57:30 | [CMD] UgurBey(6) => /a buyur abim
+2:57:31 | huso608(11): 1 balýk 1 skor
+2:57:33 | [CMD] UgurBey(6) => /plane
+2:57:34 | [CMD] Spanky09(10) => /meslek
+2:57:36 | {FFCC00}Spanky09(10) Otobus Soforu olarak spawn oldu.
+2:57:39 | huso608(11): otobus 2 veya 3 skor
+2:57:41 | [CMD] UgurBey(6) => /dcar
+2:57:45 | {FFCC00}UgurBey(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+2:57:46 | [CMD] Spanky09(10) => /rescue
+2:57:53 | [CMD] Spanky09(10) => /meslek
+2:57:58 | [CMD] UgurBey(6) => /cleanupcars
+2:57:59 | [CMD] UgurBey(6) => /araba
+2:58:2 | Spanky09(10): Oduncu da Skor Kasýlýyor mu Peki
+2:58:4 | [CMD] huso608(11) => /a sizler sonucta hepiniz benim gibi ya calýsýyorsunuz ya da ouyorsunuz
+2:58:7 | [CMD] UgurBey(6) => /modcontrol
+2:58:13 | huso608(11): 1 odun 1 skor 80 saniye
+2:58:17 | [CMD] UgurBey(6) => /a evet abim
+2:58:27 | [CMD] huso608(11) => /a diyecegim su

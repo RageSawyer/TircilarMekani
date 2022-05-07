@@ -1,0 +1,2223 @@
+22:23:16 | [CMD] baraodichnl(20) => /ise
+22:23:16 | [CMD] Wanted(13) => /rapor
+22:23:17 | testere151 HeRquL'i öldürdü. Oldurme Sekli: 51
+22:23:19 | [CMD] Eray00(14) => /kemer
+22:23:20 | [CMD] HeRquL(6) => /a mak
+22:23:21 | {FFCC00}HeRquL(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:23:21 | Adem32 ahmet55'i öldürdü. Oldurme Sekli: 0
+22:23:22 | [AsLt]Cicek.Abbas.(12): adminmisiniz lan siz :D
+22:23:22 | [CMD] luplup67(22) => /ise
+22:23:23 | [LOCAL]Moskova_Kurdu(19): qW:EQE q
+22:23:23 | [CMD] Moskova_Kurdu(19) => /l qW:EQE q
+22:23:26 | Adem32(15): hahahahaha
+22:23:26 | 
+22:23:26 | [CMD] Wanted(13) => /rapor 12 sürekli peni dövüyor :(
+22:23:27 | [CMD] HeRquL(6) => /giveweapon 6 rocket 99999
+22:23:28 | [CMD] baraodichnl(20) => /31
+22:23:29 | [CMD] sametkaan(10) => /goreviptal
+22:23:31 | [CMD] ahmet55(17) => /rescue
+22:23:31 | [CMD] Moskova_Kurdu(19) => /Spec 12 
+22:23:32 | [CMD] HeRquL(6) => /goto 19
+22:23:33 | [CMD] testere151(18) => /a neyse tmm vurmuyom :D
+22:23:33 | [LOCAL]Berkay08(9): 5 skor gitti len
+22:23:33 | [CMD] Berkay08(9) => /l 5 skor gitti len
+22:23:36 | [CMD] Hic(11) => /isteksarki 38
+22:23:36 | [CMD] luplup67(22) => /31
+22:23:36 | [CMD] HeRquL(6) => /goto 18
+22:23:37 | Adem32(15): ahmet 
+22:23:38 | [CMD] TIRCI(16) => /meslek
+22:23:39 | [CMD] BeylerBeyi(7) => /asay Ýstek þarkýnýz sýraya alýnmýþtýr.s.. 
+22:23:49 | [LOCAL]Hic(11): ahaa :D
+22:23:49 | [CMD] Hic(11) => /l ahaa :D
+22:23:54 | [LOCAL]BeylerBeyi(7): :D
+22:23:54 | [CMD] BeylerBeyi(7) => /l :D
+22:23:56 | [LOCAL]Wanted(13): vurma lan
+22:23:56 | [CMD] Wanted(13) => /l vurma lan
+22:23:56 | [CMD] Moskova_Kurdu(19) => /jail 12 250 Admini Rahatsýz Etme
+22:23:57 | [AsLt]Cicek.Abbas.(12): bi gebermedin 
+22:23:57 | [LOCAL]Hic(11): Heycanlýmýsn Qýz ?
+22:23:57 | [CMD] Hic(11) => /l Heycanlýmýsn Qýz ?
+22:23:57 | {FFCC00}TIRCI(16) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:23:58 | [AsLt]Cicek.Abbas.(12): hýa
+22:23:59 | [CMD] baraodichnl(20) => /ise
+22:24:1 | Adem32(15): can res
+22:24:2 | ahmet55(17): ?
+22:24:4 | [CMD] Moskova_Kurdu(19) => /specoff
+22:24:4 | {FFCC00}Moskova_Kurdu(19) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:24:4 | Adem32(15): can res
+22:24:4 | [LOCAL]BeylerBeyi(7): hee
+22:24:4 | [CMD] BeylerBeyi(7) => /l hee
+22:24:5 | [CMD] baraodichnl(20) => /31
+22:24:5 | [CMD] luplup67(22) => /31
+22:24:8 | [CMD] Moskova_Kurdu(19) => /cantazele
+22:24:9 | [LOCAL]Hic(11): ayayayayayay
+22:24:9 | [CMD] Hic(11) => /l ayayayayayay
+22:24:10 | [CMD] Adem32(15) => /meslek
+22:24:11 | 
+22:24:12 | {FFCC00}Adem32(15) {FFFFFF}Pilot olarak spawn oldu.
+22:24:15 | [CMD] Moskova_Kurdu(19) => /a oldu mu amdinim .d
+22:24:19 | [CMD] Adem32(15) => /meslek
+22:24:21 | [LOCAL]Hic(11): bende 3.8k olcam
+22:24:21 | [CMD] Hic(11) => /l bende 3.8k olcam
+22:24:22 | {FFCC00}Adem32(15) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:24:24 | [CMD] ahmet55(17) => /work
+22:24:25 | [CMD] TIRCI(16) => /rescue
+22:24:25 | [LOCAL]BeylerBeyi(7): :D
+22:24:25 | [CMD] BeylerBeyi(7) => /l  :D
+22:24:26 | [LOCAL]Hic(11): yarýn 4k olurum
+22:24:26 | [CMD] Hic(11) => /l yarýn 4k olurum
+22:24:27 | [CMD] ahmet55(17) => /meslek
+22:24:27 | BOZKURT545(24): yeni meslekler ne zmn gelecek ?
+22:24:28 | [CMD] Wanted(13) => /a eyvallah yiðidim gel senle ahýra gidelim qwýrwhqjuý
+22:24:32 | [CMD] Moskova_Kurdu(19) => /A :D 
+22:24:36 | ahmet55(17) Itfaiyeci olarak spawn oldu.
+22:24:38 | [CMD] Moskova_Kurdu(19) => /Giveweapon 19 molotof 500
+22:24:39 | Adem32(15): of 
+22:24:40 | [CMD] ahmet55(17) => /rescue
+22:24:42 | [CMD] baraodichnl(20) => /rescue
+22:24:42 | [CMD] Moskova_Kurdu(19) => /Giveweapon 19 molotov 500
+22:24:44 | [CMD] luplup67(22) => /rescue
+22:24:48 | [CMD] Adem32(15) => /modifiye
+22:24:48 | {FFCC00}HeRquL(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:24:50 | Berkay08(9): yanýyomm
+22:24:51 | [CMD] HeRquL(6) => /a amnkoyim one
+22:24:51 | BeylerBeyi(7): 3K Oldum Herkeze Benden Lolipop
+22:24:53 | [CMD] testere151(18) => /a kendini öldürdü QW:E
+22:24:55 | BOZKURT545(24): h.o
+22:24:56 | [CMD] [AsLt]Cicek.Abbas.(12) => /ise
+22:24:57 | Hic(11): Hayýrlý Olsun.
+22:24:59 | [CMD] HeRquL(6) => /goto 19
+22:25:1 | [CMD] HeRquL(6) => /giveweapon 6 rocket 99999
+22:25:4 | BeylerBeyi(7): Eyvallah
+22:25:5 | [CMD] baraodichnl(20) => /kemer
+22:25:7 | Hic(11): benimki çilekli olsun
+22:25:13 | [CMD] Hic(11) => /rescue
+22:25:18 | BeylerBeyi(7): karpuzlu isteyen varmý
+22:25:19 | BOZKURT545(24): yeni meslekler ne zmn gelecek ?
+22:25:22 | Moskova_Kurdu(19): yanýyým fuat abi
+22:25:23 | {FFCC00}Eray00(14) {FFFFFF}Pilot olarak spawn oldu.
+22:25:24 | BOZKURT545(24): ben
+22:25:24 | Hic(11): Lan þirkette jet var
+22:25:25 | testere151 Moskova_Kurdu'i öldürdü. Oldurme Sekli: 37
+22:25:26 | [CMD] BeylerBeyi(7) => /ranklar
+22:25:28 | testere151(18): gg qwe
+22:25:28 | [CMD] BeylerBeyi(7) => /meslek
+22:25:29 | sametkaan(10):  wa
+22:25:29 | {FFCC00}Moskova_Kurdu(19) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:25:31 | [CMD] Moskova_Kurdu(19) => /rescue
+22:25:31 | Hic(11): QWE:qw:
+22:25:32 | [CMD] testere151(18) => /cleanupcars
+22:25:32 | {FFCC00}BeylerBeyi(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:25:35 | [CMD] HeRquL(6) => /cantazele
+22:25:36 | [CMD] BeylerBeyi(7) => /ranklar
+22:25:37 | Marcelos(8) oyuna girdi [IP: 88.228.133.220]
+22:25:38 | [CMD] Adem32(15) => /rescue
+22:25:39 | [CMD] sametkaan(10) => /work
+22:25:40 | [CMD] Hic(11) => /boombox
+22:25:41 | [CMD] Moskova_Kurdu(19) => /asay Araç Res Geliyor!!
+22:25:41 | [CMD] Moskova_Kurdu(19) => /asay Araç Res Geliyor!!
+22:25:43 | [CMD] [AsLt]Cicek.Abbas.(12) => /rescue
+22:25:44 | [CMD] Wanted(13) => /a hey araç res
+22:25:45 | [AsLt]Cicek.Abbas.(12) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:25:46 | [CMD] Moskova_Kurdu(19) => /respawncars
+22:25:48 | 
+22:25:52 | [CMD] Hic(11) => /boombox YerdenAl
+22:25:54 | {FFCC00}Marcelos(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:25:55 | [CMD] Eray00(14) => /kemer
+22:25:55 | BOZKURT545(24): yeni meslekler ne zmn gelecek ?
+22:25:56 | [CMD] Hic(11) => /boombox YerdenAl
+22:25:56 | Marcelos(8): sea
+22:25:58 | [CMD] luplup67(22) => /31
+22:25:59 | TIRCI(16): bzk costu ýc savas var 
+22:26:0 | [CMD] BOZKURT545(24) => /rescue
+22:26:0 | Hic(11): bu ne la ?
+22:26:3 | [CMD] luplup67(22) => /ise
+22:26:3 | [SirketCHT] Marcelos(8): !Selam kýzlar iyi bayramlar
+22:26:3 | testere151(18): v6 da 
+22:26:6 | [CMD] baraodichnl(20) => /ise
+22:26:7 | Marcelos(8): Ýyi bayramlar kýzlar
+22:26:8 | [CMD] Wanted(13) => /a lan silah nasýl alýcaz marketten felan
+22:26:9 | [SirketCHT] Moskova_Kurdu(19): ! sanada iyi bayramlar 
+22:26:11 | Adem32(15) oyundan cIktI (Hata/Crash) (IP: 78.182.7.139)
+22:26:13 | testere151 HeRquL'i öldürdü. Oldurme Sekli: 37
+22:26:15 | [CMD] Moskova_Kurdu(19) => /A marketten alamýyon .d 
+22:26:15 | [SirketCHT] Marcelos(8): !Saol kanka .d
+22:26:16 | BOZKURT545(24): tmmde o nzm gelcek iþte admin
+22:26:17 | {FFCC00}HeRquL(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:26:17 | [CMD] luplup67(22) => /ise
+22:26:18 | Hic(11): Uçuyom lo
+22:26:18 | [CMD] HeRquL(6) => /goto 19
+22:26:18 | [CMD] Moskova_Kurdu(19) => /a A2 lerde var 
+22:26:19 | [CMD] HeRquL(6) => /giveweapon 6 rocket 99999
+22:26:21 | Adem32(12) oyuna girdi [IP: 78.182.7.139]
+22:26:21 | [CMD] BOZKURT545(24) => /kemer
+22:26:23 | [CMD] baraodichnl(20) => /ise
+22:26:26 | [CMD] BeylerBeyi(7) => /boombox
+22:26:26 | [CMD] Moskova_Kurdu(19) => /a ama dur þey yapalým 
+22:26:28 | [CMD] Hic(11) => /meslek
+22:26:29 | [CMD] BeylerBeyi(7) => /boombox yerekoy
+22:26:29 | [CMD] Wanted(13) => /a :( a1'im pen :((
+22:26:30 | [CMD] baraodichnl(20) => /ise
+22:26:31 | [CMD] Moskova_Kurdu(19) => /a Çevik Kuvvet mesleðine geç 
+22:26:31 | Berkay08(9): can res
+22:26:32 | [CMD] Moskova_Kurdu(19) => /a Çevik Kuvvet mesleðine geç 
+22:26:32 | {FFCC00}Hic(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:26:34 | [CMD] luplup67(22) => /31
+22:26:34 | [CMD] testere151(18) => /a çevikteyken silah alabiliyosun
+22:26:36 | [CMD] Moskova_Kurdu(19) => /cantazlee
+22:26:37 | {FFCC00}BeylerBeyi(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:26:37 | [CMD] ahmet55(17) => /cevir
+22:26:37 | [CMD] Berkay08(9) => /rescue
+22:26:38 | [SirketCHT] Marcelos(8): !benne yaptým herqul
+22:26:39 | [CMD] Moskova_Kurdu(19) => /cantazele
+22:26:40 | [CMD] testere151(18) => /a skoru yetersiz Q:WE
+22:26:41 | Marcelos(8): benne yaptým
+22:26:41 | [SirketCHT] HeRquL(6): ! iþemela þirkete
+22:26:42 | [CMD] ahmet55(17) => /tamir
+22:26:44 | [CMD] BeylerBeyi(7) => /boombox yerdenal
+22:26:46 | [CMD] Moskova_Kurdu(19) => /goto Wanted
+22:26:48 | BOZKURT545(24): tmmde o nzm gelcek iþte admin
+22:26:49 | [SirketCHT] Marcelos(8): !olum þirket basýlmýþ
+22:26:51 | Adem32(12) oyundan cIktI (Hata/Crash) (IP: 78.182.7.139)
+22:26:51 | [CMD] baraodichnl(20) => /ise
+22:26:54 | [CMD] Hic(11) => /boombox
+22:26:55 | [CMD] Moskova_Kurdu(19) => /a :( 
+22:26:55 | [CMD] Wanted(13) => /s az skor verinsene
+22:26:55 | [CMD] BeylerBeyi(7) => /boombox yerdenal
+22:26:56 | Jodor(12) oyuna girdi [IP: 88.244.176.80]
+22:27:0 | testere151(18): bilgim yok
+22:27:0 | [CMD] Wanted(13) => /a az skor verinsene
+22:27:1 | [CMD] BeylerBeyi(7) => /boombox yerekoy
+22:27:2 | [LOCAL]Marcelos(8): söndür kanka söndür
+22:27:2 | [CMD] Marcelos(8) => /l söndür kanka söndür
+22:27:3 | Hic(11): sac
+22:27:4 | baraodichnl(20): oooh sönsün
+22:27:4 | luplup67(22): güzelmi
+22:27:4 | [CMD] testere151(18) => /a olmaz
+22:27:6 | [CMD] Hic(11) => /sac
+22:27:7 | [CMD] Marcelos(8) => /tamir
+22:27:8 | luplup67(22): ohhh
+22:27:9 | 
+22:27:11 | {FFCC00}Jodor(12) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:27:12 | [CMD] BeylerBeyi(7) => /boombox
+22:27:14 | [CMD] Hic(11) => /boombox YereKoy
+22:27:16 | [CMD] BeylerBeyi(7) => /boombox muzikac
+22:27:17 | [LOCAL]Marcelos(8): sönmedi .d
+22:27:17 | [CMD] Marcelos(8) => /l sönmedi .d
+22:27:17 | [CMD] testere151(18) => /a sana silah vereyim istersen
+22:27:20 | [LOCAL]Marcelos(8): heh söndü
+22:27:20 | [CMD] Marcelos(8) => /l heh söndü
+22:27:21 | [CMD] Jodor(12) => /myskin 292
+22:27:22 | [CMD] Marcelos(8) => /motor
+22:27:22 | [CMD] Wanted(13) => /a onu ver ver ver
+22:27:23 | baraodichnl(20): :D
+22:27:23 | Moskova_Kurdu Wanted'i öldürdü. Oldurme Sekli: 24
+22:27:25 | Adem32(15) oyuna girdi [IP: 78.182.7.139]
+22:27:27 | {FFCC00}Wanted(13) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:27:28 | [CMD] testere151(18) => /a ma kick lenme ihtimalin var
+22:27:32 | [CMD] testere151(18) => /goto 13
+22:27:32 | TIRCI(16): lo
+22:27:33 | [CMD] BeylerBeyi(7) => /boombox yerdenal
+22:27:33 | [LOCAL]Marcelos(8): üstüne iþettirrim seni
+22:27:33 | [CMD] Marcelos(8) => /l üstüne iþettirrim seni
+22:27:34 | [CMD] Hic(11) => /boombox
+22:27:35 | [CMD] Moskova_Kurdu(19) => /a o zaman ben verim :D 
+22:27:36 | TIRCI(16): sulama 
+22:27:36 | baraodichnl(20): la yarýsý boþa gitti :D
+22:27:36 | [CMD] testere151(18) => /goto 13
+22:27:36 | luplup67(22): herkul o þeyden banada verrrr
+22:27:39 | [CMD] Hic(11) => /boombox MuzikAc
+22:27:40 | [CMD] Moskova_Kurdu(19) => /a kicklesin biþey olmaz .d
+22:27:41 | [CMD] BOZKURT545(24) => /gobus
+22:27:42 | [CMD] BeylerBeyi(7) => /boombox yerekoy
+22:27:42 | [CMD] Moskova_Kurdu(19) => /a dimi wanted .d
+22:27:47 | {FFCC00}Eray00(14) {FFFFFF}Pilot olarak spawn oldu.
+22:27:47 | [CMD] Marcelos(8) => /tamir
+22:27:47 | [CMD] Wanted(13) => /a ver bakayým bi sen :D
+22:27:48 | [CMD] BOZKURT545(24) => /icerigir
+22:27:49 | Adem32(15) oyundan cIktI (Hata/Crash) (IP: 78.182.7.139)
+22:27:50 | Hic(11): söndür benim ahmetimm
+22:27:51 | wzkral6785665(21): muhammet acsanýza olm arayom lan yarým saaten berý acýn lan 
+22:27:53 | [CMD] BOZKURT545(24) => /iyerimenu
+22:27:56 | [CMD] Moskova_Kurdu(19) => /giveweapon 13 dildo 1 
+22:27:56 | [CMD] BeylerBeyi(7) => /boombox yerdenal
+22:27:56 | [CMD] testere151(18) => /giveweapon 13 mini 100000
+22:27:56 | [CMD] Jodor(12) => /modifiye
+22:27:58 | [CMD] BOZKURT545(24) => /isyerimenu
+22:28:0 | [SirketCHT] Marcelos(8): !þirket basýlmýþ lan
+22:28:4 | [LOCAL]testere151(18): silah izni lazým
+22:28:4 | [CMD] testere151(18) => /l silah izni lazým
+22:28:5 | Hic(11): Þarký yok lo
+22:28:5 | [CMD] Moskova_Kurdu(19) => /Goto Wanted
+22:28:6 | [CMD] Hic(11) => /sac
+22:28:7 | baraodichnl(20): itfaiye bn daha iyi söndürüyom
+22:28:7 | [CMD] BOZKURT545(24) => /rescue
+22:28:10 | [CMD] Moskova_Kurdu(19) => /giveweapon 13 dildo 1 
+22:28:12 | [SirketCHT] Berkay08(9): ! kim basmoþ len herkes bizden
+22:28:13 | [LOCAL]Wanted(13): kimden
+22:28:13 | [CMD] Wanted(13) => /l kimden
+22:28:13 | TIRCI(16): bedava lolipop isteyen varmi sosisli yeni ciklti
+22:28:15 | Hic(11): Allahu Ekbeer
+22:28:16 | [CMD] Moskova_Kurdu(19) => /a Geliyo gidio :D
+22:28:19 | [SirketCHT] Marcelos(8): !he ok .d
+22:28:21 | HeRquL Hic'i öldürdü. Oldurme Sekli: 51
+22:28:21 | Hic(11): laan
+22:28:22 | wzkral6785665(21): muhammet olm ben muhammet 
+22:28:23 | [CMD] BOZKURT545(24) => /kemer
+22:28:24 | [CMD] Moskova_Kurdu(19) => /giveweapon 13 minign 1 
+22:28:24 | [LOCAL]testere151(18): a7 den veya a6 dan :/
+22:28:24 | [CMD] testere151(18) => /l a7 den veya a6 dan :/
+22:28:25 | BOZKURT545(24): araç res
+22:28:26 | {FFCC00}Hic(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:28:26 | [CMD] luplup67(22) => /boombox
+22:28:27 | [CMD] Moskova_Kurdu(19) => /giveweapon 13 minigun 1 
+22:28:29 | wzkral6785665(21): buyukustad 
+22:28:30 | [CMD] testere151(18) => /silahizni
+22:28:30 | [CMD] Jodor(12) => /work
+22:28:31 | Marcelos(8): oo bende muhammet
+22:28:31 | Hic(11): Püü amdinlik bitmiþ
+22:28:33 | [CMD] testere151(18) => /silah izni
+22:28:34 | Marcelos(8): herkez muhammet
+22:28:34 | wzkral6785665(21): þiiiiiiiiiiiiiiiiii
+22:28:34 | [CMD] ahmet55(17) => /tamir
+22:28:36 | ahmet55(17) Itfaiyeci olarak spawn oldu.
+22:28:37 | [CMD] Wanted(13) => /admins
+22:28:39 | Adem32(15) oyuna girdi [IP: 78.182.7.139]
+22:28:42 | [CMD] HeRquL(6) => /giveweapon 6 minigun 99999
+22:28:42 | [CMD] ahmet55(17) => /rescue
+22:28:43 | [CMD] Eray00(14) => /kemer
+22:28:43 | [CMD] Jodor(12) => /vtamir
+22:28:43 | Hic(11): HeRquL roketi attý
+22:28:45 | [CMD] luplup67(22) => /boombox yerdeb al
+22:28:47 | [CMD] wzkral6785665(21) => /tamir
+22:28:47 | [CMD] BeylerBeyi(7) => /asay Ýstek þarký olmadýðý için rastgele açýlmýþtýr... 
+22:28:48 | [LOCAL]Wanted(13): a5 var :(
+22:28:48 | [CMD] Wanted(13) => /l a5 var :(
+22:28:49 | [LOCAL]Moskova_Kurdu(19): Serverin çoðunluðu burda :QWEq 
+22:28:49 | [CMD] Moskova_Kurdu(19) => /l Serverin çoðunluðu burda :QWEq 
+22:28:52 | Hic(11): Arkadan beni uçurdu itfaiye
+22:28:56 | [CMD] testere151(18) => /a neyse ben çýkýyorum
+22:28:56 | Hic(11): patladým QWE:qw:
+22:28:57 | [LOCAL]Moskova_Kurdu(19): aha þu karþýndaki tipsiz A5 
+22:28:57 | [CMD] Moskova_Kurdu(19) => /l aha þu karþýndaki tipsiz A5 
+22:28:57 | wzkral6785665(21) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:29:0 | HeRquL Hic'i öldürdü. Oldurme Sekli: 38
+22:29:2 | [CMD] ahmet55(17) => /boombox
+22:29:2 | [CMD] Wanted(13) => /a aynen bende kolay gelsin
+22:29:4 | Adem32(15) oyundan cIktI (Hata/Crash) (IP: 78.182.7.139)
+22:29:4 | {FFCC00}Hic(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:29:5 | [CMD] BOZKURT545(24) => /icerigir
+22:29:5 | Marcelos(8): bas bas paralarý leylaya ohh
+22:29:5 | [CMD] Wanted(13) => /adminol
+22:29:6 | Hic(11): Ya kim vurdu beni ?
+22:29:7 | Marcelos(8): anam ohhh
+22:29:8 | [CMD] Moskova_Kurdu(19) => /a o zaman ben de
+22:29:8 | Berkay08(9): bb
+22:29:8 | Hic(11): ßß
+22:29:9 | Wanted(13) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:29:11 | [CMD] BOZKURT545(24) => /isyerimenu
+22:29:11 | Marcelos(8): DÖKTÜR DÖKTÜ
+22:29:12 | [CMD] BeylerBeyi(7) => /icerigir
+22:29:12 | Marcelos(8): DÖKTÜR DÖKTÜR
+22:29:15 | [CMD] testere151(18) => /etk disarm :QWE
+22:29:15 | [CMD] BeylerBeyi(7) => /isyerimenu
+22:29:16 | Marcelos(8): ohh
+22:29:17 | [CMD] TIRCI(16) => /meslek
+22:29:17 | [CMD] baraodichnl(20) => /ise
+22:29:18 | [CMD] Moskova_Kurdu(19) => /uyar 8 Büyük Harf
+22:29:18 | Marcelos(8): döktür
+22:29:19 | Adem32(13) oyuna girdi [IP: 78.182.7.139]
+22:29:19 | [LOCAL]testere151(18): :D
+22:29:19 | [CMD] testere151(18) => /l :D
+22:29:20 | [CMD] Moskova_Kurdu(19) => /adminol
+22:29:21 | [CMD] BeylerBeyi(7) => /isyerimenu
+22:29:21 | [CMD] baraodichnl(20) => /31
+22:29:22 | [LOCAL]Moskova_Kurdu(19): .d 
+22:29:22 | [CMD] Moskova_Kurdu(19) => /l .d 
+22:29:23 | Moskova_Kurdu(19) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:29:23 | Berkay08(9): bb
+22:29:24 | [CMD] baraodichnl(20) => /ise
+22:29:25 | [CMD] testere151(18) => /adminol
+22:29:26 | [CMD] testere151(18) => /adminol
+22:29:27 | Marcelos(8): nereye lan
+22:29:27 | Berkay08(9): bb
+22:29:28 | 
+22:29:29 | Marcelos(8): nereye gidiyonuz
+22:29:31 | [CMD] BeylerBeyi(7) => /d iþyeri ne kadara yükseliyor
+22:29:33 | testere151(18) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:29:33 | {FFCC00}Adem32(13) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:29:35 | [CMD] Hic(11) => /isteksarki 38
+22:29:36 | [CMD] Adem32(13) => /sa
+22:29:38 | Marcelos(8): sv yimi býrakýyo bunlar
+22:29:39 | [CMD] Berkay08(9) => /as
+22:29:41 | [CMD] BeylerBeyi(7) => /asay Ýstek þarkýnýz sýraya alýnmýþtýr... 
+22:29:42 | [CMD] Marcelos(8) => /as
+22:29:42 | [CMD] Hic(11) => /as
+22:29:43 | [CMD] BeylerBeyi(7) => /as
+22:29:43 | 
+22:29:43 | wzkral6785665(15) oyuna girdi [IP: 88.251.183.84]
+22:29:45 | Marcelos(8): sv yimi býrakýyo bunlar??
+22:29:47 | baraodichnl(20): herkül birazda þu babaya sýk bne
+22:29:51 | Hic(11): 1 caným var lo
+22:29:53 | 
+22:29:55 | [CMD] baraodichnl(20) => /ise
+22:29:56 | {FFCC00}wzkral6785665(15) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:29:57 | Hic(11): ban amonsterden kaç yapýn
+22:29:59 | [CMD] Marcelos(8) => /pm 11 bu testere gil svyimi býrakýyo
+22:29:59 | [CMD] baraodichnl(20) => /31
+22:30:1 | Marcelos(8): testere
+22:30:5 | Adem32(13): adým naptýn ya patlmda oyun çöktü
+22:30:5 | HeRquL ahmet55'i öldürdü. Oldurme Sekli: 38
+22:30:8 | [CMD] Hic(11) => /pm 8 noð
+22:30:10 | ahmet55(17) Itfaiyeci olarak spawn oldu.
+22:30:11 | [CMD] Hic(11) => /afk
+22:30:15 | [CMD] Marcelos(8) => /pm 11 nereye gidiyolar
+22:30:16 | [CMD] Marcelos(8) => /afk
+22:30:17 | [CMD] ahmet55(17) => /rescue
+22:30:18 | [CMD] Marcelos(8) => /geldim
+22:30:18 | [CMD] Jodor(12) => /vtamir
+22:30:19 | [CMD] HeRquL(6) => /fly
+22:30:20 | [CMD] Jodor(12) => /kemer
+22:30:23 | [CMD] TIRCI(16) => /rescue
+22:30:25 | [CMD] BOZKURT545(24) => /icerigir
+22:30:31 | TIRCI(16): sf kargoc ortak 
+22:30:34 | [CMD] BOZKURT545(24) => /icerigir
+22:30:35 | [CMD] BeylerBeyi(7) => /pm
+22:30:36 | [CMD] wzkral6785665(15) => /tamir
+22:30:49 | Eray00(14) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:30:52 | [CMD] Marcelos(8) => /tamir
+22:30:54 | BeylerBeyi(7): iþyeri leveli ne kadara yükseliyor
+22:30:56 | BOZKURT545(24): evin içini nasýl görcm 
+22:30:59 | umtcnyor(14) oyuna girdi [IP: 176.88.39.105]
+22:31:0 | HeRquL luplup67'i öldürdü. Oldurme Sekli: 38
+22:31:2 | [CMD] TIRCI(16) => /kemer
+22:31:4 | {FFCC00}luplup67(22) Otobus Soforu olarak spawn oldu.
+22:31:9 | 
+22:31:11 | BeylerBeyi(7): eyw
+22:31:13 | {FFCC00}umtcnyor(14) Otobus Soforu olarak spawn oldu.
+22:31:13 | TIRCI(16): max 5 lv olur 
+22:31:14 | [CMD] luplup67(22) => /rescue
+22:31:18 | [CMD] ahmet55(17) => /modifiye
+22:31:22 | BOZKURT545(24): evin içini nasýl görcm 
+22:31:23 | [CMD] ahmet55(17) => /modifiye
+22:31:24 | umtcnyor(14): Selam Kýzlar Baným Kalktý Ben Geldim
+22:31:25 | Marcelos(8): siz nasýl jetpack alýyonuz bro
+22:31:25 | BeylerBeyi(7): o kadarýný biliyorumda 5m çok be :d
+22:31:27 | [CMD] TIRCI(16) => /pm 24 ev mý alcaksýn 
+22:31:32 | [CMD] HeRquL(6) => /admins
+22:31:36 | BeylerBeyi(7): @24 ev ikonunu üstüne git girirsin
+22:31:37 | [CMD] umtcnyor(14) => /ek
+22:31:39 | TIRCI(16): @8 adminlere ozel 
+22:31:39 | [CMD] umtcnyor(14) => /kemer
+22:31:41 | [CMD] Marcelos(8) => /boombox
+22:31:42 | [CMD] Adem32(13) => /modifiye
+22:31:46 | [CMD] umtcnyor(14) => /gorev
+22:31:49 | [CMD] Marcelos(8) => /yerekoy
+22:31:51 | [CMD] umtcnyor(14) => /work
+22:31:54 | [CMD] Marcelos(8) => /boombox yerekoy
+22:31:54 | [CMD] luplup67(22) => /31
+22:31:55 | HeRquL(6): ðleniyonuzmu
+22:31:58 | [CMD] BOZKURT545(24) => /pm 16 yok almýycm merk ettim sadece içini bir evin
+22:31:59 | Berkay08(9): he
+22:31:59 | TIRCI(16): 3 harfli komutla alýyolar :D
+22:32:6 | Berkay08(9): in aþþa
+22:32:9 | [CMD] HeRquL(6) => /giveweapon 6 rocket 99999
+22:32:11 | [CMD] Jodor(12) => /yenilikler
+22:32:14 | [CMD] ahmet55(17) => /cevir
+22:32:14 | [LOCAL]TIRCI(16): ev kilitsize gýrebýlýrýsn 
+22:32:14 | [CMD] TIRCI(16) => /l ev kilitsize gýrebýlýrýsn 
+22:32:14 | BOZKURT545(24): dj girmiyor mrk ettim sadece
+22:32:15 | [CMD] baraodichnl(20) => /ÝSE
+22:32:17 | [CMD] ahmet55(17) => /tamir
+22:32:19 | [CMD] Marcelos(8) => /jetpack
+22:32:20 | [CMD] baraodichnl(20) => /ise
+22:32:23 | [CMD] BOZKURT545(24) => /icerigir
+22:32:23 | [CMD] luplup67(22) => /ise
+22:32:23 | [CMD] Marcelos(8) => /tamir
+22:32:24 | [CMD] HeRquL(6) => /cantazele
+22:32:25 | [CMD] HeRquL(6) => /cantazele
+22:32:25 | [CMD] HeRquL(6) => /cantazele
+22:32:25 | [CMD] Marcelos(8) => /tamir
+22:32:26 | umtcnyor(14): Antalyaya Nereden Gidiliyor Lütfen Yardým
+22:32:26 | [CMD] baraodichnl(20) => /31
+22:32:30 | [CMD] luplup67(22) => /31
+22:32:33 | BeylerBeyi(7): @24 Ev kilitlidir veya satýlýktýr
+22:32:35 | TIRCI(16): antalya yolundan ba s
+22:32:41 | BOZKURT545(24): lunaparktan reis
+22:32:46 | umtcnyor(14): Týrcý antalya bulamýyom
+22:32:46 | [CMD] Marcelos(8) => /cevir
+22:32:48 | [CMD] Marcelos(8) => /tamir
+22:32:49 | [CMD] BeylerBeyi(7) => /asay Ýstek þarký olmadýðý için rastgele açýlmýþtýr... 
+22:32:50 | umtcnyor(14): lunaparkta bulamýyom
+22:32:53 | [CMD] BeylerBeyi(7) => /adminol
+22:32:53 | [CMD] BeylerBeyi(7) => /adminol
+22:32:58 | [CMD] Jodor(12) => /flip
+22:32:59 | Berkay08(9): bb
+22:33:2 | TIRCI(16): kýrmýzý ucgenden once bayraga gýr orda gýrýs yerý vardýr 
+22:33:3 | [CMD] Marcelos(8) => /cevir
+22:33:3 | [CMD] Marcelos(8) => /tamir
+22:33:4 | TIRCI(16): bb
+22:33:4 | Adem32(13): adým yer yeri patlatýn oyun çöktü
+22:33:9 | umtcnyor(14): otobus benimki
+22:33:10 | BeylerBeyi(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:33:12 | [CMD] Jodor(12) => /vtamir
+22:33:13 | [CMD] HeRquL(6) => /giveweapon 6 molotof 99999
+22:33:20 | [CMD] HeRquL(6) => /giveweapon 6 45 99999
+22:33:24 | Marcelos(8): can tazele admin
+22:33:25 | [CMD] umtcnyor(14) => /goreviptal
+22:33:25 | [CMD] HeRquL(6) => /giveweapon 6 46 9999
+22:33:26 | [CMD] Marcelos(8) => /work
+22:33:27 | [CMD] ahmet55(17) => /tamir
+22:33:27 | MetalicKarpuz(26) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:33:28 | [CMD] umtcnyor(14) => /meslek
+22:33:29 | [CMD] HeRquL(6) => /giveweapon 6 47 9999
+22:33:29 | burhanefe1(25) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:33:30 | [CMD] Marcelos(8) => /dorse
+22:33:31 | sametkaan(10): t
+22:33:31 | [CMD] baraodichnl(20) => /akilitle
+22:33:31 | [CMD] umtcnyor(14) => /meslek
+22:33:32 | [CMD] Marcelos(8) => /sirketdorse
+22:33:32 | [CMD] Hic(11) => /geldim
+22:33:34 | [CMD] HeRquL(6) => /giveweapon 6 12 9999
+22:33:34 | [CMD] baraodichnl(20) => /tamir
+22:33:35 | {FFCC00}umtcnyor(14) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:33:38 | [CMD] Marcelos(8) => /kemer
+22:33:38 | [CMD] HeRquL(6) => /giveweapon 6 15 9999
+22:33:40 | TIRCI(16): @14 lunapark var ls de býlýyonmu tepeden gýrýsý var ordan duz bas 
+22:33:41 | [CMD] HeRquL(6) => /giveweapon 6 18 9999
+22:33:50 | [CMD] umtcnyor(14) => /kemer
+22:33:54 | [CMD] Adem32(13) => /icerigir
+22:33:55 | [CMD] baraodichnl(20) => /rapor luplup67 arabaya vuruyo
+22:33:55 | Berkay08(9): Allaha Emanet beyler ben çýkýymo
+22:33:59 | TIRCI(16): balelalara bak cýkcak onune 
+22:33:59 | [CMD] Adem32(13) => /isyerimenu
+22:34:0 | [CMD] Berkay08(9) => /adminol
+22:34:0 | [CMD] HeRquL(6) => /spec 22
+22:34:1 | TIRCI(16): bb
+22:34:1 | [KAMYONCU] Jodor, LV Butcher'den SF Catering LTD'e Et tasidi. Kazanc: 79482$, 1 Skor ve 5 EXP Sure: 183 Saniye
+22:34:2 | [CMD] Hic(11) => /kemer
+22:34:2 | [CMD] baraodichnl(20) => /tamir
+22:34:5 | [CMD] Jodor(12) => /work
+22:34:6 | ahmet55 Berkay08'i öldürdü. Oldurme Sekli: 37
+22:34:7 | [CMD] Adem32(13) => /isyerimenu
+22:34:8 | [LOCAL]Marcelos(8): adamm
+22:34:8 | [CMD] Marcelos(8) => /l adamm
+22:34:9 | [CMD] ahmet55(17) => /tamir
+22:34:10 | {FFCC00}Berkay08(9) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:34:11 | Hic(11): ßß
+22:34:11 | TIRCI(16): kargocu olun 
+22:34:12 | Berkay08(9) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:34:13 | [CMD] umtcnyor(14) => /work
+22:34:13 | [CMD] luplup67(22) => /31
+22:34:19 | [CMD] HeRquL(6) => /jail 22 100 oyuncu rahatsýz etmek
+22:34:21 | [CMD] Marcelos(8) => /work
+22:34:23 | [CMD] Marcelos(8) => /tamir
+22:34:25 | [CMD] Jodor(12) => /bonus
+22:34:27 | [CMD] Jodor(12) => /work
+22:34:29 | [CMD] TIRCI(16) => /pm 17 gel kargoya dansozum beným :D
+22:34:31 | luplup67(22): ama :(
+22:34:32 | [CMD] HeRquL(6) => /specoff
+22:34:33 | {FFCC00}HeRquL(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:34:33 | [CMD] Hic(11) => /tamir
+22:34:35 | luplup67(22): haksýz yere
+22:34:36 | [CMD] Hic(11) => /kemer
+22:34:39 | [CMD] ahmet55(17) => /meslek
+22:34:41 | HeRquL(6): adam ihbar etti
+22:34:41 | TIRCI(16): .
+22:34:41 | 
+22:34:42 | luplup67(22): wzkralda yapti
+22:34:47 | [CMD] Marcelos(8) => /admins
+22:34:49 | luplup67(22): wz kralda yaptý 
+22:34:50 | [CMD] Jodor(12) => /cevir
+22:34:50 | [CMD] ahmet55(17) => /rescue
+22:34:52 | luplup67(22): hakyimeyin
+22:34:55 | [CMD] Marcelos(8) => /fps
+22:34:57 | luplup67(22): izleyin
+22:34:57 | wzkral6785665(15): yalan soluyo 
+22:34:57 | baraodichnl(20): aynn oda vardi
+22:34:59 | [LOCAL]TIRCI(16): bi kývýrsan :D
+22:34:59 | [CMD] TIRCI(16) => /l bi kývýrsan :D
+22:35:0 | Marcelos(8): fps
+22:35:2 | [CMD] Marcelos(8) => /fps
+22:35:5 | luplup67(22): bak adam dio oda vardi die
+22:35:7 | HeRquL(6): sende onu lþikayet tseytdin zamanýnda o seni þikayet etti
+22:35:9 | wzkral6785665(15): ben arabanýn yanýndayým 
+22:35:9 | [CMD] ahmet55(17) => /dans 4
+22:35:11 | [CMD] Jodor(12) => /vtamir
+22:35:14 | baraodichnl(20): adý uzun :D
+22:35:15 | [LOCAL]TIRCI(16): yurube ahmet be dondur :DF
+22:35:15 | [CMD] TIRCI(16) => /l yurube ahmet be dondur :DF
+22:35:20 | luplup67(22): yanýorum hapislerde
+22:35:21 | [CMD] Hic(11) => /rescue
+22:35:22 | [LOCAL]ahmet55(17): :D
+22:35:22 | [CMD] ahmet55(17) => /l :D
+22:35:24 | sametkaan(10):  beni alýn help
+22:35:25 | luplup67(22): genç yaþimda
+22:35:27 | BOZKURT545(24): neden 3 tane dükkan sýnýr var
+22:35:31 | luplup67(22): laneet olsun
+22:35:31 | TIRCI(16): beles dansoz var gelýn sf kargo :D
+22:35:33 | luplup67(22): :/
+22:35:35 | [CMD] Adem32(13) => /isyerimenu
+22:35:39 | [CMD] Adem32(13) => /icerigir
+22:35:41 | [CMD] Adem32(13) => /isyerimenu
+22:35:42 | [CMD] Jodor(12) => /cevir
+22:35:43 | wzkral6785665(15): luplup 6767 admýne aýlevý kufur edýyo 
+22:35:44 | luplup67(22): öldür beni tirci
+22:35:44 | [CMD] Hic(11) => /meslek
+22:35:50 | [CMD] Adem32(13) => /icerigir
+22:35:50 | Hic(11): Napýyon ?
+22:35:52 | [CMD] Adem32(13) => /isyerimenu
+22:35:53 | luplup67(22): giç
+22:35:53 | BOZKURT545(24): neden 3 tane dükkan sýnýr var
+22:35:55 | [CMD] HeRquL(6) => /cantazele
+22:35:56 | Hic(11): Neden sýktýn amdin ?
+22:35:56 | luplup67(22): hiç
+22:35:59 | [CMD] baraodichnl(20) => /tamir
+22:36:1 | Hic(11): ?
+22:36:2 | [CMD] ahmet55(17) => /dans 3
+22:36:2 | [LOCAL]TIRCI(16): hadý sne saur Ç:D dansozum bneým :D 
+22:36:2 | [CMD] TIRCI(16) => /l hadý sne saur Ç:D dansozum bneým :D 
+22:36:3 | HeRquL(6): sýkýntý yok
+22:36:8 | Adem32(13): bende 3 dükyan var
+22:36:9 | luplup67(22): yok oylesie hiç dedim
+22:36:10 | [CMD] Hic(11) => /meslek
+22:36:13 | 
+22:36:17 | [CMD] Marcelos(8) => /kemeer
+22:36:17 | BOZKURT545(24): herkese kalsýn diyemi
+22:36:20 | [CMD] ahmet55(17) => /dans 2
+22:36:20 | [LOCAL]TIRCI(16): sen neden konusmuyon lo :D
+22:36:20 | [CMD] TIRCI(16) => /l sen neden konusmuyon lo :D
+22:36:22 | Hic(11): Dans et yývrým
+22:36:26 | {FFCC00}luplup67(22) Otobus Soforu olarak spawn oldu.
+22:36:28 | [CMD] ahmet55(17) => /dans 4
+22:36:29 | TIRCI(16): kývýrt
+22:36:29 | luplup67(22): yalan soyluo
+22:36:33 | [CMD] Hic(11) => /uzan
+22:36:36 | HeRquL(6): hem çok kazanç elde edersin hemde herkes iþyeri alamaz
+22:36:36 | luplup67(22): wz kral küfür edio faceden
+22:36:37 | [CMD] baraodichnl(20) => /rapor wzkral6785665 arabama bindi
+22:36:40 | [CMD] HeRquL(6) => /spec 14
+22:36:42 | [CMD] HeRquL(6) => /spec 15
+22:36:43 | Hic(11): Yemede yanýnda yat QWE:qw:
+22:36:43 | Adem32(13): bemle das edemsn hic
+22:36:45 | [CMD] BOZKURT545(24) => /sorusor neden 3 dükkan sýnýr
+22:36:51 | [CMD] luplup67(22) => /rescue
+22:36:53 | [CMD] HeRquL(6) => /sorusor
+22:36:55 | TIRCI(16): uy donbe ahmet 
+22:36:55 | Hic(11): Banamý didin ?
+22:36:56 | [CMD] HeRquL(6) => /sorular
+22:36:58 | [CMD] Jodor(12) => /vtamir
+22:37:1 | [CMD] ahmet55(17) => /ise
+22:37:2 | Adem32(13): sevgil olarak
+22:37:3 | [CMD] BOZKURT545(24) => /icerigir
+22:37:3 | [CMD] Jodor(12) => /asiriyuk
+22:37:4 | [CMD] HeRquL(6) => /sorukabul 3
+22:37:7 | [CMD] ahmet55(17) => /dans 4
+22:37:7 | [CMD] HeRquL(6) => /sorular
+22:37:8 | [CMD] wzkral6785665(15) => /sifredegistir
+22:37:9 | [CMD] Jodor(12) => /akilitle
+22:37:11 | [CMD] BOZKURT545(24) => /isyerimenu
+22:37:12 | Hic(11): Mal mal þeyler sorma olabilir ne zaman ?
+22:37:12 | [CMD] HeRquL(6) => /specoff
+22:37:16 | TIRCI(16): oy erkek erkye 
+22:37:17 | {FFCC00}HeRquL(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:37:20 | Hic(11): rrrr
+22:37:23 | [CMD] HeRquL(6) => /sorukabul 23
+22:37:25 | Hic(11): harf uzattým uyarý atýn
+22:37:26 | [CMD] HeRquL(6) => /sorukabul 23
+22:37:27 | baraodichnl(20): hayat bir zülümse goyam el ine gülümse
+22:37:28 | Adem32(13): mal san þaka yaptým
+22:37:29 | [CMD] HeRquL(6) => /sorular
+22:37:36 | [CMD] HeRquL(6) => /sorukabul 24
+22:37:36 | [CMD] ahmet55(17) => /31
+22:37:39 | luplup67(22): baradini küfür etiii
+22:37:42 | [CMD] ahmet55(17) => /31
+22:37:43 | [CMD] BOZKURT545(24) => /admins
+22:37:43 | TIRCI(16): @13 uslup 
+22:37:45 | [CMD] Hic(11) => /animkapat
+22:37:48 | [CMD] Jodor(12) => /flip
+22:37:48 | luplup67(22): baraodichnl
+22:37:49 | Adem32(13): ona de
+22:37:51 | [CMD] HeRquL(6) => /ypm çünkü herkese dükkan kalmaz ve çok fazla gelir olur
+22:37:52 | luplup67(22): küfür etti
+22:37:55 | Hic(11): Klavyenmi bozuk ?
+22:37:58 | TIRCI(16): @13 uslup 
+22:38:1 | Adem32(13): yaln
+22:38:2 | [CMD] Jodor(12) => /vtamir
+22:38:3 | [CMD] ahmet55(17) => /animakapt
+22:38:6 | [CMD] ahmet55(17) => /dans 4
+22:38:8 | [CMD] Adem32(13) => /icerigir
+22:38:10 | [CMD] Hic(11) => /uzan
+22:38:15 | [CMD] Adem32(13) => /isyerimenu
+22:38:16 | TIRCI(16): herqul cum @13 uslupsuz davrandý 
+22:38:16 | [LOCAL]Hic(11): sür kaptan
+22:38:16 | [CMD] Hic(11) => /l sür kaptan
+22:38:24 | [CMD] Adem32(13) => /isyerimenu
+22:38:25 | [CMD] ahmet55(17) => /work
+22:38:28 | Hic(11): harf uzattým az önce amdin buba
+22:38:28 | HeRquL(6): ne dedi uygunsuz biþey yoktu
+22:38:33 | [CMD] BOZKURT545(24) => /ypm admin bende 2 kumarhane ve 1 motel var birini satýp ganyan alsammý faydalýmý
+22:38:33 | Adem32(13): tm sorry
+22:38:38 | Hic(11): "Mal sana þaka yaptým" dedi.
+22:38:41 | TIRCI(16): mal dedý 
+22:38:45 | Adem32(13): tm sorry 
+22:38:47 | [CMD] baraodichnl(20) => /tamir
+22:38:50 | Hic(11): Hakarete girer.
+22:38:50 | [CMD] HeRquL(6) => /uyar 11 uslup
+22:38:55 | Hic(11): ben demedim
+22:38:57 | TIRCI(16): lan 
+22:39:0 | HeRquL(6): "mal mal"
+22:39:1 | Hic(11): @13 Dedi
+22:39:2 | wzkral6785665(15): lup  lup 6767 giselere para vermýyo hakkýmýzý yýyo altýndan gecýyo admýn abý
+22:39:3 | TIRCI(16): @13 dedý 
+22:39:9 | (BANKA) Adem32(13) 2128 nolu banka hesabina 532730$ yatirdi.
+22:39:10 | Marcelos(8): ben asýrý yüklüyüm
+22:39:17 | Marcelos(8): asýrý yüklüler daha fazla para alýyo demi
+22:39:17 | TIRCI(16): @11 ne dedýgýný san acýkladý 
+22:39:17 | [CMD] luplup67(22) => /sikayet
+22:39:18 | baraodichnl(20): hayt bir sudur lup lup kudur
+22:39:19 | Adem32(13): lik once sen den
+22:39:26 | [CMD] ahmet55(17) => /cevir
+22:39:27 | [CMD] Jodor(12) => /vtamir
+22:39:30 | [CMD] Hic(11) => /animkapat
+22:39:36 | Adem32(13): size iyi oyular 
+22:39:38 | Marcelos(8): asýrý yüklüler daha fazla para alýyo demi
+22:39:42 | {FFCC00}wzkral6785665(15) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:39:46 | [CMD] baraodichnl(20) => /tamir
+22:39:47 | Adem32(13): tam la sorun yok
+22:39:48 | HeRquL(6): ben göremedim isterseniz siz ss ile foruma oyuncu þikayet bölümünden konu açýn
+22:39:50 | [CMD] Hic(11) => /uzan
+22:39:51 | [CMD] baraodichnl(20) => /rescue
+22:39:51 | HeRquL(6): iþlem yaparýz
+22:39:58 | HeRquL(6): "mal mal þeyler" olaný gördüm
+22:40:3 | [CMD] umtcnyor(14) => /gise
+22:40:8 | baraodichnl(20): araç res
+22:40:11 | [CMD] Marcelos(8) => /cevir
+22:40:12 | TIRCI(16): @13 dedý ýste onu 
+22:40:13 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:40:15 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:40:18 | Hic(11): ben orda dedimki mal mal þeylerden sonra
+22:40:22 | baraodichnl(20): admin buyukustad noldu yaw
+22:40:27 | Hic(11): olabilir ne zaman ? dedim
+22:40:27 | Adem32(13): tamda daha ne usteyorszuz
+22:40:35 | Marcelos(8): asýrý yüklüler daha fazla para alýyo demi??
+22:40:36 | [CMD] luplup67(22) => /sikayet wzkra
+22:40:36 | Hic(11): Yani espri bu anladýnmý amidin
+22:40:37 | [KAMYONCU] Jodor, Whestone Farm'den Pecker's Feed & Seed'e Kurbanlik tasidi. Kazanc: 121449$, 1 Skor ve 5 EXP Sure: 181 Saniye
+22:40:39 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:40:39 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:40:43 | [CMD] HeRquL(6) => /respawncars
+22:40:50 | [CMD] Jodor(12) => /work
+22:40:50 | Marcelos(8): asýrý yüklüler daha fazla para alýyo demi??
+22:40:50 | [CMD] Hic(11) => /animkapat
+22:40:51 | Marcelos(8): asýrý yüklüler daha fazla para alýyo demi??
+22:40:58 | [LOCAL]Hic(11): 50 kuruþ ver týrrek
+22:40:58 | [CMD] Hic(11) => /l 50 kuruþ ver týrrek
+22:41:4 | [CMD] Hic(11) => /31
+22:41:4 | [CMD] luplup67(22) => /rescue
+22:41:6 | Adem32(13): hic
+22:41:8 | [CMD] luplup67(22) => /rescue
+22:41:9 | Hic(11): ?
+22:41:11 | Adem32(13): hic
+22:41:14 | Marcelos(8): jkasdjasd
+22:41:14 | Hic(11): ??
+22:41:16 | [CMD] TIRCI(16) => /otur
+22:41:21 | sametkaan(10) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:41:23 | [CMD] baraodichnl(20) => /tamir
+22:41:25 | [CMD] wzkral6785665(15) => /rapor luplup67
+22:41:26 | [CMD] Adem32(13) => /pm 11 öozur dilem
+22:41:30 | umtcnyor(14): espri yaptý
+22:41:33 | Hic(11): tamam gerek yok özüre
+22:41:38 | EmirAyhan(7) oyuna girdi [IP: 212.252.100.124]
+22:41:40 | Adem32(13): tam lkalþalaSLAsdþlasfas
+22:41:43 | [CMD] ahmet55(17) => /tamir
+22:41:46 | [CMD] Jodor(12) => /sirket
+22:41:47 | [LOCAL]TIRCI(16): ahmet sen tv de tolg sow varya orda muzusyen var hýc konusmayan ayný osun 
+22:41:47 | [CMD] TIRCI(16) => /l ahmet sen tv de tolg sow varya orda muzusyen var hýc konusmayan ayný osun 
+22:41:47 | {FFCC00}baraodichnl(20) Otobus Soforu olarak spawn oldu.
+22:41:52 | Sijbes04(9) oyuna girdi [IP: 78.190.184.23]
+22:41:52 | [LOCAL]TIRCI(16): az konus :D
+22:41:52 | [CMD] TIRCI(16) => /l az konus :D
+22:41:57 | [LOCAL]ahmet55(17): :D
+22:41:57 | [CMD] ahmet55(17) => /l :D
+22:41:59 | Adem32(13): size iyi oyular beçkyorm 
+22:41:59 | 
+22:42:2 | {FFCC00}Sijbes04(9) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:42:5 | [CMD] wzkral6785665(15) => /rapor luplup67  aýlevý kufur ettý
+22:42:5 | Adem32(13): size iyi oyular çikyorm 
+22:42:6 | [CMD] Sijbes04(9) => /stamir
+22:42:6 | Adem32(13): size iyi oyular çikyorm 
+22:42:8 | [CMD] Sijbes04(9) => /sa
+22:42:9 | burhanefe1(10) oyuna girdi [IP: 95.5.86.79]
+22:42:11 | [CMD] TIRCI(16) => /as
+22:42:12 | Adem32(13): size iyi oyular çikyorm 
+22:42:12 | [CMD] wzkral6785665(15) => /rescue
+22:42:14 | [CMD] Sijbes04(9) => /saat 22
+22:42:15 | [CMD] Sijbes04(9) => /hava 14
+22:42:16 | Sijbes04(9): ßß
+22:42:18 | MetalicKarpuz(18) oyuna girdi [IP: 195.142.90.61]
+22:42:18 | Adem32(13) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:42:19 | [CMD] Marcelos(8) => /tamir
+22:42:19 | TIRCI(16): cýk la 
+22:42:20 | Hic(11): Aleyküm Selam Hoþgeldin.
+22:42:22 | [CMD] Jodor(12) => /vbenzin
+22:42:24 | Sijbes04(9): hb
+22:42:25 | HeRquL(6): neyse espri de olsa siz üslupsuz espri yapmayýn baþklarý yanlýþ anlar kötü siz olursunuz(yapanlar)
+22:42:25 | 
+22:42:28 | {FFCC00}MetalicKarpuz(18) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:42:31 | 
+22:42:32 | [CMD] baraodichnl(20) => /rescue
+22:42:35 | {FFCC00}burhanefe1(10) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:42:36 | [CMD] Sijbes04(9) => /saat 22
+22:42:38 | BOZKURT545(24): kargocu ortak varmý
+22:42:38 | [CMD] Sijbes04(9) => /hava 14
+22:42:39 | [CMD] Sijbes04(9) => /sac
+22:42:41 | [CMD] Sijbes04(9) => /gobus
+22:42:43 | [CMD] TIRCI(16) => /kemer
+22:42:47 | [CMD] BOZKURT545(24) => /gobus
+22:42:49 | TIRCI(16): @24 @11 le ol 
+22:42:52 | [CMD] baraodichnl(20) => /modifiye
+22:42:53 | [CMD] Jodor(12) => /vtamir
+22:42:57 | Hic(11): 1m atacak delikanlý varmý ?
+22:43:0 | EmirAyhan(7) 60 saniye içinde giriþ yapmadýðý için tekmelendi
+22:43:0 | EmirAyhan(7) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+22:43:2 | Hic(11): ben çýkcam ztn
+22:43:4 | [CMD] Hic(11) => /meslek
+22:43:6 | {FFCC00}Hic(11) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:43:8 | [CMD] HeRquL(6) => /ypm baþka sorunuz varmýydý ?
+22:43:10 | [CMD] Hic(11) => /rescue
+22:43:11 | [CMD] Sijbes04(9) => /meslek
+22:43:13 | 
+22:43:13 | [CMD] luplup67(22) => /TAMÝR
+22:43:14 | [PPX]peres(7) oyuna girdi [IP: 178.19.100.193]
+22:43:16 | BOZKURT545(24): varmý kargoya ortak
+22:43:17 | [CMD] luplup67(22) => /tamir
+22:43:18 | [LOCAL]TIRCI(16): ben afk kalsam olurmu 
+22:43:18 | [CMD] TIRCI(16) => /l ben afk kalsam olurmu 
+22:43:19 | Hic(11): 1m atacak delikanlý varmý ?
+22:43:21 | [CMD] burhanefe1(10) => /kemer
+22:43:23 | Sijbes04(9): hiç
+22:43:25 | [CMD] BOZKURT545(24) => /ypm saðol admin yok baþka
+22:43:25 | Hic(11): ?
+22:43:26 | Sijbes04(9): napcan 1m yi
+22:43:27 | [CMD] BOZKURT545(24) => /meslek
+22:43:30 | 
+22:43:32 | {FFCC00}luplup67(22) Otobus Soforu olarak spawn oldu.
+22:43:32 | [CMD] wzkral6785665(15) => /rapor luplup67 hýle kullanýyo
+22:43:33 | [CMD] BOZKURT545(24) => /rescue
+22:43:33 | 
+22:43:35 | [CMD] baraodichnl(20) => /tamir
+22:43:36 | [LOCAL]TIRCI(16): ýsým var 2 el at sen býter o arada 
+22:43:36 | [CMD] TIRCI(16) => /l ýsým var 2 el at sen býter o arada 
+22:43:38 | [CMD] Jodor(12) => /asiriyuk
+22:43:38 | [CMD] BOZKURT545(24) => /gobus
+22:43:38 | [CMD] burhanefe1(10) => /work
+22:43:38 | Hic(11): iþyeri satýn alýcamda
+22:43:38 | [CMD] HeRquL(6) => /ypm iyþ oyunlar :)
+22:43:40 | [CMD] HeRquL(6) => /ybitir
+22:43:42 | [CMD] luplup67(22) => /rescue
+22:43:42 | [CMD] ahmet55(17) => /cevir
+22:43:43 | {FFCC00}baraodichnl(20) Otobus Soforu olarak spawn oldu.
+22:43:44 | [CMD] HeRquL(6) => /spec 22
+22:43:47 | TIRCI(16): afk yim 
+22:43:48 | [CMD] baraodichnl(20) => /rescue
+22:43:50 | Sijbes04(9): tm
+22:43:50 | [CMD] Hic(11) => /kemer
+22:43:50 | [CMD] BOZKURT545(24) => /ypm saðolun :D
+22:43:51 | [CMD] MetalicKarpuz(18) => /work
+22:43:54 | [CMD] Hic(11) => /kemer
+22:43:55 | [CMD] Hic(11) => /work
+22:43:58 | {FFCC00}[PPX]peres(7) Otobus Soforu olarak spawn oldu.
+22:43:59 | [CMD] Sijbes04(9) => /admins
+22:44:1 | [CMD] BOZKURT545(24) => /icerigir
+22:44:5 | [CMD] BOZKURT545(24) => /isyerimenu
+22:44:5 | Sijbes04(9): herqul araç res
+22:44:8 | [CMD] Jodor(12) => /basarimlar 
+22:44:11 | Sijbes04(9): bide duyuru yerini temizlesene
+22:44:12 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:44:13 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:44:15 | [LOCAL]ahmet55(17): tm ben devam ederým
+22:44:15 | [CMD] ahmet55(17) => /l tm ben devam ederým
+22:44:15 | [CMD] [PPX]peres(7) => /kemer
+22:44:17 | [CMD] HeRquL(6) => /asay araç res geliyor
+22:44:20 | [CMD] ahmet55(17) => /tamir
+22:44:20 | [CMD] HeRquL(6) => /respawncars
+22:44:22 | Sijbes04(9): bide duyuru yerini temizlesene
+22:44:23 | [CMD] ahmet55(17) => /work
+22:44:23 | [CMD] HeRquL(6) => /dtemizle
+22:44:26 | [CMD] BOZKURT545(24) => /rescue
+22:44:26 | Sijbes04(9): eyw
+22:44:28 | Hic(11): 1m atacak delikanlý varmý ?
+22:44:34 | [CMD] Sijbes04(9) => /araba
+22:44:35 | [CMD] HeRquL(6) => /specoff
+22:44:36 | {FFCC00}HeRquL(6) {FFFFFF}Cevik Kuvvet olarak spawn oldu.
+22:44:38 | [CMD] Sijbes04(9) => /araba
+22:44:39 | [PPX]peres(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:44:40 | BOZKURT545(24): kumarhane almayýn gençler 
+22:44:44 | [CMD] baraodichnl(20) => /tamir
+22:44:45 | [CMD] Sijbes04(9) => /kemer
+22:44:48 | BOZKURT545(24): ben aldým keþke almasaydým
+22:44:49 | Sijbes04(9): oha
+22:44:54 | Sijbes04(9): hýz göstergesi fln degiþmiþ
+22:44:58 | BOZKURT545(24): boþuna bartýyor herkes
+22:45:3 | [CMD] HeRquL(6) => /admins
+22:45:4 | Hic(11): uyanda balýða gidelim
+22:45:6 | Sijbes04(9): hýz göstergesi fln degiþmiþ cok güzel olmuþ la
+22:45:10 | [CMD] HeRquL(6) => /adminol
+22:45:11 | [CMD] HeRquL(6) => /adminol
+22:45:12 | Sijbes04(9): ßß
+22:45:13 | Hic(11): ßß
+22:45:15 | [CMD] HeRquL(6) => /adminol
+22:45:16 | HeRquL(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:45:19 | [CMD] luplup67(22) => /sikayet wzkral6785665 rahatsiz ediyorlar
+22:45:19 | [CMD] Marcelos(8) => /gorev
+22:45:20 | [CMD] Sijbes04(9) => /modifiye
+22:45:20 | Hic(11): 1m atacak delikanlý varmý ?
+22:45:20 | [CMD] Marcelos(8) => /bb
+22:45:24 | BOZKURT545(24): varmý kargocu ortak
+22:45:26 | [CMD] Marcelos(8) => /bb
+22:45:27 | [CMD] Marcelos(8) => /baybay
+22:45:30 | Marcelos(8): bb
+22:45:42 | BOZKURT545(24): hadi bize teþekkür edin adminler
+22:45:47 | [CMD] baraodichnl(20) => /tamir
+22:45:48 | Marcelos(8): metalci karpuz
+22:45:50 | [CMD] Hic(11) => /tam,r
+22:45:51 | Marcelos(8): kolay gelsin kardeþim
+22:45:53 | [CMD] Hic(11) => /tamit
+22:45:55 | [CMD] Hic(11) => /tamir
+22:45:55 | BOZKURT545(24): kargocu yokmu yav
+22:45:58 | [CMD] Hic(11) => /asiriyuk
+22:46:2 | Hic(11): 1m atacak delikanlý varmý ?
+22:46:9 | Marcelos(8): vay delikanlý hiç vay kjasjdas
+22:46:10 | EmirAyhan(6) oyuna girdi [IP: 212.252.100.124]
+22:46:12 | Hic(11): QWE:qw:
+22:46:21 | EmirAyhan(6) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+22:46:23 | [CMD] luplup67(22) => /tamir
+22:46:27 | Marcelos(8): lan dorse gg
+22:46:34 | Hic(11): 1m atacak delikanlý varmý ?
+22:46:35 | [CMD] baraodichnl(20) => /tamir
+22:46:46 | Marcelos(8): delikanlý diyimde atsýnlar jksajdas
+22:46:47 | BOZKURT545(24): varmý kargoya ortak yav 
+22:46:49 | Sancak(6) oyuna girdi [IP: 88.251.31.141]
+22:46:55 | EmirAyhan(7) oyuna girdi [IP: 212.252.100.124]
+22:47:3 | BOZKURT545(24): admin sen gelsene ortak olsana
+22:47:4 | Sijbes04(9): hg sancak
+22:47:13 | Sancak(6) oyundan cIktI (Hata/Crash) (IP: 88.251.31.141)
+22:47:14 | [CMD] Sijbes04(9) => /araba
+22:47:18 | [CMD] Sijbes04(9) => /araba
+22:47:20 | Marcelos(8): sancak hoþgeldi
+22:47:20 | [KAMYONCU] umtcnyor, Lucifer Esya Deposu'den SF Financial Center'e Elektronik Esyalar tasidi. Kazanc: 25830$, 1 Skor ve 5 EXP Sure: 283 Saniye
+22:47:21 | Marcelos(8): sancak hoþgeldin
+22:47:21 | Sancak(6) oyuna girdi [IP: 88.251.31.141]
+22:47:21 | [CMD] Sijbes04(9) => /araba
+22:47:22 | 
+22:47:24 | [CMD] baraodichnl(20) => /tamir
+22:47:24 | luplup67(22): admin
+22:47:27 | Sijbes04(9): @24 al sürceksen
+22:47:29 | 
+22:47:29 | Sijbes04(9): açtým aracý
+22:47:31 | {FFCC00}Sancak(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:47:31 | [CMD] Marcelos(8) => /pm 6 sa kardeþ benim fb samptruck sayfasýnda konuþtuðum senmiydin?
+22:47:32 | [CMD] Sijbes04(9) => /araba
+22:47:33 | [CMD] BOZKURT545(24) => /pm 9 tmm
+22:47:33 | [CMD] umtcnyor(14) => /qoek
+22:47:34 | [CMD] wzkral6785665(15) => /rapor luplup67 hýle ve aýlevý kufur ve cýrkýn davranýslar
+22:47:34 | [CMD] Sancak(6) => /admgiris
+22:47:37 | [CMD] umtcnyor(14) => /wordk
+22:47:38 | [CMD] Sancak(6) => /sa
+22:47:39 | Sijbes04(9): @24 al sürceksen
+22:47:40 | [CMD] umtcnyor(14) => /work
+22:47:40 | [CMD] BOZKURT545(24) => /kemer
+22:47:40 | Sijbes04(9): açtým aracý
+22:47:40 | [CMD] Marcelos(8) => /pm 6 kadir tozcu cevap veren
+22:47:41 | [CMD] Hic(11) => /as
+22:47:41 | [CMD] Sijbes04(9) => /as
+22:47:42 | [CMD] Jodor(12) => /as
+22:47:43 | [CMD] BOZKURT545(24) => /modifiye
+22:47:43 | Marcelos(8): as
+22:47:44 | luplup67(22): wzkral6785665  bni sürekli rahatsiz ediyo 
+22:47:45 | Sijbes04(9): hg sancak bey amca
+22:47:46 | Marcelos(8): sancak
+22:47:46 | MetalicKarpuz(18): aleyküm selam
+22:47:48 | Hic(11): 1m atacak delikanlý varmý ?
+22:47:50 | Marcelos(8): yanýma ýþýnlan
+22:47:50 | [CMD] Sancak(6) => /pm 8 Developerlik ile ilgilini
+22:47:52 | [CMD] Sancak(6) => /pm 8 Developerlik ile ilgilimi
+22:47:54 | [CMD] Marcelos(8) => /pm 6 he
+22:47:55 | Marcelos(8): evet
+22:47:57 | Marcelos(8): sancal
+22:47:58 | baraodichnl(20): admin þu luplupe sessizlik at boþ boþ konuþuyo
+22:47:59 | Marcelos(8): sancak
+22:48:1 | [CMD] Sancak(6) => /pm 8 bendim
+22:48:2 | Sancak(6): evet
+22:48:4 | [CMD] BOZKURT545(24) => /pm 9 gel admin bekliyom
+22:48:4 | Marcelos(8): yanýma ýþýnlan pm cevap veremiyom
+22:48:5 | luplup67(22): sancak abi
+22:48:8 | [CMD] Sancak(6) => /goto 8
+22:48:8 | [KAMYONCU] Hic, SF Food'den SF Supa Save'e Erzak tasidi. Kazanc: 11887$, 2 Skor ve 5 EXP Sure: 99 Saniye
+22:48:9 | Marcelos(8): biþey ler dicem
+22:48:10 | [CMD] Sijbes04(9) => /pm 24 ?
+22:48:11 | TheWolf(13) oyuna girdi [IP: 78.191.31.247]
+22:48:13 | [CMD] Sancak(6) => /goto 8
+22:48:15 | luplup67(22): sancak abi
+22:48:16 | [LOCAL]Marcelos(8): atla
+22:48:16 | [CMD] Marcelos(8) => /l atla
+22:48:16 | [CMD] Sancak(6) => /goto 8
+22:48:21 | {FFCC00}EmirAyhan(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:48:22 | [LOCAL]Marcelos(8): kardeþim alýcakmýsýn beni ?
+22:48:22 | [CMD] Marcelos(8) => /l kardeþim alýcakmýsýn beni ?
+22:48:23 | Hic(11): 1m atacak delikanlý varmý ?
+22:48:25 | [CMD] BOZKURT545(24) => /pm 9 sen sürersen ortak olurum dedin ya
+22:48:31 | [LOCAL]Marcelos(8): denemelik rehber falan
+22:48:31 | [CMD] Marcelos(8) => /l denemelik rehber falan
+22:48:34 | [CMD] wzkral6785665(15) => /tamir
+22:48:35 | [CMD] Sijbes04(9) => /pm 24 aracý açtým al sürceksen dedim
+22:48:38 | [CMD] Sijbes04(9) => /pm 24 aracý açtým al sürceksen dedim hotring
+22:48:40 | {FFCC00}TheWolf(13) Otobus Soforu olarak spawn oldu.
+22:48:41 | luplup67(22): beni rahatsiz edip kaçiyorlar :( wzkral 
+22:48:41 | [CMD] Hic(11) => /gobus
+22:48:45 | [LOCAL]Sancak(6): alýmlarda incellenip gerekli kiþiler alýnýr
+22:48:45 | [CMD] Sancak(6) => /l alýmlarda incellenip gerekli kiþiler alýnýr
+22:48:47 | [CMD] Hic(11) => /icerigir
+22:48:48 | [LOCAL]Sancak(6): daha bellirlenmedi
+22:48:48 | [CMD] Sancak(6) => /l daha bellirlenmedi
+22:48:51 | [CMD] BOZKURT545(24) => /pm 9 heee tmm deniyim bi ortak olmýyckmýsýn
+22:48:52 | [CMD] Hic(11) => /isyerimenu
+22:48:56 | [LOCAL]Marcelos(8): ben 2 senedir bekliyorum be
+22:48:56 | [CMD] Marcelos(8) => /l ben 2 senedir bekliyorum be
+22:48:57 | luplup67(22): beni boþ bo þ þikayet ediyorlar
+22:48:57 | [CMD] Hic(11) => /isyerimenu
+22:49:2 | [CMD] Hic(11) => /isyerimenu
+22:49:4 | [CMD] BOZKURT545(24) => /pm 9 bi turlýyýp gelym
+22:49:4 | [CMD] Sijbes04(9) => /pm 24 /gobus larý toplamaya girdim ben cýkcam
+22:49:4 | [LOCAL]Marcelos(8): o kadar
+22:49:4 | [CMD] Marcelos(8) => /l o kadar
+22:49:6 | [LOCAL]Sancak(6): scoren 50 
+22:49:6 | [CMD] Sancak(6) => /l scoren 50 
+22:49:8 | [LOCAL]Marcelos(8): hani yardým ederim
+22:49:8 | [CMD] Marcelos(8) => /l hani yardým ederim
+22:49:11 | [CMD] baraodichnl(20) => /rapor luplup67 abi bize yalan atýyo sezsizlik atýn be
+22:49:12 | umtcnyor(14): arcelik olarakmý edecekler
+22:49:12 | [LOCAL]Marcelos(8): aga önemli olan ilim bilgi sanat
+22:49:12 | [CMD] Marcelos(8) => /l aga önemli olan ilim bilgi sanat
+22:49:13 | [LOCAL]Sancak(6): 2 senedir 50 scoremi yapabildin
+22:49:13 | [CMD] Sancak(6) => /l 2 senedir 50 scoremi yapabildin
+22:49:18 | [LOCAL]Marcelos(8): amerikaya gittim
+22:49:18 | [CMD] Marcelos(8) => /l amerikaya gittim
+22:49:19 | [CMD] wzkral6785665(15) => /rapor luplup67 yalan soyluyo sessýzlýk atýn lutfen 
+22:49:23 | [CMD] ahmet55(17) => /work
+22:49:24 | [LOCAL]Marcelos(8): allah bu gün nasip etti gelmeyi
+22:49:24 | [CMD] Marcelos(8) => /l allah bu gün nasip etti gelmeyi
+22:49:25 | [CMD] Sijbes04(9) => /pm 24 kendileri 189 basýyo :d
+22:49:26 | [CMD] Hic(11) => /isyerimenu
+22:49:27 | [CMD] baraodichnl(20) => /rapor luplup67 yanýmýza geldi
+22:49:28 | [LOCAL]Marcelos(8): ailevi durumlardan dolayý
+22:49:28 | [CMD] Marcelos(8) => /l ailevi durumlardan dolayý
+22:49:34 | [LOCAL]Marcelos(8): ne yapabilirim ki
+22:49:34 | [CMD] Marcelos(8) => /l ne yapabilirim ki
+22:49:36 | sezzer(19) oyuna girdi [IP: 88.234.196.199]
+22:49:39 | [LOCAL]Marcelos(8): çalýþmak zorundaydým
+22:49:39 | [CMD] Marcelos(8) => /l çalýþmak zorundaydým
+22:49:42 | wzkral6785665(15): yalan soyluyo
+22:49:43 | [LOCAL]Sancak(6): kardeþim dedigim gibi alýmlarda belli olur 
+22:49:43 | [CMD] Sancak(6) => /l kardeþim dedigim gibi alýmlarda belli olur 
+22:49:45 | 
+22:49:48 | [CMD] Hic(11) => /adminol
+22:49:49 | [CMD] BOZKURT545(24) => /pm 9 aynen öyle yer uçaðýymþ
+22:49:49 | [CMD] Hic(11) => /adminol
+22:49:52 | [LOCAL]Marcelos(8): denesen be kardeþ
+22:49:52 | [CMD] Marcelos(8) => /l denesen be kardeþ
+22:49:52 | {FFCC00}sezzer(19) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:49:53 | Sijbes04(9): ßß
+22:49:56 | [LOCAL]Marcelos(8): herkezle ilgileni yorum
+22:49:56 | [CMD] Marcelos(8) => /l herkezle ilgileni yorum
+22:49:57 | Sijbes04(9): hg dead
+22:49:58 | [LOCAL]Marcelos(8): lütfen
+22:49:58 | [CMD] Marcelos(8) => /l lütfen
+22:50:0 | [CMD] sezzer(19) => /sa
+22:50:0 | Hic(11) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:50:0 | [CMD] BOZKURT545(24) => /pm 9 býrakýyýrm buraya
+22:50:1 | [LOCAL]Marcelos(8): bi sevaba gir
+22:50:1 | [CMD] Marcelos(8) => /l bi sevaba gir
+22:50:1 | [CMD] Sijbes04(9) => /as
+22:50:2 | [KAMYONCU] Jodor, Muroland Warehouse'den Istanbul City Warehouse'e Degerli Esyalar tasidi. Kazanc: 189981$, 1 Skor ve 5 EXP Sure: 305 Saniye
+22:50:5 | sezzer(19): hb kanka
+22:50:6 | [LOCAL]Marcelos(8): kardeþim 1 yanlýþýmda alýrsýn
+22:50:6 | [CMD] Marcelos(8) => /l kardeþim 1 yanlýþýmda alýrsýn
+22:50:6 | [CMD] Sijbes04(9) => /pm 24 al srüceksen
+22:50:7 | [KAMYONCU] burhanefe1, EasterBoard Farm'den Chuckup LTD'e Kurbanlik tasidi. Kazanc: 13433$, 2 Skor ve 5 EXP Sure: 206 Saniye
+22:50:7 | [ANTIHACK] Þüpheli wzkral6785665(15) => Can-Hilesi
+22:50:8 | [CMD] Jodor(12) => /work
+22:50:8 | [CMD] Sijbes04(9) => /pm 24 al srüceksen sorun diil
+22:50:9 | [LOCAL]Sancak(6): kardeþim yapabillicegim birþey yok alýmlarda belli olur dedim
+22:50:9 | [CMD] Sancak(6) => /l kardeþim yapabillicegim birþey yok alýmlarda belli olur dedim
+22:50:12 | {FFCC00}wzkral6785665(15) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:50:12 | sezzer(19): nabünüz neydünüz
+22:50:12 | [CMD] ahmet55(17) => /gobus
+22:50:18 | [LOCAL]Marcelos(8): ne zaman açýklanacak alýmlar
+22:50:18 | [CMD] Marcelos(8) => /l ne zaman açýklanacak alýmlar
+22:50:19 | Sijbes04(9): eyü be sen dnedüyün
+22:50:21 | umtcnyor(14): ya bu giþeler yarým saatten sonra açýlýyo
+22:50:21 | [CMD] baraodichnl(20) => /tamir
+22:50:22 | [CMD] luplup67(22) => /rapor wzkral6785665 beni sürekli rahatsiz edip kaçiyorlar birde baradoni die biri
+22:50:22 | [CMD] BOZKURT545(24) => /pm 9 azcýk daha deniyim :D
+22:50:24 | [LOCAL]Sancak(6): cumartesi ve ya pazar
+22:50:24 | [CMD] Sancak(6) => /l cumartesi ve ya pazar
+22:50:26 | [CMD] baraodichnl(20) => /rescue
+22:50:27 | BOZKURT545(24): kargocu ortak varmý
+22:50:27 | sezzer(19): iyi bende nabim
+22:50:28 | [LOCAL]Marcelos(8): hmm
+22:50:28 | [CMD] Marcelos(8) => /l hmm
+22:50:29 | [CMD] Sijbes04(9) => /pm 24 5 araç daha var istiyosan
+22:50:30 | [CMD] Sijbes04(9) => /pm 24 5 araç daha var istiyosan gel :d
+22:50:31 | [CMD] Sancak(6) => /spec 15
+22:50:32 | sezzer(19): geliyom bozkurt
+22:50:34 | [CMD] Sijbes04(9) => /araba
+22:50:35 | [CMD] luplup67(22) => /res
+22:50:35 | [CMD] sezzer(19) => /meslek
+22:50:37 | 
+22:50:40 | Marcelos(8): Sancak senin skorda amma güzel .d
+22:50:40 | [CMD] sezzer(19) => /rescue
+22:50:40 | [CMD] Sijbes04(9) => /araba
+22:50:42 | [CMD] Jodor(12) => /asiriyuk
+22:50:43 | [CMD] Sijbes04(9) => /araba
+22:50:45 | [CMD] Sijbes04(9) => /araba
+22:50:45 | BOZKURT545(24): sezer sfye geç geldm
+22:50:48 | [CMD] Sijbes04(9) => /araba
+22:50:50 | sezzer(19): tmm bekliyom
+22:50:52 | [LOCAL]Sijbes04(9): seç
+22:50:52 | [CMD] Sijbes04(9) => /l seç
+22:50:54 | [CMD] EmirAyhan(7) => /kemer
+22:50:56 | [LOCAL]Sijbes04(9): hangisini açayim
+22:50:56 | [CMD] Sijbes04(9) => /l hangisini açayim
+22:50:57 | [CMD] BOZKURT545(24) => /pm 9 hey maþþalah reis
+22:50:59 | [CMD] Jodor(12) => /cevir
+22:51:1 | [CMD] Sancak(6) => /jail 
+22:51:1 | [LOCAL]Sijbes04(9): :d
+22:51:1 | [CMD] Sijbes04(9) => /l :d
+22:51:1 | luplup67(22): admin yokmu
+22:51:2 | burhanefe1(10) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:51:4 | MetalicKarpuz(18) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:51:10 | [LOCAL]Sijbes04(9): hangisini açayim
+22:51:10 | [CMD] Sijbes04(9) => /l hangisini açayim
+22:51:10 | [CMD] Sancak(6) => /jail 25 320 çýk dostum þirkettin kapýsýndan
+22:51:12 | Marcelos(8): ben yardýmcý olayým
+22:51:12 | [CMD] Sijbes04(9) => /araba
+22:51:16 | [CMD] BOZKURT545(24) => /pm 9 bu güzelmþ sen ne yapýyon bu kdr arabayý yav :D
+22:51:18 | luplup67(22): þikayetletle ilgilense 
+22:51:20 | [CMD] Sancak(6) => /jail 20 320 çýk dostum þirkettin kapýsýndan
+22:51:20 | [CMD] Sijbes04(9) => /araba
+22:51:21 | burhanefe1(10) oyuna girdi [IP: 95.5.86.79]
+22:51:21 | [CMD] Jodor(12) => /vtamir
+22:51:25 | [CMD] EmirAyhan(7) => /work
+22:51:25 | baraodichnl(20): admin hapse attýrdýmya intikam almaya çalýþýo mk
+22:51:25 | [LOCAL]Sijbes04(9): açtim
+22:51:25 | [CMD] Sijbes04(9) => /l açtim
+22:51:30 | [CMD] Sancak(6) => /respawncars
+22:51:33 | [CMD] Sijbes04(9) => /kemer
+22:51:36 | burhanefe1(10) oyundan cIktI (Hata/Crash) (IP: 95.5.86.79)
+22:51:36 | Marcelos(8): Sancak'a sor onu kardeþim sahip deðilim ben
+22:51:36 | [CMD] luplup67(22) => /rescue
+22:51:37 | BOZKURT545(24): sezzer geldm hemen
+22:51:38 | [CMD] Sancak(6) => /cc
+22:51:40 | [CMD] Marcelos(8) => /cc
+22:51:40 | [CMD] luplup67(22) => /rescue
+22:51:41 | [CMD] Sancak(6) => /uyar 20 uslup
+22:51:45 | [CMD] Sijbes04(9) => /pm 24 caným sýkýldýkca degiþik degiþik sürüyom :d
+22:51:46 | [CMD] ahmet55(17) => /pcc
+22:51:52 | [CMD] Sijbes04(9) => /modifiye
+22:51:55 | Sancak(6): kardeþim düzgünce oyunumuzu oynuyalým.
+22:52:5 | [CMD] ahmet55(17) => /pcc
+22:52:10 | [CMD] TheWolf(13) => /work
+22:52:16 | 22Culsuz22(10) oyuna girdi [IP: 78.167.85.86]
+22:52:18 | [CMD] Sijbes04(9) => /kemer
+22:52:21 | Marcelos(8): Bencede beyler huzur bozmayýn 
+22:52:22 | [CMD] BOZKURT545(24) => /pm 9 eyvallah reis ben bekletmiyim ortaðý
+22:52:27 | [CMD] Sijbes04(9) => /pm 24 tm kg
+22:52:30 | [CMD] sezzer(19) => /work
+22:52:33 | [CMD] Sancak(6) => /specoff
+22:52:33 | {FFCC00}Sancak(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+22:52:36 | [CMD] Sijbes04(9) => /araba
+22:52:37 | [CMD] BOZKURT545(24) => /pm 9 güle güle kullan saðol
+22:52:42 | baraodichnl(20): abi adama sor istersen oyun oynuoduk 
+22:52:42 | [CMD] Sijbes04(9) => /pm 24 herzaman
+22:52:44 | [CMD] Sijbes04(9) => /kemer
+22:52:48 | luplup67(22): wz kral çok rahatsýz ediyor gereðini yapilmasýný isterim
+22:52:49 | [CMD] BOZKURT545(24) => /admins
+22:52:49 | Marcelos(8): þirket kapýsýndamý?
+22:52:55 | [CMD] BOZKURT545(24) => /admins
+22:52:56 | [CMD] Sijbes04(9) => /modifiye
+22:52:56 | baraodichnl(20): sor
+22:52:59 | [CMD] Sijbes04(9) => /modifiye
+22:53:5 | wzkral6785665(15): aynen abý býr durum yok
+22:53:6 | 22Culsuz22(10) Yol Iscisi olarak spawn oldu.
+22:53:6 | [CMD] Sijbes04(9) => /modifiye
+22:53:6 | Marcelos(8): birdaha oynamazsýn artýk
+22:53:13 | Marcelos(8): sirket kapýsýnda
+22:53:13 | wzkral6785665(15): oyun oynuok
+22:53:15 | Sancak(6): þikayetti olan www.trucksamp.com forumuza konu açabillir
+22:53:27 | luplup67(22): oyunla ilgile deil
+22:53:31 | luplup67(22): oyuncularla
+22:53:31 | [CMD] BOZKURT545(24) => /pm 6 sayýn admin ar-ge de destek gören cami meselesi hakkýnda ne düþünüyorsunuz
+22:53:33 | 22Culsuz22(10) Yol Iscisi olarak spawn oldu.
+22:53:38 | Marcelos(8): Foruma konu açabilirsiniz arkadaþlar.
+22:53:38 | baraodichnl(20): adamý bekliodum
+22:53:40 | Marcelos(8): Foruma konu açabilirsiniz arkadaþlar.
+22:53:47 | Marcelos(8): uzatmaya gerek yok
+22:53:56 | [CMD] Jodor(12) => /cevir
+22:54:2 | BOZKURT545(24): ben açtým gençler destek bekliyorum
+22:54:3 | Marcelos(8): sancak yanýma ýþýnlansana
+22:54:8 | Marcelos(8): bi biyer soracam
+22:54:11 | sezzer(19): konu ne bozkurt
+22:54:15 | BOZKURT545(24): oyuna cami gelsin diye konu açttým destek verin
+22:54:16 | [CMD] Jodor(12) => /vtamir
+22:54:24 | sezzer(19): haa
+22:54:36 | Sancak(6): BOZKURT545 
+22:54:38 | Marcelos(8): Sancak bi yanýma ýþýnlansana Madisan mýdýr nedir oraya nerden gidicez
+22:54:39 | BOZKURT545(24): 280 kiþiye ulaþtý konum
+22:54:41 | Sijbes04(9): @24 o olmaz bence
+22:54:42 | [KAMYONCU] Jodor, Istanbul City Warehouse'den Area 69'e Elektronik Esya tasidi. Kazanc: 113475$, 1 Skor ve 5 EXP Sure: 206 Saniye
+22:54:46 | [CMD] Jodor(12) => /work
+22:54:49 | [CMD] 22Culsuz22(10) => /work
+22:54:49 | Sijbes04(9): cünki herkez iþin dalgasýnda olur
+22:54:50 | baraodichnl(20): cami deðilde trafik polisi gelse iyi olur
+22:54:51 | Sancak(6): cami isteginiz incellemeden geçiriliyor 
+22:54:51 | [CMD] TheWolf(13) => /goreviptal
+22:55:0 | [CMD] Jodor(12) => /bonus
+22:55:0 | [CMD] Sijbes04(9) => /modifiye
+22:55:0 | sezzer(19): sancak
+22:55:3 | [CMD] Jodor(12) => /work
+22:55:3 | sezzer(19): biþi sorcam
+22:55:7 | Sancak(6): evet
+22:55:7 | Sijbes04(9): duyuru yerini temizlermisin sancak bey amca
+22:55:9 | [CMD] Sijbes04(9) => /modifiye
+22:55:10 | BOZKURT545(24): saðol admin oyunda birçok kiþide istiyor
+22:55:12 | [CMD] Sancak(6) => /dtemizle
+22:55:14 | [CMD] Sijbes04(9) => /modifiye
+22:55:15 | sezzer(19): arenk komutu neden kaldýrýldý
+22:55:19 | sezzer(19): çok iyiydi
+22:55:21 | BOZKURT545(24): ar-ge takýmýmýza güvebiyoruz
+22:55:25 | Sijbes04(9): -/modifiye
+22:55:26 | [CMD] TheWolf(13) => /work
+22:55:28 | Sijbes04(9): dead
+22:55:29 | Marcelos(8): Sancak oyuna TBMM'yi getirebilirmisin?
+22:55:33 | BOZKURT545(24): inþallah olur oyuna renk gelir 
+22:55:37 | sezzer(19): modifiye de tek renk veriyo sijo
+22:55:38 | Marcelos(8): ++
+22:55:40 | [CMD] ahmet55(17) => /work
+22:55:43 | Marcelos(8): Sancak oyuna TBMM'yi getirebilirmisin???
+22:55:44 | [CMD] Jodor(12) => /flip
+22:56:2 | [CMD] Jodor(12) => /vtamir
+22:56:7 | [CMD] ahmet55(17) => /tamir
+22:56:17 | [CMD] sezzer(19) => /tamir
+22:56:18 | BOZKURT545(24): pardon
+22:56:19 | ahmet55(17): :D 
+22:56:23 | ahmet55(17): olsun
+22:56:33 | [CMD] Sancak(6) => /adminol
+22:56:33 | Sancak(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:56:35 | [CMD] ahmet55(17) => /tamir
+22:56:35 | Sijbes04(9): ßß
+22:56:36 | Marcelos(8): Sancak oyuna TBMM'yi getirebilirmisin???
+22:56:38 | [CMD] Jodor(12) => /asiriyuk
+22:56:42 | [CMD] sezzer(19) => /work
+22:56:44 | BOZKURT545(24) ahmet55(17)'a 2000$ para gönderdi
+22:56:44 | [CMD] BOZKURT545(24) => /paragonder 17 2000
+22:56:53 | [CMD] Marcelos(8) => /bb
+22:56:55 | [CMD] Sijbes04(9) => /adminol
+22:56:55 | ahmet55(17): sagol
+22:57:0 | [CMD] Sijbes04(9) => /araba
+22:57:0 | Marcelos(8): Ben görevimi yaptým. Ben gidiyorum.
+22:57:2 | sezzer(19): bb knk
+22:57:7 | Jodor(12) oyundan cIktI (Hata/Crash) (IP: 88.244.176.80)
+22:57:9 | [CMD] Marcelos(8) => /b
+22:57:9 | Sijbes04(9): ßß knk
+22:57:13 | BOZKURT545(24): önemli deðil kusura bakmyýn tekrardan
+22:57:15 | Sijbes04(9): deadcým benim :))
+22:57:19 | Sijbes04(9): a.e.ol
+22:57:20 | sezzer(19): sijom :D
+22:57:20 | Sijbes04(9) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:57:22 | [LOCAL]TIRCI(16): sa geldim 
+22:57:22 | [CMD] TIRCI(16) => /l sa geldim 
+22:57:25 | [CMD] TIRCI(16) => /sa
+22:57:26 | [LOCAL]ahmet55(17): as
+22:57:26 | [CMD] ahmet55(17) => /l as
+22:57:30 | [CMD] Marcelos(8) => /as
+22:57:37 | [LOCAL]ahmet55(17): 2 gorev býtýrdým yokken
+22:57:37 | [CMD] ahmet55(17) => /l 2 gorev býtýrdým yokken
+22:57:40 | [CMD] Marcelos(8) => /tamir
+22:57:41 | [CMD] sezzer(19) => /as
+22:57:44 | 22Culsuz22(10) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:57:48 | [CMD] wzkral6785665(15) => /tamir
+22:57:55 | Marcelos(8): abi dorse kayboldu ya
+22:57:57 | {FFCC00}baraodichnl(20) Otobus Soforu olarak spawn oldu.
+22:57:57 | luplup67(22) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:58:0 | [LOCAL]TIRCI(16): eyw
+22:58:0 | [CMD] TIRCI(16) => /l eyw
+22:58:4 | BOZKURT545(24): can res please
+22:58:9 | [CMD] baraodichnl(20) => /rescue
+22:58:17 | Marcelos(8): abi dorse kayboldu ya
+22:58:25 | Marcelos(8): neyse beyler iyi akþamlar
+22:58:28 | Marcelos(8): Ben görevimi yaptým. Ben gidiyorum.
+22:58:30 | BOZKURT545(24): ingilizcem 07 burda ingilizce yazýyorum 
+22:59:0 | Marcelos(8): herkese tavsiye ederim /q 3m geliyor dükkan alýrsýnýz
+22:59:2 | Marcelos(8): .d.d.d
+22:59:12 | [CMD] Marcelos(8) => /quite
+22:59:12 | sezzer(19): bin bozkurt
+22:59:13 | Marcelos(8) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:59:14 | TIRCI(16): @8 user kandýrma 
+22:59:15 | BOZKURT545(24): yapmayýn gençler 
+22:59:20 | sezzer(19): can res
+22:59:20 | baraodichnl(20): bizde þirket kapýsýnda yanlarýk
+22:59:21 | BOZKURT545(24): oyundan atýyor
+22:59:21 | [KAMYONCU] umtcnyor, Blueberry Truck Terminal'den El Quebrados Depot'e Elektronik Esyalar tasidi. Kazanc: 25457$, 1 Skor ve 5 EXP Sure: 312 Saniye
+22:59:22 | [CMD] TIRCI(16) => /kemer
+22:59:27 | sezzer(19): admin yok la
+22:59:32 | [CMD] baraodichnl(20) => /tamir
+22:59:32 | TIRCI(16): @8 user kandýrma 
+22:59:33 | umtcnyor(14) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+22:59:35 | DarkFlow(6) oyuna girdi [IP: 78.178.91.183]
+22:59:36 | [CMD] ahmet55(17) => /pcc
+22:59:40 | BOZKURT545(24): admin þirketler nezmn para veriyor
+22:59:46 | [CMD] wzkral6785665(15) => /tamir
+22:59:48 | sezzer(19): cumartesi pazar
+22:59:49 | BOZKURT545(24): bana hiç gelmiyor
+22:59:51 | [KAMYONCU] EmirAyhan, LV Butcher'den Las Venturas Mall'e Et tasidi. Kazanc: 6246$, 2 Skor ve 5 EXP Sure: 234 Saniye
+22:59:51 | sezzer(19): maaþ günleri
+22:59:53 | TIRCI(16): pazar
+22:59:57 | [CMD] BOZKURT545(24) => /admins
+23:0:2 | DracXoomer(8) oyuna girdi [IP: 78.183.243.196]
+23:0:6 | BOZKURT545(24): oyunda yerkili yok la
+23:0:6 | luplup67(9) oyuna girdi [IP: 88.243.211.137]
+23:0:8 | [CMD] baraodichnl(20) => /admins
+23:0:12 | 
+23:0:13 | BOZKURT545(24): küfür etsek ban yermiyim
+23:0:14 | {FFCC00}DracXoomer(8) Otobus Soforu olarak spawn oldu.
+23:0:15 | ahmet55(17): bzk maas gunu ne zaman
+23:0:16 | [CMD] baraodichnl(20) => /tamir
+23:0:19 | [CMD] DracXoomer(8) => /sa
+23:0:19 | [CMD] BOZKURT545(24) => /admins
+23:0:20 | DarkFlow(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:0:21 | sezzer(19): ss alýrlarsa yersin
+23:0:21 | [CMD] DracXoomer(8) => /.
+23:0:21 | TIRCI(16): pazar
+23:0:23 | baraodichnl(20): vay mk
+23:0:23 | [CMD] ahmet55(17) => /gobus
+23:0:26 | [CMD] TIRCI(16) => /as
+23:0:26 | [CMD] ahmet55(17) => /work
+23:0:27 | [CMD] DracXoomer(8) => /myskin 230
+23:0:28 | 
+23:0:31 | [CMD] EmirAyhan(7) => /work
+23:0:35 | {FFCC00}luplup67(9) Otobus Soforu olarak spawn oldu.
+23:0:37 | TIRCI(16): @20 yapma 
+23:0:38 | luplup67(9): ss alýn
+23:0:38 | [CMD] ahmet55(17) => /as
+23:0:43 | [CMD] sezzer(19) => /work
+23:0:47 | sezzer(19): mk dan biþey olmaz
+23:0:51 | [CMD] wzkral6785665(15) => /rapor barodhncl kufur edýyor
+23:0:52 | [CMD] DracXoomer(8) => /meslek
+23:0:52 | sezzer(19): ailevi edersen yersin
+23:0:57 | TIRCI(16): olur 
+23:1:0 | baraodichnl(20): luplup gibi
+23:1:2 | baraodichnl(20): :D
+23:1:13 | TIRCI(16): ben alsam sýmdý ýkýnýzý uyarý yersýnýz 
+23:1:23 | [CMD] wzkral6785665(15) => /rapor baraodichnl kufur edýyor
+23:1:24 | luplup67(9): bnm hesabimi grip küfür eden arkadaþlarim var
+23:1:29 | DracXoomer(8): gençler nasýlsýnýz
+23:1:31 | [CMD] BOZKURT545(24) => /pm 19 reis bundan sonra uzun yerlere alsana para kasak para atcm þmdi sana kýsa yer çýkarsa iptal et diye uyarmý sanada uzun ye
+23:1:33 | luplup67(9): baraodivhnl gibi
+23:1:35 | EmirAyhan(7): chatte konuþmak istiyom da þimdi yanlýþ biþey derim banlanýrým filan hiç göze alamýyorum :D
+23:1:39 | [CMD] DracXoomer(8) => /kemer
+23:1:42 | [CMD] DracXoomer(8) => /work
+23:1:56 | [CMD] sezzer(19) => /pm 24 tamam
+23:1:59 | [CMD] luplup67(9) => /rescue
+23:2:0 | [CMD] TheWolf(13) => /goreviptal
+23:2:2 | [CMD] BOZKURT545(24) => /paragonder 19 30000
+23:2:9 | TIRCI(16): @7 bu uzun cumleyý kurarken korkmadýnmý :D
+23:2:15 | EmirAyhan(7): :D
+23:2:18 | [CMD] BOZKURT545(24) => /pm 19 göndercm þimdi zamaným dolunca reis
+23:2:25 | [CMD] sezzer(19) => /pm 24 tmm kanka
+23:2:29 | [CMD] BOZKURT545(24) => /paragonder 19 30000
+23:2:45 | EmirAyhan(7): zamanýnda minecraft serverlerinde az ban yemedik dlfjgb
+23:2:57 | [CMD] wzkral6785665(15) => /fenasikerým
+23:2:58 | EmirAyhan(7): ne günlerdi bee
+23:3:0 | sezzer(19): 6 m lazým beyler pamuk eller cebe
+23:3:0 | TIRCI(16): burdada yersýn 
+23:3:4 | wzkral6785665(15): fenasikerým
+23:3:11 | DracXoomer(8): hala manicraft oynayan varm :d
+23:3:11 | BOZKURT545(24) sezzer(19)'a 30000$ para gönderdi
+23:3:11 | [CMD] BOZKURT545(24) => /paragonder 19 30000
+23:3:14 | [CMD] DracXoomer(8) => /vtamir
+23:3:16 | luplup67(9): yeter artýk admin yok die boþa saldý bu çocuklarda
+23:3:18 | EmirAyhan(7): veletler :P
+23:3:20 | TIRCI(16): @19 inf in var zengýnsýn hala para ýsýyon :D
+23:3:23 | [CMD] BOZKURT545(24) => /pm 19 yetmezse yollýycm tekrar
+23:3:30 | baraodichnl(20): oyunda adýmý fenasi kerim yapsam ne olur :S
+23:3:31 | luplup67(9): wzkral küfür etme 
+23:3:32 | sezzer(19): nrg de alcam
+23:3:33 | TIRCI(16): @7 yapma 
+23:3:35 | sezzer(19): 6 m lazým
+23:3:39 | BOZKURT545(24): ss alsam ban yermi 
+23:3:42 | luplup67(9): týrcý abi banlatacan 
+23:3:44 | DracXoomer(8): admin yok diye bir yerlerinizmi kalktý lan
+23:3:44 | luplup67(9): yer
+23:3:45 | EmirAyhan(7): @16 tmm
+23:3:46 | DracXoomer(8): admin yok diye bir yerlerinizmi kalktý lan
+23:3:53 | [CMD] sezzer(19) => /work
+23:3:56 | luplup67(9): admin yok die
+23:3:58 | TIRCI(16): alýrým ss yersýnýz býseyý 
+23:4:2 | sezzer(19): harbiden chat huzurunu bozmayýn
+23:4:6 | [CMD] TIRCI(16) => /kemer
+23:4:7 | DracXoomer(8): aynen týrcý baba haklý AS:Dad
+23:4:12 | [CMD] sezzer(19) => /goreviptal
+23:4:15 | BOZKURT545(24): ss alýrsak harbi ban yer gibi
+23:4:18 | [CMD] sezzer(19) => /work
+23:4:23 | luplup67(9): alabilirmiyiz peki
+23:4:24 | [LOCAL]sezzer(19): junipher iyi mi
+23:4:24 | [CMD] sezzer(19) => /l junipher iyi mi
+23:4:26 | luplup67(9): artýk
+23:4:26 | DracXoomer(8): banlarsa evo banlar :D
+23:4:28 | [LOCAL]BOZKURT545(24): aynen iyi bu :D
+23:4:28 | [CMD] BOZKURT545(24) => /l aynen iyi bu :D
+23:4:31 | TIRCI(16): global chat te usluplu ve delikanli olalim .
+23:4:31 | DracXoomer(8): f8 den al 
+23:4:35 | baraodichnl(20): lup lup geçen admine aileviden 15 tgün yemedinmi la sen
+23:4:38 | DracXoomer(8): trucksamp.com þikayetini aç
+23:4:38 | oooda(6) oyuna girdi [IP: 88.254.69.116]
+23:4:44 | [CMD] baraodichnl(20) => /tamir
+23:4:45 | [CMD] sezzer(19) => /tamir
+23:4:51 | [LOCAL]ahmet55(17): ben cýkýyorum
+23:4:51 | [CMD] ahmet55(17) => /l ben cýkýyorum
+23:4:51 | luplup67(9): küfürler gitti
+23:4:54 | BOZKURT545(24): aynen bi oceanla az önceki hea diye devam eden kötü :D
+23:4:55 | luplup67(9): yukarda
+23:4:58 | {FFCC00}oooda(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:4:59 | [LOCAL]TIRCI(16): bb 
+23:4:59 | [CMD] TIRCI(16) => /l bb 
+23:5:5 | [CMD] EmirAyhan(7) => /tamir
+23:5:11 | [CMD] baraodichnl(20) => /admins
+23:5:12 | BOZKURT545(24): soldan kaydýrýrsan çýkar eski msjlara
+23:5:14 | luplup67(9): küfürler gözükmüo
+23:5:14 | [OTOBUSCU] DracXoomer, Las Venturas Otogar'den San Fierro Otogar'e Yolcu tasidi. Kazanc: 39714$ ve 9 Skor Sure: 168 Saniye
+23:5:17 | oooda(6): sa
+23:5:20 | [CMD] ahmet55(17) => /dans 4
+23:5:20 | [CMD] DracXoomer(8) => /as
+23:5:21 | [CMD] TIRCI(16) => /as
+23:5:24 | TheWolf(13) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:5:30 | [LOCAL]TIRCI(16): kývýrt be 
+23:5:30 | [CMD] TIRCI(16) => /l kývýrt be 
+23:5:36 | [CMD] DracXoomer(8) => /balon
+23:5:38 | [CMD] TIRCI(16) => /dans 4
+23:5:41 | [CMD] oooda(6) => /kemer
+23:5:46 | [CMD] oooda(6) => /motor
+23:5:50 | TheWolf(10) oyuna girdi [IP: 78.191.31.247]
+23:5:50 | [CMD] TIRCI(16) => /dans 7
+23:5:51 | BOZKURT545(24): t ye basýnca chatýn solundaki barý yukarý kaydýr
+23:5:51 | luplup67(9): nasýl
+23:5:53 | EmirAyhan(7): bu server ets den daha güzel
+23:5:56 | oooda(6): beyler
+23:5:58 | [CMD] TIRCI(16) => /dans 2
+23:5:58 | [LOCAL]ahmet55(17): awsd ýle oyna
+23:5:58 | [CMD] ahmet55(17) => /l awsd ýle oyna
+23:6:0 | EmirAyhan(7): hll olsun admine
+23:6:4 | [LOCAL]TIRCI(16): :D
+23:6:4 | [CMD] TIRCI(16) => /l :D
+23:6:11 | [CMD] BOZKURT545(24) => /admins
+23:6:14 | luplup67(9): o kendi yazdýklarýmýz
+23:6:15 | [CMD] DracXoomer(8) => /pm 16 Bu nasýl konuþuyor la :D
+23:6:22 | TheWolf(10) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+23:6:23 | [LOCAL]ahmet55(17): bb
+23:6:23 | [CMD] ahmet55(17) => /l bb
+23:6:24 | [CMD] DracXoomer(8) => /pm 16 adamýn 0 skoru var
+23:6:25 | BOZKURT545(24): herkesinki çýkar 
+23:6:28 | ahmet55(17) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:6:31 | DracXoomer(8): ooda buyur 
+23:6:36 | oooda(6): nbr
+23:6:41 | DracXoomer(8): iyi
+23:6:47 | [CMD] wzkral6785665(15) => /sikayet luplup67 ailevi kufur
+23:6:52 | BOZKURT545(24): t ye bas solda çýkýyor kýrmýzlý birþey onu yukarý oku basarak kaydýr
+23:6:52 | [CMD] sezzer(19) => /bin
+23:6:54 | TIRCI(16): @6 /kurallar yaz lo cabuk bak 
+23:6:56 | oooda(6): bu oyun halla oynanýyormuþ
+23:6:56 | [ANTIHACK] Þüpheli DracXoomer(8) => Jetpack-Hilesi
+23:6:57 | luplup67(9): kendi yazdýklarýn gelio 
+23:7:3 | oooda(6): ilginçw
+23:7:7 | [CMD] DracXoomer(8) => /rentcar
+23:7:9 | TIRCI(16): @6 cabuk olcem 6 /kurallar 
+23:7:18 | luplup67(9): eyw
+23:7:19 | [CMD] wzkral6785665(15) => /ban luplup67 ailevi kufur
+23:7:23 | [CMD] baraodichnl(20) => /ta/tamir
+23:7:25 | [CMD] TIRCI(16) => /animkapat
+23:7:27 | [CMD] baraodichnl(20) => /tamir
+23:7:27 | [CMD] DracXoomer(8) => /kemer
+23:7:29 | oooda(6): lan ben çok açým
+23:7:31 | EmirAyhan(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:7:32 | wzkral6785665(15): komutlar
+23:7:34 | DracXoomer(8): týrcý
+23:7:37 | TIRCI(16): efm 
+23:7:38 | oooda(6): evet
+23:7:42 | [CMD] wzkral6785665(15) => /komutlar
+23:7:46 | [CMD] DracXoomer(8) => /pm 16 Araç kiraladýkmý kaç gün
+23:7:50 | oooda(6): admin beni yanýna çek
+23:7:50 | [CMD] DracXoomer(8) => /pm 16 Kiralþanýyor
+23:7:53 | sezzer(19): drac
+23:7:56 | DracXoomer(8): efm
+23:8:0 | sezzer(19): sen vipsin 
+23:8:2 | DracXoomer(8): evet
+23:8:3 | sezzer(19): para vardýr sende
+23:8:4 | [CMD] TIRCI(16) => /pm 8 arac kýralamak gun hesabý degýldýr oyundan cýkana kadar 
+23:8:11 | [CMD] DracXoomer(8) => /pm 16 He Eyw
+23:8:18 | [CMD] sezzer(19) => /work
+23:8:18 | DracXoomer(8): var evet :D
+23:8:19 | baraodichnl(20): ýp me nerden bakýlýyo
+23:8:21 | DracXoomer(8): 200m hemde
+23:8:25 | BOZKURT545(24): kumarhane satabilirim bulamayan ve isteyen varsa 2 tane var bende 
+23:8:25 | sezzer(19): at biþeyler de yolumuzu bulalým :D
+23:8:26 | TIRCI(16): ohh
+23:8:29 | DracXoomer(8): cmds ipconfig yaz :D
+23:8:35 | DracXoomer(8): baþlatan ama :d
+23:8:38 | baraodichnl(20): .d
+23:8:53 | [CMD] sezzer(19) => /cevir
+23:8:55 | DracXoomer(8): sezzer ne yolu bulacan cennet yolunumu cehenemi
+23:9:1 | DracXoomer(8): :d
+23:9:8 | oooda(6): masdsa
+23:9:10 | [CMD] baraodichnl(20) => /rehberler
+23:9:12 | sezzer(19): hadi kanka þeyapma :D
+23:9:16 | sezzer(19): at bi 2 m
+23:9:23 | oooda(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:9:32 | (BANKA) DracXoomer(8) 2130 nolu banka hesabindan 2000000$ cekti.
+23:9:35 | baraodichnl(20) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:9:36 | TIRCI(16): 50m var :D atayýmý 
+23:9:42 | luplup67(9): baradoni benim arkadaþim gerçek hesabima girmiþ küfür etmiþ banlattmiþ onu dio 
+23:9:43 | DracXoomer(8) sezzer(19)'a 2000000$ para gönderdi
+23:9:43 | [CMD] DracXoomer(8) => /paragonder 19 2000000
+23:9:45 | [CMD] BOZKURT545(24) => /pm 19 bar kumarhaneye göre daha karlý deðilmi 
+23:9:45 | [CMD] TIRCI(16) => /pm 8 aslýnmda 5m var bak herkes atlýcak 
+23:9:47 | sezzer(19): adaaam
+23:9:47 | [CMD] DracXoomer(8) => /pm 19 çaktýrma
+23:9:53 | luplup67(9): tirci abi at biraz 
+23:9:54 | DracXoomer(8): yada çaktýr AW:Ead
+23:9:57 | sezzer(19): asdhahgsd
+23:9:58 | luplup67(9): :D
+23:10:1 | [CMD] TIRCI(16) => /pm 8 ýzle :D
+23:10:5 | [CMD] sezzer(19) => /pm 8 eyw kanka
+23:10:10 | [CMD] wzkral6785665(15) => /baliksat
+23:10:10 | [CMD] DracXoomer(8) => /pm 16 Ýzliyom
+23:10:14 | [CMD] DracXoomer(8) => /pm 19 Ö.d
+23:10:14 | TIRCI(16): 3m kýme atsam acaba 
+23:10:15 | ahmet58(6) oyuna girdi [IP: 176.41.193.126]
+23:10:18 | sezzer(19): bana
+23:10:24 | luplup67(9): abi bana hediyen oldun
+23:10:25 | [CMD] DracXoomer(8) => /pm 16 :D
+23:10:28 | {FFCC00}ahmet58(6) Otobus Soforu olarak spawn oldu.
+23:10:36 | luplup67(9): bana hediyen olsun abi D: 
+23:10:50 | [CMD] TIRCI(16) => /pm 8 snede bole costur baa atmýs gýbý yaz bende o attý dýcem tm mý 
+23:11:9 | [CMD] DracXoomer(8) => /pm 16 Nasýl yani :d
+23:11:11 | [CMD] TIRCI(16) => /pm 8 ama abna býsey atma kýme atsam de týrcý de bende o falan 
+23:11:17 | [CMD] wzkral6785665(15) => /rapor luplup67 sirket kapýsýný kaplýyor
+23:11:24 | [CMD] DracXoomer(8) => /pm 16 Ok
+23:11:26 | [CMD] TIRCI(16) => /pm 8 sonra attý dýcem cosununlar 
+23:11:32 | DracXoomer(8): kime para atam
+23:11:36 | TIRCI(16): abna
+23:11:40 | TIRCI(16): bana api
+23:11:41 | DracXoomer(8): ne kadar istiyon
+23:11:42 | luplup67(9): bana
+23:11:47 | TIRCI(16): 3m abi
+23:11:51 | DracXoomer(8): hemen
+23:12:0 | [CMD] ahmet58(6) => /pm
+23:12:0 | TIRCI(16): saol eyw 
+23:12:5 | luplup67(9): banada atarmýsýn
+23:12:6 | DracXoomer(8): ö.d her zaman
+23:12:7 | [CMD] ahmet58(6) => /ýd 
+23:12:12 | [CMD] TIRCI(16) => /pm 8 :D
+23:12:17 | [CMD] DracXoomer(8) => /pm 16 :D
+23:12:26 | luplup67(9): drac ömer
+23:12:31 | ahmet58(6): pm nerden bakýlý
+23:12:33 | DracXoomer(8): evet
+23:12:38 | DracXoomer(8):  /pm id mesaj
+23:12:39 | luplup67(9): banada atarmýsýn lütfen araba alýcam 
+23:12:46 | DracXoomer(8): ne kadar
+23:12:51 | TIRCI(16): 5dk sonra gene atrsýmýn isyeri gelistircem 
+23:12:53 | luplup67(9): 5 varmý 
+23:12:58 | DracXoomer(8): o kadar yok
+23:13:3 | [CMD] sezzer(19) => /tamir
+23:13:3 | luplup67(9): 3 olsun
+23:13:3 | DracXoomer(8): 500k kaldý
+23:13:9 | luplup67(9): az olsun
+23:13:14 | [LOCAL]sezzer(19): iyi takla attýk he
+23:13:14 | [CMD] sezzer(19) => /l iyi takla attýk he
+23:13:14 | luplup67(9): yettiði kadar
+23:13:18 | luplup67(9): olur
+23:13:18 | TIRCI(16): azmis bana yeter at abna 
+23:13:25 | [LOCAL]BOZKURT545(24): aynen öyle
+23:13:25 | [CMD] BOZKURT545(24) => /l aynen öyle
+23:13:27 | wzkral6785665(15) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:13:35 | TIRCI(16): saol 500k k dýr 
+23:13:41 | luplup67(9): bana atýcaktýn
+23:13:44 | luplup67(9): ona 3 m attýn 
+23:13:47 | luplup67(9): :(
+23:13:47 | [CMD] TIRCI(16) => /pm 8 costuralým :D
+23:13:47 | sametkaan(7) oyuna girdi [IP: 176.216.234.149]
+23:13:53 | [LOCAL]BOZKURT545(24): oyunda neden herþey yarý fiyarýna satýlýyor ki alýndakýtan sonra
+23:13:53 | [CMD] BOZKURT545(24) => /l oyunda neden herþey yarý fiyarýna satýlýyor ki alýndakýtan sonra
+23:13:59 | [CMD] ahmet58(6) => /pm 9
+23:14:4 | [CMD] sezzer(19) => /work
+23:14:5 | TIRCI(16): .
+23:14:7 | [CMD] ahmet58(6) => /pm 9 naber lan hot
+23:14:14 | [CMD] ahmet58(6) => /kurallar
+23:14:18 | [LOCAL]sezzer(19): arabalar öyle deðil
+23:14:18 | [CMD] sezzer(19) => /l arabalar öyle deðil
+23:14:20 | TIRCI(16): u zengýn oldum 53m oldum 
+23:14:23 | 
+23:14:26 | [CMD] ahmet58(6) => /pm 9 naber lan
+23:14:32 | [LOCAL]sezzer(19): arabalar yüzde 80 ine falan tasýtýlýyo
+23:14:32 | [CMD] sezzer(19) => /l arabalar yüzde 80 ine falan tasýtýlýyo
+23:14:33 | sametkaan(7) Yol Iscisi olarak spawn oldu.
+23:14:34 | [CMD] ahmet58(6) => /pm 9 piç
+23:14:35 | [LOCAL]BOZKURT545(24): onlarda öyle 1-2 m eksiðe satýlýyor
+23:14:35 | [CMD] BOZKURT545(24) => /l onlarda öyle 1-2 m eksiðe satýlýyor
+23:14:45 | luplup67(9): ne dion ahmet
+23:14:46 | [CMD] TIRCI(16) => /gobus
+23:14:50 | [CMD] ahmet58(6) => /pm 9 götünü baþýný sikem
+23:14:55 | [LOCAL]BOZKURT545(24): iþyerlerinde çok zarar ettim 10 milyon tam
+23:14:55 | [CMD] BOZKURT545(24) => /l iþyerlerinde çok zarar ettim 10 milyon tam
+23:14:58 | [LOCAL]sezzer(19): iptal etmeyi unuttum mk
+23:14:58 | [CMD] sezzer(19) => /l iptal etmeyi unuttum mk
+23:14:58 | luplup67(9) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:15:7 | [LOCAL]sezzer(19): ksr bakma
+23:15:7 | [CMD] sezzer(19) => /l ksr bakma
+23:15:7 | [CMD] ahmet58(6) => /pm 9 am dölü
+23:15:13 | ahmet58(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:15:17 | [LOCAL]BOZKURT545(24): sýkýntý yok
+23:15:17 | [CMD] BOZKURT545(24) => /l sýkýntý yok
+23:15:22 | KOMIK(6) oyuna girdi [IP: 78.190.110.212]
+23:15:47 | KOMIK(6) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+23:15:51 | [LOCAL]BOZKURT545(24): 10 zarara geçtm þimdide 9,5 kumarhaneyi 4,75 satýp baþka  yer alcm
+23:15:51 | [CMD] BOZKURT545(24) => /l 10 zarara geçtm þimdide 9,5 kumarhaneyi 4,75 satýp baþka  yer alcm
+23:15:51 | [CMD] sametkaan(7) => /work
+23:15:57 | [LOCAL]BOZKURT545(24): çok zarardym yav
+23:15:57 | [CMD] BOZKURT545(24) => /l çok zarardym yav
+23:15:58 | [CMD] TIRCI(16) => /boombox
+23:16:4 | [LOCAL]sezzer(19): neden la baþka yerden alcan
+23:16:4 | [CMD] sezzer(19) => /l neden la baþka yerden alcan
+23:16:15 | [CMD] TIRCI(16) => /boombox yerekoy
+23:16:28 | [CMD] sametkaan(7) => /work
+23:16:48 | [CMD] sezzer(19) => /tamir
+23:16:52 | [CMD] sezzer(19) => /work
+23:16:58 | [LOCAL]BOZKURT545(24): baþka yeden almýycm kumarhane satýp 5levl bar alcm
+23:16:58 | [CMD] BOZKURT545(24) => /l baþka yeden almýycm kumarhane satýp 5levl bar alcm
+23:17:1 | [LOCAL]sezzer(19): geldi mi görev
+23:17:1 | [CMD] sezzer(19) => /l geldi mi görev
+23:17:6 | [LOCAL]BOZKURT545(24): geldi
+23:17:6 | [CMD] BOZKURT545(24) => /l geldi
+23:17:15 | [LOCAL]sezzer(19): saçmalama olm bar alma
+23:17:15 | [CMD] sezzer(19) => /l saçmalama olm bar alma
+23:17:21 | [LOCAL]sezzer(19): kumarhane daha iyi
+23:17:21 | [CMD] sezzer(19) => /l kumarhane daha iyi
+23:17:30 | [LOCAL]BOZKURT545(24): satcm kumarhaneyi arkadaþ 16mlik 5 levl barý 12 ye satck
+23:17:30 | [CMD] BOZKURT545(24) => /l satcm kumarhaneyi arkadaþ 16mlik 5 levl barý 12 ye satck
+23:17:34 | TIRCI(16): evet kumarhane daha karlý 
+23:17:37 | [CMD] sametkaan(7) => /work
+23:17:46 | [LOCAL]sezzer(19): kim satýyosa kazýklamaya çalýþýyo seni söyleyim
+23:17:46 | [CMD] sezzer(19) => /l kim satýyosa kazýklamaya çalýþýyo seni söyleyim
+23:17:56 | [LOCAL]sezzer(19): kumarhane satýlýp bar alýnmaz
+23:17:56 | [CMD] sezzer(19) => /l kumarhane satýlýp bar alýnmaz
+23:17:59 | [LOCAL]BOZKURT545(24): neden
+23:17:59 | [CMD] BOZKURT545(24) => /l neden
+23:18:8 | [LOCAL]sezzer(19): kumarhane daha deðerli çünkü
+23:18:8 | [CMD] sezzer(19) => /l kumarhane daha deðerli çünkü
+23:18:9 | TIRCI(16): sv asýýr sakýn beya 
+23:18:16 | [LOCAL]sezzer(19): 5 level kumarhane günde 1 m getiriyo
+23:18:16 | [CMD] sezzer(19) => /l 5 level kumarhane günde 1 m getiriyo
+23:18:27 | [LOCAL]BOZKURT545(24): o bilmiyoki kumarhane satcðmý 
+23:18:27 | [CMD] BOZKURT545(24) => /l o bilmiyoki kumarhane satcðmý 
+23:18:49 | [LOCAL]sezzer(19): satma bence yani
+23:18:49 | [CMD] sezzer(19) => /l satma bence yani
+23:18:50 | [LOCAL]BOZKURT545(24): sadece barý 5 lcl 16m küsür ediyor bana 13e býrakýrým dedi
+23:18:50 | [CMD] BOZKURT545(24) => /l sadece barý 5 lcl 16m küsür ediyor bana 13e býrakýrým dedi
+23:19:9 | [LOCAL]BOZKURT545(24): 2 tane var 1 de motel 3 level
+23:19:9 | [CMD] BOZKURT545(24) => /l 2 tane var 1 de motel 3 level
+23:19:28 | [LOCAL]sezzer(19): sen bilirsin kanka
+23:19:28 | [CMD] sezzer(19) => /l sen bilirsin kanka
+23:19:34 | [LOCAL]BOZKURT545(24): 2 tane burgerci sattým 7m zararla toplam gittim kumarhane aldým
+23:19:34 | [CMD] BOZKURT545(24) => /l 2 tane burgerci sattým 7m zararla toplam gittim kumarhane aldým
+23:19:43 | BOZKURT545(24): 7l iyimi yaprm sence
+23:19:50 | [LOCAL]sezzer(19): bence kumarhane satma
+23:19:50 | [CMD] sezzer(19) => /l bence kumarhane satma
+23:19:58 | [CMD] DracXoomer(8) => /sa
+23:20:8 | [CMD] TIRCI(16) => /AS
+23:20:9 | DracXoomer(8): teyzem pc yi ele geçirdi :D
+23:20:13 | [LOCAL]BOZKURT545(24): iyimi yaptm sence 2 tane 3er levellik burger satarak 
+23:20:13 | [CMD] BOZKURT545(24) => /l iyimi yaptm sence 2 tane 3er levellik burger satarak 
+23:20:15 | TIRCI(16): :D
+23:20:26 | [CMD] TIRCI(16) => /meslek
+23:20:28 | [LOCAL]BOZKURT545(24): gittim sonra kumarhane aldm 2 tane
+23:20:28 | [CMD] BOZKURT545(24) => /l gittim sonra kumarhane aldm 2 tane
+23:20:28 | [LOCAL]sezzer(19): onlar çok biþey deðil de
+23:20:28 | [CMD] sezzer(19) => /l onlar çok biþey deðil de
+23:20:36 | [LOCAL]sezzer(19): tamam dursun kumarhanelerin
+23:20:36 | [CMD] sezzer(19) => /l tamam dursun kumarhanelerin
+23:20:39 | DracXoomer(8): kumarhane nerde
+23:20:43 | [LOCAL]sezzer(19): bar nedir olm
+23:20:43 | [CMD] sezzer(19) => /l bar nedir olm
+23:21:3 | DracXoomer(8): týrcý abimiz
+23:21:16 | [CMD] DracXoomer(8) => /araba
+23:21:17 | {FFCC00}TIRCI(16) {FFFFFF}Pilot olarak spawn oldu.
+23:21:22 | [CMD] DracXoomer(8) => /meslek
+23:21:24 | {FFCC00}DracXoomer(8) {FFFFFF}Pilot olarak spawn oldu.
+23:21:28 | [CMD] DracXoomer(8) => /rescue
+23:21:32 | [CMD] DracXoomer(8) => /rescue
+23:21:34 | [LOCAL]BOZKURT545(24): zararým büyük ama burgerleri satmakla 7 m zarardym yav 
+23:21:34 | [CMD] BOZKURT545(24) => /l zararým büyük ama burgerleri satmakla 7 m zarardym yav 
+23:21:36 | [CMD] DracXoomer(8) => /rescue
+23:21:43 | [CMD] DracXoomer(8) => /myskin 230
+23:21:51 | [CMD] DracXoomer(8) => /kemer
+23:21:54 | [CMD] DracXoomer(8) => /work
+23:21:54 | [LOCAL]sezzer(19): asýl zararý kumarhaneleri satarsan yapýcan
+23:21:54 | [CMD] sezzer(19) => /l asýl zararý kumarhaneleri satarsan yapýcan
+23:22:2 | [CMD] TIRCI(16) => /kemer0
+23:22:10 | [CMD] TIRCI(16) => /kemer
+23:22:12 | sezzer(19): bin
+23:22:20 | sametkaan(7) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:22:21 | [LOCAL]BOZKURT545(24): bar 11bin para veriyo saatte reis kumarhane 1 level bnm o 180bin veriyor
+23:22:21 | [CMD] BOZKURT545(24) => /l bar 11bin para veriyo saatte reis kumarhane 1 level bnm o 180bin veriyor
+23:22:37 | [LOCAL]sezzer(19): olm kumarhaneyi 2 level yapsan
+23:22:37 | [CMD] sezzer(19) => /l olm kumarhaneyi 2 level yapsan
+23:22:40 | [CMD] TIRCI(16) => /work
+23:22:41 | [LOCAL]sezzer(19): 12 k veriyo
+23:22:41 | [CMD] sezzer(19) => /l 12 k veriyo
+23:22:44 | sametkaan(6) oyuna girdi [IP: 176.216.234.149]
+23:22:47 | [LOCAL]sezzer(19): bar 5 levelde 11 k veriyo
+23:22:47 | [CMD] sezzer(19) => /l bar 5 levelde 11 k veriyo
+23:22:53 | [LOCAL]sezzer(19): aradaki farka bak
+23:22:53 | [CMD] sezzer(19) => /l aradaki farka bak
+23:22:55 | 
+23:22:56 | [LOCAL]BOZKURT545(24): kumarhaneyi 2 tane alcaðýma keþke 2 levele bassaydým
+23:22:56 | [CMD] BOZKURT545(24) => /l kumarhaneyi 2 tane alcaðýma keþke 2 levele bassaydým
+23:23:3 | [LOCAL]sezzer(19): satma bence
+23:23:3 | [CMD] sezzer(19) => /l satma bence
+23:23:10 | [LOCAL]sezzer(19): senin iyiliðin için diyorum
+23:23:10 | [CMD] sezzer(19) => /l senin iyiliðin için diyorum
+23:23:12 | sametkaan(6) Yol Iscisi olarak spawn oldu.
+23:23:35 | [CMD] sametkaan(6) => /work
+23:24:2 | [LOCAL]BOZKURT545(24): gittim 2 tane sattým burger 3 lvllik 2 tene aldým kumarhene 7 m zarar ettim keþke 1 tane satyadým 1 kumarhane alýp 
+23:24:2 | [CMD] BOZKURT545(24) => /l gittim 2 tane sattým burger 3 lvllik 2 tene aldým kumarhene 7 m zarar ettim keþke 1 tane satyadým 1 kumarhane alýp 
+23:24:10 | [CMD] DracXoomer(8) => /vtamir
+23:24:13 | [CMD] DracXoomer(8) => /vtamir
+23:24:14 | [LOCAL]sezzer(19): bak bende 2 tane 5 level 1 tane 1 level kumarhane var
+23:24:14 | [CMD] sezzer(19) => /l bak bende 2 tane 5 level 1 tane 1 level kumarhane var
+23:24:22 | [LOCAL]sezzer(19): günde 2 m den fazla geitriyo
+23:24:22 | [CMD] sezzer(19) => /l günde 2 m den fazla geitriyo
+23:24:34 | [LOCAL]BOZKURT545(24): 2ye bassaydým hem burgerden hem de 2lvl kumarhanden kazancktm zarrýmda 3,5m olcaktý
+23:24:34 | [CMD] BOZKURT545(24) => /l 2ye bassaydým hem burgerden hem de 2lvl kumarhanden kazancktm zarrýmda 3,5m olcaktý
+23:24:49 | [CMD] sezzer(19) => /tamir
+23:24:57 | [CMD] sezzer(19) => /work
+23:24:58 | [LOCAL]BOZKURT545(24): kumarhane çok paraya basýlýyor ama
+23:24:58 | [CMD] BOZKURT545(24) => /l kumarhane çok paraya basýlýyor ama
+23:25:1 | [CMD] sezzer(19) => /goreviptal
+23:25:5 | [CMD] sezzer(19) => /work
+23:25:9 | [LOCAL]sezzer(19): kazancý da iyi ama
+23:25:9 | [CMD] sezzer(19) => /l kazancý da iyi ama
+23:25:10 | [LOCAL]BOZKURT545(24): kendini çýkarmasý çok sürmüyormu
+23:25:10 | [CMD] BOZKURT545(24) => /l kendini çýkarmasý çok sürmüyormu
+23:25:14 | [CMD] sezzer(19) => /goreviptal
+23:25:18 | [CMD] sezzer(19) => /work
+23:25:23 | TIRCI(16): neden bukadar sakýnýz :D
+23:25:26 | DracXoomer(8): :D
+23:25:26 | [LOCAL]sezzer(19): yok la 
+23:25:26 | [CMD] sezzer(19) => /l yok la 
+23:25:34 | DracXoomer(8): love you týrcý
+23:25:46 | (BANKA) BOZKURT545(24) 1785 nolu banka hesabina 1000000$ yatirdi.
+23:26:5 | [LOCAL]BOZKURT545(24): ben hesapldm 60 günde çýkýyor fiyarý
+23:26:5 | [CMD] BOZKURT545(24) => /l ben hesapldm 60 günde çýkýyor fiyarý
+23:26:7 | [LOCAL]sezzer(19): bak bi muhasebeci olarak söylüyorum
+23:26:7 | [CMD] sezzer(19) => /l bak bi muhasebeci olarak söylüyorum
+23:26:9 | [CMD] DracXoomer(8) => /work
+23:26:12 | [LOCAL]sezzer(19): uzun vadeli düþün
+23:26:12 | [CMD] sezzer(19) => /l uzun vadeli düþün
+23:26:14 | [LOCAL]sezzer(19): satma
+23:26:14 | [CMD] sezzer(19) => /l satma
+23:26:21 | TIRCI(16): o ping im 112 arayýn 
+23:26:26 | [CMD] DracXoomer(8) => /112
+23:26:28 | DracXoomer(8): :D
+23:26:32 | DracXoomer(8): takan yk
+23:26:41 | DracXoomer(8): gençler 100m verecem beleþ alacak
+23:26:50 | BOZKURT545(24): ben alam
+23:26:51 | DracXoomer(8): gene cvp yok aSE:dad
+23:26:53 | DracXoomer(8): aha
+23:26:55 | DracXoomer(8): :D
+23:26:55 | [CMD] TIRCI(16) => /pm 8 :D busefer yemezler 
+23:27:5 | DracXoomer(8): biþiler yazýn diye dedim A:Ead
+23:27:15 | TIRCI(16): býseyler 
+23:27:19 | DracXoomer(8): :D
+23:27:32 | [LOCAL]BOZKURT545(24): ozmn satmýyorum 2 tane kumarhaneyide kalsýn kenarda para buldukça bsam onlarý
+23:27:32 | [CMD] BOZKURT545(24) => /l ozmn satmýyorum 2 tane kumarhaneyide kalsýn kenarda para buldukça bsam onlarý
+23:27:43 | [LOCAL]sezzer(19): aynen abi satýlýr mý kumarhane
+23:27:43 | [CMD] sezzer(19) => /l aynen abi satýlýr mý kumarhane
+23:27:54 | [LOCAL]BOZKURT545(24): bu arada cami konumada destek verirsen sevinirim :D
+23:27:54 | [CMD] BOZKURT545(24) => /l bu arada cami konumada destek verirsen sevinirim :D
+23:27:55 | TIRCI(16): yazýn býle terlemeyen adama ne denýr ?
+23:28:3 | [LOCAL]sezzer(19): çýkarken hatýrlat kanka
+23:28:3 | [CMD] sezzer(19) => /l çýkarken hatýrlat kanka
+23:28:10 | [LOCAL]sezzer(19): + larým
+23:28:10 | [CMD] sezzer(19) => /l + larým
+23:28:10 | DracXoomer(8): terlik mi
+23:28:24 | DracXoomer(8): he
+23:28:26 | [LOCAL]BOZKURT545(24): tmmdýr reis cami gelsin þu servera 
+23:28:26 | [CMD] BOZKURT545(24) => /l tmmdýr reis cami gelsin þu servera 
+23:28:35 | TIRCI(16): noter scorp tan carpma :D
+23:28:40 | DracXoomer(8): :Adad
+23:28:42 | [LOCAL]BOZKURT545(24): hemen geliym bi lavaboya gidip
+23:28:42 | [CMD] BOZKURT545(24) => /l hemen geliym bi lavaboya gidip
+23:28:45 | DracXoomer(8): anam
+23:28:48 | [LOCAL]sezzer(19): tmm
+23:28:48 | [CMD] sezzer(19) => /l tmm
+23:28:53 | DracXoomer(8): görevdeyken
+23:28:58 | DracXoomer(8): uçaktan atladýk :d
+23:29:5 | DracXoomer(8): vardýydým la
+23:29:14 | [CMD] DracXoomer(8) => /stats 6
+23:29:17 | [CMD] DracXoomer(8) => /stats 6
+23:29:19 | TIRCI(16): :D soguk espirýye dayanamadý 
+23:29:28 | [CMD] sezzer(19) => /work
+23:29:28 | DracXoomer(8): D
+23:29:36 | [CMD] DracXoomer(8) => /meslek
+23:29:40 | {FFCC00}DracXoomer(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:29:53 | [CMD] DracXoomer(8) => /sirketdorse
+23:29:54 | sametkaan(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:30:3 | [CMD] DracXoomer(8) => /kemer
+23:30:15 | DracXoomer(8): týrcý ehliyeti almayý düþünüyom alamý
+23:30:17 | DracXoomer(8): sizce
+23:30:18 | sametkaan(6) oyuna girdi [IP: 176.216.234.149]
+23:30:21 | TIRCI(16): al 
+23:30:23 | sezzer(19): al
+23:30:29 | 
+23:30:31 | DracXoomer(8):  o zaman alalým
+23:30:34 | [CMD] DracXoomer(8) => /vipbilgi
+23:30:42 | sezzer(19): týr ve uçak þart
+23:30:47 | [CMD] DracXoomer(8) => /ehliyetyeri
+23:30:49 | TIRCI(16): bence sen vip ken gemýcý ol balýkcý yaný yada oduncu 
+23:30:50 | {FFCC00}sametkaan(6) Otobus Soforu olarak spawn oldu.
+23:30:52 | sezzer(19): gerisi keyif iþi
+23:31:5 | [CMD] DracXoomer(8) => /meslek
+23:31:8 | {FFCC00}DracXoomer(8) {FFFFFF}Pilot olarak spawn oldu.
+23:31:13 | [CMD] DracXoomer(8) => /ehliyetyeri
+23:31:19 | [CMD] sametkaan(6) => /Kemer
+23:31:24 | TIRCI(16): hom almýs týr ehlýyetý 
+23:31:26 | TIRCI(16): ho
+23:31:33 | DracXoomer(8): Eyw
+23:31:36 | DracXoomer(8): 2 tane aldým :d
+23:31:43 | DracXoomer(8): pilot ve týrcý
+23:31:45 | [CMD] DracXoomer(8) => /meslek
+23:31:49 | [CMD] sametkaan(6) => /work
+23:31:55 | sezzer(19): pilot ehliyeti level kasarken iþine yarýcak
+23:31:59 | {FFCC00}DracXoomer(8) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:32:3 | DracXoomer(8): halederik .D
+23:32:4 | [LOCAL]BOZKURT545(24): geldm baþkan :D
+23:32:4 | [CMD] BOZKURT545(24) => /l geldm baþkan :D
+23:32:10 | [LOCAL]sezzer(19): hg
+23:32:10 | [CMD] sezzer(19) => /l hg
+23:32:13 | [CMD] DracXoomer(8) => /myskin 230
+23:32:16 | [CMD] DracXoomer(8) => /kemer
+23:32:24 | [LOCAL]BOZKURT545(24): hb :D
+23:32:24 | [CMD] BOZKURT545(24) => /L hb :D
+23:32:35 | {FFCC00}TIRCI(16) {FFFFFF}Pilot olarak spawn oldu.
+23:32:40 | [CMD] DracXoomer(8) => /work
+23:32:41 | [LOCAL]sezzer(19): ss aldým þu evi foruma atcam
+23:32:41 | [CMD] sezzer(19) => /l ss aldým þu evi foruma atcam
+23:32:46 | [LOCAL]BOZKURT545(24): þu evide sýrf kargoculara zorlk olsn diye yapmþlar
+23:32:46 | [CMD] BOZKURT545(24) => /l þu evide sýrf kargoculara zorlk olsn diye yapmþlar
+23:32:54 | TIRCI(16): lan 
+23:33:2 | TIRCI(16): tam býýtcem gumledým 
+23:33:4 | [LOCAL]BOZKURT545(24): aynen at bu ne böyle :D sunucu sahibi almþ bida
+23:33:4 | [CMD] BOZKURT545(24) => /l aynen at bu ne böyle :D sunucu sahibi almþ bida
+23:33:12 | DracXoomer(8): :D
+23:33:14 | [LOCAL]BOZKURT545(24): madem alcn kitle
+23:33:14 | [CMD] BOZKURT545(24) => /l madem alcn kitle
+23:33:20 | [LOCAL]sezzer(19): aynen
+23:33:20 | [CMD] sezzer(19) => /l aynen
+23:33:23 | DracXoomer(8): gülme arkadaþýna gelir görevine aR:ada
+23:33:28 | TIRCI(16): :D
+23:33:39 | [LOCAL]BOZKURT545(24): ben merak ettiðim bir eve nasýl gircm satýlýk olanlara
+23:33:39 | [CMD] BOZKURT545(24) => /l ben merak ettiðim bir eve nasýl gircm satýlýk olanlara
+23:33:50 | [LOCAL]BOZKURT545(24): merk ediyrm da bazýlarýný
+23:33:50 | [CMD] BOZKURT545(24) => /l merk ediyrm da bazýlarýný
+23:33:53 | DracXoomer(8): bütün ehliyetleri alamý
+23:33:53 | [LOCAL]sezzer(19): satýlýksa giremiyon kanka
+23:33:53 | [CMD] sezzer(19) => /l satýlýksa giremiyon kanka
+23:34:0 | TIRCI(16): alma 
+23:34:1 | DracXoomer(8): alabildiklerimi yani
+23:34:1 | [LOCAL]sezzer(19): aynýsýsnýn açýk olanýndan bulcan
+23:34:1 | [CMD] sezzer(19) => /l aynýsýsnýn açýk olanýndan bulcan
+23:34:3 | TIRCI(16): gerek yok 
+23:34:6 | [LOCAL]sezzer(19): satýlýk olmayan
+23:34:6 | [CMD] sezzer(19) => /l satýlýk olmayan
+23:34:10 | DracXoomer(8): ok
+23:34:13 | [CMD] sezzer(19) => /tamir
+23:34:23 | DracXoomer(8): ehliyet aldýkmý kendi rotamýzý çiziyok demi
+23:34:26 | TIRCI(16): kac gun vip sýn 
+23:34:29 | sezzer(19): evet
+23:34:31 | DracXoomer(8): kasarýz
+23:34:34 | DracXoomer(8): zaten
+23:34:43 | [LOCAL]BOZKURT545(24): heee anldm bide iþyerlerimi iyi yerlerde olmasýný istiyim ama zarar edyom diye satmýyom etmesem iyi yerden alcm :D
+23:34:43 | [CMD] BOZKURT545(24) => /l heee anldm bide iþyerlerimi iyi yerlerde olmasýný istiyim ama zarar edyom diye satmýyom etmesem iyi yerden alcm :D
+23:34:44 | TIRCI(16): para ve skor falan mý aldýn 
+23:34:48 | DracXoomer(8): evet
+23:34:52 | DracXoomer(8): donator
+23:34:52 | [LOCAL]BOZKURT545(24): heee anldm bide iþyerlerimi iyi yerlerde olmasýný istiyim ama zarar edyom diye satmýyom etmesem iyi yerden alcm :D
+23:34:52 | [CMD] BOZKURT545(24) => /l heee anldm bide iþyerlerimi iyi yerlerde olmasýný istiyim ama zarar edyom diye satmýyom etmesem iyi yerden alcm :D
+23:35:3 | TIRCI(16): kac para harcadýn 
+23:35:6 | sezzer(19): adam kýçýný dolarla siliyo resmen
+23:35:7 | BOZKURT545(24): yazýlar gelmiyor 
+23:35:15 | huso608(7) oyuna girdi [IP: 178.245.234.216]
+23:35:18 | [CMD] sezzer(19) => /work
+23:35:21 | TIRCI(16): @24 relog 
+23:35:23 | DracXoomer(8): sezzer doðru :d
+23:35:24 | 
+23:35:25 | sezzer(19): :D
+23:35:28 | [LOCAL]BOZKURT545(24): heee anldm bide iþyerlerimi iyi yerlerde olmasýný istiyim ama zarar edyom diye satmýyom etmesem iyi yerden alcm :D
+23:35:28 | [CMD] BOZKURT545(24) => /l heee anldm bide iþyerlerimi iyi yerlerde olmasýný istiyim ama zarar edyom diye satmýyom etmesem iyi yerden alcm :D
+23:35:28 | {FFCC00}huso608(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:35:30 | TIRCI(16): o huso abým 
+23:35:30 | [CMD] huso608(7) => /sa
+23:35:33 | [CMD] TIRCI(16) => /asd
+23:35:33 | [CMD] DracXoomer(8) => /as
+23:35:35 | [CMD] TIRCI(16) => /as
+23:35:35 | [CMD] huso608(7) => /admgiris
+23:35:36 | TIRCI(16): hg
+23:35:43 | DracXoomer(8): dolarla hacetimi yapýyom :d
+23:35:55 | sezzer(19): :D
+23:35:58 | [LOCAL]BOZKURT545(24): iþyerlerini satýp sevdðm yerlerden alcm ama zarara geçiyom diye kaldý eski yerlerde
+23:35:58 | [CMD] BOZKURT545(24) => /l iþyerlerini satýp sevdðm yerlerden alcm ama zarara geçiyom diye kaldý eski yerlerde
+23:36:3 | TIRCI(16): dolarla býyerýný sýlýyon dýyo :D
+23:36:4 | BOZKURT545(24): neden admin yok
+23:36:9 | TIRCI(16): var 
+23:36:10 | DracXoomer(8): aynen ya
+23:36:13 | huso608(7): burdayým baskan
+23:36:19 | DracXoomer(8): la bu adminmi
+23:36:23 | BOZKURT545(24): h.g hüso baþksan
+23:36:24 | TIRCI(16): :D 
+23:36:29 | DracXoomer(8): hg baþka
+23:36:30 | DracXoomer(8): hg baþkan
+23:36:34 | huso608(7): hosgordum nasýl gidiyor isleriniz
+23:36:36 | [LOCAL]sezzer(19): benim 3 kumarhane de yan yana
+23:36:36 | [CMD] sezzer(19) => /l benim 3 kumarhane de yan yana
+23:36:40 | DracXoomer(8): iyi
+23:36:46 | TIRCI(16): eyw sneden baskan 
+23:36:53 | DracXoomer(8): skor daðýtabiliyorsan daðýt be baþkan
+23:36:54 | BOZKURT545(24): baktýk kimse yok 30dkkýr admin
+23:37:4 | [LOCAL]BOZKURT545(24): en iyisi iþte 
+23:37:4 | [CMD] BOZKURT545(24) => /l en iyisi iþte 
+23:37:6 | sezzer(19): can res 
+23:37:16 | DracXoomer(8): admin yoktu
+23:37:24 | [CMD] huso608(7) => /cantazele
+23:37:25 | [LOCAL]BOZKURT545(24): bn motelimiin yerini deiþtirmk itiym çok gzl bir yer var 
+23:37:25 | [CMD] BOZKURT545(24) => /l bn motelimiin yerini deiþtirmk itiym çok gzl bir yer var 
+23:37:26 | DracXoomer(8): küfür vs. etiler
+23:37:32 | sezzer(19): aynen
+23:37:33 | huso608(7): baba sizler icin buradayým
+23:37:34 | TIRCI(16): ss alin 
+23:37:43 | DracXoomer(8): dedim yapmayýn etmeyin huso baþkan gelir muteler dedim dinlemediler.
+23:37:47 | sezzer(19): bin lo
+23:37:49 | DracXoomer(8): :D
+23:37:52 | BOZKURT545(24): gözükmüyon reis uzun zamndr yoksa denkmi gelmiyoz :D
+23:37:58 | sezzer(19): bin lo
+23:38:7 | TIRCI(16): gece uyumuyo býze hýzmet edýyo hll be alkis <catcatacat>
+23:38:8 | DracXoomer(8): bu yeni gösterge çok kötü
+23:38:13 | huso608(7): geceleri aktif oluyorum  genellikle
+23:38:15 | [LOCAL]BOZKURT545(24): pardon dalmþm :D
+23:38:15 | [CMD] BOZKURT545(24) => /l pardon dalmþm :D
+23:38:30 | DracXoomer(8): adam baþkan ya 
+23:38:33 | TIRCI(16): alkýs yapýn 
+23:38:39 | TIRCI(16): <catcatacat>
+23:38:42 | DracXoomer(8): sýnýf baþkanlýðýna adaylýðýný koy oy vermezsem ne olam
+23:38:45 | DracXoomer(8): :d
+23:38:46 | BOZKURT545(24): aynen cumartesileri kargoda ban yardým ediyodun geç saatlerde doðru
+23:38:59 | [CMD] sezzer(19) => /tamir
+23:39:5 | sezzer(19): yavaþ olun beyler araç kayýyo
+23:39:10 | DracXoomer(8): sýnýf baþkanlýðýna adaylýðýný koy oy vermezsem ne olam
+23:39:11 | TIRCI(16): ben piraz ucakla yanlýcam :D
+23:39:15 | huso608(7): beyler biraz afk yim personelleri yollayayým geliyorum
+23:39:17 | BOZKURT545(24): baykuþ adminlerden kim kaldý baþka hüso reisten baþka
+23:39:21 | DracXoomer(8): ok bb
+23:39:21 | [CMD] TIRCI(16) => /kemer
+23:39:24 | [KAMYONCU] DracXoomer, LV Butcher'den Las Venturas Mall'e Et tasidi. Kazanc: 67461$, 2 Skor ve 5 EXP Sure: 180 Saniye
+23:39:25 | [CMD] huso608(7) => /afk
+23:39:29 | [CMD] huso608(7) => /karakol
+23:39:36 | [CMD] huso608(7) => /cezaode
+23:39:37 | DracXoomer(8): sýnýf baþkanlýðýna adaylýðýný komaya giti
+23:39:40 | [CMD] huso608(7) => /rescue
+23:39:40 | [CMD] sezzer(19) => /tamir
+23:39:41 | DracXoomer(8): :D
+23:39:46 | [CMD] huso608(7) => /afk
+23:39:49 | [CMD] sezzer(19) => /work
+23:39:50 | sametkaan(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:39:50 | [CMD] huso608(7) => /musait
+23:39:52 | BOZKURT545(24): yaþlar kaç gençler ???
+23:39:58 | [CMD] huso608(7) => /dtemizle
+23:40:1 | [CMD] huso608(7) => /cantazele
+23:40:8 | TIRCI(16): 1.5 
+23:40:14 | sametkaan(6) oyuna girdi [IP: 176.216.234.149]
+23:40:19 | TIRCI(16): 3 aylýk :D
+23:40:21 | BOZKURT545(24): ciddiyim len :D
+23:40:25 | 
+23:40:26 | sezzer(19): bende :D
+23:40:27 | [CMD] DracXoomer(8) => /vtamir
+23:40:32 | {FFCC00}sametkaan(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:40:45 | TIRCI(16): 9 ay onceden uretýldým 3 ay sýmdý kulklanýmdayým :D
+23:40:51 | DracXoomer(8): ben daha 1 ay önce doðdum cinsel ilaç kulanmaktan mutasyon geçirdim
+23:41:3 | ibrahimkk(9) oyuna girdi [IP: 217.25.19.110]
+23:41:8 | sezzer(19): ben daha doðmadým
+23:41:9 | [CMD] sametkaan(6) => /work
+23:41:12 | BOZKURT545(24): la gençler ciddiyim len yaþlar kaç
+23:41:12 | DracXoomer(8): yok
+23:41:14 | 
+23:41:23 | ibrahimkk(9) Pizzaci olarak spawn oldu.
+23:41:23 | [LOCAL]sezzer(19): 20
+23:41:23 | [CMD] sezzer(19) => /l 20
+23:41:27 | [CMD] ibrahimkk(9) => /sa
+23:41:29 | BOZKURT545(24): bnm 17 bitiyo az kaldý
+23:41:30 | [CMD] sezzer(19) => /as
+23:41:31 | [CMD] TIRCI(16) => /as
+23:41:31 | [CMD] ibrahimkk(9) => /sorusor 
+23:41:34 | [CMD] DracXoomer(8) => /as
+23:41:40 | [CMD] ibrahimkk(9) => /sorusor karavani nerden alcam?
+23:41:42 | [LOCAL]BOZKURT545(24): reis ciddimisn yav abi diyek sana
+23:41:42 | [CMD] BOZKURT545(24) => /l reis ciddimisn yav abi diyek sana
+23:41:47 | [CMD] ibrahimkk(9) => /rescue
+23:41:52 | TIRCI(16): nalayana bý espiri yapayýmý 
+23:41:53 | [CMD] BOZKURT545(24) => /as
+23:41:55 | DracXoomer(8): týrcý dayý içim yanýyor 1 haftadýr
+23:41:58 | [LOCAL]sezzer(19): ciddiyim la niye yalan söyleyim
+23:41:58 | [CMD] sezzer(19) => /l ciddiyim la niye yalan söyleyim
+23:41:59 | DracXoomer(8): týrcý dayý içim yanýyor 1 haftadýr
+23:42:0 | [CMD] ibrahimkk(9) => /work
+23:42:3 | [CMD] ibrahimkk(9) => /work
+23:42:5 | [CMD] ibrahimkk(9) => /work
+23:42:6 | [CMD] ibrahimkk(9) => /work
+23:42:8 | [CMD] ibrahimkk(9) => /work
+23:42:11 | BOZKURT545(24): yap
+23:42:11 | [CMD] ibrahimkk(9) => /work
+23:42:12 | [CMD] ibrahimkk(9) => /work
+23:42:14 | [CMD] ibrahimkk(9) => /work
+23:42:16 | [CMD] ibrahimkk(9) => /admins
+23:42:21 | ibrahimkk(9): beyler
+23:42:22 | TIRCI(16): .
+23:42:27 | ibrahimkk(9): karavani nerden alcam?
+23:42:29 | [CMD] ibrahimkk(9) => /admins
+23:42:31 | sezzer(19): galeri
+23:42:33 | [CMD] ibrahimkk(9) => /work
+23:42:33 | TIRCI(16): alma bug lu 
+23:42:35 | [CMD] ibrahimkk(9) => /work
+23:42:41 | BOZKURT545(24): karvanýn içine giriliyormu
+23:42:41 | [CMD] ibrahimkk(9) => /work
+23:42:44 | [CMD] ibrahimkk(9) => /work
+23:42:49 | {FFCC00}sametkaan(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:42:49 | TIRCI(16): evet ama suanda bug lu 
+23:42:50 | [CMD] ibrahimkk(9) => /work
+23:42:51 | DracXoomer(8): yok
+23:42:53 | [CMD] ibrahimkk(9) => /work
+23:42:54 | [CMD] ibrahimkk(9) => /work
+23:42:55 | DracXoomer(8): buglumuþ
+23:42:58 | [CMD] ibrahimkk(9) => /meslek
+23:43:1 | [CMD] ibrahimkk(9) => /meslek
+23:43:2 | BOZKURT545(24): ev gibi ozmn kaç par o
+23:43:4 | {FFCC00}ibrahimkk(9) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:43:7 | TIRCI(16): 1m
+23:43:7 | DracXoomer(8): skor atýlsa keþke la :D
+23:43:12 | [LOCAL]ibrahimkk(9): sa
+23:43:12 | [CMD] ibrahimkk(9) => /l sa
+23:43:15 | [LOCAL]DracXoomer(8): as
+23:43:15 | [CMD] DracXoomer(8) => /l as
+23:43:17 | [CMD] ibrahimkk(9) => /admins
+23:43:18 | [LOCAL]DracXoomer(8): as
+23:43:18 | [CMD] DracXoomer(8) => /l as
+23:43:26 | BOZKURT545(24): karavan kaç gayme 
+23:43:27 | [CMD] DracXoomer(8) => /dstil
+23:43:32 | sezzer(19): 1 m
+23:43:33 | TIRCI(16): 1m gayme 
+23:43:38 | sametkaan(6) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:43:39 | BOZKURT545(24): ucuzmuþ
+23:43:44 | TIRCI(16): ama bug lu 
+23:43:47 | [CMD] ibrahimkk(9) => /rescur
+23:43:48 | [CMD] ibrahimkk(9) => /rescue
+23:43:51 | [CMD] DracXoomer(8) => /pm 16 gel az kafa bulak :D
+23:43:52 | BOZKURT545(24): sürülmüyor dðlmi
+23:44:0 | TIRCI(16): su acakla super hareket yapýyom ya 
+23:44:2 | sametkaan(6) oyuna girdi [IP: 176.216.234.149]
+23:44:3 | BOZKURT545(24): bug belki v6 da giderilir
+23:44:10 | [CMD] ibrahimkk(9) => /work
+23:44:12 | [CMD] ibrahimkk(9) => /work
+23:44:16 | 
+23:44:18 | TIRCI(16): ters uucyom 
+23:44:20 | {FFCC00}sametkaan(6) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:44:23 | [CMD] ibrahimkk(9) => /work
+23:44:26 | [CMD] DracXoomer(8) => /adminol
+23:44:30 | TIRCI(16): bb
+23:44:32 | BOZKURT545(24): gençler forumda AR-GE ye konu açtým cami gelsin diye +1 leyin
+23:44:37 | DracXoomer(8): TIRCI DAYI BEN GÝDÝYOM KENDÝNE ÝYÝ BAK VE PARALARIMA
+23:44:47 | DracXoomer(8): çaktýrmayýn casp açýk :D
+23:44:52 | ibrahimkk(9): :D
+23:44:55 | sezzer(19): gitmede 2 m daha ateþle
+23:45:1 | TIRCI(16): bb
+23:45:2 | [CMD] sezzer(19) => /tamir
+23:45:4 | DracXoomer(8): fakir kalacam la :D
+23:45:6 | BOZKURT545(24): kim ateþliyo len para
+23:45:7 | [CMD] sezzer(19) => /work
+23:45:11 | DracXoomer(8): ben 
+23:45:12 | sezzer(19): la olm sende para bitmez
+23:45:13 | DracXoomer(8): :D
+23:45:13 | DracXoomer(8) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:45:13 | ibrahimkk(9): bana para
+23:45:14 | TIRCI(16): bana býle ateslemedý 
+23:45:15 | sezzer(19): vipsin sen
+23:45:15 | [CMD] sametkaan(6) => /work
+23:45:18 | sezzer(19): ateþlersin
+23:45:20 | BOZKURT545(24): þu fakirede ateþliyin @24e
+23:45:20 | sezzer(19): aslansýn
+23:45:22 | ibrahimkk(9): bana para
+23:45:39 | ibrahimkk(9): fakirim ben bakmayin 432m olduguna
+23:45:44 | [LOCAL]BOZKURT545(24): sezer abi ben bu görevden sonra uçýym
+23:45:44 | [CMD] BOZKURT545(24) => /l sezer abi ben bu görevden sonra uçýym
+23:45:52 | [LOCAL]sezzer(19): tmm kanka
+23:45:52 | [CMD] sezzer(19) => /l tmm kanka
+23:45:52 | TIRCI(16): 53m var yaný aymuk olmasýn :D
+23:45:56 | BOZKURT545(24): yuh
+23:45:59 | ibrahimkk(9): :D
+23:46:4 | BOZKURT545(24): nasýl yaptýnýz o kdr para
+23:46:6 | sezzer(19): niye bende de 96 m var
+23:46:12 | TIRCI(16): 5m var :D
+23:46:13 | BOZKURT545(24): atýn be ban azcýk
+23:46:19 | sezzer(19): nrg alcam kanka
+23:46:21 | sezzer(19): 100 m
+23:46:23 | ibrahimkk(9): ben banlanmasaydim daha 600m falan
+23:46:50 | BOZKURT545(24): @9 reis azcýk daðýt þu garibanlara be
+23:47:6 | ibrahimkk(9): ev arac alcam
+23:47:7 | BOZKURT545(24): 500k atsan ne olur dokunurmu sana
+23:47:11 | ibrahimkk(9): evet
+23:47:21 | ibrahimkk(9): cimriyim bn
+23:47:26 | sezzer(19): 600 m ye mi alcan evi
+23:47:32 | TIRCI(16): banlý býýrnden dýlenmeyýn barý :D
+23:47:34 | BOZKURT545(24): ama dürüstsün tav :D
+23:47:41 | ibrahimkk(9): :D
+23:47:50 | TIRCI(16): @9 az atsan 
+23:47:55 | ibrahimkk(9): bankada
+23:48:2 | ibrahimkk(9): bankayi soyun
+23:48:14 | [LOCAL]sezzer(19): kaçýyon mu reyiz
+23:48:14 | [CMD] sezzer(19) => /l kaçýyon mu reyiz
+23:48:16 | [LOCAL]BOZKURT545(24): sezer abi ben kaçýyrm yrn okul var iþin yoksa þu konuyu +1 le
+23:48:16 | [CMD] BOZKURT545(24) => /l sezer abi ben kaçýyrm yrn okul var iþin yoksa þu konuyu +1 le
+23:48:24 | [LOCAL]sezzer(19): tamam iyi geceler
+23:48:24 | [CMD] sezzer(19) => /l tamam iyi geceler
+23:48:33 | [CMD] sezzer(19) => /gobus
+23:48:40 | [LOCAL]BOZKURT545(24): aynen abi çýkýyorum yarýn denk gelirsek ortak olmak isteim  yine hayrýlý akþmlar
+23:48:40 | [CMD] BOZKURT545(24) => /l aynen abi çýkýyorum yarýn denk gelirsek ortak olmak isteim  yine hayrýlý akþmlar
+23:48:53 | sezzer(19): sanada bozkurt
+23:48:54 | BOZKURT545(24): hayýrlý akþmlar argede cami konusunu +1 leyin
+23:48:56 | [CMD] sezzer(19) => /icerigir
+23:48:56 | [CMD] ibrahimkk(9) => /bilgilerim
+23:49:0 | [CMD] sezzer(19) => /isyerimenu
+23:49:1 | [CMD] sezzer(19) => /isyerimenu
+23:49:10 | [CMD] ibrahimkk(9) => /modifiye
+23:49:10 | [CMD] sezzer(19) => /icerigir
+23:49:12 | BOZKURT545(24) oyundan cIktI (KendI IstegIyle) (IP: 255.255.255.255)
+23:49:12 | [CMD] sezzer(19) => /isyerimenu
+23:49:15 | [CMD] sezzer(19) => /isyerimenu
+23:49:22 | [CMD] sezzer(19) => /icerigir
+23:49:25 | [CMD] sezzer(19) => /isyerimenu
+23:49:26 | [CMD] sezzer(19) => /isyerimenu
+23:49:34 | [CMD] sezzer(19) => /icerigir
+23:49:35 | [CMD] sezzer(19) => /isyerimenu
+23:49:37 | [CMD] sezzer(19) => /isyerimenu
+23:49:47 | TIRCI(16): surý bumm 
+23:49:48 | [CMD] sezzer(19) => /araba
+23:49:52 | TIRCI(16): cakýlýyom 
+23:49:58 | [CMD] sezzer(19) => /meslek
+23:50:2 | {FFCC00}sezzer(19) {FFFFFF}Pilot olarak spawn oldu.
+23:50:10 | [CMD] sezzer(19) => /rescue
+23:50:41 | [CMD] sezzer(19) => /work
+23:51:4 | TIRCI(16): sezer sne ters kulanabýlýyonmu 
+23:51:9 | [CMD] huso608(7) => /aka 9
+23:51:14 | sezzer(19): ayýp ettin
+23:51:19 | [CMD] huso608(7) => /bangor ibrahimkk
+23:51:39 | [CMD] sezzer(19) => /hava 14
+23:51:42 | [CMD] sezzer(19) => /saat 22
+23:52:4 | TIRCI(16): piste ters ýcem 
+23:52:8 | sezzer(19): patlar
+23:52:38 | sezzer(19): 2 m 900 k daha olsa nrg alýyom
+23:52:42 | sezzer(19): destek atýn
+23:52:49 | ibrahimkk(9): nrg kac m>
+23:52:57 | ibrahimkk(9): oha
+23:53:13 | ibrahimkk(9): eskiden infernus 20 m di
+23:53:17 | sezzer(19): aynen la
+23:53:19 | ibrahimkk(9): simdi kac?
+23:53:24 | sezzer(19): 100 o da
+23:53:34 | ibrahimkk(9): bana 100m verilcek galiba
+23:53:34 | [KAMYONCU] ibrahimkk, SF Catering LTD'den Las Venturas Mall'e Erzak tasidi. Kazanc: 61525$, 1 Skor ve 5 EXP Sure: 321 Saniye
+23:53:36 | TIRCI(16): uh :D
+23:53:44 | sezzer(19): ama evler pahalýydý eskiden
+23:53:51 | sezzer(19): 60 m ye ev aldýðýmý hatýrlýyorum
+23:53:59 | [CMD] sezzer(19) => /work
+23:54:5 | ibrahimkk(9): ayn
+23:54:7 | [CMD] TIRCI(16) => /rescue
+23:54:12 | ibrahimkk(9): ben 900m e almistim
+23:54:15 | [CMD] TIRCI(16) => /rescue
+23:54:23 | [CMD] huso608(7) => /spec6
+23:54:28 | [CMD] huso608(7) => /spec 6
+23:54:31 | sezzer(19): þimdi özel interiorlu evi 10 m ye aldým
+23:54:33 | [CMD] ibrahimkk(9) => /work
+23:54:44 | [CMD] huso608(7) => /specoff
+23:54:44 | {FFCC00}huso608(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:54:46 | [CMD] ibrahimkk(9) => /work
+23:54:50 | [CMD] huso608(7) => /geldim
+23:54:53 | [CMD] huso608(7) => /musait
+23:55:1 | huso608(7): evet babalar hayýrlý ýsler dilerim
+23:55:3 | ibrahimkk(9): hg
+23:55:8 | [CMD] ibrahimkk(9) => /work
+23:55:26 | [CMD] huso608(7) => /odul 6
+23:55:29 | [CMD] huso608(7) => /odul 9
+23:55:33 | [CMD] huso608(7) => /odul 19
+23:55:37 | sezzer(19): eyw
+23:55:37 | [CMD] huso608(7) => /odul 16
+23:55:38 | ibrahimkk(9): noluyor?
+23:55:47 | sezzer(19): gececi ödülü
+23:55:50 | huso608(7): Rica Ederim Gece Odulu vereyim baskan
+23:55:54 | ibrahimkk(9): bb 
+23:55:59 | TIRCI(16): saol
+23:56:0 | ibrahimkk(9): buranin ismi ne admin
+23:56:7 | huso608(7): týrcýlar mekaný
+23:56:12 | ibrahimkk(9): yok o deyl
+23:56:17 | ibrahimkk(9): benim bullundigim
+23:56:20 | [CMD] ibrahimkk(9) => /work
+23:56:21 | [CMD] huso608(7) => /spec 9
+23:56:36 | huso608(7): lv bolumundesin
+23:56:45 | ibrahimkk(9): neyse anlamadin
+23:56:52 | huso608(7): o yol ise ek map oluyor divere gidiyor
+23:56:57 | ibrahimkk(9): neyse anlamadin
+23:57:8 | [CMD] sezzer(19) => /tamir
+23:57:11 | huso608(7): anlatta sana yardýmcý olayým
+23:57:16 | [CMD] sezzer(19) => /work
+23:57:19 | ibrahimkk(9): yok gittim :D
+23:57:27 | lulu(8) oyuna girdi [IP: 170.83.101.109]
+23:57:28 | [CMD] ibrahimkk(9) => /ranklar
+23:57:29 | sezzer(19): lagýna kurban týrcý
+23:57:47 | [CMD] huso608(7) => /pm 9 gýrgýrmý geciyorsun benimle
+23:57:47 | ibrahimkk(9): nasil sinyal veriyoz?
+23:57:53 | [CMD] ibrahimkk(9) => /pm 7 hayir
+23:57:54 | sezzer(19): e q
+23:58:2 | huso608(7): q e 2 komutlarýyla
+23:58:14 | lulu(8) oyundan cIktI (KIck/Ban) (IP: 255.255.255.255)
+23:58:15 | ibrahimkk(9): nasil durdurcam?
+23:58:20 | sezzer(19): yine bascan
+23:58:24 | huso608(7): ayný tuslarý kullan
+23:58:28 | ibrahimkk(9): saol
+23:58:33 | huso608(7): Rica Ederim
+23:58:39 | [CMD] huso608(7) => /specoff
+23:58:40 | {FFCC00}huso608(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:58:45 | [CMD] ibrahimkk(9) => /asiriyuk
+23:58:46 | [ANTIHACK] Þüpheli TIRCI(16) => Can-Hilesi
+23:58:51 | {FFCC00}TIRCI(16) {FFFFFF}Pilot olarak spawn oldu.
+23:58:51 | [CMD] huso608(7) => /spec 16
+23:58:56 | [CMD] TIRCI(16) => /rescue
+23:59:0 | [CMD] huso608(7) => /cantazele
+23:59:5 | [CMD] huso608(7) => /specoff
+23:59:5 | {FFCC00}huso608(7) {FFFFFF}Kamyoncu olarak spawn oldu.
+23:59:30 | ibrahimkk(9): saol

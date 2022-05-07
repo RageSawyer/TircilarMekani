@@ -1,0 +1,33 @@
+0:20:29 | Sunucu calistirildi.
+0:20:59 | Sunucu calistirildi.
+0:26:31 | Sunucu calistirildi.
+8:42:57 | Sunucu calistirildi.
+8:44:0 | Sunucu calistirildi.
+12:54:15 | Sunucu calistirildi.
+12:54:27 | Sunucu calistirildi.
+12:55:3 | Sunucu calistirildi.
+12:55:10 | Sunucu kapatildi.
+13:33:3 | Sunucu calistirildi.
+13:37:36 | Sunucu calistirildi.
+13:37:39 | Sunucu kapatildi.
+15:3:8 | ataman(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+15:54:10 | MaWixXx(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+15:54:51 | kara(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+16:4:45 | kara(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+16:13:10 | Revenge..(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+16:35:46 | Tahir_Can_Bozkurt(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+17:3:19 | Tahir_Can_Bozkurt(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+18:32:56 | jahjoh(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+18:34:4 | jahjoh(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+19:10:30 | kara(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+20:37:4 | kara(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+21:30:25 | kara(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+21:38:13 | hasdadsa(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+22:2:27 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+22:15:28 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+22:15:43 | CAKMAZ(1) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+22:45:29 | Suleyman(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+22:59:52 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:2:13 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:3:1 | TeaMStar(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)
+23:56:19 | kara(0) oyundan cIktI (Kick/Ban) (IP: 255.255.255.255)

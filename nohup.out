@@ -1,0 +1,1617 @@
+
+Started server on port: 7777, with maxplayers: 180 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 180 lanmode is ON.
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xed81a670 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74322fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf76cdb2c]
+/lib/libc.so.6(clone+0x5e)[0xf74b517e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+09c36000-09c3a000 rw-p 00000000 00:00 0                                  [heap]
+09c3a000-09c3b000 rwxp 00000000 00:00 0                                  [heap]
+09c3b000-0dd6c000 rw-p 00000000 00:00 0                                  [heap]
+ec9fe000-ecbff000 rw-p 00000000 00:00 0 
+ece00000-ecf92000 rw-p 00000000 00:00 0 
+ecf92000-ed000000 ---p 00000000 00:00 0 
+ed000000-ed200000 rw-p 00000000 00:00 0 
+ed200000-ed300000 rw-p 00000000 00:00 0 
+ed3ff000-ed500000 rw-p 00000000 00:00 0 
+ed500000-ed700000 rw-p 00000000 00:00 0 
+ed700000-ed8f1000 rw-p 00000000 00:00 0 
+ed8f1000-ed900000 ---p 00000000 00:00 0 
+ed900000-eda00000 rw-p 00000000 00:00 0 
+eda00000-edc00000 rw-p 00000000 00:00 0 
+edc00000-edd00000 rw-p 00000000 00:00 0 
+edd00000-ede00000 rw-p 00000000 00:00 0 
+ede7f000-edf00000 rw-p 00000000 00:00 0 
+edf00000-ee100000 rw-p 00000000 00:00 0 
+ee100000-ee200000 rw-p 00000000 00:00 0 
+ee27f000-ee300000 rw-p 00000000 00:00 0 
+ee300000-ee500000 rw-p 00000000 00:00 0 
+ee500000-ee700000 rw-p 00000000 00:00 0 
+ee700000-ee900000 rw-p 00000000 00:00 0 
+ee900000-eeb00000 rw-p 00000000 00:00 0 
+eeb00000-eebf9000 rw-p 00000000 00:00 0 
+eebf9000-eec00000 ---p 00000000 00:00 0 
+eec00000-eed00000 rw-p 00000000 00:00 0 
+eed00000-eed37000 rw-p 00000000 00:00 0 
+eed37000-eee00000 ---p 00000000 00:00 0 
+eeec3000-eeef4000 rw-p 00000000 00:00 0 
+eeef4000-eeef5000 ---p 00000000 00:00 0 
+eeef5000-ef6f5000 rw-p 00000000 00:00 0                                  [stack:2594]
+ef6f5000-ef6f6000 ---p 00000000 00:00 0 
+ef6f6000-efef6000 rw-p 00000000 00:00 0                                  [stack:2593]
+efef6000-efef7000 ---p 00000000 00:00 0 
+efef7000-f06f7000 rw-p 00000000 00:00 0                                  [stack:2592]
+f06f7000-f06f8000 ---p 00000000 00:00 0 
+f06f8000-f0ef8000 rw-p 00000000 00:00 0 
+f10f3000-f6198000 rw-p 00000000 00:00 0 
+f6198000-f61ad000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61ad000-f61ae000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61ae000-f61af000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61af000-f61b0000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61b0000-f623e000 rw-p 00000000 00:00 0 
+f623e000-f624d000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f624d000-f624e000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f624e000-f62ec000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f62ec000-f62ee000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f62ee000-f64ed000 rw-p 00000000 00:00 0 
+f64ed000-f64f8000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f64f8000-f64f9000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f64f9000-f64fa000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f64fa000-f6500000 rw-p 00000000 00:00 0 
+f6500000-f6600000 rw-p 00000000 00:00 0 
+f6608000-f6609000 ---p 00000000 00:00 0 
+f6609000-f7008000 rw-p 00000000 00:00 0                                  [stack:2590]
+f7008000-f700f000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f700f000-f7010000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7010000-f7011000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7016000-f7019000 rw-p 00000000 00:00 0 
+f7019000-f733e000 r-xp 00000000 fd:00 35206500                           /root/samp/plugins/mysql_static.so
+f733e000-f73b7000 rw-p 00325000 fd:00 35206500                           /root/samp/plugins/mysql_static.so
+f73b7000-f73bd000 rw-p 00000000 00:00 0 
+f73bd000-f7576000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7576000-f7577000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7577000-f7579000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7579000-f757a000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f757a000-f757d000 rw-p 00000000 00:00 0 
+f757d000-f7596000 r-xp 00000000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f7596000-f7597000 r--p 00018000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f7597000-f7598000 rw-p 00019000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f7598000-f7599000 rw-p 00000000 00:00 0 
+f7599000-f75d9000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75d9000-f75da000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75da000-f75db000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75db000-f76ba000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f76ba000-f76bf000 r--p 000df000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f76bf000-f76c0000 rw-p 000e4000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f76c0000-f76c7000 rw-p 00000000 00:00 0 
+f76c7000-f76de000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76de000-f76df000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76df000-f76e0000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76e0000-f76e2000 rw-p 00000000 00:00 0 
+f76e2000-f76e5000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76e5000-f76e6000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76e6000-f76e7000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76e7000-f76ec000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76ec000-f76ed000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76ed000-f76ee000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76ee000-f76f0000 rw-p 00000000 00:00 0 
+f76f0000-f7711000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7711000-f7712000 r-xp 00000000 00:00 0                                  [vdso]
+f7712000-f7713000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7713000-f7714000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ff86e000-ff88f000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 180 lanmode is ON.
+
+sh: /root/samp/announce: No such file or directory
+sh: /root/samp/announce: Permission denied
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xef4ebb20 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf743d2fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf76d8b2c]
+/lib/libc.so.6(clone+0x5e)[0xf74c017e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+08ee4000-08ee8000 rw-p 00000000 00:00 0                                  [heap]
+08ee8000-08ee9000 rwxp 00000000 00:00 0                                  [heap]
+08ee9000-0b1b8000 rw-p 00000000 00:00 0                                  [heap]
+ef200000-ef2ea000 rw-p 00000000 00:00 0 
+ef2ea000-ef300000 ---p 00000000 00:00 0 
+ef400000-ef500000 rw-p 00000000 00:00 0 
+ef54d000-ef57e000 rw-p 00000000 00:00 0 
+ef57e000-ef57f000 ---p 00000000 00:00 0 
+ef57f000-efd7f000 rw-p 00000000 00:00 0                                  [stack:3732]
+efd7f000-efd80000 ---p 00000000 00:00 0 
+efd80000-f0580000 rw-p 00000000 00:00 0                                  [stack:3731]
+f0580000-f0581000 ---p 00000000 00:00 0 
+f0581000-f61e4000 rw-p 00000000 00:00 0                                  [stack:3730]
+f61e4000-f61f9000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61f9000-f61fa000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61fa000-f61fb000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61fb000-f61fc000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61fc000-f6251000 rw-p 00000000 00:00 0 
+f6251000-f6260000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f6260000-f6261000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f6261000-f62ff000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f62ff000-f6301000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f6301000-f6500000 rw-p 00000000 00:00 0 
+f6500000-f6521000 rw-p 00000000 00:00 0 
+f6521000-f6600000 ---p 00000000 00:00 0 
+f6600000-f660b000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f660b000-f660c000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f660c000-f660d000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f660d000-f6613000 rw-p 00000000 00:00 0 
+f6613000-f6614000 ---p 00000000 00:00 0 
+f6614000-f7013000 rw-p 00000000 00:00 0                                  [stack:3728]
+f7013000-f701a000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f701a000-f701b000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f701b000-f701c000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7021000-f7024000 rw-p 00000000 00:00 0 
+f7024000-f7349000 r-xp 00000000 fd:00 35206500                           /root/samp/plugins/mysql_static.so
+f7349000-f73c2000 rw-p 00325000 fd:00 35206500                           /root/samp/plugins/mysql_static.so
+f73c2000-f73c8000 rw-p 00000000 00:00 0 
+f73c8000-f7581000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7581000-f7582000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7582000-f7584000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7584000-f7585000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7585000-f7588000 rw-p 00000000 00:00 0 
+f7588000-f75a1000 r-xp 00000000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f75a1000-f75a2000 r--p 00018000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f75a2000-f75a3000 rw-p 00019000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f75a3000-f75a4000 rw-p 00000000 00:00 0 
+f75a4000-f75e4000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e4000-f75e5000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e5000-f75e6000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e6000-f76c5000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f76c5000-f76ca000 r--p 000df000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f76ca000-f76cb000 rw-p 000e4000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f76cb000-f76d2000 rw-p 00000000 00:00 0 
+f76d2000-f76e9000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76e9000-f76ea000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76ea000-f76eb000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76eb000-f76ed000 rw-p 00000000 00:00 0 
+f76ed000-f76f0000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76f0000-f76f1000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76f1000-f76f2000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76f2000-f76f7000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f7000-f76f8000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f8000-f76f9000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f9000-f76fb000 rw-p 00000000 00:00 0 
+f76fb000-f771c000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f771c000-f771d000 r-xp 00000000 00:00 0                                  [vdso]
+f771d000-f771e000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f771e000-f771f000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+fff85000-fffa6000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xef406af8 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74b02fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf774bb2c]
+/lib/libc.so.6(clone+0x5e)[0xf753317e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+09dc5000-09dc9000 rw-p 00000000 00:00 0                                  [heap]
+09dc9000-09dca000 rwxp 00000000 00:00 0                                  [heap]
+09dca000-0b4b1000 rw-p 00000000 00:00 0                                  [heap]
+ef400000-ef443000 rw-p 00000000 00:00 0 
+ef443000-ef500000 ---p 00000000 00:00 0 
+ef582000-ef5b3000 rw-p 00000000 00:00 0 
+ef5b3000-ef5b4000 ---p 00000000 00:00 0 
+ef5b4000-efdb4000 rw-p 00000000 00:00 0                                  [stack:12644]
+efdb4000-efdb5000 ---p 00000000 00:00 0 
+efdb5000-f05b5000 rw-p 00000000 00:00 0                                  [stack:12643]
+f05b5000-f05b6000 ---p 00000000 00:00 0 
+f05b6000-f6247000 rw-p 00000000 00:00 0                                  [stack:12642]
+f6247000-f625c000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f625c000-f625d000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f625d000-f625e000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f625e000-f625f000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f625f000-f6261000 rw-p 00000000 00:00 0 
+f6261000-f62ff000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f62ff000-f6301000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f6301000-f6500000 rw-p 00000000 00:00 0 
+f6500000-f6521000 rw-p 00000000 00:00 0 
+f6521000-f6600000 ---p 00000000 00:00 0 
+f6610000-f6663000 rw-p 00000000 00:00 0 
+f6663000-f6672000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f6672000-f6673000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f6673000-f667e000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f667e000-f667f000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f667f000-f6680000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f6680000-f6686000 rw-p 00000000 00:00 0 
+f6686000-f6687000 ---p 00000000 00:00 0 
+f6687000-f7086000 rw-p 00000000 00:00 0                                  [stack:12640]
+f7086000-f708d000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f708d000-f708e000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f708e000-f708f000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7094000-f7097000 rw-p 00000000 00:00 0 
+f7097000-f73bc000 r-xp 00000000 fd:00 35206500                           /root/samp/plugins/mysql_static.so
+f73bc000-f7435000 rw-p 00325000 fd:00 35206500                           /root/samp/plugins/mysql_static.so
+f7435000-f743b000 rw-p 00000000 00:00 0 
+f743b000-f75f4000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75f4000-f75f5000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75f5000-f75f7000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75f7000-f75f8000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75f8000-f75fb000 rw-p 00000000 00:00 0 
+f75fb000-f7614000 r-xp 00000000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f7614000-f7615000 r--p 00018000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f7615000-f7616000 rw-p 00019000 fd:00 100786905                          /usr/lib/libgcc_s.so.1
+f7616000-f7617000 rw-p 00000000 00:00 0 
+f7617000-f7657000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7657000-f7658000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7658000-f7659000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7659000-f7738000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f7738000-f773d000 r--p 000df000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f773d000-f773e000 rw-p 000e4000 fd:00 100786904                          /usr/lib/libstdc++.so.6
+f773e000-f7745000 rw-p 00000000 00:00 0 
+f7745000-f775c000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f775c000-f775d000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f775d000-f775e000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f775e000-f7760000 rw-p 00000000 00:00 0 
+f7760000-f7763000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f7763000-f7764000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f7764000-f7765000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f7765000-f776a000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f776a000-f776b000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f776b000-f776c000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f776c000-f776e000 rw-p 00000000 00:00 0 
+f776e000-f778f000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f778f000-f7790000 r-xp 00000000 00:00 0                                  [vdso]
+f7790000-f7791000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7791000-f7792000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ffe15000-ffe36000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '2' (SIGINT) catched   
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '2' (SIGINT) catched   
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0x0aee2de0 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74792fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf7713b2c]
+/lib/libc.so.6(clone+0x5e)[0xf74fc17e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+0960f000-09611000 rw-p 00000000 00:00 0                                  [heap]
+09611000-09612000 rwxp 00000000 00:00 0                                  [heap]
+09612000-0f186000 rw-p 00000000 00:00 0                                  [heap]
+edefd000-ee0fe000 rw-p 00000000 00:00 0 
+ee2ff000-ee300000 ---p 00000000 00:00 0 
+ee300000-eeb00000 rw-p 00000000 00:00 0 
+eeb00000-eeb21000 rw-p 00000000 00:00 0 
+eeb21000-eec00000 ---p 00000000 00:00 0 
+eeccb000-eecfc000 rw-p 00000000 00:00 0 
+eecfc000-eecfd000 ---p 00000000 00:00 0 
+eecfd000-ef57e000 rw-p 00000000 00:00 0                                  [stack:13419]
+ef57e000-ef57f000 ---p 00000000 00:00 0 
+ef57f000-efe00000 rw-p 00000000 00:00 0                                  [stack:13417]
+efe00000-efe21000 rw-p 00000000 00:00 0 
+efe21000-eff00000 ---p 00000000 00:00 0 
+eff0d000-eff8e000 rw-p 00000000 00:00 0 
+eff8e000-eff8f000 ---p 00000000 00:00 0 
+eff8f000-f078f000 rw-p 00000000 00:00 0                                  [stack:13415]
+f098a000-f5c1b000 rw-p 00000000 00:00 0 
+f5c1b000-f5c1c000 ---p 00000000 00:00 0 
+f5c1c000-f641c000 rw-p 00000000 00:00 0                                  [stack:13411]
+f641c000-f642c000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f642c000-f642e000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f642e000-f642f000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f642f000-f6457000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6457000-f6458000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6458000-f6459000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6459000-f646e000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f646e000-f646f000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f646f000-f6470000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f6470000-f6488000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6488000-f6489000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6489000-f648a000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f648a000-f648e000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f648e000-f648f000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f648f000-f6490000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6490000-f64dc000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f64dc000-f64dd000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f64dd000-f64de000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f64de000-f64df000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f64df000-f64e3000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f64e3000-f64e4000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f64e4000-f64e5000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f64e5000-f64f1000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f64f1000-f64f3000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f64f3000-f64f4000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f64f4000-f6509000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6509000-f650a000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f650a000-f650b000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f650b000-f650c000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f650c000-f6697000 rw-p 00000000 00:00 0 
+f6697000-f66a2000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f66a2000-f66a3000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f66a3000-f66a4000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f66a4000-f66aa000 rw-p 00000000 00:00 0 
+f66aa000-f66ab000 ---p 00000000 00:00 0 
+f66ab000-f6eab000 rw-p 00000000 00:00 0                                  [stack:13410]
+f6eab000-f7256000 r-xp 00000000 fd:00 33869176                           /root/samp/libmysqlclient.so.18
+f7256000-f72ba000 rw-p 003ab000 fd:00 33869176                           /root/samp/libmysqlclient.so.18
+f72ba000-f72bd000 rw-p 00000000 00:00 0 
+f72bd000-f72dd000 r-xp 00000000 fd:00 33869060                           /root/samp/log-core.so
+f72dd000-f72de000 ---p 00020000 fd:00 33869060                           /root/samp/log-core.so
+f72de000-f72df000 r--p 00020000 fd:00 33869060                           /root/samp/log-core.so
+f72df000-f72e0000 rw-p 00021000 fd:00 33869060                           /root/samp/log-core.so
+f72e0000-f733c000 r-xp 00000000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f733c000-f733d000 ---p 0005c000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f733d000-f733e000 r--p 0005c000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f733e000-f733f000 rw-p 0005d000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f733f000-f734e000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f734e000-f734f000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f734f000-f7356000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7356000-f7357000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7357000-f7358000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7360000-f7361000 rw-p 00000000 00:00 0 
+f7361000-f73ff000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f73ff000-f7401000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7401000-f7404000 rw-p 00000000 00:00 0 
+f7404000-f75bd000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75bd000-f75be000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75be000-f75c0000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75c0000-f75c1000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75c1000-f75c4000 rw-p 00000000 00:00 0 
+f75c4000-f75dd000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75dd000-f75de000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75de000-f75df000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75df000-f75e0000 rw-p 00000000 00:00 0 
+f75e0000-f7620000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7620000-f7621000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7621000-f7622000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7622000-f7701000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7701000-f7705000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7705000-f7706000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7706000-f770d000 rw-p 00000000 00:00 0 
+f770d000-f7724000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7724000-f7725000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7725000-f7726000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7726000-f7728000 rw-p 00000000 00:00 0 
+f7728000-f772b000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f772b000-f772c000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f772c000-f772d000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f772d000-f772e000 rw-p 00000000 00:00 0 
+f772e000-f7733000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f7733000-f7734000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f7734000-f7735000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f7735000-f7737000 rw-p 00000000 00:00 0 
+f7737000-f7758000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7758000-f7759000 r-xp 00000000 00:00 0                                  [vdso]
+f7759000-f775a000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f775a000-f775b000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ff872000-ff893000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 506 lanmode is ON.
+
+
+
+[log-core] fatal signal '6' (SIGABRT) catched   
+
+
+Started server on port: 7777, with maxplayers: 506 lanmode is ON.
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xeef05bd8 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74ee2fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf7788b2c]
+/lib/libc.so.6(clone+0x5e)[0xf757117e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+08348000-0834a000 rw-p 00000000 00:00 0                                  [heap]
+0834a000-0834b000 rwxp 00000000 00:00 0                                  [heap]
+0834b000-0d054000 rw-p 00000000 00:00 0                                  [heap]
+eaafc000-eaafd000 ---p 00000000 00:00 0 
+eaafd000-eb6fe000 rw-p 00000000 00:00 0 
+eba00000-ebbde000 rw-p 00000000 00:00 0 
+ebbde000-ebc00000 ---p 00000000 00:00 0 
+ebc00000-ebe00000 rw-p 00000000 00:00 0 
+ebe00000-ec000000 rw-p 00000000 00:00 0 
+ec000000-ec200000 rw-p 00000000 00:00 0 
+ec200000-ec400000 rw-p 00000000 00:00 0 
+ec400000-ec600000 rw-p 00000000 00:00 0 
+ec600000-ec700000 rw-p 00000000 00:00 0 
+ecc00000-ece00000 rw-p 00000000 00:00 0 
+ece00000-ecefa000 rw-p 00000000 00:00 0 
+ecefa000-ecf00000 ---p 00000000 00:00 0 
+ecf00000-ed000000 rw-p 00000000 00:00 0 
+ed000000-ed200000 rw-p 00000000 00:00 0 
+ed200000-ed400000 rw-p 00000000 00:00 0 
+ed400000-ed600000 rw-p 00000000 00:00 0 
+ed600000-ed800000 rw-p 00000000 00:00 0 
+ed800000-eda00000 rw-p 00000000 00:00 0 
+eda00000-edb00000 rw-p 00000000 00:00 0 
+edc00000-ede00000 rw-p 00000000 00:00 0 
+ede00000-ee000000 rw-p 00000000 00:00 0 
+ee000000-ee200000 rw-p 00000000 00:00 0 
+ee200000-ee400000 rw-p 00000000 00:00 0 
+ee400000-ee600000 rw-p 00000000 00:00 0 
+ee600000-ee900000 rw-p 00000000 00:00 0 
+ee900000-eeb00000 rw-p 00000000 00:00 0 
+eeb00000-eed00000 rw-p 00000000 00:00 0 
+eed00000-eef00000 rw-p 00000000 00:00 0 
+eef00000-ef100000 rw-p 00000000 00:00 0 
+ef100000-ef200000 rw-p 00000000 00:00 0 
+ef2cf000-ef300000 rw-p 00000000 00:00 0 
+ef300000-ef3f8000 rw-p 00000000 00:00 0 
+ef3f8000-ef400000 ---p 00000000 00:00 0 
+ef418000-ef419000 ---p 00000000 00:00 0 
+ef419000-efc19000 rw-p 00000000 00:00 0                                  [stack:2104]
+efc19000-efc1a000 ---p 00000000 00:00 0 
+efc1a000-f041a000 rw-p 00000000 00:00 0                                  [stack:2103]
+f041a000-f041b000 ---p 00000000 00:00 0 
+f041b000-f5f07000 rw-p 00000000 00:00 0                                  [stack:2102]
+f5f07000-f5f17000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f5f17000-f5f19000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f5f19000-f5f1a000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f5f1a000-f5f42000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5f42000-f5f43000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5f43000-f5f44000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5f44000-f5f59000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f5f59000-f5f5a000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f5f5a000-f5f5b000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f5f5b000-f5f73000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f5f73000-f5f74000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f5f74000-f5f75000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f5f75000-f5f79000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5f79000-f5f7a000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5f7a000-f5f7b000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5f7b000-f5fc7000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f5fc7000-f5fc8000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f5fc8000-f5fc9000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f5fc9000-f5fca000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f5fca000-f5fce000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f5fce000-f5fcf000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f5fcf000-f5fd0000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f5fd0000-f5fdc000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f5fdc000-f5fde000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f5fde000-f5fdf000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f5fdf000-f5ff4000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f5ff4000-f5ff5000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f5ff5000-f5ff6000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f5ff6000-f5ff7000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f5ff7000-f6500000 rw-p 00000000 00:00 0 
+f6500000-f6521000 rw-p 00000000 00:00 0 
+f6521000-f6600000 ---p 00000000 00:00 0 
+f6600000-f660b000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f660b000-f660c000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f660c000-f660d000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f660d000-f6613000 rw-p 00000000 00:00 0 
+f6613000-f6614000 ---p 00000000 00:00 0 
+f6614000-f7013000 rw-p 00000000 00:00 0                                  [stack:2100]
+f7013000-f7338000 r-xp 00000000 fd:00 34424324                           /root/samp/plugins/mysql_static.so
+f7338000-f73b1000 rw-p 00325000 fd:00 34424324                           /root/samp/plugins/mysql_static.so
+f73b1000-f73b4000 rw-p 00000000 00:00 0 
+f73b4000-f73c3000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f73c3000-f73c4000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f73c4000-f73cb000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f73cb000-f73cc000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f73cc000-f73cd000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f73d5000-f73d6000 rw-p 00000000 00:00 0 
+f73d6000-f7474000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7474000-f7476000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7476000-f7479000 rw-p 00000000 00:00 0 
+f7479000-f7632000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7632000-f7633000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7633000-f7635000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7635000-f7636000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7636000-f7639000 rw-p 00000000 00:00 0 
+f7639000-f7652000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f7652000-f7653000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f7653000-f7654000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f7654000-f7655000 rw-p 00000000 00:00 0 
+f7655000-f7695000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7695000-f7696000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7696000-f7697000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7697000-f7776000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7776000-f777a000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f777a000-f777b000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f777b000-f7782000 rw-p 00000000 00:00 0 
+f7782000-f7799000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7799000-f779a000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f779a000-f779b000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f779b000-f779d000 rw-p 00000000 00:00 0 
+f779d000-f77a0000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f77a0000-f77a1000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f77a1000-f77a2000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f77a2000-f77a3000 rw-p 00000000 00:00 0 
+f77a3000-f77a8000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f77a8000-f77a9000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f77a9000-f77aa000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f77aa000-f77ac000 rw-p 00000000 00:00 0 
+f77ac000-f77cd000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f77cd000-f77ce000 r-xp 00000000 00:00 0                                  [vdso]
+f77ce000-f77cf000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f77cf000-f77d0000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ffe36000-ffe57000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 1000 lanmode is ON.
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xeed7d318 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf743f2fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf76d9b2c]
+/lib/libc.so.6(clone+0x5e)[0xf74c217e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+097f6000-097f8000 rw-p 00000000 00:00 0                                  [heap]
+097f8000-097f9000 rwxp 00000000 00:00 0                                  [heap]
+097f9000-0d481000 rw-p 00000000 00:00 0                                  [heap]
+edb00000-edb61000 rw-p 00000000 00:00 0 
+edb61000-edc00000 ---p 00000000 00:00 0 
+edd00000-eddd3000 rw-p 00000000 00:00 0 
+eddd3000-ede00000 ---p 00000000 00:00 0 
+ede7e000-ede7f000 ---p 00000000 00:00 0 
+ede7f000-ee700000 rw-p 00000000 00:00 0 
+ee87f000-ee900000 rw-p 00000000 00:00 0 
+ee900000-ee9de000 rw-p 00000000 00:00 0 
+ee9de000-eea00000 ---p 00000000 00:00 0 
+eea00000-eeb00000 rw-p 00000000 00:00 0 
+eeb00000-eebe3000 rw-p 00000000 00:00 0 
+eebe3000-eec00000 ---p 00000000 00:00 0 
+eec00000-eed00000 rw-p 00000000 00:00 0 
+eed00000-eef00000 rw-p 00000000 00:00 0 
+eef00000-ef100000 rw-p 00000000 00:00 0 
+ef100000-ef300000 rw-p 00000000 00:00 0 
+ef300000-ef400000 rw-p 00000000 00:00 0 
+ef44d000-ef48e000 rw-p 00000000 00:00 0 
+ef4cf000-ef500000 rw-p 00000000 00:00 0 
+ef500000-ef600000 rw-p 00000000 00:00 0 
+ef62c000-ef62d000 ---p 00000000 00:00 0 
+ef62d000-efe2d000 rw-p 00000000 00:00 0 
+efe2d000-efe2e000 ---p 00000000 00:00 0 
+efe2e000-f062e000 rw-p 00000000 00:00 0 
+f062e000-f062f000 ---p 00000000 00:00 0 
+f062f000-f611b000 rw-p 00000000 00:00 0 
+f611b000-f612b000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f612b000-f612d000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f612d000-f612e000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f612e000-f6156000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6156000-f6157000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6157000-f6158000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6158000-f616d000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f616d000-f616e000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f616e000-f616f000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f616f000-f6187000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6187000-f6188000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6188000-f6189000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6189000-f61d5000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f61d5000-f61d6000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f61d6000-f61d7000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f61d7000-f61d8000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f61d8000-f61e4000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f61e4000-f61e6000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f61e6000-f61e7000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f61e7000-f61fc000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61fc000-f61fd000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61fd000-f61fe000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61fe000-f61ff000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f61ff000-f6400000 rw-p 00000000 00:00 0 
+f6400000-f6424000 rw-p 00000000 00:00 0 
+f6424000-f6500000 ---p 00000000 00:00 0 
+f6502000-f6506000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6506000-f6507000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6507000-f6508000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6508000-f650c000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f650c000-f650d000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f650d000-f650e000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f650e000-f6551000 rw-p 00000000 00:00 0 
+f6551000-f655c000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f655c000-f655d000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f655d000-f655e000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f655e000-f6564000 rw-p 00000000 00:00 0 
+f6564000-f6565000 ---p 00000000 00:00 0 
+f6565000-f6f64000 rw-p 00000000 00:00 0 
+f6f64000-f7289000 r-xp 00000000 fd:00 34424324                           /root/samp/plugins/mysql_static.so
+f7289000-f7302000 rw-p 00325000 fd:00 34424324                           /root/samp/plugins/mysql_static.so
+f7302000-f7305000 rw-p 00000000 00:00 0 
+f7305000-f7314000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f7314000-f7315000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f7315000-f731c000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f731c000-f731d000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f731d000-f731e000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7325000-f7327000 rw-p 00000000 00:00 0 
+f7327000-f73c5000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f73c5000-f73c7000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f73c7000-f73ca000 rw-p 00000000 00:00 0 
+f73ca000-f7583000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7583000-f7584000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7584000-f7586000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7586000-f7587000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7587000-f758a000 rw-p 00000000 00:00 0 
+f758a000-f75a3000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75a3000-f75a4000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75a4000-f75a5000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75a5000-f75a6000 rw-p 00000000 00:00 0 
+f75a6000-f75e6000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e6000-f75e7000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e7000-f75e8000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e8000-f76c7000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f76c7000-f76cb000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f76cb000-f76cc000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f76cc000-f76d3000 rw-p 00000000 00:00 0 
+f76d3000-f76ea000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76ea000-f76eb000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76eb000-f76ec000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76ec000-f76ee000 rw-p 00000000 00:00 0 
+f76ee000-f76f1000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76f1000-f76f2000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76f2000-f76f3000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76f3000-f76f4000 rw-p 00000000 00:00 0 
+f76f4000-f76f9000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f9000-f76fa000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76fa000-f76fb000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76fb000-f76fd000 rw-p 00000000 00:00 0 
+f76fd000-f771e000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f771e000-f771f000 r-xp 00000000 00:00 0                                  [vdso]
+f771f000-f7720000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7720000-f7721000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ff92a000-ff94b000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xef03b058 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74e82fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf7782b2c]
+/lib/libc.so.6(clone+0x5e)[0xf756b17e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+09e40000-09e42000 rw-p 00000000 00:00 0                                  [heap]
+09e42000-09e43000 rwxp 00000000 00:00 0                                  [heap]
+09e43000-0d78d000 rw-p 00000000 00:00 0                                  [heap]
+ee3ff000-ee400000 ---p 00000000 00:00 0 
+ee400000-eec00000 rw-p 00000000 00:00 0 
+eec00000-eede6000 rw-p 00000000 00:00 0 
+eede6000-eee00000 ---p 00000000 00:00 0 
+eee00000-ef000000 rw-p 00000000 00:00 0 
+ef000000-ef1f1000 rw-p 00000000 00:00 0 
+ef1f1000-ef200000 ---p 00000000 00:00 0 
+ef200000-ef300000 rw-p 00000000 00:00 0 
+ef3fe000-ef3ff000 ---p 00000000 00:00 0 
+ef3ff000-efbff000 rw-p 00000000 00:00 0 
+efbff000-efc00000 ---p 00000000 00:00 0 
+efc00000-f0400000 rw-p 00000000 00:00 0 
+f0400000-f042c000 rw-p 00000000 00:00 0 
+f042c000-f0500000 ---p 00000000 00:00 0 
+f0521000-f0552000 rw-p 00000000 00:00 0 
+f0552000-f0553000 ---p 00000000 00:00 0 
+f0553000-f0d53000 rw-p 00000000 00:00 0 
+f0ecc000-f0f0d000 rw-p 00000000 00:00 0 
+f0f4e000-f61b5000 rw-p 00000000 00:00 0 
+f61b5000-f61c5000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f61c5000-f61c7000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f61c7000-f61c8000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f61c8000-f61f0000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f61f0000-f61f1000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f61f1000-f61f2000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f61f2000-f6207000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f6207000-f6208000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f6208000-f6209000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f6209000-f6221000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6221000-f6222000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6222000-f6223000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6223000-f626f000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f626f000-f6270000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f6270000-f6271000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f6271000-f6272000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f6272000-f627e000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f627e000-f6280000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f6280000-f6281000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f6281000-f6296000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6296000-f6297000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6297000-f6298000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6298000-f6299000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6299000-f64ed000 rw-p 00000000 00:00 0 
+f64ed000-f64f8000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f64f8000-f64f9000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f64f9000-f64fa000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f64fa000-f6500000 rw-p 00000000 00:00 0 
+f6500000-f65ff000 rw-p 00000000 00:00 0 
+f65ff000-f6600000 ---p 00000000 00:00 0 
+f6601000-f6605000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6605000-f6606000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6606000-f6607000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6607000-f660b000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f660b000-f660c000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f660c000-f660d000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f660d000-f660e000 ---p 00000000 00:00 0 
+f660e000-f700d000 rw-p 00000000 00:00 0 
+f700d000-f7332000 r-xp 00000000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f7332000-f73ab000 rw-p 00325000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f73ab000-f73ae000 rw-p 00000000 00:00 0 
+f73ae000-f73bd000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f73bd000-f73be000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f73be000-f73c5000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f73c5000-f73c6000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f73c6000-f73c7000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f73cf000-f73d0000 rw-p 00000000 00:00 0 
+f73d0000-f746e000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f746e000-f7470000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7470000-f7473000 rw-p 00000000 00:00 0 
+f7473000-f762c000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f762c000-f762d000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f762d000-f762f000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f762f000-f7630000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f7630000-f7633000 rw-p 00000000 00:00 0 
+f7633000-f764c000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f764c000-f764d000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f764d000-f764e000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f764e000-f764f000 rw-p 00000000 00:00 0 
+f764f000-f768f000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f768f000-f7690000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7690000-f7691000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7691000-f7770000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7770000-f7774000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7774000-f7775000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7775000-f777c000 rw-p 00000000 00:00 0 
+f777c000-f7793000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7793000-f7794000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7794000-f7795000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7795000-f7797000 rw-p 00000000 00:00 0 
+f7797000-f779a000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f779a000-f779b000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f779b000-f779c000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f779c000-f779d000 rw-p 00000000 00:00 0 
+f779d000-f77a2000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f77a2000-f77a3000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f77a3000-f77a4000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f77a4000-f77a6000 rw-p 00000000 00:00 0 
+f77a6000-f77c7000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f77c7000-f77c8000 r-xp 00000000 00:00 0                                  [vdso]
+f77c8000-f77c9000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f77c9000-f77ca000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ffcae000-ffccf000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+samp03svr: /usr/local/include/boost/unordered/detail/table.hpp:243: boost::unordered::detail::table<Types>::bucket_pointer boost::unordered::detail::table<Types>::get_bucket(std::size_t) const [with Types = boost::unordered::detail::map<std::allocator<std::pair<const unsigned int, CMySQLResult*> >, unsigned int, CMySQLResult*, boost::hash<unsigned int>, std::equal_to<unsigned int> >; boost::unordered::detail::table<Types>::bucket_pointer = boost::unordered::detail::ptr_bucket*; std::size_t = unsigned int]: Assertion `buckets_' failed.
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0xef1b34e8 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74892fd]
+./samp03svr[0x80d3697]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf7723b2c]
+/lib/libc.so.6(clone+0x5e)[0xf750c17e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 35206496                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 35206496                           /root/samp/samp03svr
+08097000-08180000 r-xp 0004f000 fd:00 35206496                           /root/samp/samp03svr
+08180000-081a2000 rw-p 00138000 fd:00 35206496                           /root/samp/samp03svr
+081a2000-081cd000 rw-p 00000000 00:00 0 
+08dd3000-08dd5000 rw-p 00000000 00:00 0                                  [heap]
+08dd5000-08dd6000 rwxp 00000000 00:00 0                                  [heap]
+08dd6000-0bcdb000 rw-p 00000000 00:00 0                                  [heap]
+ee0ff000-ee100000 ---p 00000000 00:00 0 
+ee100000-ee900000 rw-p 00000000 00:00 0 
+eea7f000-eeb00000 rw-p 00000000 00:00 0 
+eeb00000-eebe2000 rw-p 00000000 00:00 0 
+eebe2000-eec00000 ---p 00000000 00:00 0 
+eec00000-eed00000 rw-p 00000000 00:00 0 
+eed00000-eef00000 rw-p 00000000 00:00 0 
+eef00000-ef0fc000 rw-p 00000000 00:00 0 
+ef0fc000-ef100000 ---p 00000000 00:00 0 
+ef100000-ef1f9000 rw-p 00000000 00:00 0 
+ef1f9000-ef200000 ---p 00000000 00:00 0 
+ef2fe000-ef2ff000 ---p 00000000 00:00 0 
+ef2ff000-efaff000 rw-p 00000000 00:00 0 
+efaff000-efb00000 ---p 00000000 00:00 0 
+efb00000-f0300000 rw-p 00000000 00:00 0 
+f0300000-f032d000 rw-p 00000000 00:00 0 
+f032d000-f0400000 ---p 00000000 00:00 0 
+f0448000-f0489000 rw-p 00000000 00:00 0 
+f04ca000-f04fb000 rw-p 00000000 00:00 0 
+f04fb000-f04fc000 ---p 00000000 00:00 0 
+f04fc000-f0cfc000 rw-p 00000000 00:00 0 
+f0ef7000-f615e000 rw-p 00000000 00:00 0 
+f615e000-f616e000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f616e000-f6170000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f6170000-f6171000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f6171000-f6199000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f6199000-f619a000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f619a000-f619b000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f619b000-f61b0000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f61b0000-f61b1000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f61b1000-f61b2000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f61b2000-f61fe000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f61fe000-f61ff000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f61ff000-f6200000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f6200000-f6201000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f6201000-f6400000 rw-p 00000000 00:00 0 
+f6400000-f6500000 rw-p 00000000 00:00 0 
+f6509000-f6521000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6521000-f6522000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6522000-f6523000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f6523000-f6527000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6527000-f6528000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6528000-f6529000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f6529000-f652d000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f652d000-f652e000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f652e000-f652f000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f652f000-f653b000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f653b000-f653d000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f653d000-f653e000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f653e000-f6553000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6553000-f6554000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6554000-f6555000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6555000-f6556000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f6556000-f659b000 rw-p 00000000 00:00 0 
+f659b000-f65a6000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f65a6000-f65a7000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f65a7000-f65a8000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f65a8000-f65ae000 rw-p 00000000 00:00 0 
+f65ae000-f65af000 ---p 00000000 00:00 0 
+f65af000-f6fae000 rw-p 00000000 00:00 0 
+f6fae000-f72d3000 r-xp 00000000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f72d3000-f734c000 rw-p 00325000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f734c000-f734f000 rw-p 00000000 00:00 0 
+f734f000-f735e000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f735e000-f735f000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f735f000-f7366000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7366000-f7367000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7367000-f7368000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f736f000-f7371000 rw-p 00000000 00:00 0 
+f7371000-f740f000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f740f000-f7411000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7411000-f7414000 rw-p 00000000 00:00 0 
+f7414000-f75cd000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75cd000-f75ce000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75ce000-f75d0000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75d0000-f75d1000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75d1000-f75d4000 rw-p 00000000 00:00 0 
+f75d4000-f75ed000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75ed000-f75ee000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75ee000-f75ef000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f75ef000-f75f0000 rw-p 00000000 00:00 0 
+f75f0000-f7630000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7630000-f7631000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7631000-f7632000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7632000-f7711000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7711000-f7715000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7715000-f7716000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7716000-f771d000 rw-p 00000000 00:00 0 
+f771d000-f7734000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7734000-f7735000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7735000-f7736000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f7736000-f7738000 rw-p 00000000 00:00 0 
+f7738000-f773b000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f773b000-f773c000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f773c000-f773d000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f773d000-f773e000 rw-p 00000000 00:00 0 
+f773e000-f7743000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f7743000-f7744000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f7744000-f7745000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f7745000-f7747000 rw-p 00000000 00:00 0 
+f7747000-f7768000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7768000-f7769000 r-xp 00000000 00:00 0                                  [vdso]
+f7769000-f776a000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f776a000-f776b000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ff9c1000-ff9e2000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+sh: /root/samp/announce: Permission denied
+sh: /root/samp/announce: Permission denied
+sh: /root/samp/announce: Permission denied
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0x0ca03288 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74a12fd]
+./samp03svr[0x80d3767]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf773bb2c]
+/lib/libc.so.6(clone+0x5e)[0xf752417e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 37081779                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 37081779                           /root/samp/samp03svr
+08097000-08181000 r-xp 0004f000 fd:00 37081779                           /root/samp/samp03svr
+08181000-081a3000 rw-p 00138000 fd:00 37081779                           /root/samp/samp03svr
+081a3000-081ce000 rw-p 00000000 00:00 0 
+0958b000-0958d000 rw-p 00000000 00:00 0                                  [heap]
+0958d000-0958e000 rwxp 00000000 00:00 0                                  [heap]
+0958e000-0f8eb000 rw-p 00000000 00:00 0                                  [heap]
+ed5f8000-ed8fb000 rw-p 00000000 00:00 0 
+ed9fc000-ed9fd000 ---p 00000000 00:00 0 
+ed9fd000-ee500000 rw-p 00000000 00:00 0 
+ee500000-ee521000 rw-p 00000000 00:00 0 
+ee521000-ee600000 ---p 00000000 00:00 0 
+ee6bf000-ee6f0000 rw-p 00000000 00:00 0 
+ee6f0000-ee6f1000 ---p 00000000 00:00 0 
+ee6f1000-eef72000 rw-p 00000000 00:00 0 
+eef72000-eef73000 ---p 00000000 00:00 0 
+eef73000-ef875000 rw-p 00000000 00:00 0 
+ef875000-ef876000 ---p 00000000 00:00 0 
+ef876000-f54e6000 rw-p 00000000 00:00 0 
+f54e6000-f54f6000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f54f6000-f54f8000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f54f8000-f54f9000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f54f9000-f5521000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5521000-f5522000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5522000-f5523000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5523000-f5538000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f5538000-f5539000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f5539000-f553a000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f553a000-f5552000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f5552000-f5553000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f5553000-f5554000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f5554000-f5558000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5558000-f5559000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5559000-f555a000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f555a000-f55a6000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f55a6000-f55a7000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f55a7000-f55a8000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f55a8000-f55a9000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f55a9000-f55ad000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f55ad000-f55ae000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f55ae000-f55af000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f55af000-f55bb000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f55bb000-f55bd000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f55bd000-f55be000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f55be000-f5800000 rw-p 00000000 00:00 0 
+f5800000-f5821000 rw-p 00000000 00:00 0 
+f5821000-f5900000 ---p 00000000 00:00 0 
+f5904000-f5919000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f5919000-f591a000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f591a000-f591b000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f591b000-f591c000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f591c000-f591e000 rw-p 00000000 00:00 0 
+f591e000-f591f000 ---p 00000000 00:00 0 
+f591f000-f631e000 rw-p 00000000 00:00 0 
+f631e000-f6643000 r-xp 00000000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f6643000-f66bc000 rw-p 00325000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f66bc000-f66bf000 rw-p 00000000 00:00 0 
+f66bf000-f66ca000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f66ca000-f66cb000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f66cb000-f66cc000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f66cc000-f66d2000 rw-p 00000000 00:00 0 
+f66d2000-f66d3000 ---p 00000000 00:00 0 
+f66d3000-f6ed3000 rw-p 00000000 00:00 0 
+f6ed3000-f727e000 r-xp 00000000 fd:00 33869176                           /root/samp/libmysqlclient.so.18
+f727e000-f72e2000 rw-p 003ab000 fd:00 33869176                           /root/samp/libmysqlclient.so.18
+f72e2000-f72e5000 rw-p 00000000 00:00 0 
+f72e5000-f7305000 r-xp 00000000 fd:00 33869060                           /root/samp/log-core.so
+f7305000-f7306000 ---p 00020000 fd:00 33869060                           /root/samp/log-core.so
+f7306000-f7307000 r--p 00020000 fd:00 33869060                           /root/samp/log-core.so
+f7307000-f7308000 rw-p 00021000 fd:00 33869060                           /root/samp/log-core.so
+f7308000-f7364000 r-xp 00000000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f7364000-f7365000 ---p 0005c000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f7365000-f7366000 r--p 0005c000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f7366000-f7367000 rw-p 0005d000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f7367000-f7376000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f7376000-f7377000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f7377000-f737e000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f737e000-f737f000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f737f000-f7380000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7387000-f7389000 rw-p 00000000 00:00 0 
+f7389000-f7427000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7427000-f7429000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f7429000-f742c000 rw-p 00000000 00:00 0 
+f742c000-f75e5000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75e5000-f75e6000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75e6000-f75e8000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75e8000-f75e9000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f75e9000-f75ec000 rw-p 00000000 00:00 0 
+f75ec000-f7605000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f7605000-f7606000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f7606000-f7607000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f7607000-f7608000 rw-p 00000000 00:00 0 
+f7608000-f7648000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7648000-f7649000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f7649000-f764a000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f764a000-f7729000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f7729000-f772d000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f772d000-f772e000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f772e000-f7735000 rw-p 00000000 00:00 0 
+f7735000-f774c000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f774c000-f774d000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f774d000-f774e000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f774e000-f7750000 rw-p 00000000 00:00 0 
+f7750000-f7753000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f7753000-f7754000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f7754000-f7755000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f7755000-f7756000 rw-p 00000000 00:00 0 
+f7756000-f775b000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f775b000-f775c000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f775c000-f775d000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f775d000-f775f000 rw-p 00000000 00:00 0 
+f775f000-f7780000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7780000-f7781000 r-xp 00000000 00:00 0                                  [vdso]
+f7781000-f7782000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7782000-f7783000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ffbb0000-ffbd1000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+
+[log-core] fatal signal '6' (SIGABRT) catched   
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 86 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+*** Error in `./samp03svr': free(): invalid next size (fast): 0x0b185270 ***
+======= Backtrace: =========
+/lib/libc.so.6(+0x752fd)[0xf74372fd]
+./samp03svr[0x80d3767]
+./samp03svr[0x808ebdb]
+./samp03svr[0x8074846]
+./samp03svr[0x80763fe]
+/lib/libpthread.so.0(+0x6b2c)[0xf76d1b2c]
+/lib/libc.so.6(clone+0x5e)[0xf74ba17e]
+======= Memory map: ========
+08048000-08095000 r-xp 00000000 fd:00 37081779                           /root/samp/samp03svr
+08095000-08097000 rwxp 0004d000 fd:00 37081779                           /root/samp/samp03svr
+08097000-08181000 r-xp 0004f000 fd:00 37081779                           /root/samp/samp03svr
+08181000-081a3000 rw-p 00138000 fd:00 37081779                           /root/samp/samp03svr
+081a3000-081ce000 rw-p 00000000 00:00 0 
+0881a000-0881c000 rw-p 00000000 00:00 0                                  [heap]
+0881c000-0881d000 rwxp 00000000 00:00 0                                  [heap]
+0881d000-0d7c0000 rw-p 00000000 00:00 0                                  [heap]
+edcbe000-edcbf000 ---p 00000000 00:00 0 
+edcbf000-ee500000 rw-p 00000000 00:00 0 
+ee500000-ee521000 rw-p 00000000 00:00 0 
+ee521000-ee600000 ---p 00000000 00:00 0 
+ee667000-ee668000 ---p 00000000 00:00 0 
+ee668000-eeee9000 rw-p 00000000 00:00 0 
+eeee9000-eeeea000 ---p 00000000 00:00 0 
+eeeea000-ef7ec000 rw-p 00000000 00:00 0 
+ef7ec000-ef7ed000 ---p 00000000 00:00 0 
+ef7ed000-f545e000 rw-p 00000000 00:00 0 
+f545e000-f546e000 r-xp 00000000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f546e000-f5470000 r--p 0000f000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f5470000-f5471000 rw-p 00011000 fd:00 101458133                          /usr/lib/libbz2.so.1.0.6
+f5471000-f5499000 r-xp 00000000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f5499000-f549a000 r--p 00027000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f549a000-f549b000 rw-p 00028000 fd:00 101458125                          /usr/lib/liblzma.so.5.2.2
+f549b000-f54b0000 r-xp 00000000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f54b0000-f54b1000 r--p 00014000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f54b1000-f54b2000 rw-p 00015000 fd:00 101457279                          /usr/lib/libz.so.1.2.7
+f54b2000-f54fe000 r-xp 00000000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f54fe000-f54ff000 ---p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f54ff000-f5500000 r--p 0004c000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f5500000-f5501000 rw-p 0004d000 fd:00 101217265                          /usr/lib/libdw-0.168.so
+f5501000-f5700000 rw-p 00000000 00:00 0 
+f5700000-f5721000 rw-p 00000000 00:00 0 
+f5721000-f5800000 ---p 00000000 00:00 0 
+f5812000-f582a000 r-xp 00000000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f582a000-f582b000 r--p 00017000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f582b000-f582c000 rw-p 00018000 fd:00 101101299                          /usr/lib/libelf-0.168.so
+f582c000-f5830000 r-xp 00000000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5830000-f5831000 r--p 00003000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5831000-f5832000 rw-p 00004000 fd:00 100854081                          /usr/lib/libattr.so.1.1.0
+f5832000-f5836000 r-xp 00000000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f5836000-f5837000 r--p 00003000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f5837000-f5838000 rw-p 00004000 fd:00 100854083                          /usr/lib/libcap.so.2.22
+f5838000-f5844000 r-xp 00000000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f5844000-f5846000 r--p 0000b000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f5846000-f5847000 rw-p 0000d000 fd:00 101156355                          /usr/lib/libnss_myhostname.so.2
+f5847000-f585c000 r-xp 00000000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f585c000-f585d000 ---p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f585d000-f585e000 r--p 00015000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f585e000-f585f000 rw-p 00016000 fd:00 100786878                          /usr/lib/libresolv-2.17.so
+f585f000-f58b4000 rw-p 00000000 00:00 0 
+f58b4000-f58b5000 ---p 00000000 00:00 0 
+f58b5000-f62b4000 rw-p 00000000 00:00 0 
+f62b4000-f65d9000 r-xp 00000000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f65d9000-f6652000 rw-p 00325000 fd:00 37093305                           /root/samp/plugins/mysql_static.so
+f6652000-f6655000 rw-p 00000000 00:00 0 
+f6655000-f6660000 r-xp 00000000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f6660000-f6661000 r--p 0000a000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f6661000-f6662000 rw-p 0000b000 fd:00 100786868                          /usr/lib/libnss_files-2.17.so
+f6662000-f6668000 rw-p 00000000 00:00 0 
+f6668000-f6669000 ---p 00000000 00:00 0 
+f6669000-f6e69000 rw-p 00000000 00:00 0 
+f6e69000-f7214000 r-xp 00000000 fd:00 33869176                           /root/samp/libmysqlclient.so.18
+f7214000-f7278000 rw-p 003ab000 fd:00 33869176                           /root/samp/libmysqlclient.so.18
+f7278000-f727b000 rw-p 00000000 00:00 0 
+f727b000-f729b000 r-xp 00000000 fd:00 33869060                           /root/samp/log-core.so
+f729b000-f729c000 ---p 00020000 fd:00 33869060                           /root/samp/log-core.so
+f729c000-f729d000 r--p 00020000 fd:00 33869060                           /root/samp/log-core.so
+f729d000-f729e000 rw-p 00021000 fd:00 33869060                           /root/samp/log-core.so
+f729e000-f72fa000 r-xp 00000000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f72fa000-f72fb000 ---p 0005c000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f72fb000-f72fc000 r--p 0005c000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f72fc000-f72fd000 rw-p 0005d000 fd:00 35206500                           /root/samp/plugins/mysql.so
+f72fd000-f730c000 r-xp 00000000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f730c000-f730d000 rw-p 0000e000 fd:00 35206504                           /root/samp/plugins/sscanf.so
+f730d000-f7314000 r-xp 00000000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7314000-f7315000 r--p 00006000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f7315000-f7316000 rw-p 00007000 fd:00 100786880                          /usr/lib/librt-2.17.so
+f731d000-f731f000 rw-p 00000000 00:00 0 
+f731f000-f73bd000 r-xp 00000000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f73bd000-f73bf000 rw-p 0009d000 fd:00 35206505                           /root/samp/plugins/streamer.so
+f73bf000-f73c2000 rw-p 00000000 00:00 0 
+f73c2000-f757b000 r-xp 00000000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f757b000-f757c000 ---p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f757c000-f757e000 r--p 001b9000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f757e000-f757f000 rw-p 001bb000 fd:00 100786850                          /usr/lib/libc-2.17.so
+f757f000-f7582000 rw-p 00000000 00:00 0 
+f7582000-f759b000 r-xp 00000000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f759b000-f759c000 r--p 00018000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f759c000-f759d000 rw-p 00019000 fd:00 100665828                          /usr/lib/libgcc_s-4.8.5-20150702.so.1
+f759d000-f759e000 rw-p 00000000 00:00 0 
+f759e000-f75de000 r-xp 00000000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75de000-f75df000 r--p 0003f000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75df000-f75e0000 rw-p 00040000 fd:00 100786858                          /usr/lib/libm-2.17.so
+f75e0000-f76bf000 r-xp 00000000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f76bf000-f76c3000 r--p 000de000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f76c3000-f76c4000 rw-p 000e2000 fd:00 100786904                          /usr/lib/libstdc++.so.6.0.19
+f76c4000-f76cb000 rw-p 00000000 00:00 0 
+f76cb000-f76e2000 r-xp 00000000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76e2000-f76e3000 r--p 00016000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76e3000-f76e4000 rw-p 00017000 fd:00 100786876                          /usr/lib/libpthread-2.17.so
+f76e4000-f76e6000 rw-p 00000000 00:00 0 
+f76e6000-f76e9000 r-xp 00000000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76e9000-f76ea000 r--p 00002000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76ea000-f76eb000 rw-p 00003000 fd:00 100786856                          /usr/lib/libdl-2.17.so
+f76eb000-f76ec000 rw-p 00000000 00:00 0 
+f76ec000-f76f1000 r-xp 00000000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f1000-f76f2000 r--p 00004000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f2000-f76f3000 rw-p 00005000 fd:00 100786866                          /usr/lib/libnss_dns-2.17.so
+f76f3000-f76f5000 rw-p 00000000 00:00 0 
+f76f5000-f7716000 r-xp 00000000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7716000-f7717000 r-xp 00000000 00:00 0                                  [vdso]
+f7717000-f7718000 r--p 00021000 fd:00 100665753                          /usr/lib/ld-2.17.so
+f7718000-f7719000 rw-p 00022000 fd:00 100665753                          /usr/lib/ld-2.17.so
+ffb94000-ffbb5000 rw-p 00000000 00:00 0                                  [stack]
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '6' (SIGABRT) catched   
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '6' (SIGABRT) catched   
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 106 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7771, with maxplayers: 20 lanmode is ON.
+
+
+Started server on port: 7771, with maxplayers: 20 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 20 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '2' (SIGINT) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+
+
+Started server on port: 7777, with maxplayers: 306 lanmode is ON.
+
+
+
+[log-core] fatal signal '11' (SIGSEGV) catched   
+

@@ -1,0 +1,10 @@
+AddCharModel(305, 20001, "recep.dff", "recep.txd");
+AddCharModel(305, 20002, "trevor.dff", "trevor.txd");
+AddCharModel(305, 20003, "memati.dff", "memati.txd");
+AddCharModel(305, 20004, "gtav1.dff", "gtav1.txd");
+AddCharModel(305, 20005, "gtav2.dff", "gtav2.txd");
+AddCharModel(305, 20006, "bayan3.dff", "bayan3.txd");
+AddCharModel(305, 20008, "bayan1.dff", "bayan1.txd");
+AddCharModel(305, 20007, "bayan2.dff", "bayan2.txd");
+
+AddSimpleModel(-1,19379, -2000, "wallzzz.dff", "wallzzz.txd");
